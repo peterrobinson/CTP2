@@ -1,0 +1,50 @@
+T01 notes
+
+This manuscript has 12 quires of 8 (96 folios; quires 2-10, 16, 22, 26), 16 quires of  10 (160 folios; quires 11-15, 18-20, 23-25, 27-31), 2 quires of 12 folios (24 folios; quires 17, 21), and two of two folios (the first and last quires), for a total of 284 folios. The last leaf is missing from quire 7 (folio 50); the last leaf is missing from quire 17 (folio 144). Additional leaves are supplied as follows: one after the last leaf of the first quire (folio 2a1), one after the last leaf of quire 15 (folio 124a1), 10 leaves in the inner opening of quire 16 (folios 128a1-128a10), one leaf after the last leaf of quire 31 (folio 282a1).
+
+The change in ink from quire 1 to 2, and the three lines blank at the bottom of 2a1v (the additional leaf provided at the end of the irregular quire of 2 which starts the manuscript) suggests that the first pages may have been written after the second quire. Quire 2 finishes with GP 831 ("Lat se nowe ho schal telle oure first tale"); quire 3 starts with KT 1, thus omitting GP 832-end. The added leaf at the end of quire 15 (124a1) and the ten leaves added within quire 16 (128a1-128a10, beginning with ME 428, following ME 427 at the end of 128v) are a puzzle. To add to the puzzle: ME finishes on the recto of the last added leaf, with the verso of the page first left blank, and the next leaf (129r, the innermost right hand page) contains ME 428-446, apparently originally following directly ME 427 on 128v before the addition of the ten leaves.  It seems that the scribe, after writing to ME 427 at the end of 128v (the innermost verso), carried on writing to ME 446 ("Han take hir leue and ech of hem of othir") and then stopped. It appears he then acquired the ten additional leaves, inserted them after 128v, and carried on from ME 427 to the end on those leaves. Thus
+The text is copied continuously from 124v (finishing with ME 60), through 124a1 (ME 61-133), onto 125r (ME 134), and then from 128v (ME 427) through to the end of ME at the end of the recto of the 10th additional leaf (128a10r), leaving the verso blank.
+
+What has happened here? One can presume the following:
+-- the scribe was seeking to fit ME into a particular sequence of folios. First, he calculated he needed an extra folio, and so inserted an extra leaf after fol. 124. 
+-- he then copied up to ME 446, on folio 129r. At that point, he seems to have concluded that ME was not going to fit into the space available, and he chose to insert 10 extra leaves into the quire at that point, between 128v and 129r.
+-- Presumably: after completing ME in the extra leaves, he then returned to 129r and wrote the full version of L17, leading into SQ on 129v. He had previously (and uniquely) written a few lines from the end of L17 following L13, after CL. 
+
+The first two lines of L21 are given after PR, then "vacat" written next to them. The tale order is bizarre!
+
+
+
+Absent text corresponding to the missing folios is as follows: KT 696-776 (folio 21); There is no loss of text corresponding with the missing folio 50: 49v finishes with MI 446, 51r starts with MI 447.  The same is true of the missing folio 144, with FK 110 on 143v, FK 111 on 145r. Link 36 (MA prologue) is not present in the MS.
+
+Tale Order GP KT L1 MI L2 RE L3 CO TG WBP WBT L10 FR L11 SU CL L13 L17 L15 ME L172 SQ PH FK SH L24 PR L21 PD L7 ML L25 TT L28 TM L29 MO L30 NP NU L33 CY MA L37 PA RT
+Supplied: L17-2 L21
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU GP 
+DMU KT L1 MI L2 RE L3 TG WBT L10 FR L11 SU CL L13 L17 L15 ME SQ PH FK L7 ML NU L33 CY MA L37 PA RT
+Mosser CO 
+
+Munster PD
+Sheffield 
+Posnan 
+BYU/DMU SH L24 PR L25 TT L28 TM L29 MO L30 NP 
+ 
+Images:
+1v--2v=1v--2v
+2a1r/2a1v=3r/3v
+3r/3v--49r/49v = 4r/4v--50r/50v
+51-- == 51--
+Correspondence:
+Trad us
+1-2  1-2
+3 2a1
+4-50  3-49
+51-124  51-124
+125  124a1
+126-129 125-128
+130-139  128a1-128a10
+140-154 129-143
+155-292 145-282
+293 282a1
+294-295 283-284

@@ -1,0 +1,22 @@
+Tc3 notes
+
+This contains only MO in folios 170v-202r.  No refoliation attempted. We do not have the images of these pages (yet!)
+
+MO is part of Lydgate's "Bochas": see image 179, a conflation of MO and Lydgate it seems. Finishes on image 212.
+
+
+order L29 MO
+supplied L29 MO
+
+170v/171r = 179
+178v/179r-187v/188r = 189-198
+
+Now at:
+http://sites.trin.cam.ac.uk/manuscripts/R_3_19/manuscript.php?fullpage=1&startingpage=1
+
+ccording to Dixon (1995), pp. 392-6, the extracts are as follows: Monk’s Tale, VII.1968-2006; = L29 80 - MO 16
+Monk’s Tale, VII.2015-2374; VII.2399-2766; = MO 17-376
+
+A conflation of extracts from Chaucer’s Monk’s Tale (copied from Chaucer, Geoffrey, Canterbury Tales, [Westminster, William Caxton, 1476] ) and Lydgate’s Fall of Princes (1904): see 6799 and 6367. From the Monk’s Prologue, the extract includes VII.1968-90. According to Dixon (1995), pp. 392-6, the extracts are as follows: Monk’s Tale, VII.1968-2006; Fall of Princes, I.470-966; I.967-1001; I.1380-6; I.1394-1400; I.1338-78; I.1520-33; I.3102-29; I.3788-94; I.3431-58; I.3522-35; I.3795-3801; Monk’s Tale, VII.2015-2374; VII.2399-2766; Fall of Princes, I.1814-41; I.2150-70; I.3102-29; I.3816-43; I.4215-37; I.4240-2; I.4530-43; I.4544-50; I.4551-7; I.5524-30; I.5531-7; I.5538-51; I.6301-35; I.7050-70; II.778-805; II.512-623; II.1429-63; II.1863-76; II.1429-63; II.1884-95; II.2171-84; II.2192-8; II.2185-91; II.2199-2233; II.2521-7; II.2528-48; II.2934-61; II.3326-46; II.3536-56; II.3697-3731; II.3935-55; II.4222-63; II.4404-59; III.1569-1638; III.2164-70; III.2178-91; III.2199-2205; III.3683-3717; III.4019-32; III.4040-6; III.4033-9; III.4047-60.
+
+VII.2421, 2515 omitted in from extract.

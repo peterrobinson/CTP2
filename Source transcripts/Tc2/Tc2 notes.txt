@@ -1,0 +1,88 @@
+Tc2 notes
+
+The original manuscript consisted of 24 quires of twelve (288 folios), one quire of eight (the sixth), one quire of fourteen (quire 13), one quire of four (quire 19) and one of six (quire 20), for a total of 320 folios. The first two leaves (folios 1-2) are missing from the first quire, with GP commencing at line 56 on folio 3. It appears that in the sixteenth century four paper leaves were prefixed to the manuscript.  These are folios 1-4 in the traditional foliation; a1r-a4v in our system. GP 1-55 is copied in a post-medieval hand in folios a3v through a4v in these supplemental leaves, presumably copied from these now missing first two folios.  Leaves six and seven are missing from quire 2 (folios 18-19); the first leaf from quire 3 (folio 25; a stub), with no loss of text; the eighth leaf from quire 12 (folio 136); the last five leaves from quire 17 (folios 198-202; two stubs, with no apparent loss of text between the end of FK and start of NU); the last leaf from quire 19 (folio 218; no loss of text); the last leaf from quire 20 (folio 224; no loss of text; most of 223v is blank at end of L24 with TM following on 225, thus PR L25 TT L28 are absent); the last leaf of the last quire (folio 320; RT finishes on 319v so no text lost).  Folio 11 (a singleton, following the loss of folio 2) is reversed, so that 11v precedes 11r.
+
+ Absent text corresponding to the missing folios is as follows: 
+ KT 113-240 (folios 18-19); WBT 1022-1088 (folio 136); (folio 320)
+ 
+ Note classic eyeskip loss of line 290-303, on the rhyme sworn/biforn.
+Interesting connections with Ch/Ha4: KT 1822-1/1822-2; loss of lines KT 1154-59, with 'corage' added to 1160 to make the rhyme with 1153 'rage' (Ha4 only)
+Apparent catchword at base of 74v?; catchword at base 80v repeated in its cartouche on 81r.
+More confusion in PA  On 290v: Go from mid PA 273 to mid PA 687;
+291r: 702 to 276 whence the text continues regularly to 686 on fol. 306v., when it leaps to 703. So somehow a whole page was misplaced.
+
+I cannot make sense of the added pages at the beginning.
+Mosser says there are four, with GP 1-55 written on a3v/a4r/a4v. We have: 
+GP 1-27 on a3v (image TC2TC005a.JPG)
+GP 28-42 on a4r (image missing)
+GP 43-55 on a4v (TC2TC006a.JPG; apparently verso of missing image)
+BUT THEN: ES comments that GP 43-55 are repeated in the same hand on "the verso of the next folio in what seems to be the same hand".  We have an image of this, in TC2TC007a.JPG. But what is the recto of this page? and there seems no space for it in the manuscript.
+
+
+Images: 
+a3v/a4r - a4v = 5a/5b - 6a
+[]/3r - 15v/16r = 7-20
+16v/17r missing
+17v/[] = 21a
+folios 18-19 missing
+[]/20r-24v/[] = 21b-26a
+folio 25 missing
+[]/26r-69v/[] = 26b-70a
+70r image missing
+70v/71r-81v/82r = 71-82
+82v image missing
+[]/83r-135v/[] =83b-136
+folio 136 missing
+[]/137r-174v/[] = 136-174
+175r missing
+images for 176v/177r -183v missing
+[]/184r -197v/[] = 183-197
+folios 198-202 missing
+[]/203r-217v/[] = 197-212
+folio 218 is missing
+[]/219r-223v/[] = 212-217
+folio 224 is missing
+[]/225r-319v/[] = 217-312
+
+Tale Order GP KT L1 MI L2 RE L3 CO L7 ML L8 SQ L15 ME WBP WBT L10 FR L11 SU CL L13 PD L14 FK NU PH SH L24 TM L29 MO L30 NP L36 MA L37 PA
+Supplied: KT L2 RE L7 ML L8 SQ WBT L10 FR L11 SU CL L13 L14 NU PH L36 MA PA
+
+NYU 
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L15 ME L37
+Mosser L3 CO
+
+Munster PD
+Sheffield FK
+Posnan 
+BYU SH L24 TM L29 MO L30 NP
+
+Correspondence
+trad us
+5-19 3-17
+[20-21]  [18-19] /traditional numbering includes these missing pages/
+22-26  20-24
+27-125 26-124
+[126] (skipped number in traditional)
+127-137    125-135
+[138] [136]
+139-199 137-197
+[200-201] [201-202] 
+202-216 203-217
+217-221 219-223
+222-316 225-319
+
+errors in the Mosser foliation:
+[4-5]12 fols 38-62: should be 38-61
+[6]8 fols 63-69: should be 62-69
+[7-11]12 fols 70-130: should be 70-129
+[12]12 (-8) fols 131-142: should be 130-140 (presuming the missing leaf 8 is NOT included in the foliation)
+My guess is that the missing leaf 8 is included in the foliation, so this should be 130-141
+[13]14 fols 143-156: should be 141-154 (or 142-155, including the leaf 8)
+[14-16]12 fols 157-192: should be 155-190 (or 156-191, ditto)
+[17]12 (-8-12, but two stubs included in the foliation) fols 193-201: should be 191-199 (or 192-200, ditto)
+My guess here is that THREE of the five missing leaves -- the two stubs plus one other -- are included in the foliation.  So these leaves should be numbered 192-201.  This brings the numbering back into alignment and all is good to the end of the ms then.
+****
+ Now corrected!!!! extra folio in numeration, as it goes from 125-127 and leaf 8 in q12 is included in the foliation.   Perfect.
+

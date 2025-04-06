@@ -1,0 +1,39 @@
+Tc1 notes
+
+The manuscript consists of 17 quires of 8 (136 folios). The seventh leaf is missing from quire 8 (folio 63); the last leaf is missing from quire 13 (folio 104); the last four leaves are missing from the last quire (folios 133-136).
+
+ Absent text corresponding to the missing folios is as follows: FR 269-end (c. 95 lines), L11 (presumed, c. 45 lines), SU 1-5 (folio 63); MO 425-576 (folio 104); PA 807-end (Folios 133-136).
+
+
+Images: 
+[0v]/1r-62v/[63r] = 1-63
+folio 63 missing
+[63v]/64r-103v/[104r] = 63-103
+folio 104 missing
+[104v]/105r- = 103-
+
+43
+
+
+Tale Order GP KT L1 MI L2 RE L3 CO L7 ML L8 SQ L20 ME CL L13 WBP WBT L10 FR SU NU L33 CY PH L21 PD L30 NP L36 MA L25 TT L28 TM L29 MO SH L24 PR FK L37 PA
+
+22
+
+Supplied: KT L2 RE SQ CL L13 WBT L10 FR SU NU L33 CY PH L21 L36 MA SH L24 PR L37 PA
+
+NYU 
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L20 ME
+Mosser L3 CO
+
+Munster PD
+Sheffield FK
+Posnan L7 ML L8
+BYU L30 NP L25 TT L28 TM L29 MO
+
+Correspondence
+trad us
+1-62 1-62
+63-102 64-103
+103-130 105-132
