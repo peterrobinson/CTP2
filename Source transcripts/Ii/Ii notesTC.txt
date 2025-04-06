@@ -1,0 +1,29 @@
+==== Manuscript name and Mosser link  ====
+
+Cambridge, Cambridge University Library MS Ii.3.26. Mosser: Ii.
+
+==== Original construction  ====
+
+The complete manuscript had 29 quires of 8 (232 folios), with a quire of 6 (quire 23), and a final quire of a single folio: 239 folios. 
+
+==== Missing folios  ====
+
+The fifth leaf of quire 10 (folio 77) is missing.
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+ SQ 124-209 (folio 77).
+ 
+ ==== Notes  ====
+
+ Unusually, although the first quire is complete with no loss of leaf at the beginning of the quire, the first 66 lines of GP are absent.  As Mosser suggests, it appears that these lines were missing from the exemplar.  In this case, the traditional foliation, which begins at "2" as if at some time there had been a first leaf in this manuscript, is seriously misleading. 
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|2-77 |1-76|
+|79-240 |78-239|

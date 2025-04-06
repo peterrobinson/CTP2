@@ -1,0 +1,82 @@
+Hk notes
+
+Hk originally consisted of 11 quires of eight, with two of six (quires 3 and 13). Only the last leaf remains of the first quire (folio 8); the fifth leaf is missing from quire 10 (folio 75, with no loss of text); the bifolium 4.5 and leaf 8 from quire 12 (folios 88, 89 and 92); the bifolium 1.8 and second leaf from quire 13 (folios 93, 94 and 100). The bifolium 2.7 in the fourth quire is reversed, so that folios 24 and 29 switch places. This reversal appears related to the absence of expected text here, with L3 and CK missing, and to the unusual order, with NU following RE.  NU breaks off at L119, halfway down folio 30r. 30v is blank, and L33 starts on 31r.
+
+Absent text corresponding to the missing folios is as follows: GP, KT 1-206 (folios 1-7; at 76 lines a page, 152 lines a folio, seven folios would accommodate c. 1064 lines: around 856 lines of GP, 206 from KT); SH 115-420 (folios 88, 89); TT 15-end, TM 1-97 (folios 92-94); TM 509-end (folio 110 and unknown number of lost folios at the end of the MS).
+In contrast: 79 lines of CY are missing, with CY 89 following CY 9 on folio 32r without any sign of discontinuity. The end of FR omits the lengthy account of the departyng of the fart, on 87r. TM 390-475 are missing from TM (99v), again with no sign of discontinuity in the text.
+
+
+Supplied KT L2 RE NU L33 CY L36 SQ ML WBT L10 FR L11 SU
+Tale order KT L1 MI L2 RE NU L33 CY L36 FK SQ (?L7) ML WBP WBT CL (link?) ME L10 FR L11 SU SH L24 PR L25 TT TM
+BYU SH L24 PR L25
+Sheffield FK
+
+images:
+8r/8v - 9r = 1 - 3
+missing: 9v
+10r/10v -15v/16r = 4 - 16
+missing: 16v
+17r-23v = 17-30
+29r/29v = 31-32
+25r/28v- = 33-40
+24r/24v = 41-42
+30r/ - = 43
+30v (blank): missing
+31r-34r = 44-50
+34v -42r =51-66
+42v missing
+43r-45r = 67-71
+45v missing
+46r-48v = 72-77
+49r 49v missing
+50r - 51r= 78-80
+51v missing
+52r- 54r = 81-85
+54v missing
+55r- 55v= 86-87
+56r missing
+56v-59v = 88-94
+60r missing
+60v- = 95-
+61r missing
+61v-63v = 96-100
+64r missing
+64v-66r = 101-104
+66v missing
+67r - 67v= 105-106
+68r missing
+68v - = 107
+69r missing
+69v - 70v = 108-110
+71r missing
+71v-72r 111-112
+72v missing
+73r - 73v = 113-114
+74r missing
+74v- = 115
+folio 75 absent from ms
+76r- = 116
+76v missing
+77r-78v = 117-120
+79r missing
+79v-81r = 121-124
+81v missing 
+82r - 83r = 125-127
+83v missing
+84r-87v = 128-135
+90r-91v - = 136-139
+95r-95v = 140-141
+96r missing
+96v= = 142
+97r missing
+97v= = 143
+98r missing
+98v- = 144
+
+Correspondence:
+Traditional  US
+1-67 8-74
+68-79 76-87
+80-81 90-91
+82-86 95-99
+83-87  95-99

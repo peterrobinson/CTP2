@@ -1,0 +1,32 @@
+==== Manuscript name and Mosser link  ====
+
+Wells-next-the-Sea, Norfolk, Holkham Hall (Earl of Leicester) MS 667. Mosser: Hk.
+
+==== Original construction  ====
+
+11 quires of eight, with two of six (quires 3 and 13): 100 folios. 
+
+==== Missing folios  ====
+
+Only the last leaf remains of the first quire (folio 8); the fifth leaf is missing from quire 10 (folio 75, with no loss of text); the bifolium 4.5 and leaf 8 from quire 12 (folios 88, 89 and 92); the bifolium 1.8 and second leaf from quire 13 (folios 93, 94 and 100). The bifolium 2.7 in the fourth quire is reversed, so that folios 24 and 29 switch places. This reversal appears related to the absence of expected text here, with L3 and CK missing, and to the unusual order, with NU following RE.  NU breaks off at L119, halfway down folio 30r. 30v is blank, and L33 starts on 31r.
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP, KT 1-206 (folios 1-7; at 76 lines a page, 152 lines a folio, seven folios would accommodate c. 1064 lines: around 856 lines of GP, 206 from KT); SH 115-420 (folios 88, 89); TT 15-end, TM 1-97 (folios 92-94); TM 509-end (folio 100 and an unknown number of lost folios at the end of the MS).
+
+==== Notes  ====
+
+79 lines of CY are missing, with CY 89 following CY 9 on folio 32r without any sign of discontinuity. The end of FR omits the lengthy account of the departyng of the fart, on 87r. TM 390-475 are missing from TM (99v), again with no sign of discontinuity in the text.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-67 |8-74|
+|68-79 |76-87|
+|80-81 |90-91|
+|82-86 |95-99|
+|83-87  |95-99|

@@ -1,0 +1,29 @@
+II notes
+
+The complete manuscript had 29 quires of 8, for a total of 232 folios, with a quire of 6 (quire 23), and a final quire of a single folio, for a total of 239 folios. The fifth leaf of quire 10 (folio 77) is missing. Unusually, although the first quire is complete with no loss of leaf at the beginning of the quire, the first 66 lines of GP are absent.  As Mosser suggests, it appears that these lines were missing from the exemplar.  In this case, the traditional foliation, which begins at "2" as if at some time there had been a first leaf in this manuscript, is seriously misleading. 
+Absent text corresponding to the missing folio 77 is SQ 124-209.
+
+Order: GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ L20 ME L17 FK WBP WBT L10 FR L11 SU CL L13 NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA L37 PA RT
+Oxford GP WBP
+Oxford/DMU L1 MI
+Mosser L3 CO
+DMU L20 L17 L34 L37
+NYU CL
+Sheffield FK
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP 
+Supplied: KT L2 RE TG SQ ME WBT L10 FR L11 SU L13 NU L33 CY PH L21 L22 L36 MA PA RT
+Munster PD
+Posnan L7 ML L8
+ []/1r- 76v/[] -- = 1 -  77
+ 77 missing
+ []/78r - 120v/121r= 77-120
+  121ab duplicates 120ab
+  121v/122r - 138v-139r = 122-139
+  139v/140r opening: images missing (CL 326)
+  140v/141r - 206v/207r = 140-206
+  207ab duplicate 206ab
+  207v/208r - 235v/[] = 208-236
+ Correspondence
+ traditional  us
+ 2-77 = 1-76
+ 79- = 78- 

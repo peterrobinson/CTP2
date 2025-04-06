@@ -1,0 +1,35 @@
+==== Manuscript name and Mosser link  ====
+
+Princeton, Princeton University Library MS 100. Mosser: He.
+
+==== Original construction  ====
+
+Mosser reconstructs the manuscript as composed of thirty quires of 8, with one quire of 4 (the 25th) and a final quire of 10: 254 folios.  
+
+==== Missing folios  ====
+
+The first three quires (folios 1-24) are presumed lost, as are the first three folios of the fourth quire, with the manuscript beginning on folio 28 in our numbering with KT 1117. The final five leaves of the last quire (folios 250-254) have also been lost, and likely a further quire, to hold the end of PA. Within the surviving quires: the outermost bifolia 1.8 are missing from quires 14 and 16 (folios 105 and 112; 121 and 128); the innermost bifolium 4.5 and the sixth leaf from quire 30 (folios 232-234). 
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP and KT 1-1116 (folios 1-27); WBP 56-126 (folio 105); WBP 563-607 (folio 112; thus sufficient space for the ten "added" lines after 574, the four after 598 and the eight after 604); WBP 1199-end (c. 38 lines); L10 1-26 (folio 121); SU 10-81 (folio 128); L36 48-end (c.56 lines) and MA 1-151 (folios 232-234); PA 681-end (folios 250-254; likely sufficient to hold the remnant of PA given the manner in which the text is abbreviated in this ms.)
+
+==== Notes  ====
+
+At around 35 lines a side, the whole of the GP (c. 850 lines) and the beginning of KT (c. 1116 lines) would have required three full quires of eight and the first three missing leaves of this quire: twenty seven folios, and hence c. 1890 lines.  Accordingly, we foliate the first surviving leaf as 28r. 
+
+PD 567-end is missing, finishing on 185r, but the scribe writes "Here endith the Pardoner his tale" after line 566, at the base of the page, and there is no indication of loss in the manuscript, with PR beginning at the top of the next page. Similarly, the last 31 lines of MO are missing, with "Here endith the Monke His tale" following MO 680 on 222r, with no indication of any loss and L30 commencing immediately below, on the same page. Other parts of the Tales are also abridged, at times severely, particularly in the prose: thus the omission of PA 106-241 on 239r, and of PA 427-440 between 245r and 245v. 
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-77 |28-104|
+|78-83 |106-111|
+|84-91 |113-120|
+|92-97 |122-127|
+|98-200 |129-231|
+|201-215 |235-249|

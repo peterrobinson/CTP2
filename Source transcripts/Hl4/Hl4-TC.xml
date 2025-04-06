@@ -1,0 +1,197 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xmlns:det="http://textualcommunities.usask.ca/">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Hl4</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+ 				<bibl det:document="Hl4"></bibl>
+				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+					<respStmt n="CL">
+						<resp>Original transcription and corrections:</resp>
+ 						<name n="NYU UoS">New York University team; conversion for Textual Communities: Saskatchewan team.</name>
+ 					</respStmt>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>London</settlement>
+						<repository>British Library</repository>
+						<idno>MS Harley 5908</idno>
+						<msName>Hl4</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl det:documentRefsDecl="Manuscript"  det:entityRefsDecl="Text">
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb n="61r" facs="61r.jpg"/>
+<div n="CL" type="G">
+<lb/><l n="808">Takeþ it aȝen I ȝeue ȝew leue of my gᵃce </l>
+<lb/><l n="809">Returneþ to ȝoure faderes house quod he </l>
+<lb/><l n="810">Noman may haue alwey pros<am>ꝑ</am><ex>per/par</ex>ite </l>
+<lb/><l n="811">Wiþ even hert I rede ȝew to endure </l>
+<lb/><l n="812">The stroke of fortune or of adventure </l>
+<lb/><l n="813">And sche aȝen answerd in pacience </l>
+<lb/><l n="814">My lusty lord quod sche I wote and wist al wey </l>
+<lb/><l n="815">How þat be twix ȝoure hie magnificence </l>
+<lb/><l n="816">And my pouerte no wiȝt ne can ne may </l>
+<lb/><l n="817">Makyn ony com<am>ꝑ</am><ex>per/par</ex>ison it is no nay </l>
+<lb/><l n="818">I ne held me neuer digne in no maner </l>
+<lb/><l n="819">To ben ȝoure wif neþer ȝoure chamberer </l>
+<lb/><l n="820">And in þis house þer ȝe me lady made </l>
+<lb/><l n="821">Þe hiȝe god take I for wittenes </l>
+<lb/><l n="822">And also wisely he my soule glade </l>
+<lb/><l n="823">I me neuer held lady ne mastres </l>
+<lb/><l n="824">But humble <am>ʆ</am><ex>ser/sir</ex>va<am rend="ū">ıı̄</am><ex>un</ex>t to ȝoure worþines </l>
+<lb/><l n="825">And euer schal while my lyf may endure </l>
+<lb/><l n="826">Aboven euery worldly creature </l>
+<lb/><l n="827">Þat ȝe haue so long of ȝeure benignite </l>
+<lb/><l n="828">Han holden me in hie nobley and honourey </l>
+<lb/><l n="829">Wher as y was nat worþi forto be </l>
+<lb/><l n="830">Þat þank I god to whom I prey </l>
+<lb/><l n="831">For ȝeld it ȝou þer nys nomore to sey </l>
+<lb/><l n="832">Vnto my fader gladly wol I wende </l>
+<lb/><l n="833">And wiþ hym to dwelle to my lyves ende </l>
+<lb/><l n="834">Ther was I fostered of a child ful smale </l>
+<lb/><l n="835">Til I be dede my lyf þer wol I lede </l>
+<lb/><l n="836">A widowe clene in body hert and al </l>
+<lb/><l n="837">For sith I ȝaue to ȝew my maydynhede </l>
+<lb/><l n="838">I am ȝoure trew wif it I ne drede </l>
+<lb/><l n="839">God schelde such a lordes wif to take </l>
+<lb/><l n="840">An oþer housbond or ony man to make </l>
+<lb/><l n="841">And of ȝoure new wif god of his gᵃce </l>
+<lb/><l n="842">So he graunte ȝew wel and pros<am>ꝑ</am><ex>per/par</ex>ite </l>
+<lb/><l n="843">For I wol here gladly ȝeld my place </l>
+<lb/><l n="844">In whiche y was blysful wont to be </l>
+<lb/><l n="845">For sithe it lykeþ you lord quod sche </l>
+<lb/><l n="846">That whilom we al myn hertes rest </l>
+<lb/><l n="847">Þat I schal gon I wol gone when þat ȝew list </l>
+<lb/><l n="848">But þer as ȝe me profre suche doware </l>
+<lb/><l n="849">As I first brouȝt it is wel in my mynde </l>
+<pb n="61v" facs="61v.jpg"/>
+<lb/><l n="850">It was my wrecched cloþes no þing feir </l>
+<lb/><l n="851">The whiche to me wer hard now to fynde </l>
+<lb/><l n="852">O god how gentil and how kynde </l>
+<lb/><l n="853">Ȝew semed by ȝeure spech and ȝeur visage </l>
+<lb/><l n="854">The day þat maked was oure mariage </l>
+<lb/><l n="855">But soþe is seid alwey I fynd it trewe             </l>
+<lb/><l n="856">For in effect I preved is it on me </l>
+<lb/><l n="857">Loue is nat olde as when it is newe </l>
+<lb/><l n="858">For certis lord for non aduersite </l>
+<lb/><l n="859">To dien in þis case it schuld nat be </l>
+<lb/><l n="860">That euer in worde or in werke I schal repente </l>
+<lb/><l n="861">Þat y ȝew ȝafe myn hert in hole entent </l>
+<lb/><l n="862">My lord ȝe wote þat in my faderes place </l>
+<lb/><l n="863">Ȝe did me stripe oute of my pore wede </l>
+<lb/><l n="864">And richely ȝe me clad of ȝeure grace </l>
+<lb/><l n="865">To ȝew brouȝt I nouȝt els oute of drede </l>
+<lb/><l n="866">But feith nakidnes and my maydynhede </l>
+<lb/><l n="867">And here aȝen my cloþing I restore </l>
+<lb/><l n="868">And eke my weddyng ring for euermore </l>
+<lb/><l n="869">The remnaunt of ȝeure Iewels redy þei be </l>
+<lb/><l n="870">Wiþin ȝoure chambir I dar savely seyn </l>
+<lb/><l n="871">Naked oute of my fadres house quod sche </l>
+<lb/><l n="872">I cam and naked must I turne ageyne </l>
+<lb/><l n="873">Al ȝeur plesaunce folow wold I feyn </l>
+<lb/><l n="874">But ȝit I hope it be nat ȝeur entent </l>
+<lb/><l n="875">Þat I smokles oute of youre paleis went </l>
+<lb/><l n="876">Ȝe coude nat done so dishonest a þing </l>
+<lb/><l n="877">That þilk wombe in whiche youre children ley </l>
+<lb/><l n="878">Schuld be fore þe pepul in my walkyng </l>
+<lb/><l n="879">Be sey al bare wherfor y you pᵃy </l>
+<lb/><l n="880">Let nat me lyke a worme go by þe wey </l>
+<lb/><l n="881">Remembre ȝew myn owne lord so dere </l>
+<lb/><l n="882">I was ȝeur wif þouȝe I vnworþi were </l>
+<lb/><l n="883">Wherfor in gwerdon of myn maydenhede </l>
+<lb/><l n="884">Whiche þat I brouȝt and nouȝt aȝen I bere </l>
+<lb/><l n="885">As wouchsave to ȝeve me to my mede </l>
+<lb/><l n="886">But suche a smok as I was wont to were </l>
+<lb/><l n="887">That I ther wiþ may wry þe wombe of her </l>
+<lb/><l n="888">That was ȝoure wif and here I take my leve </l>
+<lb/><l n="889">Of ȝew myn owne lord les I ȝeu greue </l>
+<lb/><l n="890">The smok quod he þat þou haste oppou þi bak </l>
+<lb/><l n="891">Let it be stil and bere it forþe wiþ þe </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

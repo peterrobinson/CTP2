@@ -1,0 +1,18 @@
+Ht notes
+
+The complete manuscript had 33 quires of 8, for a total of 264 folios. The bifolium 4.5 and leaves 6 and 7 (folios 84-87) are missing from quire 11, with the eighth blank except for a catchward on the verso; the last three folios (folios 262-264) are missing from the last quire. The missing folios 84-87 appear to have been blank, with no missing text corresponding to them: SQ finishes on 83v, with the remainder of the folio left blank, followed by folio 88, blank except for the catchword on the verso, with L20 starting on the first folio of the next quire, 89r.
+Question: as all the lost folios are blank, should we include them in the foliation? answer: yes, this is an irregularity, we need to take account of it.
+
+
+Order GP KT L1 MI L2 RE L7 ML L3 CO TG L7 ML L8 SQ L20 ME L17 FK WBP WBT  L10 FR L11 SU NU L33 CY PH L21 PD CL L13 L22 SH
+Supplied KT L2 RE SH
+Sheffield L7 ML L8 SQ L20 ME L17 FK WBT L10 FR L11 SU NU L33 CY PH L21 PD CL L13
+Mosser L3 CO
+BYU L22
+Murcia TG
+[]/1r -83v/88r = 3 - 86
+88v/89r - 96v/97r = 87 - 95
+images 95 and 96 identical
+97v/98r-152v/153r = 97-152
+images 152 and 153 identical
+153v/154r- 181v/182r = 154-182

@@ -1,0 +1,24 @@
+==== Manuscript name and Mosser link  ====
+
+Oxford, Bodleian Library Hatton donat. 1. Mosser: Ht.
+
+==== Original construction  ====
+
+33 quires of 8: 264 folios. 
+
+==== Missing folios  ====
+
+The bifolium 4.5 and leaves 6 and 7 (folios 84-87) are missing from quire 11, with the eighth blank except for a catchward on the verso; the last three folios (folios 262-264) are missing from the last quire. 
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+The missing folios 84-87 appear to have been blank, with no missing text corresponding to them: SQ finishes on 83v, with the remainder of the folio left blank, followed by folio 88, blank except for the catchword on the verso, with L20 starting on the first folio of the next quire, 89r.
+
+
+==== Notes  ====
+
+Blank pages are supplied in place of the missing pages and included in the traditional foliation. Hence, the new foliation and the existing foliation are identical.

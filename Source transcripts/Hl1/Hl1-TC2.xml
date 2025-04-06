@@ -1,0 +1,366 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Hl1</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+ 					<respStmt n="PR">
+						<resp>Original transcription and corrections:</resp>
+						<name n="BYU UoS">Brigham Young team; conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>London</settlement>
+						<repository>British Library</repository>
+						<idno>MS Harley 1704</idno>
+						<msName>Hl1</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb n="28r" facs="HL1MR001.JPG" rend="50,0,100,100"/>
+<div n="PR" type="G">
+<lb/><l n="IRL">Alma redemptoris mater 
+<lb/> </l>
+<lb/><l n="1">O lord oure lord thy name how merueilous </l>
+<lb/><l n="2">Is in this large world ysprad quod she </l>
+<lb/><l n="3">For nat oonly thy laude precious </l>
+<lb/><l n="4">Parfourned is by men of dignytee </l>
+<lb/><l n="5">But by the mouth of children thy bountee </l>
+<lb/><l n="6">Parfourned is for on the brest soukynge </l>
+<lb/><l n="7">Som tyme shewen they thyn heryynge </l>
+<lb/><l n="8">Wher fore in laude as I best kan or may </l>
+<lb/><l n="9">Of thee and of the white lilye flour </l>
+<lb/><l n="10">Which that the bar and is a mayde alway </l>
+<lb/><l n="11">To telle a storie I wol do my labour </l>
+<lb/><l n="12">Nat that I may encressen hir honour </l>
+<lb/><l n="13">For she hir self is honour and the Roote </l>
+<lb/><l n="14">Of bountee  next hir sone and soules boote </l>
+<lb/><l n="15">O moder mayde o mayde moder free </l>
+<lb/><l n="16">O bussh vnbrent brennyng in Moyses sighte </l>
+<lb/><l n="17">That rauysedest doun fro the deitee </l>
+<lb/><l n="18">Thurgh thyn humblesse the goost that in thalighte </l>
+<lb/><l n="19">Of whos vertu whan he thyn herte lighte </l>
+<lb/><l n="20">Conceyued was the fadres sapience </l>
+<lb/><l n="21">Help me to telle it in thy reuerence </l>
+<lb/><l n="22">Lady thy bountee thy magnificence </l>
+<lb/><l n="23">Thy vertu and thy grete humylitee </l>
+<lb/><l n="24">Ther may no tonge expresse in no science </l>
+<lb/><l n="25">For som tyme lady er men praye to thee </l>
+<lb/><l n="26">Thow goost biforn of thy benygnytee </l>
+<lb/><l n="27">And getest vs the light of thy prayere </l>
+<lb/><l n="28">To gyden vs vnto thy sone so deere </l>
+<lb/><l n="29">My konnyng is so wayk o blisful queene </l>
+<lb/><l n="30">For to declare thy grete worthynesse </l>
+<lb/><l n="31">That I ne may the weighte nat sustene </l>
+<lb/><l n="32">But as a child of twelue month old or lesse </l>
+<lb/><l n="33">That kan vnnethe any word expresse </l>
+<lb/><l n="34">Right so fare I and therfore I yow preye </l>
+<lb/><l n="35">Gideth my song that I shal of yow seye </l>
+<lb/><l n="MRL35">Explicit prohemium </l>
+<lb/><l n="MRE35">Here endeth the prioresses prologue 
+<lb/> And here begynneth her tale </l>
+<lb/><l n="MRM35">Here bigynneth the Prioresse tale of 
+<lb/> Alma redemptoris mater </l>
+<lb/><l n="36">Ther was in Asye in a greet Citee </l>
+<lb/><l n="37">Amonges cristen folk a Iewerye </l>
+<lb/><l n="38">Sustened by a lord of that contree </l>
+<lb/><l n="39">For foul vsure and lucre of vileynye </l>
+<lb/><l n="40">Hateful to Crist and to his compaignye </l>
+<lb/><l n="41">And thurgh this strete men myghte ride and wende </l>
+<lb/><l n="42">For it was free and open at eyther ende </l>
+<lb/><l n="43">A litel scole of cristen folk ther stood </l>
+<lb/><l n="44">Doun at the ferther ende in which ther weere </l>
+<lb/><l n="45">Children an heep ycomen of cristen blood </l>
+<lb/><l n="46">That lerned in that scole yeer by yere </l>
+<pb n="28v" facs="HL1MR002.JPG" rend="0,0,50,100"/>
+<lb/><l n="47">Swich manere doctrine as men vsed there </l>
+<lb/><l n="48">This is to seyn to syngen and to rede </l>
+<lb/><l n="49">As smale children doon in hir childhede </l>
+<lb/><l n="50">Among thise children was a wydwes sone </l>
+<lb/><l n="L52r">that day by day to scole was his wone </l>
+<lb/><l n="51">A litel clergeon seuene yeer of age </l>
+<lb/><l n="52">That day by day to scole was his wone </l>
+<lb/><l n="53">And eek also wher as he say thymage </l>
+<lb/><l n="54">Of Cristes moder hadde he in vsage </l>
+<lb/><l n="55">As hym was taught to knele adoun and seye </l>
+<lb/><l n="56">His Aue Marie as he goth by the weye </l>
+<lb/><l n="57">Thus hath this wydwe hir litel sone ytaught </l>
+<lb/><l n="58">Oure blisful lady Cristes moder deere </l>
+<lb/><l n="59">To worshipe ay and he forgat it naught </l>
+<lb/><l n="60">For sely child wol alwey soone lere </l>
+<lb/><l n="61">But ay whan I remembre on this matere </l>
+<lb/><l n="62">Seint Nicholas stant euere in my presence </l>
+<lb/><l n="63">For he so yong to Crist dide reuerence </l>
+<lb/><l n="64">This litel child his litel book lernynge </l>
+<lb/><l n="65">As he sat in the scole at his prymer </l>
+<lb/><l n="66">He Alma redemptoris herde synge </l>
+<lb/><l n="67">As children lerned hir Antiphoner </l>
+<lb/><l n="68">And as he dorste he drow hym ner and ner </l>
+<lb/><l n="69">And herkned ay the wordes and the note </l>
+<lb/><l n="70">Til he the firste vers koude al by rote </l>
+<lb/><l n="71">Nat wiste he what this latyn was to seye </l>
+<lb/><l n="72">For he so yong and tendre was of age </l>
+<lb/><l n="73">But on a day his felawe gan he preye </l>
+<lb/><l n="74">Texpounden hym this song in his langage </l>
+<lb/><l n="75">Or telle hym why this song was in vsage </l>
+<lb/><l n="76">This prayde he hym to construen and declare </l>
+<lb/><l n="77">Ful often tyme vpon hise knowes bare </l>
+<lb/><l n="78">His felawe  which that elder was than he </l>
+<lb/><l n="79">Answerde hym thus this song I haue herd seye </l>
+<pb n="29r" facs="HL1MR002.JPG" rend="50,0,100,100"/>
+<lb/><l n="80">Was maked of oure blisful lady free </l>
+<lb/><l n="81">Hir to salue and eek hire for to preye </l>
+<lb/><l n="82">To been oure help and socour whan we deye </l>
+<lb/><l n="83">I kan namoore expounde in this matere </l>
+<lb/><l n="84">I lerne song I kan but smal gramere </l>
+<lb/><l n="85">And is this song maked in reuerence </l>
+<lb/><l n="86">Of Cristes moder seyde this Innocent </l>
+<lb/><l n="87">Now certes I wol do my diligence </l>
+<lb/><l n="88">To konne it al er Cristemasse is went </l>
+<lb/><l n="89">Thogh that I for my Prymer shal be shent </l>
+<lb/><l n="90">And shal be beten thries in an houre </l>
+<lb/><l n="91">I wol it konne oure lady for to honoure </l>
+<lb/><l n="92">His felawe taughte hym homward priuely </l>
+<lb/><l n="93">Fro day to day til he koude it by rote </l>
+<lb/><l n="94">And thanne he soong it wel and boldely </l>
+<lb/><l n="95">Fro word to word acordyng with the note </l>
+<lb/><l n="96">Twyes a day it passed thurgh his throte </l>
+<lb/><l n="97">To scoleward and homward whan he wente </l>
+<lb/><l n="98">On Cristes moder set was his entente </l>
+<lb/><l n="99">As I haue seyd thurgh out the Iuerye </l>
+<lb/><l n="100">This litel child as he cam to and fro </l>
+<lb/><l n="101">Ful murily wolde he synge and crye </l>
+<lb/><l n="102">O Alma redemptoris euere mo </l>
+<lb/><l n="103">The swetnesse his herte perced so </l>
+<lb/><l n="104">Of Cristes moder that to hir to preye </l>
+<lb/><l n="105">He kan nat stynte of syngyng by the weye </l>
+<lb/><l n="106">Oure firste foo the Serpent Sathanas </l>
+<lb/><l n="107">That hath in Iewes herte his waspes nest </l>
+<lb/><l n="108">Vp swal and seyde o hebrayk peple allas </l>
+<lb/><l n="109">Is this to yow a thyng that is honest </l>
+<lb/><l n="110">That swich a boy shal walken As hym lest </l>
+<lb/><l n="111">In youre despit and synge of swich sentence </l>
+<lb/><l n="112">Which is agayns oure awes reuerence </l>
+<lb/><l n="113">Fro thennes forth the Iewes han conspired </l>
+<pb n="29v" facs="HL1MR003.JPG" rend="0,0,50,100"/>
+<lb/><l n="114">This Innocent out of this world to chace </l>
+<lb/><l n="115">An homycide ther to han they hired </l>
+<lb/><l n="116">That in an Aleye at a priuee place </l>
+<lb/><l n="117">And as the child gan for by for to pace </l>
+<lb/><l n="118">This cursed Iew hym hente and heeld hym faste </l>
+<lb/><l n="119">And kitte his throte and in a pit hym caste </l>
+<lb/><l n="120">I seye that in a wordrobe they hym threwe </l>
+<lb/><l n="121">Wher as thise Iewes purgen hir entraille </l>
+<lb/><l n="122">O cursed folk of herodes al newe </l>
+<lb/><l n="123">What may youre yuel entente yow auaille </l>
+<lb/><l n="124">Mordre wol out certeyn it wol nat faille </l>
+<lb/><l n="125">And namely ther as thonour of god shal sprede </l>
+<lb/><l n="126">The blood out cryeth on youre cursed dede </l>
+<lb/><l n="127">O martir souded to virginitee </l>
+<lb/><l n="128">Now maystow syngen folwyng euere in oon </l>
+<lb/><l n="129">The white lamb celestial quod she </l>
+<lb/><l n="130">Of which the grete Euangelist Seint Iohn </l>
+<lb/><l n="131">In Pathmos wroot which seith that they that gon </l>
+<lb/><l n="132">Biforn this lamb and synge a song al newe </l>
+<lb/><l n="133">That neuere Flesshly womman they ne knewe </l>
+<lb/><l n="134">This poure wydwe awaiteth al that nyght </l>
+<lb/><l n="135">After hir litel child but he cam noght </l>
+<lb/><l n="136">For which as soone as it was dayes lyght </l>
+<lb/><l n="137">With face pale of drede and bisy thoght </l>
+<lb/><l n="138">She hath at scole and ellis where hym soght </l>
+<lb/><l n="139">Til fynally she gan so fer espie </l>
+<lb/><l n="140">That he last seyn was in the Iewerie </l>
+<lb/><l n="141">With modres pitee in hir brest enclosed </l>
+<lb/><l n="142">She goth as she were half out of hir mynde </l>
+<lb/><l n="143">To euery place wher as she hath supposed </l>
+<lb/><l n="144">By liklyhede hir litel child to fynde </l>
+<lb/><l n="145">And euere on Cristes moder meke and kynde </l>
+<lb/><l n="146">She cryde and at the laste thus she wroghte </l>
+<pb n="30r" facs="HL1MR003.JPG"  rend="50,0,100,100"/>
+<lb/><l n="147">Among the cursed Iues she hym soghte </l>
+<lb/><l n="148">She frayneth and she prayeth pitously </l>
+<lb/><l n="149">To euery Iew that dwelte in thilke place </l>
+<lb/><l n="150">To telle hire if hir child wente oght forby </l>
+<lb/><l n="151">They seyde nay but Ihu of his grace </l>
+<lb/><l n="152">Yaf in hir thought in with a litel space </l>
+<lb/><l n="153">That in that place after hir sone she cryde </l>
+<lb/><l n="154">Wher he was casten in a pit bisyde </l>
+<lb/><l n="155">O grete god that parfournest thy laude </l>
+<lb/><l n="156">By mouth of Innocentz lo here thy myght </l>
+<lb/><l n="157">This gemme of chastitee this Emeraude </l>
+<lb/><l n="158">And eek of martirdom the Ruby bright </l>
+<lb/><l n="159">Ther he with throte ycoruen lay vpright </l>
+<lb/><l n="160">He Alma redemptoris gan to synge </l>
+<lb/><l n="161">So loude that al the place gan to rynge </l>
+<lb/><l n="162">The cristen folk that thurgh the strete wente </l>
+<lb/><l n="163">In coomen for to wondre vpon this thyng </l>
+<lb/><l n="164">And hastily they for the Prouost sente </l>
+<lb/><l n="165">He cam anon withouten tariyng </l>
+<lb/><l n="165-1">Whiche fonde the childe freshly yet bledyng </l>
+<lb/><l n="166">And herieth Crist that is of heuene kyng </l>
+<lb/><l n="167">And eek his moder honour of mankynde </l>
+<lb/><l n="168">And after that the Iewes leet he bynde </l>
+<lb/><l n="169">This child with pitous lamentacioun </l>
+<lb/><l n="170">Vp taken was syngynge his song alway </l>
+<lb/><l n="171">And with honour of greet processioun </l>
+<lb/><l n="172">They carien hym vnto the nexte Abbay </l>
+<lb/><l n="173">His moder swownyng by his beere lay </l>
+<lb/><l n="174">Vnnethe myghte the peple that was there </l>
+<lb/><l n="175">This newe Rachel bryngen fro his beere </l>
+<lb/><l n="176">With torment and with shameful deth echon </l>
+<lb/><l n="177">This Prouost dooth thise Iewes for to sterue </l>
+<lb/><l n="178">That of this mordre wiste and that anon </l>
+<lb/><l n="179">He nolde no swich cursednesse obserue </l>
+<pb n="30v" facs="HL1MR004.JPG" rend="0,0,50,100"/>
+<lb/><l n="180">Yuel shal haue that yuel wol disserue </l>
+<lb/><l n="181">Therfore with wilde hors he dide hem drawe </l>
+<lb/><l n="182">And after that he heng hem by the lawe </l>
+<lb/><l n="183">Vpon his beere ay lyth this Innocent </l>
+<lb/><l n="184">Biforn the chief Auter whil the masse laste </l>
+<lb/><l n="185">And after that the Abbot with his Couent </l>
+<lb/><l n="186">Han sped hem for to buryen hym ful faste </l>
+<lb/><l n="187">And whan they holy water on hym caste </l>
+<lb/><l n="188">Yet spak this child whan spreynd was holy water </l>
+<lb/><l n="189">And song O alma redemptoris mater </l>
+<lb/><l n="190">This Abbot which that was an holy man </l>
+<lb/><l n="191">As monkes ben or ellis oghten be </l>
+<lb/><l n="192">This yonge child to coniure he bigan </l>
+<lb/><l n="193">And seyde o deere child I halsen thee </l>
+<lb/><l n="194">In vertu of the holy Trinitee </l>
+<lb/><l n="195">Tel me what is thy cause for to synge </l>
+<lb/><l n="196">Sith that thy throte is kit to my semynge </l>
+<lb/><l n="197">My throte is kit vnto my nekke boon </l>
+<lb/><l n="198">Seyde this child and as by wey of kynde </l>
+<lb/><l n="199">I sholde haue dyed ye longe tyme agoon </l>
+<lb/><l n="200">But Ihu crist as ye in bokes fynde </l>
+<lb/><l n="201">Wol that his glorie laste and be in mynde </l>
+<lb/><l n="202">And for the worship of his moder deere </l>
+<lb/><l n="203">Yet may I synge O alma loude and clere </l>
+<lb/><l n="204">This welle of mercy Cristes moder swete </l>
+<lb/><l n="205">I loued alwey as after my konnynge </l>
+<lb/><l n="206">And whan that I my lyf sholde forlete </l>
+<lb/><l n="207">To me she cam and bad me for to synge </l>
+<lb/><l n="208">This Antheme verraily in my deiynge </l>
+<lb/><l n="209">As ye han herd and whan that I had songe </l>
+<lb/><l n="210">Me thoughte she leyde a greyn vpon my tonge </l>
+<lb/><l n="211">Wher fore I synge and synge moot certeyn </l>
+<lb/><l n="212">In honour of that blisful mayden free </l>
+<lb/><l n="213">Til fro my tonge of taken is the greyn </l>
+<pb n="31r" facs="HL1MR004.JPG" rend="50,0,100,100"/>
+<lb/><l n="214">And after that thus seyde she to me </l>
+<lb/><l n="215">My litel child now wol I fecche thee </l>
+<lb/><l n="216">Whan that the greyn is fro thy tonge ytake </l>
+<lb/><l n="217">Be nat agast I wol thee nat forsake </l>
+<lb/><l n="218">This holy monk this Abbot hym mene I </l>
+<lb/><l n="219">His tonge out caughte and took awey the greyn </l>
+<lb/><l n="220">And he yaf vp the goost ful softely </l>
+<lb/><l n="221">And whan this Abbot hadde this wonder seyn </l>
+<lb/><l n="222">His salte teerys trikled doun as reyn </l>
+<lb/><l n="223">And gruf he fil al flat vpon the grounde </l>
+<lb/><l n="224">And stille he lay as he hadde leyn ybounde </l>
+<lb/><l n="225">The Couent eek lay on the pauement </l>
+<lb/><l n="226">Wepynge and heryen cristes moder deere </l>
+<lb/><l n="227">And after that they ryse and forth been went </l>
+<lb/><l n="228">And toke awey this martir from his beere </l>
+<lb/><l n="229">And in a toumbe of Marbilstones cleere </l>
+<lb/><l n="230">Enclosen they this litel body swete </l>
+<lb/><l n="231">Ther he is now god leue vs for to meete </l>
+<lb/><l n="232">O yonge Hugh of Lyncoln slayn also </l>
+<lb/><l n="233">With cursed Iewes as it is notable </l>
+<lb/><l n="234">For it is but alitel while ygo </l>
+<lb/><l n="235">Preye eek for vs we synful folk vnstable </l>
+<lb/><l n="236">That of his mercy god so merciable </l>
+<lb/><l n="237">On vs his grete mercy multiplie </l>
+<lb/><l n="238">For reuerence of his moder Marie  Amen </l>
+<lb/><l n="FRE">Here endeth the Prioresse tale </l>
+<lb/><l n="FRL"><hi rend="ul">Explicit</hi> </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

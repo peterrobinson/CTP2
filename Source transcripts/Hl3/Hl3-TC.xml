@@ -1,0 +1,357 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xmlns:det="http://textualcommunities.usask.ca/">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Hl3</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+ 				<bibl det:document="Hl3"></bibl>
+				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+ 					<respStmt n="PR">
+						<resp>Original transcription and corrections:</resp>
+						<name n="BYU UoS">Brigham Young team; conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>London</settlement>
+						<repository>British Library</repository>
+						<idno>MS Harley 2382</idno>
+						<msName>Hl3</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl det:documentRefsDecl="Manuscript"  det:entityRefsDecl="Text">
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb xml:id="Hl3-97r" n="97r" facs="97r.jpg"/>
+<div xml:id="PR-Hl3" n="PR" type="G">
+<lb/><l xml:id="PR-IRL-Hl3" n="IRL">¶ <hi rend="ul">Fabula Momalio Desca<ex>̄</ex><am>m</am> Maria ~</hi> </l>
+<lb/><l xml:id="PR-1-Hl3" n="1"><hi height="4" rend="orncp">L</hi>ord our lord thi name how mvelous </l>
+<lb/><l xml:id="PR-2-Hl3" n="2">is in this large world y spred qd she </l>
+<lb/><l xml:id="PR-3-Hl3" n="3">for not only thy lawd precious </l>
+<lb/><l xml:id="PR-4-Hl3" n="4"><am>ꝑ</am><ex>per/par</ex>formed is by men of dignite </l>
+<lb/><l xml:id="PR-5-Hl3" n="5">but bi u mouthe of childre<ex>̄</ex><am>m</am> thi bounte </l>
+<lb/><l xml:id="PR-6-Hl3" n="6"><am>ꝑ</am><ex>per/par</ex>formed is / for in the brest sokyng </l>
+<lb/><l xml:id="PR-7-Hl3" n="7">som tyme shewen thei thi heryyng </l>
+<lb/><l xml:id="PR-8-Hl3" n="8">¶ Wher for in lawde as y best can or may </l>
+<lb/><l xml:id="PR-9-Hl3" n="9">of the and of thi lilie flour </l>
+<lb/><l xml:id="PR-10-Hl3" n="10">which that the bare <am>⁊</am><ex>and</ex> is a mayde alway </l>
+<lb/><l xml:id="PR-11-Hl3" n="11">to tell a story y woll do my labour </l>
+<lb/><l xml:id="PR-12-Hl3" n="12">not that y may encresse her honour </l>
+<lb/><l xml:id="PR-13-Hl3" n="13">for she her self is honour <am>⁊</am><ex>and</ex> the rote </l>
+<lb/><l xml:id="PR-14-Hl3" n="14">of bounte / next herᵒ sone <am>⁊</am><ex>and</ex> soules bote </l>
+<lb/><l xml:id="PR-15-Hl3" n="15">¶ O mod maide . o mayde moder fre </l>
+<lb/><l xml:id="PR-16-Hl3" n="16">o bush vnbrent brennyng in Moyses sight  </l>
+<lb/><l xml:id="PR-17-Hl3" n="17">that raveshedest doun from þᵉ Deite </l>
+<lb/><l xml:id="PR-18-Hl3" n="18">thurgh þⁱ humblenes þᵉ goost þ<am>ᵗ</am><ex>at</ex> in þᵉ light </l>
+<lb/><l xml:id="PR-19-Hl3" n="19">of whos vertu whan he thyn hert light </l>
+<lb/><l xml:id="PR-20-Hl3" n="20">conceyued was þᵉ fadres sapience </l>
+<lb/><l xml:id="PR-21-Hl3" n="21">help me to telle it in thy reu<am>̉</am><ex>er/re</ex>ence </l>
+<lb/><l xml:id="PR-22-Hl3" n="22">¶ Lady thi bounte thy magnificence </l>
+<lb/><l xml:id="PR-23-Hl3" n="23">thi vertu and thy humilite </l>
+<lb/><l xml:id="PR-24-Hl3" n="24">ther may no tonge expresse in no science </l>
+<lb/><l xml:id="PR-25-Hl3" n="25">for som tyme lady or men pᵃy to the </l>
+<lb/><l xml:id="PR-26-Hl3" n="26">thu goost be fore of thy benignite </l>
+<lb/><l xml:id="PR-27-Hl3" n="27">and getest vs the light of thi pᵃyer </l>
+<lb/><l xml:id="PR-28-Hl3" n="28">to gyden vs vnto thi sone so dere </l>
+<lb/><l xml:id="PR-29-Hl3" n="29">¶ My konnyng . is so weike o blisful quene </l>
+<lb/><l xml:id="PR-30-Hl3" n="30">for to declare thi gret worthynesse </l>
+<lb/><l xml:id="PR-31-Hl3" n="31">that y ne may not þᵉ weight not sustene </l>
+<lb/><l xml:id="PR-32-Hl3" n="32">but as a child of twelf month old or lesse </l>
+<lb/><l xml:id="PR-33-Hl3" n="33">that can vnnethe any word expresse </l>
+<lb/><l xml:id="PR-34-Hl3" n="34">right so fare y and ther for y the pᵃy </l>
+<lb/><l xml:id="PR-35-Hl3" n="35">gide my song that y shall of the say </l>
+<pb xml:id="Hl3-97v" n="97v" facs="97v.jpg"/>
+<lb/><l xml:id="PR-36-Hl3" n="36">¶ Ther was in Asie a gret Citee </l>
+<lb/><l xml:id="PR-37-Hl3" n="37">amonges cristen folk a Iewery </l>
+<lb/><l xml:id="PR-38-Hl3" n="38">susteyned by a lord of that contree </l>
+<lb/><l xml:id="PR-39-Hl3" n="39">for foule vsurie <am>⁊</am><ex>and</ex> lucre vilony </l>
+<lb/><l xml:id="PR-40-Hl3" n="40">hatefull to Crist <am>⁊</am><ex>and</ex> to his co<ex>̄</ex><am>m</am>panye </l>
+<lb/><l xml:id="PR-41-Hl3" n="41">and thurgh this strete me myght ride <am>⁊</am><ex>and</ex> wende </l>
+<lb/><l xml:id="PR-42-Hl3" n="42">for it was fre <am>⁊</am><ex>and</ex> open at oyther ende </l>
+<lb/><l xml:id="PR-43-Hl3" n="43">¶ A litell scole of cristen folk þ<am>̉</am><ex>er/re</ex> stode </l>
+<lb/><l xml:id="PR-44-Hl3" n="44">doun atte fertger ende in which þ<am>̉</am><ex>er/re</ex> wer </l>
+<lb/><l xml:id="PR-45-Hl3" n="45">children an hepe comen of cristen blode </l>
+<lb/><l xml:id="PR-46-Hl3" n="46">that lerned in that scole yer by yere </l>
+<lb/><l xml:id="PR-47-Hl3" n="47">soche man doctrine as men vsed ther </l>
+<lb/><l xml:id="PR-48-Hl3" n="48">this is to seyn to syngen to rede </l>
+<lb/><l xml:id="PR-49-Hl3" n="49">as smale children do<am rend="ū">ıı̄</am><ex>un</ex> in her childhede </l>
+<lb/><l xml:id="PR-50-Hl3" n="50">¶ Among thes children was a widowes sone </l>
+<lb/><l xml:id="PR-51-Hl3" n="51">a litell clergion by yer of age </l>
+<lb/><l xml:id="PR-52-Hl3" n="52">that day by day to scole was his wone </l>
+<lb/><l xml:id="PR-53-Hl3" n="53">and eke also wher as he sey þᵉ ymage </l>
+<lb/><l xml:id="PR-54-Hl3" n="54">of Cristes mod had he in vsage </l>
+<lb/><l xml:id="PR-55-Hl3" n="55">as hym was taught to knele a doun <am>⁊</am><ex>and</ex> sey </l>
+<lb/><l xml:id="PR-56-Hl3" n="56">his Aue marie as he goth by the wey </l>
+<lb/><l xml:id="PR-57-Hl3" n="57">¶ Thus hath þˢ widow her litel sone y taught </l>
+<lb/><l xml:id="PR-58-Hl3" n="58">our blisful lady Cristes moder dere </l>
+<lb/><l xml:id="PR-59-Hl3" n="59">to worshipe ay <am>⁊</am><ex>and</ex> he forgate it nought </l>
+<lb/><l xml:id="PR-60-Hl3" n="60">for sely child wold alway sone lere </l>
+<lb/><l xml:id="PR-61-Hl3" n="61">but ay whan y remembre on þˢ mater </l>
+<lb/><l xml:id="PR-62-Hl3" n="62">Synt Nicholas stant eu<am>̉</am><ex>er/re</ex> in my psence </l>
+<lb/><l xml:id="PR-63-Hl3" n="63">for he so yong to Crist dud reuerence </l>
+<lb/><l xml:id="PR-64-Hl3" n="64">¶ This litell child his litel boke lernyng </l>
+<lb/><l xml:id="PR-65-Hl3" n="65">as he sate in the scole at his p<am>ⁱ</am><ex>ri</ex>mere </l>
+<lb/><l xml:id="PR-66-Hl3" n="66">he Alma redemptoris herd syng </l>
+<lb/><l xml:id="PR-67-Hl3" n="67">as childer lerned her antiphoner </l>
+<lb/><l xml:id="PR-68-Hl3" n="68">and as he durst drow hym ner <am>⁊</am><ex>and</ex> ner </l>
+<lb/><l xml:id="PR-69-Hl3" n="69">and herkened ay þᵉ wordes <am>⁊</am><ex>and</ex> the note </l>
+<lb/><l xml:id="PR-70-Hl3" n="70">till he the first vers coude al bi rote </l>
+<lb/><l xml:id="PR-71-Hl3" n="71">¶ Nat wist he what þˢ latyn was to sey </l>
+<lb/><l xml:id="PR-72-Hl3" n="72">for he so yonge <am>⁊</am><ex>and</ex> tendre was of age </l>
+<pb xml:id="Hl3-98r" n="98r" facs="98r.jpg"/>
+<lb/><l xml:id="PR-73-Hl3" n="73">but on a day his felow gan he pᵃy </l>
+<lb/><l xml:id="PR-74-Hl3" n="74">expone hym this song in his langage </l>
+<lb/><l xml:id="PR-75-Hl3" n="75">or tell hym whi this song was in vsage </l>
+<lb/><l xml:id="PR-76-Hl3" n="76">this pᵃyed he hym to construe <am>⁊</am><ex>and</ex> declare </l>
+<lb/><l xml:id="PR-77-Hl3" n="77">ful ofte tymes vpon his knees bare </l>
+<lb/><l xml:id="PR-78-Hl3" n="78">¶ His felawe which þᵉ elder was than he </l>
+<lb/><l xml:id="PR-79-Hl3" n="79">answerd thus this song y haue herd sey </l>
+<lb/><l xml:id="PR-80-Hl3" n="80">was maked of our blessid lady fre </l>
+<lb/><l xml:id="PR-81-Hl3" n="81">her to salue and her for to prey </l>
+<lb/><l xml:id="PR-82-Hl3" n="82">to ben our help <am>⁊</am><ex>and</ex> socour whan we dey </l>
+<lb/><l xml:id="PR-83-Hl3" n="83">y can no more expond in this mater </l>
+<lb/><l xml:id="PR-84-Hl3" n="84">y lerne song y can but smal gramer </l>
+<lb/><l xml:id="PR-85-Hl3" n="85">¶ And is this song maked in reu<am>̉</am><ex>er/re</ex>ence </l>
+<lb/><l xml:id="PR-86-Hl3" n="86">of Cristes moder seid this Innocent </l>
+<lb/><l xml:id="PR-87-Hl3" n="87">now certes y woll do my diligence </l>
+<lb/><l xml:id="PR-88-Hl3" n="88">to konne it all or Cristesmasse be went </l>
+<lb/><l xml:id="PR-89-Hl3" n="89">thogh þ<am>ᵗ</am><ex>at</ex> y for my p<am>ⁱ</am><ex>ri</ex>mer shal be shent </l>
+<lb/><l xml:id="PR-90-Hl3" n="90">and shall be beten thryes in an houre </l>
+<lb/><l xml:id="PR-91-Hl3" n="91">y woll it konne our lady to honoure </l>
+<lb/><l xml:id="PR-92-Hl3" n="92">¶ His felawe taught hym homward p<am>ⁱ</am><ex>ri</ex>uely </l>
+<lb/><l xml:id="PR-93-Hl3" n="93">fro day to day til he coude it by rote </l>
+<lb/><l xml:id="PR-94-Hl3" n="94">and than he sang it well <am>⁊</am><ex>and</ex> boldely </l>
+<lb/><l xml:id="PR-95-Hl3" n="95">fro word to word accordyng to þᵉ note </l>
+<lb/><l xml:id="PR-96-Hl3" n="96">twyes a day it passed thurgh his throte </l>
+<lb/><l xml:id="PR-97-Hl3" n="97">to scoleward <am>⁊</am><ex>and</ex> homward whan he went </l>
+<lb/><l xml:id="PR-98-Hl3" n="98">on Cristes Moder set was his entent </l>
+<lb/><l xml:id="PR-99-Hl3" n="99">¶ As y haue seid thurgh out the iewerye </l>
+<lb/><l xml:id="PR-100-Hl3" n="100">this litell child as he come to <am>⁊</am><ex>and</ex> froo </l>
+<lb/><l xml:id="PR-101-Hl3" n="101">full merily wold he synge <am>⁊</am><ex>and</ex> crie </l>
+<lb/><l xml:id="PR-102-Hl3" n="102">o alma redemptoris euer moo </l>
+<lb/><l xml:id="PR-103-Hl3" n="103">the swetnes his herte perced so </l>
+<lb/><l xml:id="PR-104-Hl3" n="104">of Cristes moder that to her to pᵃy </l>
+<lb/><l xml:id="PR-105-Hl3" n="105">he can not stynt of syngyng by þᵉ way </l>
+<lb/><l xml:id="PR-106-Hl3" n="106">¶ Our first foo the serpent Sathanas </l>
+<lb/><l xml:id="PR-107-Hl3" n="107">that hath in iewes hert his waspes nest </l>
+<lb/><l xml:id="PR-108-Hl3" n="108">vp swall <am>⁊</am><ex>and</ex> seyd o Ebrayke peple alas . </l>
+<lb/><l xml:id="PR-109-Hl3" n="109">ys this to yow a thyng þ<am>ᵗ</am><ex>at</ex> is honest </l>
+<pb xml:id="Hl3-98v" n="98v" facs="98v.jpg"/>
+<lb/><l xml:id="PR-110-Hl3" n="110">that soche a boy shall walke as hy lyst </l>
+<lb/><l xml:id="PR-111-Hl3" n="111">in yʳo despite and synge of soche sentence </l>
+<lb/><l xml:id="PR-112-Hl3" n="112">which is ageyns our lawes reuerence </l>
+<lb/><l xml:id="PR-113-Hl3" n="113">¶ Fro thens forth the iewes han co<ex>̄</ex><am>m</am>spired </l>
+<lb/><l xml:id="PR-114-Hl3" n="114">this Innocent out of this world to chace </l>
+<lb/><l xml:id="PR-115-Hl3" n="115">an homycide ther to han thei hired </l>
+<lb/><l xml:id="PR-116-Hl3" n="116">that in an Aley had a p<am>ⁱ</am><ex>ri</ex>ue place </l>
+<lb/><l xml:id="PR-117-Hl3" n="117">and as þᵉ child gan forth by for to pace </l>
+<lb/><l xml:id="PR-118-Hl3" n="118">this cursed iewe hym hent <am>⁊</am><ex>and</ex> held hy fast </l>
+<lb/><l xml:id="PR-119-Hl3" n="119">and kytt his throte <am>⁊</am><ex>and</ex> in a pytt hy cast </l>
+<lb/><l xml:id="PR-120-Hl3" n="120">¶ Y sey þ<am>ᵗ</am><ex>at</ex> in a wardrope thei hym drewe </l>
+<lb/><l xml:id="PR-121-Hl3" n="121">wher as thes Iewes purgen her entrayle </l>
+<lb/><l xml:id="PR-122-Hl3" n="122">o cursed folke of herodes all newe </l>
+<lb/><l xml:id="PR-123-Hl3" n="123">what may yʳo evell entent yow availe </l>
+<lb/><l xml:id="PR-124-Hl3" n="124">mordre woll out certayn it wol not faile </l>
+<lb/><l xml:id="PR-125-Hl3" n="125">and namely þ<am>̉</am><ex>er/re</ex> as þᵉ honour of god shal sprede </l>
+<lb/><l xml:id="PR-126-Hl3" n="126">the blode out crieth on your cursed dede </l>
+<lb/><l xml:id="PR-127-Hl3" n="127">¶ O martir sented to virginite </l>
+<lb/><l xml:id="PR-128-Hl3" n="128">now maist þᵘ syngen folwyng eu<am>̉</am><ex>er/re</ex> in one </l>
+<lb/><l xml:id="PR-129-Hl3" n="129">the white lambe celestiall qd she </l>
+<lb/><l xml:id="PR-130-Hl3" n="130">of which þᵉ gret euᵃngelist Seynt Iohn </l>
+<lb/><l xml:id="PR-131-Hl3" n="131">In Pathmos wrote which seith þ<am>ᵗ</am><ex>at</ex> thei gon </l>
+<lb/><l xml:id="PR-132-Hl3" n="132">be fore this lambe <am>⁊</am><ex>and</ex> syng a song al newe </l>
+<lb/><l xml:id="PR-133-Hl3" n="133">þ<am>ᵗ</am><ex>at</ex> neu<am>̉</am><ex>er/re</ex> flesshly wo<ex>̄</ex><am>m</am>man thei ne knewe </l>
+<lb/><l xml:id="PR-134-Hl3" n="134">¶ This pore wydowe awaiteth al þᵉ nyght </l>
+<lb/><l xml:id="PR-135-Hl3" n="135">after her litel child but he come noght </l>
+<lb/><l xml:id="PR-136-Hl3" n="136">for þᵉ which assone as it is dayes light </l>
+<lb/><l xml:id="PR-137-Hl3" n="137">w<am>ᵗ</am><ex>ith</ex> face pale of drede <am>⁊</am><ex>and</ex> besy thoght </l>
+<lb/><l xml:id="PR-138-Hl3" n="138">she hath at scole <am>⁊</am><ex>and</ex> els wher hy soght </l>
+<lb/><l xml:id="PR-139-Hl3" n="139">till fynally she gan so fer aspie </l>
+<lb/><l xml:id="PR-140-Hl3" n="140">that he last seyn was in þᵉ Iewerie </l>
+<lb/><l xml:id="PR-141-Hl3" n="141">¶ W<am>ᵗ</am><ex>ith</ex> modres pite in her brest enclosed </l>
+<lb/><l xml:id="PR-142-Hl3" n="142">she goth as she wer half out of her mynde </l>
+<lb/><l xml:id="PR-143-Hl3" n="143">to euery place wher she hath supposed </l>
+<lb/><l xml:id="PR-144-Hl3" n="144">by likelyhed her litell child to fynde </l>
+<pb xml:id="Hl3-99r" n="99r" facs="99r.jpg"/>
+<lb/><l xml:id="PR-145-Hl3" n="145">And eu<am>̉</am><ex>er/re</ex> on Cristes mod meke <am>⁊</am><ex>and</ex> kynde </l>
+<lb/><l xml:id="PR-146-Hl3" n="146">she cried <am>⁊</am><ex>and</ex> atte last thus she wroght </l>
+<lb/><l xml:id="PR-147-Hl3" n="147">Amonge þᵉ cursed Iewes she hy sought </l>
+<lb/><l xml:id="PR-148-Hl3" n="148">¶ She frayneth and prayeth pitously </l>
+<lb/><l xml:id="PR-149-Hl3" n="149">to eu<am>̉</am><ex>er/re</ex>y Iewe þ<am>ᵗ</am><ex>at</ex> dwelt in thilke place </l>
+<lb/><l xml:id="PR-150-Hl3" n="150">to telle her if her child wentt oght forth by </l>
+<lb/><l xml:id="PR-151-Hl3" n="151">thei seid nay / but Ih<am rend="ū">ıı̄</am><ex>un</ex> of his grace </l>
+<lb/><l xml:id="PR-152-Hl3" n="152">ysaue in her thoght w<am>ᵗ</am><ex>ith</ex> in a litell space </l>
+<lb/><l xml:id="PR-153-Hl3" n="153">that in that place aft<am>̉</am><ex>er/re</ex> her sone she cryde </l>
+<lb/><l xml:id="PR-154-Hl3" n="154">wher he was casten in a pytt be syde </l>
+<lb/><l xml:id="PR-155-Hl3" n="155">¶ O gret god that <am>ꝑ</am><ex>per/par</ex>formed thi laude </l>
+<lb/><l xml:id="PR-156-Hl3" n="156">by mouth of Innocenteȝ lo her þⁱ myght </l>
+<lb/><l xml:id="PR-157-Hl3" n="157">this ge<ex>̄</ex><am>m</am>me of chastite this Emeraude </l>
+<lb/><l xml:id="PR-158-Hl3" n="158">and eke of martirdome þᵉ ruby bright </l>
+<lb/><l xml:id="PR-159-Hl3" n="159">ther he w<am>ᵗ</am><ex>ith</ex> throte y corven lay vpright </l>
+<lb/><l xml:id="PR-160-Hl3" n="160">he Alma Redemptoris gan to synge </l>
+<lb/><l xml:id="PR-161-Hl3" n="161">so lowde þ<am>ᵗ</am><ex>at</ex> all the place gan rynge </l>
+<lb/><l xml:id="PR-162-Hl3" n="162">¶ The Cristen folke þ<am>ᵗ</am><ex>at</ex> thurgh þᵉ stret went </l>
+<lb/><l xml:id="PR-163-Hl3" n="163">yn comen for to wondre vpon þˢ thyng </l>
+<lb/><l xml:id="PR-164-Hl3" n="164">and hastely thei for þᵉ <am>ꝓ</am><ex>pro</ex>vost sent </l>
+<lb/><l xml:id="PR-165-Hl3" n="165">he come anon w<am>ᵗ</am><ex>ith</ex> out any taryng </l>
+<lb/><l xml:id="PR-166-Hl3" n="166">and heryeth Crist þ<am>ᵗ</am><ex>at</ex> is of heuen kyng </l>
+<lb/><l xml:id="PR-167-Hl3" n="167">and eke his moder honʳo of mankynde </l>
+<lb/><l xml:id="PR-168-Hl3" n="168">and aft<am>̉</am><ex>er/re</ex> that þᵉ iewes lete he bynde </l>
+<lb/><l xml:id="PR-169-Hl3" n="169">¶ This childe w<am>ᵗ</am><ex>ith</ex> pitous lamentacion </l>
+<lb/><l xml:id="PR-170-Hl3" n="170">Vp taken was syngyng his song alway </l>
+<lb/><l xml:id="PR-171-Hl3" n="171">and w<am>ᵗ</am><ex>ith</ex> honoue <am>⁊</am><ex>and</ex> gret <am>ꝓ</am><ex>pro</ex>cession </l>
+<lb/><l xml:id="PR-172-Hl3" n="172">thei carien hym vnto þᵉ next Abbay </l>
+<lb/><l xml:id="PR-173-Hl3" n="173">his mod sownyng by his bere lay </l>
+<lb/><l xml:id="PR-174-Hl3" n="174">Vnnethe myght þᵉ peple þ<am>ᵗ</am><ex>at</ex> was there </l>
+<lb/><l xml:id="PR-175-Hl3" n="175">this newe Rachell bryng fro his bere </l>
+<lb/><l xml:id="PR-176-Hl3" n="176">¶ W<am>ᵗ</am><ex>ith</ex> tʳment <am>⁊</am><ex>and</ex> w<am>ᵗ</am><ex>ith</ex> shameful deth echon </l>
+<lb/><l xml:id="PR-177-Hl3" n="177">this <am>ꝓ</am><ex>pro</ex>vost doth the Iewes for to sterve </l>
+<pb xml:id="Hl3-99v" n="99v" facs="99v.jpg"/>
+<lb/><l xml:id="PR-178-Hl3" n="178">that of this martir wist <am>⁊</am><ex>and</ex> þ<am>ᵗ</am><ex>at</ex> anon </l>
+<lb/><l xml:id="PR-179-Hl3" n="179">he nolde no soche cursednes obserue </l>
+<lb/><l xml:id="PR-180-Hl3" n="180">yvell shall he haue þ<am>ᵗ</am><ex>at</ex> evell wol de<am>ʆ</am><ex>ser/sir</ex>ue </l>
+<lb/><l xml:id="PR-181-Hl3" n="181">ther for w<am>ᵗ</am><ex>ith</ex> wilde horse he dud hem drawe </l>
+<lb/><l xml:id="PR-182-Hl3" n="182">and after þ<am>ᵗ</am><ex>at</ex> he heng hem by þᵉ lawe </l>
+<lb/><l xml:id="PR-183-Hl3" n="183">¶ Apon this bere ay lith this Innocent </l>
+<lb/><l xml:id="PR-184-Hl3" n="184">be fore the chef auter while þᵉ masse last </l>
+<lb/><l xml:id="PR-185-Hl3" n="185">and after þ<am>ᵗ</am><ex>at</ex> the Abbate w<am>ᵗ</am><ex>ith</ex> his couent </l>
+<lb/><l xml:id="PR-186-Hl3" n="186">han sped ham for to bury hym ful fast </l>
+<lb/><l xml:id="PR-187-Hl3" n="187">and whan thei holi wat<am>̉</am><ex>er/re</ex> on hym cast </l>
+<lb/><l xml:id="PR-188-Hl3" n="188">yet spake þˢ child whan sprong was holi wat<am>̉</am><ex>er/re</ex> </l>
+<lb/><l xml:id="PR-189-Hl3" n="189">and song o Alma rede<ex>̄</ex><am>m</am>ptoris mater </l>
+<lb/><l xml:id="PR-190-Hl3" n="190">¶ This Abbat which þ<am>ᵗ</am><ex>at</ex> was an holy man </l>
+<lb/><l xml:id="PR-191-Hl3" n="191">as monkes ben or els aughten be </l>
+<lb/><l xml:id="PR-192-Hl3" n="192">this yong child co<ex>̄</ex><am>m</am>iure he be gan </l>
+<lb/><l xml:id="PR-193-Hl3" n="193">and seid o dere child y halse the </l>
+<lb/><l xml:id="PR-194-Hl3" n="194">in the vertu of the holy Trinite </l>
+<lb/><l xml:id="PR-195-Hl3" n="195">tell what is þⁱ cause for to synge </l>
+<lb/><l xml:id="PR-196-Hl3" n="196">sith þⁱ throte is kut to my semynge </l>
+<lb/><l xml:id="PR-197-Hl3" n="197">¶ My throte is kut vnto my nekbon </l>
+<lb/><l xml:id="PR-198-Hl3" n="198">seid this child <am>⁊</am><ex>and</ex> as by way of kynde </l>
+<lb/><l xml:id="PR-199-Hl3" n="199">y shuld haue dyed long tyme a gon </l>
+<lb/><l xml:id="PR-200-Hl3" n="200">but Ihu Crist as ye in bokes fynde </l>
+<lb/><l xml:id="PR-201-Hl3" n="201">woll that his glorie laste <am>⁊</am><ex>and</ex> be in mynde </l>
+<lb/><l xml:id="PR-202-Hl3" n="202">and for the worship of his moder dere </l>
+<lb/><l xml:id="PR-203-Hl3" n="203">yett may y syng o Alma lowde <am>⁊</am><ex>and</ex> clere </l>
+<lb/><l xml:id="PR-204-Hl3" n="204">¶ This well of mercy Cristes mod<hi rend="sup">9</hi> swete </l>
+<lb/><l xml:id="PR-205-Hl3" n="205">y loued alway as after my konnynge </l>
+<lb/><l xml:id="PR-206-Hl3" n="206">and whan þ<am>ᵗ</am><ex>at</ex> y my lyf shuld for lete </l>
+<lb/><l xml:id="PR-207-Hl3" n="207">to me she came <am>⁊</am><ex>and</ex> bade me for to synge </l>
+<lb/><l xml:id="PR-208-Hl3" n="208">this Anteme verrely in my deynge </l>
+<lb/><l xml:id="PR-209-Hl3" n="209">as ye han herd / <am>⁊</am><ex>and</ex> whan þ<am>ᵗ</am><ex>at</ex> y had songe </l>
+<lb/><l xml:id="PR-210-Hl3" n="210">me thoght she layd a greyn vpon my tonge </l>
+<lb/><l xml:id="PR-211-Hl3" n="211">¶ Wher for y synge <am>⁊</am><ex>and</ex> syng y mote certeyne </l>
+<lb/><l xml:id="PR-212-Hl3" n="212">in hono<am>ᵘ</am><ex>ur</ex> of that blisfull mayden fre </l>
+<lb/><l xml:id="PR-213-Hl3" n="213">till fro my tonge taken is þᵉ greyne </l>
+<pb xml:id="Hl3-100r" n="100r" facs="100r.jpg"/>
+<lb/><l xml:id="PR-214-Hl3" n="214">and afterward this seyd she to me </l>
+<lb/><l xml:id="PR-215-Hl3" n="215">my litell child now wol y fecche the </l>
+<lb/><l xml:id="PR-216-Hl3" n="216">when þ<am>ᵗ</am><ex>at</ex> the greyn is fro thi tonge y take </l>
+<lb/><l xml:id="PR-217-Hl3" n="217">be not a garst y will the not forsake </l>
+<lb/><l xml:id="PR-218-Hl3" n="218">¶ This holy monk þᵉ Abbat hym mene y </l>
+<lb/><l xml:id="PR-219-Hl3" n="219">his tonge out caught <am>⁊</am><ex>and</ex> toke away þᵉ greyn </l>
+<lb/><l xml:id="PR-220-Hl3" n="220">and he yeaue vp the goost ful softely </l>
+<lb/><l xml:id="PR-221-Hl3" n="221">and whan þˢ Abbat had this wond<hi rend="sup">9</hi> seyn </l>
+<lb/><l xml:id="PR-222-Hl3" n="222">his salt teris trilled doun as reyn </l>
+<lb/><l xml:id="PR-223-Hl3" n="223">and gruffell he fell al plat vpon þᵉ gᵒunde </l>
+<lb/><l xml:id="PR-224-Hl3" n="224">and stille he lay as he had lay y bounde </l>
+<lb/><l xml:id="PR-225-Hl3" n="225">¶ The couent lay eke on the pavyment </l>
+<lb/><l xml:id="PR-226-Hl3" n="226">wepyng <am>⁊</am><ex>and</ex> worshipyng Crist<am>̉</am><ex>er/re</ex> mod<hi rend="sup">9</hi> dere </l>
+<lb/><l xml:id="PR-227-Hl3" n="227">and after thei risen <am>⁊</am><ex>and</ex> forth ben went </l>
+<lb/><l xml:id="PR-228-Hl3" n="228">and toke away this martir from þᵉ bere </l>
+<lb/><l xml:id="PR-229-Hl3" n="229">And in a tumbe of marbell ston clere </l>
+<lb/><l xml:id="PR-230-Hl3" n="230">enclosen thei his litell body swete </l>
+<lb/><l xml:id="PR-231-Hl3" n="231">ther he is now god leve vs for to mete </l>
+<lb/><l xml:id="PR-232-Hl3" n="232">¶ O yong hugh of lyncolne slayn al so </l>
+<lb/><l xml:id="PR-233-Hl3" n="233">w<am>ᵗ</am><ex>ith</ex> cursed Iewes as it is notable </l>
+<lb/><l xml:id="PR-234-Hl3" n="234">for it is but a litell while ago </l>
+<lb/><l xml:id="PR-235-Hl3" n="235">pᵃy eke for vs we synfull folk vnstable </l>
+<lb/><l xml:id="PR-236-Hl3" n="236">that of his mercy god so mcyable </l>
+<lb/><l xml:id="PR-237-Hl3" n="237">on vs his gret mercy he multiplye </l>
+<lb/><l xml:id="PR-238-Hl3" n="238">for reuerence of his mod<hi rend="sup">9</hi> Marie   </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

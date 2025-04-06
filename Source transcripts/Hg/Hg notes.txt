@@ -1,0 +1,46 @@
+==== Manuscript name and Mosser link  ====
+
+Aberystwyth, National Library of Wales Peniarth 392 D. Mosser: Hg.
+
+==== Original construction  ====
+
+The original state of Hg can be expressed as 26 quires of 8 (208 folios), three quires of 6, a quire of 2 and a quire of 10 (30 folios): 238 folios.  
+
+==== Missing folios  ====
+
+An indeterminate number at the end of PA, which breaks off at PA 476 at the base of 238v, with a catchword to the now lost next quire. Two quires of eight would have been required to carry the remainder of PA (with or without RT).
+
+
+==== Added folios  ====
+
+11 folios were added in the course of the manuscript's writing: one as a singleton in quire 21, following the first folio in the quire (folio 127); 10 folios containing NU (effectively a quire of 10) were inserted in the centre of quire 22, otherwise a quire of six, to make this a quire of 16, following folio 137.  Thus, we number the singleton as folio 127a (following 127 in this numbering), and the ten as folios 137a1 through 137a10 (following 137). 
+
+==== Absent text corresponding to the missing folios  ====
+
+PA 477-end, and possibly RT: in a presumed two quires following folio 238.
+
+==== Notes  ====
+
+In this numbering we ignore the singleton missal leaf formerly bound at the beginning of the manuscript, and numbered 1 in previous foliaton, and thus the Tales commences on 1r (not 2r, as in previous foliations).  
+
+As with Ha4,  different page header styles suggest the presence in the manuscript of a second distinct page format: the quires containing PA and the 10 folios containing NU have a distinctive trefoil decoration in the running head, found nowhere else in the manuscript. It is possible, as Stubbs suggests, that these sections were originally written as part of a separate, parallel copy of the Tales.
+
+In the original construction of the manuscript what are now quires 13-15, containing the sequence L29-MO-NP-MA, followed TM and not SU. Evidence for this is as follows:
+1.  In every other relatively complete manuscript of the Tales, including all the 'O' manuscripts, MO-NP follow directly upon TM, with L29 acting as a bridge from TM to MO.
+2. The first lines of L29 in this manuscript (as in every manuscript which has L29) refer explicitly to TM as the tale immediately preceding.
+3.  The first lines of L37, the Parson's Prologue, likewise refers to the previous tale as being MA (though this is written over an erasure).
+Together, 2 and 3 indicate that the sequence L29-MO-NP-MA should follow TM and precede L37. Accordingly, we number the three quires containing L29 through MA according to their original position in the manuscript, following on from TM, and with the numbering of the quires commencing with L7 continuing on from the sequence concluding with SU.
+
+As Stubbs and others have observed, the discontinuities, hesitations and anomalies in the manuscript provide a window on the earliest physical state of the text of the Tale, as it became available to its first scribes. Apparently the scribe began copying before all the text was available, and at several points the arrival of unexpected text and the failure to arrive of expected text disturb the flow of copying. The singleton at folio 151a is likely an example of the first.  Examples of the latter include the blank folio at the end of SU (86); the blank verso at the end of ML (103v); the 12 lines left blank at the base of 127v.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|2-87 |1-86|
+|88-111 |199-222|
+|112-152  |87-127 |
+|153 |127a |
+|154-163 |128-137 |
+|164-173 |137a1-137a10 |
+|174-234 |138-198  |
+|235-250 | 223-238|
