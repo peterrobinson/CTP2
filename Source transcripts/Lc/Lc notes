@@ -1,0 +1,26 @@
+Lc Notes
+
+Mosser states that the manuscript was originally composed of 36 quires of 8 and a final quire of 6: hence, 294 folios. (This corrects the first version of his catalogue, in which his count of quires skipped quire 27, and he numbered fourteen folios in the final quire of six.) The first leaf of quire 27, folio 209, is missing. Absent text corresponding to the missing folio 209 is L28 41-end; TM 1-31.
+
+A distinctive feature of the manuscript is that several leaves have been removed, replaced by seventeenth century pages, and the text recopied onto them.  The replacement leaves are numbered as "1a", where "1" is the number of the folio removed and replaced.  The original leaves removed are: the first leaf of the first quire (folio 1); the fifth leaf of quire 12 (folio 93); the fifth leaf of quire 16 (folio 125); the sixth leaf of quire 26 (folio 206); the fifth leaf of quire 37 (folio 293); the last leaf of this last quire is blank.
+
+Order: GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ L20 ME WBP WBT L10 FR L11 SU CL L13 L17 FK NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT L28 TM MO L30 NP L36 MA L37 PA RT
+
+Oxford/DMU GP L1 MI WBP
+Supplied KT L2 RE SQ L20 WBT L10 FR L11 SU NU L33 CY PH L21 L22 SH L24 L25 TT L28 TM L36 MA PA RT
+DWM L3 CO
+Murcia TG
+DMU ME L13 L17 L34 L37
+NYU CL
+Sheffield FK
+Munster PD
+BYU PR MO L30 NP
+Posnan L7 ML L8
+
+[]/1r -43v/44r  = 2-45
+image 46 misnumbered as 47, and thereafter
+44v/45r - 208v/[] = 47-211
+209 missing
+[]/210r - = 211-
+
+regexp {^([0-9]*)([a]*)([0-9]*)([vr])$} $facs whole facsn add addnum side

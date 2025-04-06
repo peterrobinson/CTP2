@@ -1,0 +1,49 @@
+Ld2 Notes
+
+The manuscript consists of 20 quires of 12: originally, 240 folios. The last leaf of quire 12 (folio 144) is missing, with the text of the manuscript finishing at TT 154.  Absent text corresponding to the missing folio 144 is WBT 1096-63. WBP 803-830 are added on a singleton folio tipped in after folio 139, and so numbered 139a in our system.
+
+L7/ML are disordered as follows, beginning on 82v. L7 91 ("Me were looth , be likned doutelees") is followed, without any indication of a break, by ML 75 ("Hom to Surrye"). An asterisk in the margin, apparently by a later scribe, marks the transition, with the beginning of L7 92 ("To Muses..") written in the right margin, and a note drawing attention to the discrepancy. The text of ML continues then to ML 156, on 83v, and then breaks back to L7 92, carrying through to the end of L7, and then following with ML 1, continuing to ML 74 on 85r. ML 74 is then followed by ML 239, continuing to ML 320 on 86r, which is then followed by ML 157, continuing to ML 238 on 87v, whereupon the proper order resumes with ML 321.
+As Mosser suggests, this likely stems from the dissarrangement of two sheets in the exemplar.  It appears that originally there were 4 pages, each holding around 80 lines of text: 
+[i] L7 92-98 and ML 1-74
+[ii] ML 75-156
+[iii] ML 157-238
+[iv] ML 239-320
+It appears that in the exemplar of Ld2 (and Ry2) these pages were disordered, as follows:
+[ii] ML 75-156
+[i] L7 92-98 and ML 1-74
+[iv] ML 239-320
+[iii] ML 157-238
+One can explain this as follows: these were the inner two sheets of a quire, conjoint as follows: [i].[iv] outside the innermost [ii].[iii]. Swapping the two sheets, so that [i].[iv] becomes innermost with [ii].[iii] outside it, would give the order of text we find in Ld2 and Ry2.
+ 
+Order: GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ L20 ME L16 WBP WBT L10 FR L11 SU CL L13 L17 FK NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT 
+
+Oxford/DMU GP L1 MI WBP 
+Supplied KT L2 RE TG L7 ML SQ WBT L10 FR L11 SU CL NU L33 CY PH L21 L22 SH L24 PR L25 TT
+DWM L3 CO
+Murcia 
+DMU  L20 ME L16 L13	L34																																																																																																																																																			
+NYU 
+Sheffield FK
+Munster PD
+BYU 
+Posnan L8
+
+image for 1r MISSING
+1v/2r - 35v/36r = 4a/4b- 38a/38b
+image 39 duplicates 38
+36v/37r - 139v/[140r] = 40a/40ab - 143a/[143b]
+139ar = 143b
+139av -- printed unrelated text (a thirteenth-century treatise on canon law, DWM) = 144a
+140r = 144b
+images for 140v-141r MISSING
+141v/142r - 143v/[144r] = 145a/145b - 147a/[147b]
+[144v]/145r - 214v/215r  = [147a]/147b - 217a/217b
+images for 215v/216r MISSING
+216v/217r - = 218a/218b -
+
+Correspondence
+traditional
+1-139 1-139
+140a 139a
+140-143 140-143
+144 - = 145 -

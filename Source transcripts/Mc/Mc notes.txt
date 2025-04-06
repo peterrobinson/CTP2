@@ -1,0 +1,34 @@
+Mc Notes
+
+The manuscript originally consisted of 32 quires of 8, 256 folios, plus fly-leaves.  The first eight quires are lost, and hence our numbering begins on folio 65. Following usual practice, this numbering excludes the two flyleaves at the beginning (i-ii) and the single fly-leaf at the end. Absent text corresponding to the missing folios 1-64 is the whole of GP, KT, L1, MI and the first four lines of RE: around 3860 lines in total, around 30 lines per page.  The text breaks off, on 256v, at CY 338a.
+
+The four lines added at the end of CO on 74v, unique to this MS, are numbered 58-1 to 58-4.
+
+The placement of the whole WBP-SU sequence, between MO and L30, is rather remarkable.
+ 
+Order:  L2 RE L3 CO L7 ML L8 SQ CL L13 SH L24 PR L25 TT L28 TM L29 MO WBP WBT L10 FR L11 SU L30 NP L36 MA NU L33 CY
+
+Oxford/DMU:  WBP
+Supplied: L2 RE SQ WBT L10 FR L11 SU L36 MA NU L33 CY
+Murcia 
+Mosser L3 CO
+DMU  	L13	
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP																																																																																																																																									
+NYU CL (first four folios only or so)
+Sheffield 
+Munster 
+Posnan L7 ML L8
+
+Images:
+[0v]/65r -   74v/75r = [1a]/1b - 11a/11b
+75v/76r -- 217v/218r = 12a/12b -- 154a/154b
+Missing image for 218v/219r
+219v/220r -- 248v/249r = 155a/155b - 184a/184b
+Missing image for 249v/250r
+250v/251r - = 185a/185b = 
+Correspondence
+traditional
+1-139 1-139
+140a 139a
+140-143 140-143
+144 - = 145 -

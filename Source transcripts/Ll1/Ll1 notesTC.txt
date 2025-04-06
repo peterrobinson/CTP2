@@ -1,0 +1,32 @@
+==== Manuscript name and Mosser link  ====
+
+Wiltshire, Longleat House (Marquess of Bath) Longleat MS 257. Mosser: Ll1.
+
+==== Original construction  ====
+
+27 quires of 8: 216 folios.
+
+==== Missing folios  ====
+
+The fourth leaf of quire 9 (folio 68) is missing; the two outer bifolia 1.8 and 2.7 (folios 81-82, 87-88) are missing from quire 11
+
+ ==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folio  ====
+
+KT 1383-1474 (folio 68); CL 380-564 (folios 81-82); CL 993-1117 (folios 87-88).
+
+==== Notes  ====
+
+KT is on folios 53 to 77; CL on 77-89.
+
+Mosser's foliation takes account of the missing folios up to the end of quire 13, and so accords with ours through the segment containing CT. However, his foliation skips two missing folios in quire 14, and two further folios in quire 24, so rendering 212 (not 216) folios.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+Through end of segment containing CT (to folio 89).
+
+|Traditional (Mosser)	|New CT foliation |
+|1-89|1-89|

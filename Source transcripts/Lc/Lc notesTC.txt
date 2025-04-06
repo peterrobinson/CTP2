@@ -1,0 +1,31 @@
+==== Manuscript name and Mosser link  ====
+
+Staffordshire, Lichfield Cathedral Library MS 29. Mosser: Lc
+
+==== Original construction  ====
+
+36 quires of 8 and a final quire of 6: 294 folios. 
+
+This corrects the first version of Mosser's catalogue, in which his count of quires skipped quire 27, and he numbered fourteen folios in the final quire of six.
+
+==== Missing folios  ====
+
+ The first leaf of quire 27, folio 209, is missing.
+ 
+ ==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+L28 41-end; TM 1-31 (folio 209).
+
+==== Notes  ====
+
+
+A distinctive feature of the manuscript is that several leaves have been removed, replaced by seventeenth century pages, and the text recopied onto them.  The replacement leaves are numbered as "1a", where "1" is the number of the folio removed and replaced.  The original leaves removed are: the first leaf of the first quire (folio 1); the fifth leaf of quire 12 (folio 93); the fifth leaf of quire 16 (folio 125); the sixth leaf of quire 26 (folio 206); the fifth leaf of quire 37 (folio 293); the last leaf of this last quire is blank.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+Folio 209, though absent, is included in Mosser's foliation; hence our foliation is identical with his.
+|

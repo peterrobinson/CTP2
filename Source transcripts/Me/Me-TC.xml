@@ -1,0 +1,354 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xmlns:det="http://textualcommunities.usask.ca/">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Me</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+ 				<bibl det:document="Me"></bibl>
+				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+					<respStmt n="L30 NP">
+						<resp>Original transcription and corrections:</resp>
+						<name n="BYU UoS">Brigham Young team; conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+ 				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>Aberystwyth</settlement>
+						<repository>National Library of Wales</repository>
+						<idno>MS 21972 D</idno>
+						<msName>Me</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl det:documentRefsDecl="Manuscript"  det:entityRefsDecl="Text">
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb xml:id="Me-1r" n="1r" facs="1r.jpg"/>
+<div xml:id="L30-Me" n="L30" type="G">
+<lb/><l xml:id="L30-4-14-Me" n="4-14"> paree no re </l>
+<lb/><l xml:id="L30-4-15-Me" n="4-15">n ne compleyne </l>
+<lb/><l xml:id="L30-4-16-Me" n="4-16">d als it is a pne </l>
+<lb/><l xml:id="L30-4-17-Me" n="4-17">to here of heuynesse </l>
+<lb/><l xml:id="L30-4-18-Me" n="4-18">more of this so god you blesse </l>
+<lb/><l xml:id="L30-4-19-Me" n="4-19"> al this compaignye </l>
+<lb/><l xml:id="L30-4-20-Me" n="4-20"> nys not worth a butterlye </l>
+<lb/><l xml:id="L30-5-Me" n="5">s no disport ne game </l>
+<lb/><l xml:id="L30-6-Me" n="6">sire monk o daun Piers by thy name </l>
+<lb/><l xml:id="L30-7-Me" n="7">y you hertly telle vs somwhat elles </l>
+<lb/><l xml:id="L30-8-Me" n="8">ly nere clynkyng of your belles </l>
+<lb/><l xml:id="L30-9-Me" n="9">hat o<am>ᵘ</am><ex>ur</ex> brydel honge on euery syde </l>
+<lb/><l xml:id="L30-10-Me" n="10">y heuene kyng þ<am>ᵗ</am><ex>at</ex> for vs alle deyde </l>
+<lb/><l xml:id="L30-11-Me" n="11"> sholde or this han fallen dovn for slepe </l>
+<lb/><l xml:id="L30-12-Me" n="12">hough þe slough had neuer ben so depe </l>
+<lb/><l xml:id="L30-13-Me" n="13">nne had your tale al ben tolde in vayne </l>
+<lb/><l xml:id="L30-14-Me" n="14">For cery as þat thise clerkes sayne </l>
+<lb/><l xml:id="L30-15-Me" n="15">Where as a man may haue noon audience </l>
+<lb/><l xml:id="L30-16-Me" n="16">Nat helpeth it to tellen his sentence </l>
+<lb/><l xml:id="L30-17-Me" n="17">Wel I wot þe substance is in me </l>
+<lb/><l xml:id="L30-18-Me" n="18">f any thg shal wel reported be </l>
+<lb/><l xml:id="L30-19-Me" n="19">ire seye somwhat of huntyng I you praye </l>
+<lb/><l xml:id="L30-20-Me" n="20">ay qd this Monk I ne haue no lust to playe </l>
+<lb/><l xml:id="L30-21-Me" n="21">Now let an other telle as I haue tolde </l>
+<lb/><l xml:id="L30-22-Me" n="22">Than spake owre hoost with rude speche and bolde </l>
+<lb/><l xml:id="L30-23-Me" n="23">And seyde vnto þe nonnes preest anoon </l>
+<lb/><l xml:id="L30-24-Me" n="24">Come nere thow preest come hider thow <am>ʆ</am><ex>ser/sir</ex> Iohn </l>
+<lb/><l xml:id="L30-25-Me" n="25">Telle vs such thyng as may owre hertes glade </l>
+<lb/><l xml:id="L30-26-Me" n="26">Be blyth though  thow ride vpon a iade </l>
+<lb/><l xml:id="L30-27-Me" n="27">What though th hors be both foule and  </l>
+<lb/><l xml:id="L30-28-Me" n="28">If ȝe wil ser the rekke nat a bene </l>
+<lb/><l xml:id="L30-29-Me" n="29">Loke þat thy hert be mery euer moo </l>
+<lb/><l xml:id="L30-30-Me" n="30">Yis Sire qd he / yis hoost so mote I go </l>
+<lb/><l xml:id="L30-31-Me" n="31">But I be mery ywis I wil be blamed </l>
+<lb/><l xml:id="L30-32-Me" n="32">And right anoon his tale he hath attamed </l>
+<lb/><l xml:id="L30-33-Me" n="33">A nd thus he said vnto vs euerychon </l>
+<lb/><l xml:id="L30-34-Me" n="34">T his swete preest this goodly man Sire Iohn </l>
+<lb/><l xml:id="L30-34-1-Me" n="34-1"><hi rend="other">Here endeth the <am>ꝓ</am><ex>pro</ex>loge .</hi> </l>
+
+</div>
+<div xml:id="NP-Me" n="NP" type="G">
+<lb/><l xml:id="NP-IR-Me" n="IR"><hi rend="other">Here endeth the <am>ꝑ</am><ex>per/par</ex>loge and bygynneth the tale </hi> </l>
+<pb xml:id="Me-1v" n="1v" facs="1v.jpg"/>
+<lb/><l xml:id="NP-2-Me" n="2">om dwelng  </l>
+<lb/><l xml:id="NP-3-Me" n="3"> groue stondyng  </l>
+<lb/><l xml:id="NP-4-Me" n="4"> widwe of which I tel  </l>
+<lb/><l xml:id="NP-5-Me" n="5"> d she was last a wyf </l>
+<lb/><l xml:id="NP-6-Me" n="6">I pacience ladde a sympul lyf </l>
+<lb/><l xml:id="NP-7-Me" n="7">F litel was hir catel and hir rente </l>
+<lb/><l xml:id="NP-8-Me" n="8">B housbondry of which as god hir sente </l>
+<lb/><l xml:id="NP-9-Me" n="9">She fonde hir self and eke hir doughtren two </l>
+<lb/><l xml:id="NP-10-Me" n="10">Three large sowes had she / and no moo </l>
+<lb/><l xml:id="NP-11-Me" n="11">Three keen and eke a sheep þ<am>ᵗ</am><ex>at</ex> height Malle </l>
+<lb/><l xml:id="NP-12-Me" n="12">Ful sooty was hir boures and eke hir halle </l>
+<lb/><l xml:id="NP-13-Me" n="13">In which she ete ful many a sclender mele </l>
+<lb/><l xml:id="NP-14-Me" n="14">Of poyna<ex>̄</ex><am>m</am>t sauce ne knewe she never a dele </l>
+<lb/><l xml:id="NP-15-Me" n="15">No deynte morcel passed thourgh hir throte </l>
+<lb/><l xml:id="NP-16-Me" n="16">Hir diet was a cordyng to hir cote </l>
+<lb/><l xml:id="NP-17-Me" n="17">Replecion ne made hir neuer sike </l>
+<lb/><l xml:id="NP-18-Me" n="18">Atempre diete was al hir phisike </l>
+<lb/><l xml:id="NP-19-Me" n="19">And excercise and hertly suffisance </l>
+<lb/><l xml:id="NP-20-Me" n="20">The goute ne le r no thyng for to daunce </l>
+<lb/><l xml:id="NP-21-Me" n="21">Ne apoplexie ent nat hir hed </l>
+<lb/><l xml:id="NP-22-Me" n="22">Ne wyn ne k she neyther white ne red </l>
+<lb/><l xml:id="NP-23-Me" n="23">Hr bord was serued moost with white and blakke </l>
+<lb/><l xml:id="NP-24-Me" n="24">Mlke and brounebred in which she fond o lakke </l>
+<lb/><l xml:id="NP-25-Me" n="25">Seynde bacon and some tyme an eye or tweye </l>
+<lb/><l xml:id="NP-26-Me" n="26">For she was as it were a maner deye </l>
+<lb/><l xml:id="NP-27-Me" n="27"><hi rend="red">¶</hi>A yerd she had enclosed al aboute </l>
+<lb/><l xml:id="NP-28-Me" n="28">With stikkes and a drye diche with oute </l>
+<lb/><l xml:id="NP-29-Me" n="29">In which she had a cokke hette chauntclere </l>
+<lb/><l xml:id="NP-30-Me" n="30">In al þ<am>ᵗ</am><ex>at</ex> land of crowyng nas his pyer </l>
+<lb/><l xml:id="NP-31-Me" n="31">His vois was murier than the murye or </l>
+<lb/><l xml:id="NP-32-Me" n="32">On masse dayes þat in cherches goon </l>
+<lb/><l xml:id="NP-33-Me" n="33">Wel sykerer was his crowyng in his logge </l>
+<lb/><l xml:id="NP-34-Me" n="34">Than is a clokke or any abbey orlogge </l>
+<lb/><l xml:id="NP-35-Me" n="35">By nature he knewe eche assencion </l>
+<lb/><l xml:id="NP-36-Me" n="36">Oof thequynoxial in thilk toun </l>
+<lb/><l xml:id="NP-37-Me" n="37">For whan degrees xv were ascended </l>
+<lb/><l xml:id="NP-38-Me" n="38">Thanne crewe he that it myght not ben amended </l>
+<lb/><l xml:id="NP-39-Me" n="39"><hi rend="red">¶</hi> His kombe was redder than the fyn coral </l>
+<lb/><l xml:id="NP-40-Me" n="40">And batailled as it were a castel wal </l>
+<pb xml:id="Me-2r" n="2r" facs="2r.jpg"/>
+<lb/><l xml:id="NP-201-Me" n="201">  dre soth to se </l>
+<lb/><l xml:id="NP-202-Me" n="202">  poynt how he was  </l>
+<lb/><l xml:id="NP-203-Me" n="203">  face pale oew </l>
+<lb/><l xml:id="NP-204-Me" n="204">  is dreme h nd  ewe </l>
+<lb/><l xml:id="NP-205-Me" n="205">  as sone as it was day </l>
+<lb/><l xml:id="NP-206-Me" n="206">  In he toke his way </l>
+<lb/><l xml:id="NP-207-Me" n="207">  he come to þis oxes stalle </l>
+<lb/><l xml:id="NP-208-Me" n="208">  awe he bigan to calle </l>
+<lb/><l xml:id="NP-209-Me" n="209"> hostler hym answerd anoon </l>
+<lb/><l xml:id="NP-210-Me" n="210"> seyde / Sire yo<am>ᵘ</am><ex>ur</ex> fela is a goon </l>
+<lb/><l xml:id="NP-211-Me" n="211"> sone as day he wen out of the toun </l>
+<lb/><l xml:id="NP-212-Me" n="212">his man gan fallen in suspeccioun </l>
+<lb/><l xml:id="NP-213-Me" n="213">emembryng on his dremes þ<am>ᵗ</am><ex>at</ex> he mette </l>
+<lb/><l xml:id="NP-214-Me" n="214">nd forth he goth no lenger wold he lette </l>
+<lb/><l xml:id="NP-215-Me" n="215">Vnto the west gate of the toun and fond </l>
+<lb/><l xml:id="NP-216-Me" n="216">A donge cart went for to donge lond </l>
+<lb/><l xml:id="NP-217-Me" n="217">That was arrayed in the same wyse </l>
+<lb/><l xml:id="NP-218-Me" n="218">That ye han herd the ded man deuyse </l>
+<lb/><l xml:id="NP-219-Me" n="219">And with an hardy hert he gan to crye </l>
+<lb/><l xml:id="NP-220-Me" n="220">Vengeance and iustyce of this felonye </l>
+<lb/><l xml:id="NP-221-Me" n="221">My felawe morthered is this same nyght </l>
+<lb/><l xml:id="NP-222-Me" n="222">And in this cart he lith gapyng vp right </l>
+<lb/><l xml:id="NP-223-Me" n="223">I crye out on the Ministres qd he </l>
+<lb/><l xml:id="NP-224-Me" n="224">That sholden kepe and rulen this cyte </l>
+<lb/><l xml:id="NP-225-Me" n="225">Harrow allas here lyth my felaw slayne </l>
+<lb/><l xml:id="NP-226-Me" n="226">What sholde I more vnto this tale sayne </l>
+<lb/><l xml:id="NP-227-Me" n="227">The peple out sterte and cast þe cart to grounde </l>
+<lb/><l xml:id="NP-228-Me" n="228">And in the myddel of the donge they fonde </l>
+<lb/><l xml:id="NP-229-Me" n="229">The ded man þat morthered was al newe </l>
+<lb/><l xml:id="NP-230-Me" n="230">O blisful god þ<am>ᵗ</am><ex>at</ex> art so iuste and trewe </l>
+<lb/><l xml:id="NP-231-Me" n="231">Lo how thow biwreyest mordre alweye </l>
+<lb/><l xml:id="NP-232-Me" n="232">Mordre wil out that se we day by day </l>
+<lb/><l xml:id="NP-233-Me" n="233">Mordre is so wlatsom and so abhomynable </l>
+<lb/><l xml:id="NP-234-Me" n="234">That god þ<am>ᵗ</am><ex>at</ex> is so iuste and so resonable </l>
+<lb/><l xml:id="NP-235-Me" n="235">That he ne wil nat suffre it helyd be </l>
+<lb/><l xml:id="NP-236-Me" n="236">Though it abyde a yer or two or three </l>
+<lb/><l xml:id="NP-237-Me" n="237">Mordre wil oute this is my conclusyou </l>
+<lb/><l xml:id="NP-238-Me" n="238">And right anoon mynystres of the toun </l>
+<pb xml:id="Me-2v" n="2v" facs="2v.jpg"/>
+<lb/><l xml:id="NP-240-Me" n="240">  e ened </l>
+<lb/><l xml:id="NP-241-Me" n="241">  r wikkednesse noo </l>
+<lb/><l xml:id="NP-242-Me" n="242">  an hng by the ekke boon </l>
+<lb/><l xml:id="NP-243-Me" n="243"> en  t  e to dred </l>
+<lb/><l xml:id="NP-244-Me" n="244"> tes in þ e b I rede </l>
+<lb/><l xml:id="NP-245-Me" n="245">  the next pre after this </l>
+<lb/><l xml:id="NP-246-Me" n="246"> be t so ha I ye or blys </l>
+<lb/><l xml:id="NP-247-Me" n="247">T men þ<am>ᵗ</am><ex>at</ex> wolde han passed ouer þe see </l>
+<lb/><l xml:id="NP-248-Me" n="248">F certeyne cause in to ferre contree </l>
+<lb/><l xml:id="NP-249-Me" n="249">If that the wynd ne had ben contrarye </l>
+<lb/><l xml:id="NP-250-Me" n="250">That made hem in a Citee for to e </l>
+<lb/><l xml:id="NP-251-Me" n="251">That stode ful merye vpon an hauen syde </l>
+<lb/><l xml:id="NP-252-Me" n="252">But on a day agayn the euen tyde </l>
+<lb/><l xml:id="NP-253-Me" n="253">The wynde gan caunge and blewe right as hem leste </l>
+<lb/><l xml:id="NP-254-Me" n="254">Iolyf and glad they went vnto her reste </l>
+<lb/><l xml:id="NP-255-Me" n="255">And casten hem ful erly fo to sayle </l>
+<lb/><l xml:id="NP-256-Me" n="256">But that  man fil a gret mervayle </l>
+<lb/><l xml:id="NP-257-Me" n="257"><hi rend="red">¶</hi> T hat on of hem in slepyng as he lay </l>
+<lb/><l xml:id="NP-258-Me" n="258">He mette  wonder dreme agayn the day </l>
+<lb/><l xml:id="NP-259-Me" n="259">Hym thoug stood by his beddes syde </l>
+<lb/><l xml:id="NP-260-Me" n="260">And hym comded þ<am>ᵗ</am><ex>at</ex> he shold abyde </l>
+<lb/><l xml:id="NP-261-Me" n="261">And seyd hys if thow tomorwe wende </l>
+<lb/><l xml:id="NP-262-Me" n="262">Thow synte my tale is at an ende </l>
+<lb/><l xml:id="NP-263-Me" n="263">He woke and  his felwe what he mette </l>
+<lb/><l xml:id="NP-264-Me" n="264">And preyed hym his viagor to lette </l>
+<lb/><l xml:id="NP-265-Me" n="265">As for that day he preyde hym for to abyde </l>
+<lb/><l xml:id="NP-266-Me" n="266">His felawe þ<am>ᵗ</am><ex>at</ex> lay by his beddes syde </l>
+<lb/><l xml:id="NP-267-Me" n="267">Gan for to lagh and scorned hym ful fast </l>
+<lb/><l xml:id="NP-268-Me" n="268">No dreem  he may so myn hert agast </l>
+<lb/><l xml:id="NP-269-Me" n="269">That I wil letten for to do my thynges </l>
+<lb/><l xml:id="NP-270-Me" n="270">I sette nat  strawe by my dremynges </l>
+<lb/><l xml:id="NP-271-Me" n="271">For sweuenes ben but vanytees and iapes </l>
+<lb/><l xml:id="NP-272-Me" n="272">Men dreme al day of owles and of apes </l>
+<lb/><l xml:id="NP-273-Me" n="273">And eke of many a mase ther with al </l>
+<lb/><l xml:id="NP-274-Me" n="274">Men dreme of thyng that neuer was ne shal </l>
+<lb/><l xml:id="NP-275-Me" n="275">But sith I see thow wolt here abyde </l>
+<lb/><l xml:id="NP-276-Me" n="276">And thus forslouthen wilfully thy tyde </l>
+<lb/><l xml:id="NP-277-Me" n="277">God wot it reweth me and haue good day </l>
+<lb/><l xml:id="NP-278-Me" n="278">And thus he toke his leue and went his way </l>
+<pb xml:id="Me-3r" n="3r" facs="3r.jpg"/>
+<lb/><l xml:id="NP-364-Me" n="364">     hall </l>
+<lb/><l xml:id="NP-365-Me" n="365">      ere in h pasture </l>
+<lb/><l xml:id="NP-366-Me" n="366">     e his  </l>
+<lb/><l xml:id="NP-367-Me" n="367">     whic w igan </l>
+<lb/><l xml:id="NP-368-Me" n="368">    god f k  a </l>
+<lb/><l xml:id="NP-369-Me" n="369">  d ypaed were al </l>
+<lb/><l xml:id="NP-370-Me" n="370">  n thrit dayes a  </l>
+<lb/><l xml:id="NP-371-Me" n="371">  lere in al his pryde </l>
+<lb/><l xml:id="NP-372-Me" n="372">   walkyng hym e </l>
+<lb/><l xml:id="NP-373-Me" n="373">   eyen to the ht so </l>
+<lb/><l xml:id="NP-374-Me" n="374"> in the signe of t had yronne </l>
+<lb/><l xml:id="NP-375-Me" n="375">enty degrees and oon  som what more </l>
+<lb/><l xml:id="NP-376-Me" n="376">d knew by kynde and by non h l </l>
+<lb/><l xml:id="NP-377-Me" n="377">hat it was pryme and  wbl steuene </l>
+<lb/><l xml:id="NP-378-Me" n="378">The sonne he seyde clomben vpon heene </l>
+<lb/><l xml:id="NP-379-Me" n="379">Fourty degrees and oon and moe ywys </l>
+<lb/><l xml:id="NP-380-Me" n="380">Madame Patelote my worldes blys </l>
+<lb/><l xml:id="NP-381-Me" n="381">Herkeneth this blisful briddes how they synge </l>
+<lb/><l xml:id="NP-382-Me" n="382">nd see thise fresshe floures hw they s </l>
+<lb/><l xml:id="NP-383-Me" n="383">Ful is myn hert of blysse and of solas </l>
+<lb/><l xml:id="NP-384-Me" n="384">But sodeynly hym fil a sorwe </l>
+<lb/><l xml:id="NP-385-Me" n="385">For euer the latter ende of ioye i w </l>
+<lb/><l xml:id="NP-386-Me" n="386">God wote that worldly ioye  sone ag </l>
+<lb/><l xml:id="NP-387-Me" n="387">And if a Rethor couth faire endi </l>
+<lb/><l xml:id="NP-388-Me" n="388">He in a cronycle saufly myght <space quantity="2" unit="chars"/> wryte </l>
+<lb/><l xml:id="NP-389-Me" n="389">As for a souereigne notabilite </l>
+<lb/><l xml:id="NP-390-Me" n="390">Now euery wyse man lat hym herken me </l>
+<lb/><l xml:id="NP-391-Me" n="391">This sie is al so trewe I vndertake </l>
+<lb/><l xml:id="NP-392-Me" n="392">As is the book f Lancelot de lake </l>
+<lb/><l xml:id="NP-393-Me" n="393">That women holde in gret reuerence </l>
+<lb/><l xml:id="NP-394-Me" n="394">N wil I tourne agayn to my sntence </l>
+<lb/><l xml:id="NP-395-Me" n="395"><hi rend="red">¶</hi>  ful of sly Iniquite </l>
+<lb/><l xml:id="NP-396-Me" n="396">T in the groue had woned yeres they </l>
+<lb/><l xml:id="NP-397-Me" n="397">  ymagynacion forcast </l>
+<lb/><l xml:id="NP-398-Me" n="398">The same night thrgh out the hegges brast </l>
+<lb/><l xml:id="NP-399-Me" n="399">In to the yerd / ther Chauntclere the faire </l>
+<lb/><l xml:id="NP-400-Me" n="400">Was wont and eke his wyues to repaire </l>
+<lb/><l xml:id="NP-401-Me" n="401">And in a bedd of wortes stille he lay </l>
+<lb/><l xml:id="NP-402-Me" n="402">Til it was passed vnder of the day </l>
+<pb xml:id="Me-3v" n="3v" facs="3v.jpg"/>
+<lb/><l xml:id="NP-403-Me" n="403">Wting his ty a </l>
+<lb/><l xml:id="NP-404-Me" n="404">Ay d homycydes a </l>
+<lb/><l xml:id="NP-405-Me" n="405">T iwayte liggen to morde men </l>
+<lb/><l xml:id="NP-406-Me" n="406">O  rdrou gyng h den </l>
+<lb/><l xml:id="NP-407-Me" n="407">O e Scariot ewe Glon </l>
+<lb/><l xml:id="NP-408-Me" n="408">Fals dissymuloure Grek Syno<am rend="ū">ıı̄</am><ex>un</ex> </l>
+<lb/><l xml:id="NP-409-Me" n="409">Tha broughtest T al vtterly to sorwe </l>
+<lb/><l xml:id="NP-410-Me" n="410">O Cte acursed be the morwe </l>
+<lb/><l xml:id="NP-411-Me" n="411">Thaow  the yerd flaugh fro the bem </l>
+<lb/><l xml:id="NP-412-Me" n="412">Thow were ful wel ywarned by thy dr </l>
+<lb/><l xml:id="NP-413-Me" n="413">That hilk day was <am>ꝑ</am><ex>per/par</ex>ilous to the </l>
+<lb/><l xml:id="NP-414-Me" n="414">But what that god forwote  nedes be </l>
+<lb/><l xml:id="NP-415-Me" n="415">After þe opynyon of certeyne clerkes </l>
+<lb/><l xml:id="NP-416-Me" n="416">Witnesse on hym þ<am>ᵗ</am><ex>at</ex> any <am>ꝑ</am><ex>per/par</ex>f clerk is </l>
+<lb/><l xml:id="NP-417-Me" n="417">That in scole is grt altercacion </l>
+<lb/><l xml:id="NP-418-Me" n="418">In this matere and gret disputisou </l>
+<lb/><l xml:id="NP-419-Me" n="419">And hath ben of an hundreth thousand men </l>
+<lb/><l xml:id="NP-420-Me" n="420">But I ne  not bulte it to the bren </l>
+<lb/><l xml:id="NP-421-Me" n="421">As can the holy doctour Augustyn </l>
+<lb/><l xml:id="NP-422-Me" n="422">Or Boece or the Bisshop Bdwardyn </l>
+<lb/><l xml:id="NP-423-Me" n="423">W heither that goddes worthy forwityng </l>
+<lb/><l xml:id="NP-424-Me" n="424">Streyneth me nedely to doon a thyng </l>
+<lb/><l xml:id="NP-425-Me" n="425">Needly clepe I symple necessite </l>
+<lb/><l xml:id="NP-426-Me" n="426">Or elles if free choys be graunted me </l>
+<lb/><l xml:id="NP-427-Me" n="427">To do þ<am>ᵗ</am><ex>at</ex> same thyng or do it nought </l>
+<lb/><l xml:id="NP-428-Me" n="428">Though god forwot it or that it was wrought </l>
+<lb/><l xml:id="NP-429-Me" n="429">Or if his wytyng streyneth me neuer adel </l>
+<lb/><l xml:id="NP-430-Me" n="430">But by necessite condicionel </l>
+<lb/><l xml:id="NP-431-Me" n="431">I wil not haue to doon of such matere </l>
+<lb/><l xml:id="NP-432-Me" n="432">My tale is of þe cokke as ye may hee </l>
+<lb/><l xml:id="NP-433-Me" n="433">That toke his conseil of his wyf with sorwe </l>
+<lb/><l xml:id="NP-434-Me" n="434">To walken in the yerd  pon the morwe </l>
+<lb/><l xml:id="NP-435-Me" n="435">Whan he had mette that dreme þ<am>ᵗ</am><ex>at</ex> I you tolde </l>
+<lb/><l xml:id="NP-436-Me" n="436">Wo<ex>̄</ex><am>m</am>mennes conseilles ben ful often colde </l>
+<lb/><l xml:id="NP-437-Me" n="437">Wo<ex>̄</ex><am>m</am>mannes conseil brought vs first to wo </l>
+<lb/><l xml:id="NP-438-Me" n="438">And made Adam fro paradys to goo </l>
+<lb/><l xml:id="NP-439-Me" n="439">Ther as he was ful mery and wel at ease </l>
+<lb/><l xml:id="NP-440-Me" n="440">But for I not to whom I myght displease </l>
+<lb/><l xml:id="NP-441-Me" n="441">If I conseil of women wde blame </l>
+<lb/><l xml:id="NP-442-Me" n="442">Pas ouer for I seyde it in my e </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

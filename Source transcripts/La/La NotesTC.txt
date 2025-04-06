@@ -1,0 +1,25 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library Lansdowne MS 851. Mosser: La.
+
+==== Original construction  ====
+
+32 quires of 8: 256 folios.
+
+==== Missing folios  ====
+
+The last leaf of quire 30 (folio 239), and the last folio of the last quire present as a stub (folio 256)
+
+==== Absent text corresponding to the missing folios  ====
+
+PA 398-437 (folio 239).
+
+==== Notes  ====
+
+Mosse includes in the manuscript foliation, as folio 1, the leaf containing John Bale’s Latin account of “Galfridus Chaucer” and his works from his Scriptorum illustrium maioris Brytannie (1557-1559).  As this is not part of the original manuscript, our foliation excludes this leaf, thus beginning CT on 1r, the first leaf of the first quire, not 2r, as Mosser does.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|2-239 |1-238|
+|240-254|240-254|																																	

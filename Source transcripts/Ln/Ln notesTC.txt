@@ -1,0 +1,33 @@
+==== Manuscript name and Mosser link  ====
+
+Lincoln, Cathedral Library MS 110=A.4.18. Mosser: Ln.
+
+==== Original construction  ====
+
+33 quires of 8 (264 folios) and one quire of 10, the 33rd quire: 274 folios. 
+
+==== Missing folios  ====
+
+The first five leaves are missing from quire 1; the second leaf from quire 8 (folio 58); the fourth leaf from quire 9 (folio 68); the last leaf from quire 11 (folio 88). PA breaks off at the end of the last surviving quire in PA 565, with the last pages damaged. Around two quires of 8 would have been needed to accommodate the missing text of PA.
+
+ ==== Added folios  ====
+ 
+ None.
+ 
+ ==== Absent text corresponding to the missing folio  ====
+
+GP 1-382 (folios 1-5); L3 15-end, CO 1-50 (folio 58); ML 574-650 (folio 68); ME 305-382 (folio 88); PA 566-end (missing quires at end).
+
+==== Notes  ====
+
+Unusually (uniquely?) L17 is divided, with 1-22 used as a headlink to WBP. The first 17 lines are written by Mosser's scribe B into a 17 line space left by Mosser's scribe A, 18-22 in the margin.
+
+Note space left at end PD and before SH
+ 
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-52|6-57|
+|53-61|59-67|
+|62-80|69-87|
+|81-266 |89-274|

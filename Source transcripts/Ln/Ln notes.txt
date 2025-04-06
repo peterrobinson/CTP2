@@ -1,0 +1,56 @@
+Ln Notes
+
+The manuscript consists of 33 quires of 8 (264 folios) and one quire of 10, the 33rd quire: 274 folios. The first five leaves are missing from quire 1; the second leaf from quire 8 (folio 58); the fourth leaf from quire 9 (folio 68); the last leaf from quire 11 (folio 88). PA breaks off at the end of the last surviving quire in PA 565, with the last pages damaged. Around two quires of 8 would have been needed to accommodate the missing text of PA.
+
+Absent text corresponding to the missing folios is as follows: GP 1-382 (folios 1-5); L3 15-end, CO 1-50 (folio 58); ML 574-650 (folio 68); ME 305-382 (folio 88); PA 566-end (missing quires at end).
+
+Unusually (uniquely?) L17 is divided, with 1-22 used as a headlink to WBP. The first 17 lines are written by Mosser's scribe B into a 17 line space left by Mosser's scribe A, 18-22 in the margin.
+
+Note space left at end PD and before SH
+ 
+Order: GP KT L1 MI L2 RE L3 CO L7 ML L8 SQ L20 ME L17-1 WBP WBT L10 FR L11 SU  CL L13 L14 L17 FK NU L33 CY PH L21 PD SH L24 PR L25 TT L28 TM L29 L36 MA L37 PA
+
+Oxford/DMU GP L1 MI WBP
+Supplied KT L2 RE L8 SQ L17-1 WBT L10 FR L11 SU NU L33 CY PH L21 SH L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA PA
+Murcia 
+Mosser L3 CO
+DMU L20 ME L13 L14 L17 L37																																																																																																																																														
+NYU CL
+Sheffield FK
+Munster PD
+BYU L29 MO L30 NP
+Posnan L7 ML
+
+[]/6r - 7v/8r = [1a]/1b-3a/3b
+images 3 and 4 are identical
+8v/9r - 15v/16r= 5a/5b - 12a/12b
+images 12 and 13 are identical
+16v/17r - 25v/26r = 14a/14b - 23a/23b
+images 23 and 24 are identical
+26v/27r - 30v/31r = 25a/25b -29a/29b
+
+31v: originally numbered 30b (?); renumbered 30a as it should be
+original 30a: actually duplicates 20a (now numbered 30a?)
+32r: MISSING
+32v/33r -  57v/[58r] = 31a/31b - 56a/[56b]
+folio 58 missing
+[58v]/59r - 67v/[68r] = [56a]/56b - 65a/[65b]
+folio 68 missing
+[68v]/69r - 86v/87r = [65a]/65b - 83a/83b
+images 83 and 84 are identical
+87v/[88r] = 85a/[85b]
+folio 88 missing
+[88v]/89r = [85a]/85b
+images 85 and 86 are identical
+89v/90r - 91v/92r = 87a/87b - 89a/89b
+images 89 and 90 are identical
+92v/93r - 153v/154r = 91a/91b - 152a/152b
+IMAGES STOP at 152b = 154r (FK 618).  GET THE REST!
+154v/155r - 274v/[]= 301-421
+
+Correspondence
+traditional
+1-139 1-139
+140a 139a
+140-143 140-143
+144 - = 145 -

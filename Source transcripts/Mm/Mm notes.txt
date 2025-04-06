@@ -1,0 +1,32 @@
+Mm notes
+originally: 29 quires of 8, plus a quire of 16 (the 8th) and one of 4 (the 9th).  The eighth quire is a composite, consisting of 16 leaves.  From Mosser's description: this quire was created from an original gathering of 12 with a bifolium inserted after the third leaf (folio 59). The text is copied continuously across the quire. The first leaf of quire 10 (folio 77) is a stub, with no loss of text: MO finishes on 76v, with a space left after the end of the text (the last leaf of quire 9); L7, unusually following MO, begins on 78r.  This supports the hypothesis, that scribes commonly began a new tale on the SECOND leaf of a quire, leaving the first for connecting matter. In this case, no connecting matter arrived, and the first leaf was removed.
+
+The first folio of the first quire is lost (folio 1).
+
+SU end is abbreviated, as it is in many other mss.
+
+Lost text: GP 1-90 (folio 1).
+
+Tale Order GP KT L1 MI L2 RE L3 CO TG L22 SH L24 PR L29 MO L7 ML L8 SQ L20 ME WBP WBT L10 FR L11 SU CL L13 L17 FK L30 NP NU L33 CY L34 PH L21 PD L25 TT L28 TM L36 MA L37 PA RT
+Supplied:  KT L2 RE L7 ML L8 SQ WBT L10 FR L11 SU NU L33 CY PH L21 L36 MA PA RT
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU 
+DMU L1 MI L20 ME L13 L17 L34 L37
+Mosser L3 CO
+Posnan 
+Murcia TG
+BYU L22 L24 PR L29 MO L30 NP L25 TT L28 TM
+Sheffield FK
+
+Images:
+[1v]/2r - 11v/12r = 1-11
+12v/13r missing
+13v/14r-76v/[77r] = 12-75
+folio 77 missing
+[77v]/78r-252v/[253r] = 75-250
+
+Correspondence:
+1-252 1-252
+

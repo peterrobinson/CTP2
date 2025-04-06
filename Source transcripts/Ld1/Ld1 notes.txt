@@ -1,0 +1,39 @@
+Ld1 Notes
+
+Mosser states that the manuscript was originally composed of 40 quires of 8; 321 folios including a blank flyleaf. Missing are: the inner three sheets of quire 8, leaves 2.7, 3.6, 4.5 (folios 59-64); the innermost sheet of quire 15, leaves 4.5 (folios 117-118); leaves 4 and 8 of quire 27 (folios 213 and 217); the first two leaves of quire 33 (folios 258 and 259); the innermost two sheets of quire 35, leaves 3.6, 4.5 (folios 276-279).  Absent text corresponding to the missing folios is: MI 597-end, L2, RE 1-254 (L2 presumed: the missing folios 59-64 could have accommodated c. 400 lines, with 69 lines for MI, 66 for L2, 254 for RE); CL 57-187 (folios 117-118); L34 and PH 1-41 (L34 presumed: the missing folio 213 could have accommodated 68 lines, with 14 lines for L34 and 41 for PH); PH 264-end, L21, PD 1-5  (L21 presumed: the missing folio 217 could have accommodated 68 lines, with 22 lines for PH, c. 40 for L21, 5 for PD); TM 901-end, L29, MO 1-16 (L29 presumed: the missing folios 258-259 could have accommodated c. 136 lines, with c. 17 for TM, 100 for L29, 16 for MO); NP 365-end, L36 1-33 (the missing folios 276-279 could have accommodated c. 280 lines: c. 260 for NP, 33 for L36, suggesting that Ld1 lacked an endlink for NP, links 31 or 32)
+
+Similarly to Lc, but more extensively, numerous leaves have been removed, replaced by seventeenth century pages, and the text recopied onto them.  The replacement leaves are numbered as "1a", where "1" is the number of the folio removed and replaced.  The original leaves removed are: the first two leaves of the first quire (folios 2 and 3); the fourth and fifth leaves of quire 4 (folios 29 and 30); the first leaf of quire 7 (folio 50); the fifth leaf of quire 12 (folio 94); the first two leaves of quire 14 (folios 106 and 107); the second innermost sheet, leaves 3.6, of quire 19 (folios 148 and 151); the first leaf of quire 26 (folio 202); the first seven leaves from the last quire (folios 314-320).
+
+Order: GP KT L1 MI RE L3 CO TG WBP WBT L10 FR L11 SU CL L13 L7 ML L15 ME L17 SQ L20 FK NU L33 CY PH PD SH L24 PR L25 TT L28 TM MO L30 NP L36 MA L37 PA
+
+Oxford/DMU GP L1 MI WBP 
+Supplied KT RE TG WBT L10 FR L11 SU SQ NU L33 CY PH SH L24 PR L25 TT L28 TM L36 MA PA
+DWM L3 CO
+Murcia 
+DMU L13 L15 ME L17 L20
+NYU CL
+Sheffield FK
+Munster PD
+BYU MO L30 NP
+Posnan L7 ML
+
+[1v]/2r - 47v/48r = [4a]/4b- 50a/50b
+48v= 51a IMAGE MISSING
+49r = 49r.JPG
+49v/50r - 58v/[59r] =52a/52b - 61a/[61b]
+folios 59-64 MISSING
+[64v]/65r - 74v/[75r] = [61a]/61b - 71a/[71b]
+
+image 71b = fol 75r -- MISSING
+75v/76r - 115v/116r = 72a/72b - 112a/112b
+113 and 114a/114b identical: skipped 113
+116v - = 114a
+[118v]/119r-212v/[213r]  = [114a]/114b- 208a/[208b]
+folio 213 missing
+[213v]/214r - 216v/[217r] = [208a]/208b - 211a/[211b]
+folio 217 missing
+[217v]/218r - 257v/[258r] = [211a]/211b - 251a/[251b]
+folios 258-259 missing
+[259v]/260r - 275v/[276r]= [251a]/251b - 267a/[267b]
+[279v]/280r - = [267a]/267b -
+

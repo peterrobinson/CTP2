@@ -1,0 +1,28 @@
+Ll1 notes
+
+27 quires of 8: 216 folios.
+
+KT is on folios 53 to 77; CL on 77-89.
+
+The fourth leaf of quire 9 (folio 68) is missing; the two outer bifolia 1.8 and 2.7 (folios 81-82, 87-88) are missing from quire 11.
+
+Missing text
+KT 1383-1474 (folio 68); CL 380-564 (folios 81-82); CL 993-1117 (folios 87-88).
+
+Notes: Mosser's foliation takes account of the missing folios up to the end of quire 13, and so accords with ours through the segment containing CT. However, his foliation skips two missing folios in quire 14, and two further folios in quire 24, so rendering 212 (not 216) folios.
+
+Order: KT CL L13
+Supplied: KT
+NY: CL
+DMU L13
+
+Images
+[]/53r-67v/[68r] = 54-69
+folio 68 missing
+[68v]/69r = 69
+images 69-70 are duplicate
+69v/70r-80v/[81r]= 71-82
+folios 81-82 missing
+[82v]/83r - 86v/[87r] = 82-86
+folios 87-88 missing
+[88v]/89r- 89v= 86-87

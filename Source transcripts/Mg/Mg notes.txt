@@ -1,0 +1,63 @@
+Mg notes
+
+The complete manuscript had 36 quires of 8 (288 folios), and one quire of 6 (quire 27): 294 folios. Quires 11 and 29 (folios 81-88 and 223-230) are missing, as are the last seven leaves of the last quire (folios 288-294). 
+
+It appears the scribe duplicated the text of fol. 194v on a single leaf. This is pasted to the first of three parchment fly leaves at the end of the manuscript, after quire 37. We number this leaf as 287a.
+
+This foliation excludes three fly leaves at the beginning of the manuscript.
+
+According to Mosser, quire 29 is missing: this should be 
+
+Absent text corresponding to the missing folios is as follows: ML 646 end; L8 (presumed); SQ 1-157  (folios 81-88; sufficient to hold around 600 lines: 418 from ML, 28 from L8; 156 from SQ, hence 602 lines); TM 385-855 (folios 223-230); PA 927- end  (folios 288-end)
+
+Note: omission of TM 170-203 on fol 219r (exactly as in Lc)
+Images: 
+[0v]/1r-28v/29r = 4-32
+images 32 and 33 identical
+29v/30r-44v/45r = 34-49
+images 49 and 50 identical
+45v/46r-80v/[81r] =51-86
+folios 81-88 missing
+[88v]/89r-92v/93r = 86-90
+93v/94r-94v/95r = unsplit images 91-92
+image for 95v/96r missing 
+96v/97r-102v/103r=93-99
+ 103v/104r-163v/164r =100-160
+ unsplit after 160
+ 164v/165r-168v/169r =161-165
+ images 165 and 166 are identical
+ 169v/170r-202v/203r = 167-200
+ image for 203v/204r missing
+ 204v/205r-222v/[223r] = 201-219
+folios 223-230 missing
+[230v]/231r-239v/240r = 219-228
+ images 228 and 229 are identical
+ 240v/241r- 269v/270r = 230-259
+ image for 270v/271r missing
+ 271v/272r-273v/274r =260-262
+ images 262 and 263 identical
+ 274v/275r - 287v/[288r] = 264-277
+ 
+ flyleaf: appears to be image 277b.
+ 
+Tale Order GP KT L1 MI L2 RE L3 CO TG L7 ML SQ L20 ME WBP WBT L10 FR L11 SU CL L13 L17 FK NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT L28 TM MO L30 NP L36 MA L37 PA Pd2
+Supplied: KT L2 RE CO TG ML WBT L10 FR L11 SU CL NU L33 CY PH L21 L22 SH L24 PR L25 TT L28 TM L36 MA PA
+
+NYU 
+Oxford GP WBP
+Oxford/DMU L1 MI 
+DMU L1 MI ME L13 L17 L34 L37 L20
+Mosser L3
+Posnan L7
+
+Munster PD
+Sheffield FK
+BYU MO L30 NP
+
+array set exBase 
+array set pagedBase 
+
+Traditional Us
+4-83 1-80
+84-217 89-222
+218-274 231-287

@@ -1,0 +1,25 @@
+==== Manuscript name and Mosser link  ====
+
+Cambridge, Cambridge University Library MS Mm.2.5. Mosser: Mm.
+
+==== Original construction  ====
+
+29 quires of 8, plus a quire of 16 (the 8th) and one of 4 (the 9th).  The eighth quire is a composite, consisting of 16 leaves.  
+
+==== Missing folios  ====
+
+The first folio of the first quire (folio 1).
+
+==== Absent text corresponding to the missing folio  ====
+
+GP 1-90 (folio 1).
+
+==== Notes  ====
+
+From Mosser's description: quire 8 was created from an original gathering of 12 with a bifolium inserted after the third leaf (folio 59). The text is copied continuously across the quire. The first leaf of quire 10 (folio 77) is a stub, with no loss of text: MO finishes on 76v, with a space left after the end of the text (the last leaf of quire 9); L7, unusually following MO, begins on 78r.  This supports the hypothesis, that scribes commonly began a new tale on the second leaf of a quire, leaving the first for connecting matter. In this case, no connecting matter arrived, and the first leaf was removed.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|2-252|2-252|
+

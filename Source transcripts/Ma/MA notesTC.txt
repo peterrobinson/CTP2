@@ -1,0 +1,29 @@
+==== Manuscript name and Mosser link  ====
+
+Manchester, John Rylands Library, English MS 113. Mosser: Ma.
+
+==== Original construction  ====
+
+8 quires of 24 (192 folios), prefixed by a gathering of three bifolia (6 folios) and followed by a single bifolium. The first folio of the prefixed gathering is used as a pastedown, and we exclude it (following Mosser) from this foliation: thus, 199 folios.
+
+==== Missing folios  ====
+
+The last two leaves of the final quire of 24, folios 196 and 197 (not noted by Mosser).  The Tales end on the recto of folio 194.
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+ 
+ None.
+ 
+ ==== Notes  ====
+
+The Canterbury Tales begins on the first folio of the eight gatherings of 24 and finishes on 194r: the recto of the 21st folio of the last quire. An unrelated poem and a list of kings appear on the verso of this folio, and on the next folio, which is the last remaining of this quire as the final two leaves are not present. Two conjugate leaves, folios 198-199, are bound last in the manuscript. It appears that in the course of its original construction, a gathering of three bifolia (six leaves) was prefixed before the first of these eight gatherings.  The first of these leaves was used as a pastedown, as noted above.  The next two leaves of this first gathering (folios 1 and 2) are blank, and three short poems are written by the scribe of the Canterbury Tales section on the next three leaves (folios 3-5) of the first gathering.  Thus, the first leaf of the second gathering, on which the Tales start, is folio 6.
+
+ 
+new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-195|1-195|

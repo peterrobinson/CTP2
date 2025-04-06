@@ -1,0 +1,34 @@
+==== Manuscript name and Mosser link  ====
+
+Oxford, Bodleian Library MS Laud Misc. 600. Mosser: Ld1.
+
+==== Original construction  ====
+
+40 quires of 8 and a blank flyleaf; 321 folios. We include the flyleaf in the foliation, following Mosser.
+
+==== Missing folios  ====
+
+The inner three sheets of quire 8, leaves 2.7, 3.6, 4.5 (folios 59-64); the innermost sheet of quire 15, leaves 4.5 (folios 117-118); leaves 4 and 8 of quire 27 (folios 213 and 217); the first two leaves of quire 33 (folios 258 and 259); the innermost two sheets of quire 35, leaves 3.6, 4.5 (folios 276-279).  
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+ MI 597-end, L2, RE 1-254 (L2 presumed: the missing folios 59-64 could have accommodated c. 400 lines, with 69 lines for MI, 66 for L2, 254 for RE); CL 57-187 (folios 117-118); L34 and PH 1-41 (L34 presumed: the missing folio 213 could have accommodated 68 lines, with 14 lines for L34 and 41 for PH); PH 264-end, L21, PD 1-5  (L21 presumed: the missing folio 217 could have accommodated 68 lines, with 22 lines for PH, c. 40 for L21, 5 for PD); TM 901-end, L29, MO 1-16 (L29 presumed: the missing folios 258-259 could have accommodated c. 136 lines, with c. 17 for TM, 100 for L29, 16 for MO); NP 365-end, L36 1-33 (the missing folios 276-279 could have accommodated c. 280 lines: c. 260 for NP, 33 for L36, suggesting that Ld1 lacked an endlink for NP, links 31 or 32)
+
+==== Notes  ====
+
+Similarly to Lc, but more extensively, numerous leaves have been removed, replaced by seventeenth century pages, and the text recopied onto them.  The replacement leaves are numbered as "1a", where "1" is the number of the folio removed and replaced.  The original leaves removed are: the first two leaves of the first quire (folios 2 and 3); the fourth and fifth leaves of quire 4 (folios 29 and 30); the first leaf of quire 7 (folio 50); the fifth leaf of quire 12 (folio 94); the first two leaves of quire 14 (folios 106 and 107); the second innermost sheet, leaves 3.6, of quire 19 (folios 148 and 151); the first leaf of quire 26 (folio 202); the first seven leaves from the last quire (folios 314-320).
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|2-58| 2-58|
+|59-110| 65-116|
+|111-204| 119-212|
+|205-207| 214-216|
+|208-247| 218-257|
+|248-263| 260-275|
+|264-305| 280-321|

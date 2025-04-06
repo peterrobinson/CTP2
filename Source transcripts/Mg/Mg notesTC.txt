@@ -1,0 +1,36 @@
+==== Manuscript name and Mosser link  ====
+
+New York, Pierpont Morgan Library MS 249. Mosser: Mg.
+
+==== Original construction  ====
+
+36 quires of 8 (288 folios), and one quire of 6 (quire 27): 294 folios. 
+
+==== Missing folios  ====
+
+Quires 11 and 29 (folios 81-88 and 223-230) are missing, as are the last seven leaves of the last quire (folios 288-294). 
+
+ ==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folio  ====
+
+ML 646 end; L8 (presumed); SQ 1-157  (folios 81-88; sufficient to hold around 600 lines: 418 from ML, 28 from L8; 156 from SQ, hence 602 lines); TM 385-855 (folios 223-230); PA 927- end  (folios 288-end).
+
+==== Notes  ====
+
+It appears the scribe duplicated the text of fol. 194v on a single leaf. This is pasted to the first of three parchment fly leaves at the end of the manuscript, after quire 37. We number this leaf as 287a.
+
+This foliation excludes three fly leaves at the beginning of the manuscript.
+
+Note omission of TM 170-203 on fol 219r (exactly as in Lc).
+
+According to Mosser, quire 29 is missing: this should be 
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|4-83 |1-80|
+|84-217 |89-222|
+|218-274 |231-287|

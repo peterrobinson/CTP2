@@ -1,0 +1,11 @@
+La Notes
+The manuscript consists of 32 quires of 8, with one leaf missing from quire 30 (folio 239), and the last folio of the last quire present as a stub: hence, 254 folios extant.
+Mosse includes in the manuscript foliation, as folio 1, the leaf containing John Bale’s Latin account of “Galfridus Chaucer” and his works from his Scriptorum illustrium maioris Brytannie (1557-1559).  As this is not part of the original manuscript, our foliation excludes this leaf, thus beginning CT on 1r, the first leaf of the first quire, not 2r, as Mosser does.
+Loss of text corresponding to the missing folio 239 is PA 398-4376.
+
+Missing images: for 5v/6r (GP 381-464); images 160-227 (=folios 156v/157r -- 223v/224r); for 229v-230r (L37 71- PA 45); 235v-236r (PA 261-294); 242v-243r (PA 536-574); 247v-248r (PA 732-770)
+
+Correspondences
+DWM CTP
+2-239 = 1-238
+240-254 = 240-254

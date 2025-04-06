@@ -1,0 +1,33 @@
+==== Manuscript name and Mosser link  ====
+
+University of Chicago Library, Department of Special Collections, MS 564. Mosser: Mc.
+
+==== Original construction  ====
+
+32 quires of 8: 256 folios, plus fly-leaves.  
+
+==== Missing folios  ====
+
+The first eight quires are lost, and hence our numbering begins on folio 65. Following usual practice, this numbering excludes the two flyleaves at the beginning (i-ii) and the single fly-leaf at the end. 
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP, KT, L1, MI and the first four lines of RE (folios 1-64): around 3860 lines in total, around 30 lines per page.  
+
+==== Notes  ====
+
+The text breaks off, on 256v, at CY 338a. The four lines added at the end of CO on 74v, unique to this MS, are numbered 58-1 to 58-4. The placement of the whole WBP-SU sequence, between MO and L30, is remarkable.
+ 
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|3-186 |65-248|
+|186 (repeated) |249|
+|187-188 |250-251|
+|190 -194  | 252 - 256 |
+
+PROBLEM with Mosser numbering: he gives quires 9-32, 24 quires of 8 (192 folios) as "3-195".  This is 193 folios, not 192. Is his final folio, 195, the final flyleaf?
