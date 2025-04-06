@@ -1,0 +1,43 @@
+Ad1 
+The complete manuscript had 36 quires of 12: 432 folios. 
+Four folios are missing at the end, and four more within quires 2 (two folios) and 25 and 26: thus, 424 surviving folios.  The latest BL foliation commences at 2 and runs to 425.  The foliation here given commences at 1, as does an earlier BL foliation. The missing folios are: folios 15 and 16 in quire two, corresponding to KT 111-214; folio 296 in quire 25 (no missing text, 295v finishing with the incipit of L33 on and 297r starting with the first line of L33); and folio 310 in quire 26 (no missing text, 309v finishing with CY 676 and 311r starting with CY 677).
+
+folios 1-14r= images 6-19; 1v-14v= images 7-20
+Missing are: folios 15 and 16 (KT 111-241), folio 296 (no lost text; incipit of L33 is on 295v, first line on 297r), and folio 310 (no lost text: falls in CY between L676 and 677)
+folios 17r-217r   -images 20-220 , 17v-216v  =images 21-220
+image for opening 217v-218r missing (should be 221) DONE
+folios 218v-295v    =images 221-298 , 219r-295r    images 221-297
+folio 296 missing
+folios 297r-309r  = images 298-310  , folios 297v-309v = images 299-311
+folio 310: missing
+folios 311r-319r = images 311-; 311v-  = images 312-
+images 319 and 320 are identical
+folios 320r-329r =images 321-330, folios 319v-328v =images 321-300
+Not transcribed: KT L2  RE L7 ML WBT L10 FR L11 SU SQ PH L21 NU L33 CY L36 MA PA RT [base supplied]
+image for opening 329v-330r missing (should be 331) DONE
+folios 330v-331r = images 331; folios 331r=images 331
+image for opening 331v-332r missing (should be 332?) DONE
+folios 332v-340v=images 332-340; 333r-341r =images  332-340
+image for opening 341v-342r missing (should be 341) DONE
+folios 342v-343r =images 341
+image for opening 343v-344r missing (should be 342) DONE
+folios 344v-345v  =images 342-343; 345r-346r  =images 342-343
+image for opening 346v-347r missing DONE
+folios 347v-348r =images 344; 348r :=images 344
+image for opening 348v-349r missing DONE
+olio 349v-362v = images 345-358; folio 350r-362r = 345-357
+
+trad us (ignoring the final four pages) 
+2-15 1-14
+16-294  -- 17-295
+295-307    -- 297-309
+308-425 -- 311-428 
+
+supplied...
+
+order
+
+GP-KT-L1-MI-L2-RE-L3-CO   L7-ML  WB-L10-FR-L11-SU   CL-L13-L14-L15-ME-L17-SQ-L20-FK PH-L21-PD  SH-L24-PR-L25-TT-L28-TM-L29-MO-L30-NP-L31-L32    NU-L33-CY  L36-MA L37-PA RT
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 SQ 0 PH 0 L21 0 NU 0 L33 0 CY 0 L36 0 MA 0 PA 0 RT 0}
+array set pagedBase {FK 0}
