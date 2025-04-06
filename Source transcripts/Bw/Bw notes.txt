@@ -1,0 +1,156 @@
+The complete manuscript, according to Mosser, had 34 quires of eight: 272 folios.  The whole of the first quire, corresponding to GP 1-575, is missing. Thus the extant manuscript has 264 folios.  These are numbered 1-260 in the existing foliation, with four folios foliated outside the numeric sequence: "20b", "20(alt)" (=29-30, following 28, foliated "20a"), "135b(alt)" (=146, following 145, foliated "135a"), "180b(alt)" (=192, following 191, foliated "180a"). The manuscript finishes with MA, finishing towards the bottom of the last recto in the last quire, with the last verso originally blank (now, pen trials etc.)
+
+
+
+Images:
+9r/9v-28r/27v  =2b/3a-21a/21b
+image BWBD09a, beginning as evere may i drinke wyn or ale -- what is this?? (part of WBP clearly, orig fol 106v, lines 194)
+Supplied from base:
+KT L2 RE
+Opening 28v-29r image missing ="20b" DONE
+29v/30r- = 22a/22b (ms fol 20(alt))
+two folios after 20 wrongly numbered so ms fol 21=our 31
+30v/31r=23a/23b  (ms fol 21)
+33b=41r -- cut off at base DONE
+52v/53a= 45a/45b
+images 52a/52b duplicate 51a/51b=58v/59r
+59v/60r-78v/79r = 53ab-72ab
+79v/80r missing DONE
+80v/81r -- 73ab
+81v/82r missing DONE
+82v/83r = 74ab
+83v/84r missing DONEB
+84v/85r = 75ab
+85v/86r missing DONE
+86v/87r = 76ab
+87v/88r missing DONE
+88v/89r = 77ab
+89v/90r missing DONE
+90v/91r = 78ab
+91v/92r missing DONE
+92v/93r = 79ab
+93v/94r missing DONE
+94v/95r = 80ab
+95v/96r missing DONE
+96v/97r = 81ab
+97v/98r missing DONE
+98v/99r = 82ab
+99v/100r missing DONE
+100v/101r-101v/102r = 83ab-84ab
+102v/103r missing DONE
+103v/104r = 85ab
+104v/105r missing DONE
+105v/106r = 86ab
+106v/107r missing DONE
+107v/108r = 87ab
+108v/109r missing DONE
+109v/110r-111v/112r = 88ab-90ab
+112v/113r -- 113v/114r missing DONE
+114v/115r = 91ab
+115v/116r missing DONE
+116v/117r = 92ab
+117v/118r missing DONE
+118v/119r = 93ab
+119v/120r missing DONE
+120v/121r -- 122v/123r = 94ab-96ab
+123v/124r missing DONE
+124v/125r = 97ab
+125v/126r missing DONE
+126v/127r = 98ab
+127v/128r missing DONE
+128v/129r - 129v/130r = 99ab-100ab
+130v/131r missing DONE
+131v/132r = 101ab
+132v/133r missing DONE
+133v/134r = 102ab
+134v/135r missing DONE
+135v/136r = 103ab
+136v/137r missing DONE
+137v/138r - 138v/139r = 104ab-105ab
+139v/140r missing DONE
+140v/141r-141v/142r = 106ab-107ab
+142v/143r missing DONE
+143v/144r-144v/145r = 108ab-109ab
+145v/146r missing DONE
+146v/147r-147v/148r = 110ab-111ab
+148v/149r missing DONE
+149v/150r = 112ab
+150v/151r missing DONE
+151v/152r = 113ab
+152v/153r missing DONE
+153v/154r-154v/155r = 114ab-115a
+155v/156r missing DONE
+156v/157r= 116ab
+157v/158r missing DONE
+158v/159r=117ab
+159v/160r missing DONE
+160v/161r=118ab
+161v/162r missing DONE
+162v/163r=119ab
+163v/164r missing DONE
+164v/165r-165v/166r=120ab-121ab
+166v/167r missing DONE
+167v/168r=122ab
+168v/169r missing DONE
+169v/170r-170v/171r=123ab-124ab
+171v/172r missing DONE
+172v/173r = 125ab
+173v/174r missing DONE
+174v/175r = 126ab
+175v/176r missing DONE
+176v/177r = 127ab
+177v/178r missing DONE
+178v/179r = 128ab
+179v/180r missing DONE
+180v/181r = 129ab
+181v/182r missing DONE
+182v/183r missing DONE
+183v/184r missing DONE
+184v/185r - 185v/186r = 130ab-131ab
+132ab duplicates 131ab (but is better -- use 132ab)
+186v/187r - 196v/197r  = 133ab-- 143ab
+197v/198r missing DONE
+198v/199r-204v/205r = 144ab-150ab
+205v/206r missing DONE
+206v/207r -- 208v/209r = 151ab-- 153ab
+209v/210r missing DONE
+210v/211r-223v/224r = 154ab-167ab
+224v/225r missing DONE
+225v/226r = 168ab-172ab
+230v/231r missing DONE
+231v/232r-233v/234r = 173ab-175ab
+234v/235r missing DONE
+235v/236r-251v/252r = 176ab-192ab
+252v=193a
+253r missing DONE
+193b duplicates 193a
+253v/254r-271v/272r = 194ab-212ab
+
+
+
+
+Supplied
+KT L2 RE TG L7 ML SQ WBT L10 FR L11 SU NU L33 CY PH L21 L22 L24 PR L36 MA
+Order
+GP KT L1 MI L2 RE L3 CO TG L7 ML SQ L20 ME L16 WBP WBT L10 FR L11 SU CL L13 L14 L17 FK NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA
+Sheffield FK
+
+
+
+Correspondence:
+Trad    Us
+1-19    9-27
+20a  28
+20b 29
+20alt 30
+21-134  31-144
+135a 145
+135b(alt) 146
+136-179 147-190
+180a = 191
+180b(alt) = 192
+181-260 = 193-272
+
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 SQ 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 PH 0 L21 0 L22 0 L24 0 PR 0 L36 0 MA 0}
+array set pagedBase {FK 0}

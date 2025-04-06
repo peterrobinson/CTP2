@@ -1,0 +1,16 @@
+Bo2 notes
+The complete manuscript, according to Mosser, consisted of 27 quires of eight (216 folios) and one quire of six: 222 folios. Missing are the first leaf from quire 6 (folio 41); the third leaf from quire 18 (folio 139), the last leaf from quire 27 (folio 216), and the third, fourth and sixth  leaves from the final quire (219, 220, 222). Accordingly the manuscript now contains 216 folios: the foliation on the manuscript runs from 1 to 217, as 190 is skipped. The Tales in this manuscript finishes on folio 186, at the end of NU.
+
+Absent text corresponding to the missing folios is as follows: MI 1-79 (folio 41); SQ 661-end; [L20?] FK 1-35 (folio 139).
+
+GP-KT-L1-MI-L2-RE-L3-CO   L7-ML   WB-L10-FR-L11-SU CL-L13-L14-L15-ME-L17-SQ……FK    PH-L21-PD SH-L24-PR-L25-TT-L28		                                             MA NU
+Accordingly: image numbers are out by one from 42-138, and two from 140 on.
+
+Missing images: 1r-11r; 40v-47v (folio 41 missing)
+115r-129r
+138v, 139r (folio 139 missing; image numbers out by two thereafter)
+140v-148r
+161v-173r
+
+array set exBase {}
+array set pagedBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L13 0 L14 0 L15 0 ME 0 L17 0 SQ 0 FK 0 PH 0 L21 0 MA 0 NU 0 PD 0}

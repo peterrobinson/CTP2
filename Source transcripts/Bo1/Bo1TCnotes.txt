@@ -1,0 +1,30 @@
+Manuscript name and Mosser link
+
+Oxford, Bodleian Library MS Bodl. 414. Mosser: Bo1.
+ 
+Original construction
+
+26 quires of eight and two quires of six: 220 folios.
+
+Missing folios
+
+The first leaf of quire 1 (folio 1); leaves 7 and 8 of quire 7 (folios 55 and 56); the last leaf of the last quire (folio 22).
+
+Added folios
+
+Two singleton folios (numbered folios 54a1 54a2) are added after folio 54, the last extant folio in quire 7, and are bound before the first regular folio of quire 8, folio 57. Accordingly, they stand in place of the missing folios 55 and 56.
+
+Absent text corresponding to the missing folios
+
+None. GP begins on 2r; RT concludes on the last extant folio in the manuscript.
+
+Notes
+
+This account of the missing and added folios in quires 7 and 8 follows Mosser's explanation of the manuscript sequence, signatures and catchwords. Mosser suggests that this disorder in these quires may be related to the absence of expected text in these folios.  Thus folio 53v begins regularly with lines 51-56 of link 7, then skips 40 lines, gives the last two lines of the link (97-8) and then skips the first 35 lines of ML, which it starts with line 36 (after an incipit 'Here begynneth the lawyers tale'): the missing text would amount to a complete folio.  However, no easy link between this apparent missing folio and the manuscript as we have it suggests itself: 53v falls within two sheets (folios 51-54) within quire 7, which  is composed of two singletons (49, 50) and two sheets (51-54) with folios 55 and 56 missing, and two singletons 55a and 56a supplied at the start of quire 8. Paradoxically, there appears to be no missing text on fhese four singletons, while there is missing text on the third folio of two inner sheets.  Mosser suggests that CL should appear in these quires: but there is no reason for it to be here rather than following WB-SU as it does in this ms and in many others.
+
+
+Traditional (Mosser)	New CT foliation 
+1-106  2-54
+107-108 54a1
+109-110 54a2
+111-435  57-219  

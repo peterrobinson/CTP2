@@ -1,0 +1,74 @@
+The manuscript originally consisted of 33 regular quires of 8 (264 folios) and one singleton, as quire 20: thus, 265 folios. Of these, four folios are missing in quire 1 (folios 1, 2, 4, 5); the second leaf of quire 7 (folio 50), the first leaf of quire 17 (folio 129), the last leaf of quire 24 (folio 185), the sixth leaf of quire 33 (folio 255); the fifth, sixth and last leaves of quire 34 (folios 262, 263, 265); and the whole of quires 3 and 8 (folios 17-24, 57-64): a total of 27 folios, leaving 238 folios extant.  The final folio is missing, so our numbering ceases at 264v. 
+
+Absent text corresponding to the missing folios is as follows: GP 1-153 (folios 1 and 2); GP 234-398 (folios 4 and 5); KT 411-1040 (folios 17-24); L2 5-end, RE 1-14 (folio 50);  L7 68-end, ML 1-525 (folios 57-64); L15 24-end, ME 1-64 (folio 129); SH 418-end, PR 1-28 (folio 185; L24?: approx 16 lines in SH, 28 in PR, so there is space for the c. 18 lines of L24); PA 104-135 (folio 255); PA 298-367 (folios 262-263); PA 398 end (presumed folios 265ff).
+ 
+
+Trad Us
+1 3
+2-12 6-16
+13-37 25-49
+38-43 51-56
+44-107  65-128
+108-162 130-184
+163-231 186-254
+232-237 256-261
+238 264
+
+Ad3 correspondence
+GP
+quire 1: 1-4    3 6  7 8
+quire 2: 5-12   9 - 16   9r:  GP 636 Wel loved he garlyk -- 16v: KT 372 Than had I ben in blisse ant nat in wo
+quire 3: [8 missing]  [17-24]
+quires 4-6: 13-36    25-48        25r: KT  1041Ne purtreyour ne keruer of ymages3-- 48v: MI 557 557>And on his lippe he gan for anger byte
+quire7:  37     49   49v MI  637>And criden out harrow in the strete
+[fol 50 missing]
+quire7:  38-43   51-56 51r RE "14">Round was his face and camysed was his nose (image wrongly labelled 52r,fixed)  to 56v: L7 28>But los of tyme shendeth vs quod he
+quire 8: [8 missing] 57-64
+quires 9-16: 44-107 65r-128v ML 526>[1orncp]F[/1orncp]or thei han seyn hir eu‰ so v‰tuous to 
+	-- ML to 72v, correct in files and images (= 51v DWM numbers)
+	-- WBP: incorrectly  51v-62v in our files; should be 72v -- 83v
+	-- WBT: correctly 83v-89r our files (62v-68r DWM)
+	-- L10 correctly 89r-89v (68r-68v DWM)
+	-- FR correctly 89v-94v (68v-74v) ** NOTE: our numbering skips 92v 93r
+	 -- L11 correctly 94v-95r (73v-74r)
+	-- SU correctly 95r-102v (74r-81v)
+	-- NU correctly 103r-110v (82r-89v)
+	-- CL correctly 111r-128r (90r-107r)
+	-- L13 correctly 128r-128v (107r-107v)
+	-- L15 correctly 128v
+quires 17:	[fol 129 missing] 
+	-- ME correctly 130r-144r (108r-122r)
+	-- L17 INCORRECT 144r-144v (122r-122v)
+	-- SQ  correctly 144v-153v (122v-131v)
+	-- L20 INCORRECT 154r- (132r)
+	-- FK INCORRECT 154v-166v  (132v-144v)
+	-- PH correctly 166v-170r (144v-148r)
+	-- L21 correctly 170r-170v (148r-148v)
+	-- PD INCORRECT 170v-179v (148v-157v)
+	-- SH correctly 179v-184v (157v-162v)
+	[fol 185 missing]
+	  -- PR correctly 186r-188v (163r-165v)
+	  -- L25 correctly 189r (166r)
+	  --TT correctly 189r-191r (166r-168r)
+	  -- L28 correctly 191r-191v (168r-168v)
+	  --TM correctly 191v-211r (168v-188r)
+	  --L29 correctly 211r-212v (188r-189v) 211r 211v: correct image. 212r 2121v WRONGLY labelled 222r 222v FXED
+	  -- MO correctly 212v -223v (189v-200v)
+	  -- L30 INCORRECT 223v-224r  (200v-201r)
+	  -- NP  INCORRECT 224r-232v (201r-209v)
+	  -- L36 correct 232v-234r (209v-211r)
+	  -- MA correct 234r-237v (211r-214v)
+	  -- L3 INCORRECT 237v-238r (214v-215r)
+	  -- CO INCORRECT 238r-238v (215r-215v)
+	  --L33 INCORRECT 238v-241r (215v-218r)
+	  --CY correctly 241r-251r (218r-228r)
+	  --L37 INCORRECT 251r-252r (228r-229r)
+	  --PA correctly 252r-254v (229-231v)
+	  [fol 255 missing]
+	      correctly 256r-261v (232r-237v)
+	    {fols 262 263 missing]
+	    correctly 264r-264v (238r-238v)
+	  
+	  
+array set pagedBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L13 0 L15 0 ME 0 L17 0 SQ 0 L20 0 FK 0 PH 0 L21 0 PD 0 L36 0 MA 0 L33 0 CY 0 L37 0 PA 0}
+

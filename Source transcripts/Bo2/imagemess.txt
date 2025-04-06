@@ -1,0 +1,16 @@
+Images messed in Bo2...
+we don't have all the images! and some of them are renumbered...
+missing images to 11r
+image numbering and files fine to 40r
+images 40v-47v are missing.
+[fol 41 missing] : corresponds to first 80 lines of MI
+MI INCORRECT: should be 42r-49r (41r-48r; image 48r should be 49r)
+L2 INCORRECT: 49r-50r (48r-49r; renumber images)
+all out by one folio up to SU and folio 139 (==DWM 138)
+[fol 139 missing: end SQ/L20?/start FK]
+FK INCORRECT: should 140r-150v (==DWM 138r-148v; images also out by two and following)
+PH INCORRECT: should be 150v-154r (=DWM 148v-152r)
+all out by two folios up to end of Tales in this ms, ie 186v (=DWM 184v)
+Note that images 161v-172r are missing.
+
+Images are NOT in CD 49 from microfilm

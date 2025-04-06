@@ -1,0 +1,38 @@
+==== Manuscript name and Mosser link  ====
+
+Oxford, Bodleian Library, MS Barlow 20 [s.c. 6420]. Mosser: Bw.
+ 
+==== Original construction  ====
+
+34 quires of eight: 272 folios.
+
+==== Missing folios  ====
+
+Quire 1 (folios 1-8).
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 1-575 (folios 1-8).
+
+==== Notes  ====
+
+In the traditional numbering, four folios are foliated outside the numeric sequence: "20b", "20(alt)" (=29-30, following 28, foliated "20a"), "135b(alt)" (=146, following 145, foliated "135a"), "180b(alt)" (=192, following 191, foliated "180a"). The manuscript finishes with MA, finishing towards the bottom of the last recto in the last quire, with the last verso originally blank (now, pen trials etc.)
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-19  |  9-27|
+|20a  |28|
+|20b |29|
+|20alt |30|
+|21-134 | 31-144|
+|135a| 145|
+|135b(alt) |146|
+|136-179| 147-190|
+|180a  | 191 |
+|180b(alt) | 192|
+|181-260 | 193-272|

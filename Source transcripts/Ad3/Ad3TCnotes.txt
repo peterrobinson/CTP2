@@ -1,0 +1,30 @@
+Manuscript name and Mosser link 
+London, British Library Additional MS 35286. Mosser: Ad3.
+
+Original construction 
+33 regular quires of 8 (264 folios) and one singleton, as quire 20:  265 folios
+
+Missing folios 
+Quires 3 and 8 (folios 17-24, 57-64); leaves 1, 2, 4 and 5 of quire 1 (folios 1, 2, 4, 5); leaf 2 of quire 7 (folio 50), the first leaf of quire 17 (folio 129), the last leaf of quire 24 (folio 185), leaf 6 of quire 33 (folio 255); leaves 5, 6 and 8 of quire 34 (folios 262, 263, 265). 
+
+Added folios 
+None.
+
+Absent text corresponding to the missing folios 
+GP 1-153 (folios 1 and 2); GP 234-398 (folios 4 and 5); KT 411-1040 (folios 17-24); L2 5-end, RE 1-14 (folio 50);  L7 68-end, ML 1-525 (folios 57-64); L15 24-end, ME 1-64 (folio 129); SH 418-end, [L24 presumed], PR 1-28 (folio 185; SH 16 lines , L24 18, PR 28, c. 62 lines); PA 104-135 (folio 255); PA 298-367 (folios 262-263); PA 398 end (presumed folios 265ff).
+
+Notes 
+The final folio is missing, so our numbering ceases at 264v
+
+Concordance of the traditional foliation (as reported by Mosser) and the new foliation 
+
+Traditional (Mosser)	New CT foliation   	
+1 3
+2-12 6-16
+13-37 25-49
+38-43 51-56
+44-107  65-128
+108-162 130-184
+163-231 186-254
+232-237 256-261
+238 264

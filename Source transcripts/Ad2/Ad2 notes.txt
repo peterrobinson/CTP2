@@ -1,0 +1,46 @@
+There is considerable mutilation, and loss of text, in this manuscript, to the degree that MR suggested that it might have been created by fusing two fragmentary manuscripts (each the work of a separate scribe) together. None the less, Mosser's collation, here followed, suggests that at one time the manuscript stood as a single manuscript, with a more or less complete text of the  Tales at least up to Melibee.
+
+The manuscript, in Mosser's reconstruction, was composed of 26 quires of 8, hence 208 folios.  Four leaves survive from the beginning of a twenty-seventh quire, to PR around line 77, with another  four leaves and a fragment holding discontinous sections of Melibee. Missing are the whole of quires 1, 2, 8-11, 14-21 (folios 1-16, 57-88, 105-168, thus 112 folios); the first six folios from quire 3 (folios 17-22), with the extant manuscript starting on folio 23r; the outermost and innermost sheets from quire 4 (folios 25, 28-29, 32); the outer three sheets (folios 97-99 and 102-104; Mosser mistakenly labels these as 1.8, 2.6, 3.7: it should be 1.8, 2.7, 3.6) of quire 13; the last folio (folio 176) of quire 22 , for a total of 129 folios lost, leaving 79 folios extant to the end of the presumed quire 26 (thus, our folio 208 is Mosser's 79). We give folios 209-212 from a twenty-seventh quire, and then follow with the five fragmentary leaves holding Melibee, numbered 213a, 214a, 215a (TM 288-403), 217a (recto: TM 476-477; verso: 494-498), 219a (TM 569-596).
+
+There are many uncertainties with this scenario.  According to this, 49r should start quire 7.  In fact, 50r appears to commence a quire: there is a catchphrase on 49v, and the last line of 49v is repeated at the start of 50r (KT 5193).  Further, while DWM's collation suggests that only one folio is missing between the end of SU, on 175v, and the start of PH, on the first folio of quire 23, 177r, there could actually be far more text lost in this space (eg, whole of ME, FK, SQ; and quires 25-26, holding CL, might also have gone in here).  This is one among several alternative scenarios for the original ms.  For example, one might presume that two, not four, quires have been lost after quire 7: this would give 16 folios/32 pages, about the right amount to hold all the remainder of Fragment 1 up to CO (c. 940 lines) and the beginning of L7. L7/ML then occupy quires 12 and 13, and might be followed by WBP-WBT-FR up to the beginning of the Summoner.  The group WBP-WBT-FR, which follows ML in many mss, would contain around 1880 lines, inclusive of the first 182 lines of SU: this would occupy four quires, not the eight posited by DWM. We may then presume that sufficient quires (say, 8) have been lost after quire 22, after SU and before PH, to hold ME (and FK?).  The two quires of CL, currently placed after quire 24, might also belong here, perhaps following SU as they do in many mss.  On 181r, a rubric after PH announces that the next tale will be SH -- but L21 actually follows on the verso of the same leaf. Quire 24 closes with the end of PD at the top of 192v, with the rest of the page blank.  While the MS now has CL following, as CL starts a new quire and occupies two complete quires (193r-208r; 208v is blank with CK ending at 981), the two quires holding CL might have originally been intended to go after quire 22 (with, perhaps, ME FK SQ). 
+
+Correspondence
+|Traditional | Us |
+|1-2 | 23-24|
+|3-4 | 26-27|
+|5-6 | 30-31|
+|7-30 | 33-56|
+|31-38 | 89-96|
+|39-40 | 100-101|
+|41-47 | 169-175|
+|48-79 | 177-208|
+|80-83 | 209-212|
+|84-85, 86, 87, 88 | 213a-214a, 215a, 217a, 219a|
+
+
+
+DWM 
+1-7 [GP] KT MI
+
+According to DWM
+So: quire 3: 23 and 24 (images 1b 2a 2b 3a
+quire 4: 26, 27, 30, 31 (3b, 4a, 4b, 5a; 5b-7a)
+quires 5-7: 33r/33v-56r/56v (7b/8a-30b/31a)
+quires 8-11 = [57-88 missing: end of MI (370), L2 (67), RE (405), L3 (41), CO (58) = c. 950 lines missing, 64 pages with room for approx 1900.. ]
+[alternatively: might be only two quires missing here, 32 pages with about the right amount of text for all this plus first 30 lines of L7]
+quire 12: 89-96 (89r/90v-96r/96v=32b/33a-39b/40a)
+quire 13: 100-101 (100r/100v = 41b/42a-42b/43a
+quires 14-21: [105-168 missing]
+quire 22: 169-175  (169r/169v --175r/175v  44b/45a-50b/51a)
+quires 23-26: 177-208 (177r/177v --208r/208v; =51b/52a --82b/83a
+quire 27: 209r/209v --212r/212v ; 83b/84a--86b/87a
+fragments: 213ar/213av=88b/89a; -- 215ar/215av=90b/91a 
+217ar/217av = 91b/92a;  219ar/219av = 92b/93a
+
+Supplied: KT L7 ML SU PH L21
+
+
+array set exBase {KT 0 L7 0 ML 0 SU 0 PH 0}
+array set pagedBase {FK 0}
+
+

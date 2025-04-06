@@ -1,0 +1,66 @@
+	Bo1 renumbering
+The ms originally had 219 folios, and is so numbered here.  It has currently 218 folios, paginated as 1-436 (=DWM). There is a single missing folio at the beginning of the first quire, hence we give the first folio as 2r, and the last as 219r.
+It has 26 quires of eight and two quires of six: quires 13 (fols 97r-102v) and 28 (folios 215r-219v; the final folio is missing).  If complete the ms would have 220 folios; the first and last are missing, hence 218 folios. (26*8(=208)+2*6(=12)=220).
+
+The foliation of the manuscript is complicated as follows:  the seventh and eigth folios of quire 7 (=folios 55 and 56) are missing.  Two singleton folios (=folios 55a 56a) are added at the start of quire 8, which begins regularly with folio 57r. This numbering follows the explanation of DWM of the manuscript sequence, signatures and catchwords in these quires. DWM suggests that this disorder in these quires may be related to the absence of expected text in these folios.  Thus folio 53v begins regularly with lines 51-56 of link 7, then skips 40 lines, gives the last two lines of the link (97-8) and then skips the first 35 lines of ML, which it starts with line 36 (after an incipit 'Here begynneth the lawyers tale'): the missing text would amount to a complete folio.  However, no easy link between this apparent missing folio and the manuscript as we have it suggests itself: 53v falls within two sheets (folios 51-54) within quire 7, which  is composed of two singletons (49, 50) and two sheets (51-54) with folios 55 and 56 missing, and two singletons 55a and 56a supplied at the start of quire 8. Paradoxically, there appears to be no missing text on fhese four singletons, while there is missing text on the third folio of two inner sheets.  DWM suggests that CL should appear in these quires: but there is no reason for it to be here rather than following WB-SU as it does in this ms and in many others. 
+
+A further complication is that the first pagination written in the manuscript (on each recto, commencing 1 on our 2r) wrote 235 on both 119r and 120r, and is thereafter out by two pages: thus numbering the final recto, 219r, as '433'.  A second paginator has corrected this, by writing the correct pagination on every tenth page beginning at 245, so giving 219r as 435.
+
+for TC: numbered as verso and recto throughout (ms: paginated); with numbers taking account of missing folios.
+Thus: as folio 1 is missing, GP begins with 2r (=1 in DWM). 
+GP: DWM 1-21; corrected 2r-12r
+KT: DWM 22-74; corrected 12v-38v
+L1: DWM 74-76; corrected 38v-39v
+MI: DWM 76-91; corrected 39v-47r
+L2: DWM 91-93; corrected 47r-48r
+RE: DWM 93-102; corrected 48r-52v
+L7: DWM 102-103; corrected 52v-53v
+Quires 7 and 8 are a mess.  Between them they have 16 folios -- but it is made up thus:
+-- two missing folios end of quire 7 and 8, = folios 55 and 56.
+-- two extra folios start quire eight: these I am numbering 55a (hence 55ar, 55av) and 56a (56a, 56v) [=ms pagination 107-108, 109-110; images 61 and 62, with no loss of text]
+-- thus: the first regular folio in quire eight is 57r, = page 111 as DWM and ms pagination have it, image 63
+
+[missing folios: seventh and eigth folios of quire 7: = DWM 107-108, 109-110. = folios 55 and 56 in this numbering. Quire 7 starts with folio 49r, DWM 95]
+DWM believes these two missing folios have been replaced by two singletons added at the start of quire 8; these are folios 57 and 58 in our numbering
+problem: there is a folio missing before start ML, but scribe seems unaware of this, and carries on direct from L7 to ML 36 as if all is ok, 53v]
+ML: DWM 104-106; corrected 53v-54v
+[folios 55 and 56 missing with no loss of text; DWM 107-108, 109-110; see not above: two folios 55a 56a are added at start next quire, =ms pagination 107-108, 109-110]
+ML: DWM 111-128; corrected 57r-65v   (quire 9 begins 65r=127)
+WBP: DWM 128-146  ; corrected 65v-74v (quire 10 begins 73r=143 )
+WBT: 75r-79r, DWM 147-155
+L10: 79v, DWM 156
+FR: 79v- 83v, DWM 156-164
+L11: 83v-84r, DWM 164-165
+SU: 84r-90v, DWM 165-178
+CL: 90v-103v, DWM 178-204  (100v = image 107)
+FK: 103v-113v, DWM 204- 224   (103v=image 110)
+NU: 113v-119v, 224-236
+L33: 119v-121v, DWM 236-240
+CY: 121v-129v, 240-256
+L34: 130r, DWM 257
+PH: 130r-133r, DWM 257-263
+L21: 133r-133v, DWM 263-264
+PD: 133v-141r, DWM 164-279
+L22: 141r-141v, DWM 279-280
+SH: 141v-146r, DWM 280-289
+L24: 146r-146v, DWM 289-290
+PR: 146v-149r, DWM 290-295
+L25: 149r-149v, DWM 295-296
+TT: 149v-151v, DWM 296-300
+L28: 151v-152r, DWM 300-301  (150v: image 157)
+TM: 152r- 162r, DWM 301-321                                  (152r=image 158; 162r=image 168)
+L29: 162r-163v, DWM 321-324
+MO: 163v-172v, DWM 324-342
+L30: 173r-173v, DWM 343-344
+NP: 173v-181r, DWM 344-359   (180r = image 186; 180v = image 187]
+L36: [not transcribed] 181r = image 187
+MA: [not transcribed] done now -- to 185v = image 192
+L37: 185v-186r, DWM 368-369  (= image 192)
+PA: 186v-219r, DWM 370-435  186v=image 184v (189r=dwm 375 = image 187r; 194r=dwm 385 = image 192r  etc; 219r=dwm 435 = image 217r)
+RT: 219r-219v, DWM 435-436   
+DWM counts 436 pages; which with the addition of the initial page he does not count, would give 438 pages, so 219 folios.  But this count gives 218 folios!
+
+Supplied from base: L 21 L36 MA -- need images before we can supply transcription -- now done
+
+array set exBase {L21 0 L36 0 MA 0}
+array set pagedBase {FK 0}

@@ -1,0 +1,1329 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/TEI-transcr-TC.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ar</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 				<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+<sourceDesc>
+			<respStmt n="General">
+				<resp>Textual editing and encoding:</resp>
+				<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+			</respStmt>
+ 		</bibl>
+ 		<bibl type="transcribers">
+ 			<respStmt n="Oxford">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+ 					</respStmt>
+ 			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+			<respStmt n="DMU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+ 					</respStmt>
+			<respStmt n="UoS">
+ 				 <resp>Conversion for Textual Communities:</resp>
+ 				<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+ 					</respStmt>
+		<respStmt n="VT">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Virgina Tech team, led by Daniel W. Mosser</name>
+ 		</respStmt>
+		<respStmt n="NYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+ 		</respStmt>
+ 		<respStmt n="BYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised the other transcribers.</name>
+ 		</respStmt>
+ 		 <respStmt n="Poznan">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+ 					</respStmt>
+ 		 		 <respStmt n="Murcia">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+ 					</respStmt>
+			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+  		</bibl>
+  		<bibl type="notcontributed">
+    			<respStmt n="Sheffield">
+  				<resp>Original capture and corrections:</resp>
+  				<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+  			</respStmt>
+	</bibl>
+
+ 	<bibl type="transcripts">
+				<respStmt n="TM">
+						<resp>Original transcription and corrections:</resp>
+ 						<name n="BYU UoS">Brigham Young team; conversion for Textual Communities: Saskatchewan team</name>
+ 					</respStmt>
+		</bibl>
+			 <msDesc>
+ 				  	<msIdentifier>
+ 				  	 <settlement>London</settlement>
+  					<repository>British Library</repository>
+  					<idno>MS Arundel 140</idno>
+  					<msName>Ar</msName>
+  					</msIdentifier>
+ 			 </msDesc>
+ 	
+</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+	<text>
+		<body>
+<pb n="166r" facs="ARMR001B.JPG"/>
+<lb/><div  n="TM" type="G">
+<ab n="1"><hi rend="unex2">A</hi> yong man called Melibeus myghty and ryche byg<gap quantity="7" unit="chars"/> 
+<lb/> 
+<lb/>hys wyf that called was Prudence a doghter which 
+<lb/>called was Sophie . </ab><ab n="2">Vpon aday by fel þ<am rend="sup">t</am><ex>at</ex> he for his desp<gap quantity="3" unit="chars"/> 
+<lb/>is went in to the feeldes for to pleye / </ab><ab n="3">his wyf and 
+<lb/>his doghter hath he lefte in his hous / of weche the d<gap quantity="4" unit="chars"/> 
+<lb/>weren faste yshet . </ab><ab n="4">thre of hise olde foos han hit a spie<gap quantity="1" unit="chars"/> 
+<lb/>and setten ladres to þe walles of his hous and by w<gap quantity="2" unit="chars"/> 
+<lb/>dowes been endret </ab><ab n="5">and betten his wyf and wounded 
+<lb/>doghter w<am rend="sup">t</am><ex>ith</ex> fiue mortal woundes in fyue sondry places </ab>
+<lb/><ab n="6">This is to sayn in her feet in her handes in her heris 
+<lb/>in her nose . and in her mouth and leften hire for 
+<lb/>deed / And wenten away / </ab><ab n="7">Whan Melibee retourned was 
+<lb/>in to his hous and saugh al þys mischief . he lyk a 
+<lb/>mad man rentynge hise clothes gan to wepe ⁊ crye </ab>
+<lb/><ab n="8">Prudence his wyf as ferforth as she dorste bysoghte 
+<lb/>hym of hys wepyng forto stynte </ab><ab n="9">but not for þy he 
+<lb/>gan to wepe ⁊ crye eu<am>ꝰ</am><ex>er</ex> lenger þe more / </ab><ab n="10">Thys noble 
+<lb/>wyf Prudence reme<am>̄</am><ex>m</ex>brede hire vpon þe sentence of 
+<lb/><lb/>Ouide in his book / þ<am rend="sup">t</am><ex>at</ex> cleped is the remedie of loue . 
+<lb/>wher as he seyth </ab><ab n="11">he is a fool þ<am rend="sup">t</am><ex>at</ex> destorbeth the Moder 
+<lb/>to wepe in þe deth of hir child til sche haue wept 
+<lb/>hir fylle / as for a certeyn tyme . </ab><ab n="12">And thane schal a 
+<lb/>man doon his diligence wyth amyable wordes her 
+<lb/>to reconforte ⁊ preye hir of hir wepyng forto stynte </ab>
+<lb/><ab n="13">for whyth resou<am>̄</am><ex>n</ex> þys noble wyf . Prudence Suffrede 
+<lb/>hir housbonde forto wepe ⁊ crye / as for a certeyn 
+<lb/>space </ab><ab n="14">And whan she saugh . fir tyme she sayde to 
+<lb/>hym in þys wyse / Allas my lord quod she why make 
+<lb/>ye ȝour self forto be lyke a fool / </ab><ab n="15">Forsothe hit a<am>ꝑ</am><ex>per</ex>te 
+<lb/>neth nough to a wys man to make seche a sorwe </ab>
+<lb/><ab n="16">ȝoure doughter w<am rend="sup">t</am><ex>ith</ex> þe grace of god schal warysen ⁊ 
+<lb/>a escape </ab><ab n="17">And al were hit so þ<am rend="sup">t</am><ex>at</ex> she ryth now were 
+<lb/>deed ȝe ne auȝte nough as for hit deth ȝoure self 
+<lb/>to distrye // </ab><ab n="18">Senec sayth þe wisse man schal not 
+<lb/><lb/>take to gret disconforte for þe deth of hys chyldren </ab><ab n="19">but 
+<lb/><pb n="166v" facs="ARMR002A.JPG"/>
+ certes he sholde suffren yt ne pacience as wel as he abydeth 
+<lb/>the deth of hys owne <am>ꝓ</am><ex>pro</ex>pre <am>ꝑ</am><ex>per</ex>sone / </ab><ab n="20">Thys Melibeus answerde 
+<lb/>a non ⁊ sayde . what man quod he sholde of hys wepynge 
+<lb/>stynte / That hath so gret a cause forte wepe </ab><ab n="21">Ihu crist oure 
+<lb/>lord hym self wepte For the deth of lazarus hys frend </ab>
+<lb/><ab n="22">Prudence answerde / Certes wel y wot attempre wepyng 
+<lb/>ys no thyng defended to hym þ<am rend="sup">t</am><ex>at</ex> sorweful ys amongez folke 
+<lb/><gap quantity="2" unit="chars"/> sorwe but yt ys rathre graunted hym to wepe </ab><ab n="23">The A 
+<lb/>postel Paul vn to of Romaynes wryteth Man schal reioyse 
+<lb/>w<am rend="sup">t</am><ex>ith</ex> hem þ<am rend="sup">t</am><ex>at</ex> makeþ Ioye ⁊ wepen w<am rend="sup">t</am><ex>ith</ex> swyche folk as wepen </ab>
+<lb/><ab n="24">but though attempre wepyng be graunted outgeous wepyng 
+<lb/>certes ys defended . </ab><ab n="25">aft<hi rend="sup">r</hi> the lore that techeth vs senec </ab><ab n="26">Whan 
+<lb/>that thy frend is ded quod he Lat nat þiy eyen to moiste 
+<lb/>been of teeres / ne to meche drye al though the teerys come 
+<lb/>to þyne eyen lat hem nat falle / </ab><ab n="27">And whan þou hast forgon 
+<lb/>thy frend do diligence to gete a nother frend and this is more 
+<lb/>wisdom than for to wepe for thy frend . which þ<am rend="sup">t</am><ex>at</ex> thou hast lorn 
+<lb/>for ther Inne is no boote . </ab><ab n="28">And therfore yf he gou<am>ꝰ</am><ex>er</ex>ne yow 
+<lb/>by sapience Put awey sorwe out of ȝo<am>̄</am><ex>m</ex>yre herte / </ab><ab n="29">Remembreth 
+<lb/>yow þ<am rend="sup">t</am><ex>at</ex> Ih<am>c̄</am><ex>etc</ex> Serak seith . a man þ<am rend="sup">t</am><ex>at</ex> is Ioyous and glad in herte 
+<lb/>it hym co<am>̄</am><ex>m</ex>serueth floryssyng in hys Age / but soothly sorweful 
+<lb/>herte Maketh hise bones drye </ab><ab n="30">he seith eek thus that sorewe 
+<lb/>in herte sleth ful many a man / </ab><ab n="31">Salomon seith that right 
+<lb/>as Motthes in the shepes flees anoyth to the cloþes and 
+<lb/>the smale wormes to þe tree right so anoyth sorwe to the 
+<lb/>herte // </ab><ab n="32">Wherfore vs vghte as wel in þe deth . of oure children 
+<lb/>as in the los of oure goodes temporeles haue pacience // </ab>
+<lb/><ab n="33">Remembreth yow vppon þe pacyent // Iob whan he hadde lost 
+<lb/>hise children ⁊ his temporel supstance // and in his body 
+<lb/>endured and reseyued ful mony a grevous tribulacion // ȝet 
+<lb/>sayde he thus // </ab><ab n="34">Oure lord hath byreft it me / right so as our 
+<lb/>lord hath wold . Riht so hit ys doon // y blessed be þe name 
+<lb/>of oure lord // </ab><ab n="35">To thise forsayde þynges answered Melibeus 
+<lb/>vnto his wyf Prudense // Alle thy wordes quod he been 
+<lb/>sothe And therto <am>ꝓ</am><ex>pro</ex>fytable // Bote trewely Myn herte ys trowbled 
+<lb/><pb n="167r" facs="ARMR002B.JPG"/>
+ by my sorewe so greuously þ<am rend="sup">t</am><ex>at</ex> y not wat to don </ab><ab n="36">Lat calle quod 
+<lb/>Prudence thy trewe Frendes alle and þy trewe lynage who <gap quantity="3" unit="chars"/> 
+<lb/><lb/><space dim="horizontal" extent="4" /> been wyse / Telleth hem ȝoure caas and herkeneth what 
+<lb/>they saye in consaylynge And goune yow aft<hi rend="sup">r</hi> her sentence </ab>
+<lb/><ab n="37">Salamon saith werk alle thy thynges by consayel . And thow 
+<lb/><lb/>schalt neuer repte </ab><ab n="38">Thanne by consayel of hys wyf Prudence 
+<lb/>this Melibeus leet calle a gret congregacion of folk </ab><ab n="39">As Surgens 
+<lb/>Phisiciens . eldre folk ⁊ yonge ⁊ so<am>̄</am><ex>m</ex>me of hise olde enemys re 
+<lb/>consiled as by heyre semblant to hys loue ⁊ in to his grace </ab>
+<lb/><ab n="40">And ther w<am rend="sup">t</am><ex>ith</ex> al co<am>̄</am><ex>m</ex>m so<am>̄</am><ex>m</ex>me of hise neybores that diden 
+<lb/>reu<am>ꝰ</am><ex>er</ex>ence more for drede than for loue as hit happeth offte </ab><ab n="41">Ther 
+<lb/>comen also ful manye suptile Flaterers and wyse avocates 
+<lb/>lerned . the lawe </ab><ab n="42">And whan þys folk<am>ꝭ</am><ex>es</ex> togydere assembled 
+<lb/>weren this Melibeus in sorweful wyse shewed hem hys caas </ab>
+<lb/><ab n="43">And by the mane of his speche yt semeth þ<am rend="sup">t</am><ex>at</ex> in herte he bar a 
+<lb/>Cruel Ire redy to don vengeance vp on hys foos and sodeyli de 
+<lb/>syrede that þe werre scholde by gynne </ab><ab n="44">But netheles He 
+<lb/>axed he her consayl vp on þys matere . </ab><ab n="45">A surgien by lycense 
+<lb/>and assent of swiche as were wyse vp roos . And vnto 
+<lb/>Melibeus sayde as ye may here // </ab><ab n="46">Syre quod he as to 
+<lb/>vs Surgiens a<am>ꝑ</am><ex>per</ex>teneth þat we do to eu<am>ꝰ</am><ex>er</ex>y wight the beste 
+<lb/>that we kan wher as we ben w<am rend="sup">t</am><ex>ith</ex> holden And to oure parceyt 
+<lb/>þat we do no damage </ab><ab n="47">Wherfore yt happeth many tyme 
+<lb/>and ofte . þat whan twy men han heueryche wounded 
+<lb/>oother . O same surgien heleeth hem bothe / </ab><ab n="48">Wherfore 
+<lb/>vn to oure Art it ys nat <am>ꝑ</am><ex>per</ex>tine<am>̄</am><ex>m</ex>t to norice werre . 
+<lb/>ne no <am>ꝑ</am><ex>per</ex>ties to supporte / </ab><ab n="49">But certes as to þe waryssyng 
+<lb/>of youre doghter / Al be hyt so that she <am>ꝑ</am><ex>per</ex>ilously be 
+<lb/>wonded . we shulen do so ententyf bysynesse . fro day to 
+<lb/>nyȝth . that w<am rend="sup">t</am><ex>ith</ex> þe grace of god / she schal ben hool 
+<lb/>and sound as sone as it ys possible </ab><ab n="50">Almost in þe 
+<lb/>same wyse the Fici Phycisiens answereden . Saue 
+<lb/>þat they sayden a fewe wordes more // </ab><ab n="51">That ryght as 
+<lb/>maladies been cured by hire cont<am rend="sup">a</am><ex>ra</ex>ries ryght so schal a 
+<lb/><pb n="167v" facs="ARMR003A.JPG"/>
+ <gap quantity="6" unit="chars"/>sche werre by vengeaunce . </ab><ab n="52">hise neigbore ful of enuye 
+<lb/><gap quantity="3" unit="chars"/> fey<gap quantity="2" unit="chars"/>de frendis that semeden reconsilid hise flater<gap quantity="6" unit="chars"/> </ab><ab n="53">maden 
+<lb/>semblaunt of wepyng and enpeired ⁊ agregged muchel of this 
+<lb/>mater in preisyng gretli Melibe of myght of power of 
+<lb/>rychesse and of Frendes dyspysynge þe power of his adu<am>ꝰ</am><ex>er</ex>sare </ab>
+<lb/><ab n="54">And sayde Outrely that he scholde hym avenge a non in his <gap quantity="4" unit="chars"/> 
+<lb/>⁊ bygin werre <space dim="horizontal" extent="1" /> </ab><ab n="55">Vp roos thanne an Aduocat that was wys By 
+<lb/>leue ⁊ by consayl of þe that weren wyse ⁊ sayde </ab><ab n="56">Lordynges 
+<lb/>the nede for the which we ben asemblit in this place is 
+<lb/>ful heuy thyng . ⁊ an heigh mater . </ab><ab n="57">by cause of the wrong 
+<lb/>and of the wykidnesse þ<am rend="sup">t</am><ex>at</ex> hath ben doon And eke be reson of 
+<lb/>the grete damages þat in tyme comyng . been possible to fallen 
+<lb/>in the same </ab><ab n="58">and eek bi reson of the grete richesse and Power 
+<lb/>of the <am>ꝑ</am><ex>per</ex>ties bothe . </ab><ab n="59">For the whiche resouen it Be a ful gret 
+<lb/><am>ꝑ</am><ex>per</ex>il to erren in this matier <space dim="horizontal" extent="1" /> </ab><ab n="60">Therfore Melibeus thys ys 
+<lb/>oure sentense . we consayle ȝow a bouen alle thyng that 
+<lb/>ryght anon thou do diligence in kepyng of thyn owne 
+<lb/><am>ꝓ</am><ex>pro</ex>pre <am>ꝑ</am><ex>per</ex>sou<am>̄</am><ex>n</ex> in swich a wise þ<am rend="sup">t</am><ex>at</ex> thou he wante non espie ne to 
+<lb/>wacche . thy body forto saue . </ab><ab n="L61">And after that whe consaill þat 
+<lb/>in þy hous thou sette suffisant garnisou<am>̄</am><ex>n</ex> so that they m<gap quantity="2" unit="chars"/> 
+<lb/>as wel thy body as thyn hoous defende // </ab><ab n="62">But certes For to 
+<lb/>moeue werre ne sodeynly forto don vengeance . we may 
+<lb/>not deme in so lite tyme . that yt were <am>ꝓ</am><ex>pro</ex>fitable . </ab><ab n="63">Wherfor 
+<lb/>we axen leyser ⁊ espace to haue deliberacion in the cas to 
+<lb/>deme . </ab><ab n="64">for the comune <am>ꝓ</am><ex>pro</ex>fyt <am>ꝓ</am><ex>pro</ex>uerbe seith this . He that soone 
+<lb/>demeth . Sone schal ra<am>ꝑ</am><ex>per</ex>as repente <space dim="horizontal" extent="1" /> </ab><ab n="65">And eek men sayn þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>thilke Iuge ys wys þat sone vnderstondeth a matere ⁊ 
+<lb/>Iugeth by leyser . </ab><ab n="66">for albe hit so : þ<am rend="sup">t</am><ex>at</ex> al taryyng be anoyful 
+<lb/>algates it is nought to repreue in yeuynge of Iugement 
+<lb/>ne in vengeance takyng : whan hit is suffysant ⁊ resonable . </ab>
+<lb/><ab n="67">And þ<am rend="sup">t</am><ex>at</ex> shewede oure lord . Ihu<am>̄</am><ex>n</ex> crist by ensanple . For whan 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> the wo<am>̄</am><ex>m</ex>man þ<am rend="sup">t</am><ex>at</ex> was taken in Auoutrie was broght in p<am rend="sup">r</am><ex>ra</ex>sence 
+<lb/>of hym // to knowen what sholde be doon of hir <am>ꝑ</am><ex>per</ex>sone / al be 
+<lb/>hit so þat he wiste wel hym self / what þ<am rend="sup">t</am><ex>at</ex> he wolde answere 
+<lb/>yet ne wolde he nat answere sodeynly . bote he wolde haue 
+<lb/>deliberacion in the grou<am>̄</am><ex>n</ex>d he wrotte twyes . </ab><ab n="68">And by thise causes 
+<lb/>we axen deliberacion . and we shul thanne by the grace of 
+<lb/><pb n="168r" facs="ARMR003B.JPG"/>
+ god consaylle the þyng that shal be <am>ꝓ</am><ex>pro</ex>fytable </ab><ab n="69">Vp styrten thanne 
+<lb/>the yonge folk attones and the mooste <am>ꝑ</am><ex>per</ex>tie of þ<am rend="sup">t</am><ex>at</ex> compaignie 
+<lb/>han scorned thys olde wyse man And bygonen to make noyse 
+<lb/>⁊ sayden þ<am rend="sup">t</am><ex>at</ex> </ab><ab n="70">ryght so as whil þ<hi rend="sup">e</hi> yren ys hoot men sholde strike 
+<lb/>Ryght so sholde men wreken hire wronges whil þat they been 
+<lb/>fressche ⁊ newe and w<am rend="sup">t</am><ex>ith</ex> loud voys they cryeden . werre . werre </ab>
+<lb/><ab n="71">Vp ros þoo on of thise olde wise . ⁊ w<am rend="sup">t</am><ex>ith</ex> hand made contin<hi rend="sup">a</hi>nce þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>men sholde holden hem stille ⁊ ȝeune hym audience / </ab><ab n="72">lordynges 
+<lb/>quod he ther ys ful many aman þat cryeth . werr . werr . but 
+<lb/>wot ful lytel whot werre amontheth . </ab><ab n="73">Wherre þ<am rend="sup">t</am><ex>at</ex> ys bygynnyng 
+<lb/>hath so greet an entree ⁊ so large þ<am rend="sup">t</am><ex>at</ex> euery wyght may en<gap quantity="3" unit="chars"/> 
+<lb/>wan hym lykeþ ⁊ lyghtly fynde werre . </ab><ab n="74">But certes what hende 
+<lb/><gap quantity="7" unit="chars"/> shal falle yt ys nat light to knowe </ab><ab n="75">For soothly when 
+<lb/>that werre ys ones bygonne ther is ful many achild vnborn 
+<lb/>of his moder þ<am rend="sup">t</am><ex>at</ex> shal sterue yong / By cause of thilke werre 
+<lb/>or elles lyue in sorewe ⁊ dye in wrechednesse / </ab><ab n="76">And therfore 
+<lb/>er þ<am rend="sup">t</am><ex>at</ex> any <gap quantity="4" unit="chars"/> werre be bi gonne Men moste haue gret consail 
+<lb/>⁊ gret deliberacion <space dim="horizontal" extent="1" /> </ab><ab n="77">And whan that þys olde man wende 
+<lb/>enforce hys tale by resone wel nyegh alle atones bygo<am>̄</am><ex>m</ex>ne 
+<lb/>they to ryde forto breken hys tale And beeden hym ful 
+<lb/>ofte hys wordes for to Abrege </ab><ab n="78">for sothly . he þ<am rend="sup">t</am><ex>at</ex> pcheth to hem 
+<lb/>þat listen nat here his wordes his sermon hem anoyth // </ab>
+<lb/><ab n="79">For Ihu<am>̄</am><ex>n</ex> Syrak sayth <space dim="horizontal" extent="1" /> That Musyk in wepyng is anoyous 
+<lb/><lb/>thyng This is to sayn . as meche <hi rend="ud">aualis</hi> auaylleth to 
+<lb/>speken by fore foolk to þe whyche his speche anoyth // as it 
+<lb/>is to synge byfore hym þat wepeth // </ab><ab n="80">And whan thys 
+<lb/>wyse man / saugh þ<am rend="sup">t</am><ex>at</ex> hym wanted audience al shamefast 
+<lb/>he sette hym don agayn // </ab><ab n="81">For salamon seith . ther as þ<hi rend="sup">u</hi> 
+<lb/><lb/>ne mayst non Audience haue enforce the nat to speke / </ab><ab n="82">I . / se 
+<lb/>wel quod this wyse man þ<am rend="sup">t</am><ex>at</ex> the co<am>̄</am><ex>m</ex>mu<am>̄</am><ex>n</ex>e <am>ꝓ</am><ex>pro</ex>u<am>ꝰ</am><ex>er</ex>be is sooth / That 
+<lb/>consayl wantheth ofte whan it moste nede hade </ab><ab n="83">Yet hadde thys 
+<lb/>Melibeus in his consail mony folk<am>ꝭ</am><ex>es</ex> . that puely in his ere 
+<lb/>consayled hym certeyn thyng : and consayled hym þe co<am>̄</am><ex>m</ex>t<am rend="sup">a</am><ex>ra</ex>rye 
+<lb/>in genal Audience </ab><ab n="84">Whan Melibeus hadde herd þat the 
+<lb/>gretteste <am>ꝑ</am><ex>per</ex>tie of hys consayl were acorded / that he shold 
+<lb/><pb n="168v" facs="ARMR004A.JPG"/>
+ <gap quantity="3" unit="chars"/> werre / Anon he consented to here consaylyng And fuly 
+<lb/>affyrmed hire sentence / </ab><ab n="85">Thane dame Prudence whan that 
+<lb/>she saugh how þ<am rend="sup">t</am><ex>at</ex> hire housbond shoep hym forto wreken 
+<lb/>hym on his foos / And to bygyne werre / She in ful humble 
+<lb/>wyse . whan she saugh hir tyme . Seyde to hym in thys wyse </ab>
+<lb/><ab n="86">My lord quod she / I yow be seche as hertely as y  I dar and 
+<lb/>kan . ne haste yow nat to faste / And for alle gerdons as yiue 
+<lb/>me audience <space dim="horizontal" extent="1" /> </ab><ab n="87">For Piers Alfonce seyth / who so þ<am rend="sup">t</am><ex>at</ex> dooth to 
+<lb/>thee outher good or harm haste þe not to quite <hi rend="ud">hym</hi> yt for 
+<lb/>in this wise thy frend wol abyde / And thy enemy shal the 
+<lb/>lenger tyme lyue in drede / </ab><ab n="88">The <am>ꝓ</am><ex>pro</ex>uerbe seyth . he hasteth 
+<lb/>wel þ<am rend="sup">t</am><ex>at</ex> wisely kan Abyde . And in wykede haste ys no <am>ꝓ</am><ex>pro</ex>fet </ab>
+<lb/><ab n="89">This Melibee answerede vn to his wyf Prudence / I purpose 
+<lb/>nat quod he to werken by þy consayl / for many causes and 
+<lb/>resones for certes eu<am>ꝰ</am><ex>er</ex>y whyth wolde holde me than a fool </ab>
+<lb/><ab n="90">this is to seyn / If I for þy conselyng wolde change thynges 
+<lb/>þat been affermed by so many wyse // </ab><ab n="91">Secoundely I . seye þ<am rend="sup">t</am><ex>at</ex> alle 
+<lb/>wo<am>̄</am><ex>m</ex>men ben wykke and none goode of hem alle For of A 
+<lb/>thousand men seyth Salomon I fond o good man But certes 
+<lb/>of alle whemen good woman fonde I neu<am>ꝰ</am><ex>er</ex>e . </ab><ab n="92">and also certes 
+<lb/>yf y gou<am>ꝰ</am><ex>er</ex>ne me by thy conseil yt sholde seme þ<am rend="sup">t</am><ex>at</ex> I hadde yeue 
+<lb/>to the ou<am>ꝰ</am><ex>er</ex> me the maistrie // godes forbode þ<am rend="sup">t</am><ex>at</ex> hit so were </ab>
+<lb/><ab n="93">For Ih<am>c̄</am><ex>etc</ex> Syrak seith that yf þy wyf haue maistrie // she ys 
+<lb/><lb/>contrarious . to hire housbonde // </ab><ab n="94">And Salomon seith Neu<am>ꝰ</am><ex>er</ex>e 
+<lb/>in þy lyf to thy wyf // ne to thy child ne to thy frend ne 
+<lb/>ȝef no power ou<am>ꝰ</am><ex>er</ex> thy Self / For bettre yt were þ<am rend="sup">t</am><ex>at</ex> þy children 
+<lb/><lb/>axe of thy <am>ꝑ</am><ex>per</ex>sone thynges that hem nedeth than thow 
+<lb/>see thy self in the handes of thy chyldren // </ab><ab n="95">And also yf 
+<lb/>I wolde werke by þy conselyng . certes my conseil . moste 
+<lb/>somtyme be secree / til yt were tyme þ<am rend="sup">t</am><ex>at</ex> hit moste be 
+<lb/><lb/>knowe And this may not be // </ab><ab n="96">Whan dame Prudence ful 
+<lb/>debonarly and w<am rend="sup">t</am><ex>ith</ex> gret pacience // hadde herd al that hir housbonde 
+<lb/>lyked forto saye // thanne axed she of hym lycence for to speke 
+<lb/>and sayde in thys wise // </ab><ab n="97">My lord quod she also ȝoure firste 
+<lb/>resou<am>̄</am><ex>n</ex> certes yt may lyghtly been Answered For I seie 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> it is no folye to change conseil . whan the thyng ys 
+<lb/><pb n="169r" facs="ARMR004B.JPG"/>
+ changed or elles whan the þyng semeth oother weys than yt 
+<lb/>was byforen / </ab><ab n="98">And more ouer / I saye þ<am rend="sup">t</am><ex>at</ex> though þ<am rend="sup">t</am><ex>at</ex> ȝe han sworn 
+<lb/>⁊ byhight to <am>ꝑ</am><ex>per</ex>forme youre empryse and natheles ye wome 
+<lb/>to <am>ꝑ</am><ex>per</ex>forme thilke same emprise by Iust cause . Men sholde not 
+<lb/>sayn therfore þ<am rend="sup">t</am><ex>at</ex> ȝe were a lyere ne for sworn // </ab><ab n="99">For the book 
+<lb/>sayth that wyse man maketh no lesyng whan he turneth hys 
+<lb/>corage to þe bettre . </ab><ab n="100">And al be hit so þ<am rend="sup">t</am><ex>at</ex> ȝour empryse / be establysed 
+<lb/>or ordeyned by greet Multitude of folk<am>ꝭ</am><ex>es</ex> . yet thar ȝe nat acom 
+<lb/>plyse thylke same ordinaunce / but ȝow lyke / </ab><ab n="101">For the treuth of 
+<lb/>thynges ⁊ the <am>ꝓ</am><ex>pro</ex>fit been rather fonde in Fewe folk<am>ꝭ</am><ex>es</ex> þ<am rend="sup">t</am><ex>at</ex> ben 
+<lb/>wyse ⁊ feul of reson / Than by gret multitude of folk / there 
+<lb/>eu<am>ꝰ</am><ex>er</ex>y man cryeth ⁊ clatereth what þ<am rend="sup">t</am><ex>at</ex> hym lyketh soothly / swych 
+<lb/>multitude ys not honeste // </ab><ab n="102">And to þ<hi rend="sup">e</hi> seconde resou<am>̄</am><ex>n</ex> wher as ȝe 
+<lb/>seyn þ<am rend="sup">t</am><ex>at</ex> alle women been wykk<am>ꝭ</am><ex>es</ex> sauf yowre grace // certes ye 
+<lb/>despise alle wo<am>̄</am><ex>m</ex>men in this wyse / and he þ<am rend="sup">t</am><ex>at</ex> alle despiseth 
+<lb/><lb/>alle displeseth as seyth þe bok / </ab><ab n="103">And senek seith that who 
+<lb/>so wole haue sapience shal no ma<am>̄</am><ex>n</ex> dispise / but he shal gla<gap quantity="3" unit="chars"/> 
+<lb/>teche þe sience þ<am rend="sup">t</am><ex>at</ex> he can . w<am rend="sup">t</am><ex>ith</ex> oute psumsiou or pride / </ab><ab n="104">And 
+<lb/>swiche þynges as he noght ne can he shal nat ben asha<am>̄</am><ex>n</ex>med 
+<lb/>to lerne hem ⁊ enquere of lasse folk<am>ꝭ</am><ex>es</ex> than hym selfe / </ab><ab n="105">And sire þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>ther hath y ben ful mony a good wo<am>̄</am><ex>m</ex>man may lightly be <am>ꝓ</am><ex>pro</ex>ued </ab>
+<lb/><ab n="106">for c<am>ꝰ</am><ex>er</ex>tes sire oure lord / Ihu<am>̄</am><ex>n</ex> crist wolde neu<am>ꝰ</am><ex>er</ex>e haue dissended to been 
+<lb/>born of a wo<am>̄</am><ex>m</ex>man / yf alle wome<am>̄</am><ex>m</ex> hadde be wyked / </ab><ab n="107">And after that 
+<lb/>for the grette bontee þ<am rend="sup">t</am><ex>at</ex> is yn woman Oure lord Ihu<am>̄</am><ex>n</ex> crist whan 
+<lb/>he was rysen fro deth to lyf // Appiered rather to a wo<am>̄</am><ex>m</ex>man . than 
+<lb/>to his aposteles / </ab><ab n="108">And thogh þ<am rend="sup">t</am><ex>at</ex> Saloman seith þ<am rend="sup">t</am><ex>at</ex> he ne foond 
+<lb/>neuer wo<am>̄</am><ex>m</ex>man good / it foleweth nat therfore þ<am rend="sup">t</am><ex>at</ex> alle weme<am>̄</am><ex>m</ex>n 
+<lb/>been wykke </ab><ab n="109">for thogh þat he ne foond no good wo<am>̄</am><ex>m</ex>man Certes 
+<lb/>mony a noþ<am>ꝰ</am><ex>er</ex> man hath founde mony a wo<am>̄</am><ex>m</ex>man ful good and 
+<lb/>trewe / </ab><ab n="110">Or elles <am>ꝑ</am><ex>per</ex>auenture the entente of Saloman was 
+<lb/>þys that in sou<am>ꝰ</am><ex>er</ex>eyn bou<am>̄</am><ex>n</ex>tee he foond no wo<am>̄</am><ex>m</ex>man good </ab><ab n="111">Thys is to 
+<lb/>seyn þ<am rend="sup">t</am><ex>at</ex> þ<am>ꝰ</am><ex>er</ex> ys no wight þ<am rend="sup">t</am><ex>at</ex> hath sou<am>ꝰ</am><ex>er</ex>eyn bou<am>̄</am><ex>n</ex>tee saue god al- 
+<lb/>one / as he hym self recordeth in his Eu<hi rend="sup">a</hi>ngelie </ab><ab n="112">for ther 
+<lb/>nys no creature so good þ<am rend="sup">t</am><ex>at</ex> hym ne wantheh somwhat of 
+<lb/><pb n="169v" facs="ARMR005A.JPG"/>
+ <gap quantity="3" unit="chars"/><am>ꝑ</am><ex>per</ex>feccion of god þ<am rend="sup">t</am><ex>at</ex> is his maker </ab><ab n="113">ȝoure firste reson is this 
+<lb/><gap quantity="2" unit="chars"/> seyn þat if ȝe gou<am>ꝰ</am><ex>er</ex>ne ȝow by my conseil yt sholde þ<am rend="sup">t</am><ex>at</ex> ȝe hadde 
+<lb/>geue me þe maystrie and the lorschip of ȝoure <am>ꝑ</am><ex>per</ex>sone </ab><ab n="114">Syre 
+<lb/>sauf ȝoure grace hit is not so . for yef so were þat no man shold 
+<lb/>be conseild bote only of hem þat hadde lordschepe ⁊ maistrye 
+<lb/>of his <am>ꝑ</am><ex>per</ex>sone / men wolde not been conseild so ofte // </ab><ab n="115">For soothly 
+<lb/>thilke man þat axeth of a porpose ȝet hath he fre choys wheiþ<am>ꝰ</am><ex>er</ex> 
+<lb/>he wol wyrke by þat conseil or non </ab><ab n="116">And as to ȝoure feureth 
+<lb/>resou<am>̄</am><ex>n</ex> ther ȝe sayn þ<am rend="sup">t</am><ex>at</ex> þe Ianglerie of women kan nat hyde that 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> þey wot nough . as who sayth þat a woman kan not hyde that 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> she wot / </ab><ab n="117">Syre þese wordes been vnderstonde of wo<am>̄</am><ex>m</ex>men þat 
+<lb/>been Iangleresses ⁊ wykked . </ab><ab n="118">of weche wemen men sayn þ<am rend="sup">t</am><ex>at</ex> thre 
+<lb/>þinges escheweth a man out of his hous / That is to sayn . Smoke . droppyng 
+<lb/>of reyn and wykked wyues . </ab><ab n="119">And of wyche wo<am>̄</am><ex>m</ex>me / Salomon saith 
+<lb/>þat hit were better dwelle in desert þan w<am rend="sup">t</am><ex>ith</ex> a woman þ<am rend="sup">t</am><ex>at</ex> is 
+<lb/>ryotous / </ab><ab n="120">And sire by ȝour leue that am nat I </ab><ab n="121">For ȝe han 
+<lb/>ful ofte . a sayed my gret silence And my greet pacience 
+<lb/>and ekke how wel þ<am rend="sup">t</am><ex>at</ex> I kan hyde ⁊ hele . thyngs þat men 
+<lb/>oughten secrely to hyde </ab><ab n="122">And southly as to ȝore Fifthe 
+<lb/>reson wher þ<am rend="sup">t</am><ex>at</ex> ȝe sayn þ<am rend="sup">t</am><ex>at</ex> in wykked conseil wo<am>̄</am><ex>m</ex>men venquisse 
+<lb/>men / God wot þylke reson . stant her in no stede . </ab><ab n="123">For 
+<lb/>vnderstonde now ye axen consayl . to do wykkednesse </ab><ab n="124">⁊ 
+<lb/>if ȝe wolle werke wykkednesse And youre wyf restreyneth 
+<lb/>thilke wykede porpos / And ou<am>ꝰ</am><ex>er</ex>cometh ȝow by resou and by 
+<lb/>good conseil . </ab><ab n="125">c<am>ꝰ</am><ex>er</ex>tes ȝoure wyf oughte rather ben preysed ther 
+<lb/>fore þan y blamed / </ab><ab n="126">Thus sholde ȝe vnderstonde þe Philo 
+<lb/>sophre þat seyth . In wykede conseil . we<am>̄</am><ex>m</ex>men venquisen hir 
+<lb/>housbodez / </ab><ab n="127">And ther as ȝe blamen alle wemen ⁊ hir reson 
+<lb/>I shal sewe ȝow by mony resones ⁊ ensamples þat mony 
+<lb/>a wo<am>̄</am><ex>m</ex>man hath been foul good And ȝet ben and hir consel 
+<lb/>holsom ⁊ <am>ꝓ</am><ex>pro</ex>fitable </ab><ab n="128">Gef som men han sayd þ<am rend="sup">t</am><ex>at</ex> þe consailyng 
+<lb/>is owther to deere or elles to litel of pris / </ab><ab n="129">but al be hit so 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> ful many a wo<am>̄</am><ex>m</ex>man is badde and hir conseil vile and 
+<lb/>nough worgh ȝet han men fonde ful many a good wo 
+<lb/>man and ful discreet ⁊ wys in conseillyng / </ab><ab n="130">Lo Iacob 
+<lb/><pb n="170r" facs="ARMR005B.JPG"/>
+ bi consail of his moder Rebekke whan the benison of ysaak 
+<lb/><lb/>his Fader and þe lordschype of Alle hyse breþeren </ab><ab n="131">Iudith 
+<lb/>by hire <gap quantity="4" unit="chars"/> conseil delyuered þe cyte of Bethelye in whi<gap quantity="3" unit="chars"/> 
+<lb/>she dwelled out of the handes of Oly Olofern þat hadde it 
+<lb/>byseged . And wolde it al distrue / </ab><ab n="132">Abygail . delyu<am>ꝰ</am><ex>er</ex>ed Nabal hir 
+<lb/>housbonde fro dauid the kyng þ<am rend="sup">t</am><ex>at</ex> wold han slayen hym ⁊ ape<gap quantity="4" unit="chars"/> 
+<lb/>the Ire of þe kyng be hir wyt And by hir good conseylyng </ab>
+<lb/><ab n="133">ester by hyr good conseil enhaunced greetly the peple of god in the 
+<lb/>regne of assuerus the kyng <space dim="horizontal" extent="1" /> </ab><ab n="134">And the same bounte in good 
+<lb/>conseilyng of mony a good wo<am>̄</am><ex>m</ex>man may men telle </ab><ab n="135">And more 
+<lb/>whan þ<am rend="sup">t</am><ex>at</ex> oure lord hadde creat Adam oure forme fader he seyde 
+<lb/>in þys wyse <space dim="horizontal" extent="1" /> </ab><ab n="136">yt ys not good to be a ma<am>̄</am><ex>n</ex> allone Make we to hym 
+<lb/>an help semblable to hym self </ab><ab n="137">heer may ȝe see þat if wo<am>̄</am><ex>m</ex>men 
+<lb/>were nat goode ⁊ hir conseil good ⁊ <am>ꝓ</am><ex>pro</ex>fitable </ab><ab n="138">Oure lord god of 
+<lb/>heuene wolde neyther han wroght hem ne called hem help 
+<lb/>of man but rather confusion of man / </ab><ab n="139">And þer sayde ones 
+<lb/>a clerk in two vers what is bettre than gold . Iaspre what 
+<lb/>is bettr þan Iaspere wysedom . </ab><ab n="140">And what is bettre þan wysdom 
+<lb/>wo<am>̄</am><ex>m</ex>man . And wat ys bettr þan a good woman ; no thyng // </ab><ab n="141">And 
+<lb/>sire by mony oþ<am>ꝰ</am><ex>er</ex> resons may ȝe seen . þ<am rend="sup">t</am><ex>at</ex> mony wo<am>̄</am><ex>m</ex>men ben 
+<lb/>good ⁊ hir conseil good ⁊ <am>ꝓ</am><ex>pro</ex>fitable // </ab><ab n="142">And therfore / yf ȝe 
+<lb/>wolle truste to my conseil I shal . restore ȝow youre doght<am>ꝰ</am><ex>er</ex> 
+<lb/>hol ⁊ sou<am>̄</am><ex>n</ex>d </ab><ab n="143">⁊ eke I . wol do to ȝow so muche . þ<am rend="sup">t</am><ex>at</ex> ȝe shul haue 
+<lb/><lb/>honour in thys cause // </ab><ab n="144">Whan Melibee hadde herd the 
+<lb/><lb/>wordes of his wyf prudence / He seyde thus // </ab><ab n="145">I see wel þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>the word of Salomon is sooth // he seyth þ<am rend="sup">t</am><ex>at</ex> wordes þ<am rend="sup">t</am><ex>at</ex> been 
+<lb/>spoken discretly by ordinance beth honycombes For they 
+<lb/>yeuen <hi rend="ud"><gap quantity="2" unit="chars"/></hi> swetnesse to the soule ⁊ holsomnesse to þe body </ab>
+<lb/><ab n="146">And wyf by cause of þy swete wordes // And ekke for I haue 
+<lb/>asayed and proued thy grete sapience / ⁊ thy grete trouþe 
+<lb/>I . wol gou<am>ꝰ</am><ex>er</ex>ne . me by þy conseil in alle thyng / </ab><ab n="147">Now syre 
+<lb/>quod dame Prudence And seyn ye wouche sauf to been 
+<lb/><lb/>gou<am>ꝰ</am><ex>er</ex>ned by my conseil . // I wol enforme yow . how ye shul gou<am>ꝰ</am><ex>er</ex>e 
+<lb/>ȝoure self In chosyng of ȝour conseil /. </ab><ab n="148">Ye shul furst in alle 
+<lb/><pb n="170v" facs="ARMR006A.JPG"/>
+ ȝoure werkes mekely byseken to heghe god that god that he wol 
+<lb/>be youre conseilour <space dim="horizontal" extent="1" /> </ab><ab n="149">And shapeth yow to swich entent þat he ȝeue 
+<lb/>yow conseil . ⁊ confort . as taught Thobie his son </ab><ab n="150">at all tymys þow 
+<lb/>shull blyse god and p<am rend="sup">a</am><ex>ra</ex>y hym to dresse thy wayes and loke þat 
+<lb/>all thy consels ben in hym for eu<am>ꝰ</am><ex>er</ex>e mor / </ab><ab n="151">Seynt Iame eke saith 
+<lb/>if any of ȝow haue nede of Sapience . Haske it of God </ab><ab n="152">And 
+<lb/>aft<am>ꝰ</am><ex>er</ex>ward shall ȝe take consal of ȝour self and examyn well 
+<lb/><lb/>ȝour thoghtes of which thyngys as ȝow thynketh þat ben best 
+<lb/>for ȝour <am>ꝓ</am><ex>pro</ex>fyt / </ab><ab n="153">And thane shull ȝe dryue fro ȝo<am rend="sup">r</am><ex>ur</ex> herte thre þynges 
+<lb/>þat ben cont<am rend="sup">a</am><ex>ra</ex>rius to good conseill </ab><ab n="154">þat is to sayne Ire couetyse 
+<lb/><lb/>and hastynese . </ab><ab n="155">Fyrst he þat asketh conseill hym self Certes 
+<lb/>he most be w<am rend="sup">t</am><ex>ith</ex> oute . Ire . for many causes </ab><ab n="156">The fyrst is thise 
+<lb/>he þat hath grete . Ire . and wrath in hym self he weneth 
+<lb/>all way þat he may do þynge þat he may not do <space dim="horizontal" extent="1" /> </ab><ab n="157">And secondely 
+<lb/>he þat is Irerus and wroth he ne may not well deme </ab><ab n="158">And 
+<lb/>he þat may not well deme may not well consell  <space dim="horizontal" extent="1" /> </ab><ab n="159">And þer 
+<lb/>is this . þat he þat is Irus ⁊ wroth as saith Syneke ne may 
+<lb/>not speke bot blamefull þyngys / </ab><ab n="160">and w<am rend="sup">t</am><ex>ith</ex> hys vysious wordes 
+<lb/>he stereth folke to angre ⁊ to Ire </ab><ab n="161">and eke sir ȝe most dryue 
+<lb/>couetise oute of ȝour herte </ab><ab n="162">for the Apostell saith . þat couetise 
+<lb/>is rote of all harmes / </ab><ab n="163">And tryst well þ<am rend="sup">t</am><ex>at</ex> a couetouse man 
+<lb/>ne can not deme ne thynke bot onely to fullfyll þe grete 
+<lb/>ende of hys couetyse / </ab><ab n="164">And certes that ne may not ben 
+<lb/>acomplyst . For eu<am>ꝰ</am><ex>er</ex>e þe mor abondance þat he hath of 
+<lb/>rychesse the mor he desyreth // </ab><ab n="165">And sire ye moste dryue out of 
+<lb/>ȝoure herte . hastyfnesse . For certes / </ab><ab n="166">ye may nat deme for the beste 
+<lb/>a sodeyn thought . þ<am rend="sup">t</am><ex>at</ex> falleth in ȝoure herte . but ye moste auyse 
+<lb/>yow on it ful ofte </ab><ab n="167">for as ye han herd her by forn the co<am>̄</am><ex>m</ex>e <am>ꝓ</am><ex>pro</ex>u<am rend="sup">r</am><ex>er</ex>be 
+<lb/>ys thys That he þ<am rend="sup">t</am><ex>at</ex> soone demeth soone repenth </ab><ab n="168">Syre ye 
+<lb/>ne ben nat alway in lyke disposiciou / </ab><ab n="169">For certes som thyng þat 
+<lb/>som tyme semeth to yow þ<am rend="sup">t</am><ex>at</ex> it ys god for to doo Anoþ<am>ꝰ</am><ex>er</ex> tyme it 
+<lb/>semeth to yow the cont<am rend="sup">a</am><ex>ra</ex>rye </ab><ab n="170">Whan ye han taken conseil in youre 
+<lb/>self / And han demed by good delyberaciou<am>̄</am><ex>n</ex> . Swych thyng as 
+<lb/>yow semeth best . </ab><ab n="171">Than rede y ȝow þ<am rend="sup">t</am><ex>at</ex> ye kepe it secree </ab><ab n="172">by 
+<lb/>wrey nat youre conseil . to no <am>ꝑ</am><ex>per</ex>sone 
+<lb/>but yef so be þat ȝewenen sikyrly þ<am rend="sup">t</am><ex>at</ex> thurgh youre bywreyynge youre condicion : 
+<lb/><pb n="171r" facs="ARMR006B.JPG"/>
+ to no <am>ꝑ</am><ex>per</ex>sone but yf so be þ<am rend="sup">t</am><ex>at</ex> ye wenen sikerly þat thurgh ȝoure 
+<lb/>by wreying ȝoure condicion shal be to yow more <am>ꝑ</am><ex>per</ex>fitable / </ab><ab n="173">For 
+<lb/><lb/>Ihu<am>̄</am><ex>n</ex> Syrak seyth Neyther to þy foo . ne to þe frend ; frend discou<am>ꝰ</am><ex>er</ex> 
+<lb/>nat thy <hi rend="ud">secheer</hi> secree ne thy folye </ab><ab n="174">for they wolle yue ȝow 
+<lb/>audience And lookynge ⁊ supportacion / in youre psence and 
+<lb/>scorne yow in ȝowr absence // </ab><ab n="175">Another clerk seith þ<am rend="sup">t</am><ex>at</ex> scarsly shal 
+<lb/>tow fynden any <am>ꝑ</am><ex>per</ex>sone þ<am rend="sup">t</am><ex>at</ex> may kepe conseil secreely / </ab><ab n="176">The book 
+<lb/>seyth whil þ<am rend="sup">t</am><ex>at</ex> yow kepest thy conseil in thyn herte / thow kepest hit 
+<lb/>in þy psou<am>̄</am><ex>n</ex> . </ab><ab n="177">And whan þ<hi rend="sup">u</hi> by wrayest þy conseil to any wyȝth <gap quantity="3" unit="chars"/> 
+<lb/>he holdeþ þe in hys snare <space dim="horizontal" extent="1" /> </ab><ab n="178">And therfore // yow ys bettre to kepe 
+<lb/>ȝoure conseil in yowre herte than praye hym . to whom to ye 
+<lb/>haue byvreyed youre conseil that he wol kepen hit cloos and 
+<lb/><lb/>stylle </ab><ab n="179">For Seneca seith / If so be / þat þ<hi rend="sup">u</hi> ne maist nat thyn 
+<lb/>owne conseil hyde . how dorstow preye any oþ<am>ꝰ</am><ex>er</ex> wyght thy conseil 
+<lb/>secrely to kepe . </ab><ab n="180">but notheles if þow wene sekyrly þat thy by 
+<lb/>wreyng of þy conseil to a <am>ꝑ</am><ex>per</ex>sone / wol make the condiciou<am>̄</am><ex>n</ex> stonde 
+<lb/><lb/>in þe bettre plyt / thanne shaltow telle hym þy condiciou<am>̄</am><ex>n</ex> in 
+<lb/>this wyse </ab><ab n="181">Furst thow shalt make no semblant // wheither the 
+<lb/>were leu<am>ꝰ</am><ex>er</ex> pees or werre / or . þys or that ne shewe nat hym 
+<lb/>thi wylt ne thyn entente . </ab><ab n="182">For trust wel that comunely thise 
+<lb/>conseillours ben flaterers . </ab><ab n="183">namely þe conseillours of grete 
+<lb/>lordes / </ab><ab n="184">For þey enforsen hem al wey rather to speke plesant 
+<lb/>wordes . enclynyng to þe Lordes lust than wordes þat ben 
+<lb/>trewe or <am>ꝓ</am><ex>pro</ex>fitable </ab><ab n="185">And therfore men sayn // that þe ryche 
+<lb/>man hath selde good conseil . but if he haue hit of hym 
+<lb/>self <space dim="horizontal" extent="1" /> </ab><ab n="186">And aftur þat þow shalt consider thy Frendes And 
+<lb/>thy enemyes . </ab><ab n="187">And as touchyng thy frendes / thow shalt con 
+<lb/>sider wheche of hem ben most feithful . and most wyse 
+<lb/>and eldest / and most approued in conseillyng . </ab><ab n="188">And of hem 
+<lb/>þow shalt axe thy conseil . As the cas requereth </ab><ab n="189">I seye ȝe 
+<lb/>shul clepe to youre conseil . yowre frendes þat been trewe </ab>
+<lb/><ab n="190">For Salomou<am>̄</am><ex>n</ex> seith . þat ryght as þe herte of a man delyteth in 
+<lb/><lb/>sauour þ<am rend="sup">t</am><ex>at</ex> ys swete ryght . so the conseil of trewe frendes 
+<lb/>yeueth swetnesse to þe Soule // </ab><ab n="191">he seith al so ther may no 
+<lb/>thyng be lykned to þe trewe frend . </ab><ab n="192">for certes gold ne selu<am>ꝰ</am><ex>er</ex> 
+<lb/><pb n="171v" facs="ARMR007A.JPG"/>
+ been noght so meche worth as þe good wylle of a trewe frend // </ab>
+<lb/><ab n="193">And eek he seith that a trewe frend ys a strong defence . who so 
+<lb/>þat hym fyndeth . certes he fyndeth a gret tresour </ab><ab n="194">than shul ȝe 
+<lb/>eeke considere . yf þat youre trewe frendes been discret ⁊ wyse 
+<lb/>for the book seith axe al way thy conseil of hem þat ben wyse </ab><ab n="195">⁊ 
+<lb/>by this same resou<am>̄</am><ex>n</ex> // Shul ye clepen to ȝoure conseil / of yowre 
+<lb/>frendes þat ben of age // Swyche as han seyen / And been expert in 
+<lb/>manye þynges . And been approued in conseillynges . </ab><ab n="196">For the bok 
+<lb/>seith . that in olde men is þe sapience ⁊ in longe tyme the 
+<lb/>prudence </ab><ab n="197">And Tulius seith . that gret þynges ne ben not ay 
+<lb/>acomplysed by streygthe ne by delyu<am>ꝰ</am><ex>er</ex>nesse of body but by good conseil 
+<lb/>by auctoryte of <am>ꝑ</am><ex>per</ex>sones / ⁊ by syence the whiche . þre thynges ne ben 
+<lb/>not <hi rend="ud">feeble</hi> fiable by age / but þey enforcen and encresen day by day </ab>
+<lb/><ab n="198">And thanne shal ye kepe þys for genal rule First shal ye kepe 
+<lb/>to ȝoure conseil / A fewe of ȝoure frendes þat ben especiale <space dim="horizontal" extent="1" /> </ab><ab n="199">For 
+<lb/>Salaman seith monye frendes haue þ<hi rend="sup">u</hi> . but among a thounsand 
+<lb/>chees thee on to be þy conseillour </ab><ab n="200">for al be hit so þ<am rend="sup">t</am><ex>at</ex> þow first ne 
+<lb/>telle thi conseil bote to afewe thow mayst aft<am>ꝰ</am><ex>er</ex>ward hit to mo folk 
+<lb/>yf hit be nede . </ab><ab n="201">but loke alway þat thy conseillours haue thylke 
+<lb/>thre condicions / that I . haue sayd by fore . that is to saye . that 
+<lb/>þey be trewe . wyse and of old ex<am>ꝑ</am><ex>per</ex>ience / </ab><ab n="202">And werke nat Al way 
+<lb/>in eu<am>ꝰ</am><ex>er</ex>y nede by aconseillour allone for somtyme by houeth it 
+<lb/>to ben conseild by manye // </ab><ab n="203">For Salomon seith . Saluocion of thynges 
+<lb/><lb/>is wher as ther ben many conseylours // </ab><ab n="204">Now seth þat 
+<lb/>I haue told ȝow of which folke ȝe shold be conseld Nowe 
+<lb/>wyll I tell ȝow the which conseill ȝow aught asshewe </ab>
+<lb/><ab n="205">Fyrst ȝe shull esshewe þe conselyng of foles // For Salamon 
+<lb/>saith take no conseill of a foll for he ne can not conseill 
+<lb/>bot aft<am>ꝰ</am><ex>er</ex> his owen lust ⁊ his effecciou<am>̄</am><ex>n</ex> // </ab><ab n="206">The boke saith 
+<lb/>þat the pro<am>ꝑ</am><ex>per</ex>te of a full is this he troweth lyghtely 
+<lb/>harme of eu<am>ꝰ</am><ex>er</ex>y wyght and lyghtely troweth all bonte 
+<lb/>in hym self // </ab><ab n="207">Thowe shalt / eke esshewe the conselynge 
+<lb/>of all flateres which as in forsseth hem rather to p<am rend="sup">a</am><ex>ra</ex>ysen 
+<lb/>ȝour <am>ꝑ</am><ex>per</ex>sou<am>̄</am><ex>n</ex> by flatery þane to tell ȝow þe sothfastenesse of 
+<lb/>thynges // </ab><ab n="208">Wherfor Tulius saith among all pestylencz 
+<lb/><lb/>þat ben in frendeshipe þe gretest is flatery And þerfor /
+<lb/>is it mor ned þat þow esshewe ⁊ drede flatelers þane any 
+<lb/><pb n="172r" facs="ARMR007B.JPG"/>
+ other peple </ab><ab n="209">The boke saith þow shall rather drede and fle fro 
+<lb/>the whete wordys of flateryng praysers / þane fro the egre 
+<lb/>wordes of thy frende that saith the thy sothese </ab><ab n="210">Salamou<am>̄</am><ex>n</ex> 
+<lb/>saith þat the wordes of a flaterer is a snar to cachen Ino<gap quantity="6" unit="chars"/> </ab>
+<lb/><ab n="211">he seith also . that þat he þ<am rend="sup">t</am><ex>at</ex> spketh to his frend wordes of swetnesse ⁊ 
+<lb/>of plesance setteth a net byforn his feet to cacchen hym </ab><ab n="212">And þ<am>ꝰ</am><ex>er</ex>fore 
+<lb/><lb/>seith tullius Encline nat thyne eres to flateres . ne tak no consell 
+<lb/>of wordes of flaterys . </ab><ab n="213">And Caton seith . Auese thee wel ⁊ eschue wordys 
+<lb/>of swetnesse and plesance <space dim="horizontal" extent="1" /> </ab><ab n="214">And eke thow shalt eschue þ<hi rend="sup">e</hi> conseillyng of 
+<lb/>thyne olde enemyes . þat ben reconsiled // </ab><ab n="215">The bok seith þat no <gap quantity="3" unit="chars"/> 
+<lb/>returneth . safly in to þe grace of his olde enemy // </ab><ab n="216">And ysope seith 
+<lb/>ne trust nat to hem to weche þow hast had somtyme werre or enemy<gap quantity="2" unit="chars"/> 
+<lb/>ne tel hem nat þy conseil // </ab><ab n="217">And Seneca telleth the causa . why it 
+<lb/><lb/>may nat be seith he þ<am rend="sup">t</am><ex>at</ex> were as gret fyr hath longe tyme endured 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> þer ne dwelleth som vapour of warmnesse // </ab><ab n="218">And therfore seith 
+<lb/>salomon // In thyn olde foo truste neuer </ab><ab n="219">For sikyrly . thogh thyn enemy 
+<lb/><lb/>be reconsiled ⁊ maketh the cher of humylite // ⁊ lowteth to þee w<am rend="sup">t</am><ex>ith</ex> 
+<lb/>his heed . ne trust hym neuer </ab><ab n="220">for certes / he maketh thilke feyned 
+<lb/>humylite ⁊ lowteth to þe moore for hys <am>ꝓ</am><ex>pro</ex>fit than for any loue 
+<lb/>of þy <am>ꝑ</am><ex>per</ex>sone by swyche feyned contn<hi rend="sup">a</hi>nce the whyche vyctory he 
+<lb/>myghte nat haue by stryf or werre // </ab><ab n="221">And Peter alfonce seith 
+<lb/><lb/>make no felawesschep w<am rend="sup">t</am><ex>ith</ex> þyne olde enemys / for þef þow do hem 
+<lb/>bonte . they wolle <am>ꝑ</am><ex>per</ex>uerten hit in to wykkedenesse // </ab><ab n="222">And eke þ<hi rend="sup">u</hi> 
+<lb/>most eschue / the conseillyng of hem þat ben þy seru<hi rend="sup">a</hi>ntz ⁊ beren 
+<lb/>thee gret reu<am>ꝰ</am><ex>er</ex>ence . for <am>ꝑ</am><ex>per</ex>auenture / they sayn it more for drede 
+<lb/><lb/>than for loue // </ab><ab n="223">And therfore seith þe Philosophre in þys wyse 
+<lb/>ther nys no wyght <am>ꝑ</am><ex>per</ex>fitly trewe to hym þ<am rend="sup">t</am><ex>at</ex> he sore dredeth  </ab>
+<lb/><ab n="224">And Tullius . seith ther nys myght so greet of any Em<am>ꝑ</am><ex>per</ex>o<am rend="sup">r</am><ex>ur</ex> 
+<lb/><lb/>þat longe may endure / but if he haue more loue of the 
+<lb/>peple þan drede // </ab><ab n="225">Thow shalt also eschue the conselyng of 
+<lb/>folk þat been dronkelew . for þey ne kan no conseil hyde 
+<lb/></ab>
+<lb/><ab n="226">For Salomon seith / ther is no puetee / ther as reigneth dronkenesse </ab>
+<lb/><ab n="227">Ye shal al so han in suspect / the conseillyng of swyche folk as 
+<lb/>conseyle yow on þyng puely ⁊ conseille ȝow þe cont<am rend="sup">a</am><ex>ra</ex>rie openly  </ab>
+<lb/><ab n="228">For Cassiodre seith þ<am rend="sup">t</am><ex>at</ex> it is a mane sleyhte to hyndre whon he 
+<lb/><lb/>sheweth / to don a thyng openly / And werketh p<am rend="sup">i</am><ex>ri</ex>uely . the cont<am rend="sup">a</am><ex>ra</ex>rie 
+<lb/></ab>
+<pb  n="172v" facs="ARMR008A.JPG"/>
+<ab n="229">Thou shalt also have in susspec the conseillyng of wykk<gap quantity="2" unit="chars"/> 
+<lb/>folk seith the conseillyng of wikked Folk is alway ful of 
+<lb/>fraude // </ab><ab n="230">And dauid seyth Blysful is that man that haþ 
+<lb/>nat folwed the conselyng of srewes // </ab><ab n="231">Thou shalt also 
+<lb/>eschue the conseilyng<am>ꝭ</am><ex>es</ex> of yong folk / for hir conseil is nat 
+<lb/>rype </ab><ab n="232">Now sire sith I haue shewed ȝow of which folk ȝow 
+<lb/>shul folewe þy conseil / </ab><ab n="233">Now wol I teche yow how ye 
+<lb/>shul examyne youre conseil after þe doctrine of Tulius </ab>
+<lb/><ab n="234">In examynynge thanne of youre conseilour ȝe shul 
+<lb/>considere many thynges // </ab><ab n="235">Alderfirst thow shalt considere 
+<lb/><hi rend="ud">manye thynges</hi> þ<am rend="sup">t</am><ex>at</ex> in thilke thyng þ<am rend="sup">t</am><ex>at</ex> þou <am>ꝓ</am><ex>pro</ex>posest and 
+<lb/>and vpon what thyng thou wolt haue conseil þ<am rend="sup">t</am><ex>at</ex> v<am>ꝰ</am><ex>er</ex>ray 
+<lb/>truthe be seid and confermed this is to seyn telle tre 
+<lb/>wely thy tale </ab><ab n="236">for he þ<am rend="sup">t</am><ex>at</ex> seith fals may nat wel be conseiled 
+<lb/>in þ<am rend="sup">t</am><ex>at</ex> cas þat of the weche he lyeth // </ab><ab n="237">And After þat þ<hi rend="sup">u</hi> shalt 
+<lb/>consider þe þeynges þat Acorden / to þat þow purposest 
+<lb/>forto do by  </ab><ab n="238">þy conseillours accorde ther to or no // </ab><ab n="239">Than 
+<lb/>shaltow considere what thyng shal folewe of þ<am rend="sup">t</am><ex>at</ex> conselyng 
+<lb/>as . hate . pees . werre . grace . <am>ꝓ</am><ex>pro</ex>fit or damage and mony oþ<hi rend="sup">r</hi>e 
+<lb/>thinges .</ab><ab n="240">And in alle thise thinges thow shalt chese þ<hi rend="sup">e</hi> beste 
+<lb/>and wayue alle othere thynges / </ab><ab n="241">Than shalt tow consider 
+<lb/>of wat rote is engendert the mater of þy conseil and 
+<lb/>what fruyt it may conseiue and engendre // </ab><ab n="242">Thow shalt eek 
+<lb/>considere alle þeze causes from whennes they ben spronge<am>̄</am><ex>m</ex> </ab>
+<lb/><ab n="243">and whan ȝe haue examyned ȝoure conseil as I haue sayd 
+<lb/>⁊ wheche <am>ꝑ</am><ex>per</ex>ty is þe And more <am>ꝓ</am><ex>pro</ex>fytable // And haue apued it 
+<lb/>by many wyse folk ⁊ olde </ab><ab n="244">than shalt tow consider yf þow maist 
+<lb/><am>ꝑ</am><ex>per</ex>forme hit and make of hit a good hende </ab><ab n="245">For reson wol nat 
+<lb/>þat any man bygynne a thyng . but if he myghte <am>ꝑ</am><ex>per</ex>forme it as 
+<lb/>hym owte // </ab><ab n="246">Ne no wihgt wight sholde take vpon hym so 
+<lb/>heuy charge þat he myghte nat bere hit . </ab><ab n="247">For the <am>ꝓ</am><ex>pro</ex>uerbe seith 
+<lb/><lb/>he þat to muche enbraceth destreyneth litel / </ab><ab n="248">And Caton seith 
+<lb/>a saye to do suche thyng as tow hast power to doon / lest þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>the charge appsse þe the so sore þ<am rend="sup">t</am><ex>at</ex> þe byhoueth to wayue 
+<lb/>thynge þ<am rend="sup">t</am><ex>at</ex> tow hast bygonne // </ab><ab n="249">And ef so be þ<am rend="sup">t</am><ex>at</ex> tow be en dowte 
+<lb/><pb n="173r" facs="ARMR008B.JPG"/>
+ wheþer thow mayst <am>ꝑ</am><ex>per</ex>forme a thyng or non . chees rather to 
+<lb/>suffre than bygi<am>̄</am><ex>n</ex>ne // </ab><ab n="250">And Petre alfonce seith . If thow hast 
+<lb/><lb/>myght to doon a thyng<am>ꝭ</am><ex>es</ex> of which thou most repente yt is 
+<lb/>bettre nay þan ȝe </ab><ab n="251">this is to seyn / bettre to holde þy tonge 
+<lb/>stille . than forte speke </ab><ab n="252">Than may ȝe vnderstonde by strenger 
+<lb/>resons þ<am rend="sup">t</am><ex>at</ex> if þow hast power to <am>ꝑ</am><ex>per</ex>fourme a werk of which þou 
+<lb/>shalt repente thanne is it bettre þ<am rend="sup">t</am><ex>at</ex> thow suffre þan bygynne </ab>
+<lb/><ab n="253"><gap quantity="1" unit="chars"/>ille wel seyn they þ<am rend="sup">t</am><ex>at</ex> defenden euery wight to assaye a thyng 
+<lb/>of whiche he is in doute wheither he may <am>ꝑ</am><ex>per</ex>fo<am rend="sup">r</am><ex>ur</ex>me it or no </ab>
+<lb/><ab n="254">And aften whan ye haue examyned // youre conseil as I 
+<lb/>haue sayd by foren and knowen wel þat ȝe may <am>ꝑ</am><ex>per</ex>forme 
+<lb/>youre empryse conferme yt thanne sadly til yt be at 
+<lb/>an hende // </ab><ab n="255">Now is it reson and tyme that I shew ȝow 
+<lb/>whanne ⁊ wherfore þat ye may change youre consellour 
+<lb/>wyth oute reproue // </ab><ab n="256">Soothly a man may change his p<am rend="sup">r</am><ex>ra</ex>pos ⁊ 
+<lb/>his conseil if the cause cesseth . or whan a newe caas bytideth </ab>
+<lb/><ab n="257">for þe lawe seith þ<am rend="sup">t</am><ex>at</ex> vppon thynges þ<am rend="sup">t</am><ex>at</ex> newely bytydeth byhoueth 
+<lb/><lb/>newe conseil </ab><ab n="258">And . Seneca seith . If þy conseil is come to þe 
+<lb/>erys of þyn enemy change thy conseil </ab><ab n="259">Thou mayst also change 
+<lb/>thy conseil if so be be þat þ<hi rend="sup">u</hi> Fynde þat by errour or by other cause 
+<lb/>harm or damage may bytyde </ab><ab n="260">Also if so be thy conseil be deshonest 
+<lb/>or elles cometh of deshoneste . cause chaunge thy conseil </ab><ab n="261">for the 
+<lb/>lawes sayn þat alle byhestes þat ben deshonest ben of no 
+<lb/>value // </ab><ab n="262">And eek if so be þ<am rend="sup">t</am><ex>at</ex> it be in possible or may nat be 
+<lb/>goodly be <am>ꝑ</am><ex>per</ex>forned or kept // </ab><ab n="263">And take þys for a genal rule þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>eu<am>ꝰ</am><ex>er</ex>y conseil þ<am rend="sup">t</am><ex>at</ex> is affermed so strongly þ<am rend="sup">t</am><ex>at</ex> hit may nat be 
+<lb/>changet for no condicion þ<am rend="sup">t</am><ex>at</ex> may bytyde I seye thylke 
+<lb/>conseil is wykked </ab><ab n="264">Thys Melibeus / whan he hadde herd þ<hi rend="sup">e</hi> 
+<lb/><lb/>doctrine of his wyf dame Prudence answerede in this 
+<lb/>wyse / </ab><ab n="265">dame quod he as ȝet in to þys tyme // ȝe han wel and 
+<lb/>couenabely taught me as in genral . how I . shal gouerne me 
+<lb/>in chesynge ⁊ in the wythholdyng of my conselours . </ab><ab n="266">But 
+<lb/>now wolde I . sayn þat ȝe wolden condessenden in espesial </ab><ab n="267">⁊ 
+<lb/>telle how ȝow lyketh or what ȝow semeth by ȝoure conseilours 
+<lb/><pb n="173v" facs="ARMR009A.JPG"/>
+ that we han chosen in oure psent nede / </ab><ab n="268">My lord quod she 
+<lb/>I . byseke . ȝow in al humblesse þat ȝe wol nat wylfully replye 
+<lb/>ayeyn myresones ne distempre ȝoure herte though y speke 
+<lb/>thyng þ<am rend="sup">t</am><ex>at</ex> ȝow displese / </ab><ab n="269">For god wot þat as in myn entent I 
+<lb/>speke hit for your beste . For youre hono<am rend="sup">r</am><ex>ur</ex> And for ȝoure <am>ꝓ</am><ex>pro</ex>fit 
+<lb/>eeke / </ab><ab n="270">And sothly I hope that youre benignyte wol it in 
+<lb/>pacience / </ab><ab n="271">Trusteth me wel quod she þat ȝoure conseil 
+<lb/>as in thys cas ne sholde nat as to speke <am>ꝓ</am><ex>pro</ex>ply be called 
+<lb/>a conselynge but a mocion or a meuyng of folye </ab><ab n="272">in whych 
+<lb/>conseil ȝe han erred in many sondry wyse // </ab><ab n="273">First and forward 
+<lb/>ye han erred in the assemblyng of yowre conseillours </ab><ab n="274">for ȝe 
+<lb/>sholde first han cleped a fewe folk<am>ꝭ</am><ex>es</ex> to youre consel and aftir 
+<lb/>ȝe myght han shewed it to mo folk<am>ꝭ</am><ex>es</ex> If it hadde be nede </ab><ab n="275">But 
+<lb/>certes ȝe han sodeynly cleped to youre conseil . A gret multidide 
+<lb/>of peple ful chargeant ⁊ ful a noyous forto here // </ab><ab n="276">Also ye han 
+<lb/>erred forther as ye sholde only haue cleped to youre conseil 
+<lb/>youre trewe frendes . olde ⁊ wyse . </ab><ab n="277">ȝe han cleped strange folk<am>ꝭ</am><ex>es</ex> 
+<lb/>yonge folk<am>ꝭ</am><ex>es</ex> þ<am rend="sup">t</am><ex>at</ex> don yow reu<am>ꝰ</am><ex>er</ex>ence false flaterers and enemyes 
+<lb/>reconsiled // And folk<am>ꝭ</am><ex>es</ex> that don ȝow reu<am>ꝰ</am><ex>er</ex>ence with outen loue // </ab>
+<lb/><ab n="278">And ek<am>ꝭ</am><ex>es</ex> also ȝe han erred for ye han brough ȝow to your con 
+<lb/>seil . Ire . couetyse ⁊ hastifnesse . </ab><ab n="279">the weche þre thyngez  ben 
+<lb/>contrarious to eu<am>ꝰ</am><ex>er</ex>y conseil honest and <am>ꝓ</am><ex>pro</ex>fitable </ab><ab n="280">the wheche 
+<lb/>ther thynges ye han nat amentissed or distryed hem neyþ<am>ꝰ</am><ex>er</ex> 
+<lb/>in ȝoure self ne in ȝour conseillours as ȝe aght // </ab><ab n="281">ȝe han 
+<lb/>erred . also . for ȝe han shewed ȝoure conseillours youre talent 
+<lb/>and youre affeccion to make werre a non . and forto do venge 
+<lb/>ance </ab><ab n="282">they han espied by ȝour wordes to wat thyng ȝe ben 
+<lb/>enclyned </ab><ab n="283">And therfore han þey conseiled rather to youre 
+<lb/>talend than to youre <am>ꝓ</am><ex>pro</ex>fit // </ab><ab n="284">Ye han erred also for it semeth 
+<lb/>þat ȝow suffiseth to han ben conseilled by these conseillours 
+<lb/>only And w<am rend="sup">t</am><ex>ith</ex> lytyl auys . </ab><ab n="285">Wher as in so gret and in so heigh 
+<lb/>a nede it hadde ben nessessarie mo conselours ⁊ more 
+<lb/>deliberacion to <am>ꝑ</am><ex>per</ex>forme ȝoure enprise // </ab><ab n="286">ye han erred Also 
+<lb/>for ȝe haue nat examined ȝoure conseil in the forsayde 
+<lb/>mane ne in due mane as the caas requereth // </ab><ab n="287">ȝe han 
+<lb/><pb n="174r" facs="ARMR009B.JPG"/>
+ erred also for ȝe han maked no diuision by twyxe youre conseillours 
+<lb/>thys is to seyn by twyxe youre frendes And youre feyned conseillou<gap quantity="2" unit="chars"/> </ab>
+<lb/><ab n="288">ne ȝe ne haue nat knowe the wyll of your trewe frendes olde 
+<lb/>⁊ wyse </ab><ab n="289">but ȝe han cast alle hir wordes in an hochepot ⁊ enclyn<gap quantity="2" unit="chars"/> 
+<lb/>youre herte to þe more part And to the grettre  nowbre and ther 
+<lb/>be ye condessendet . </ab><ab n="290">And seith ye woot wel þat man shal alwey 
+<lb/>fynde a grettre nombre of Foles þen of wyse men // </ab><ab n="291">And therfore 
+<lb/>þe conseilles þ<am rend="sup">t</am><ex>at</ex> ben at congregacions ⁊ multitudes of folk ther 
+<lb/>as men take more reward to the þe nombre than to þ<hi rend="sup">e</hi> sapience 
+<lb/>of <am>ꝑ</am><ex>per</ex>sones / </ab><ab n="292">ye se wel þ<am rend="sup">t</am><ex>at</ex> in swiche conselinges foles han þ<hi rend="sup">e</hi> maistrye </ab>
+<lb/><ab n="293">Melibeus Answerd a gayn ⁊ sayde . I grante wel þat y haue erred 
+<lb/></ab>
+<lb/><ab n="294">but þer as thw hast told me her byfore that he nys nat to blame 
+<lb/>þat changeth his conseil in certeyn caas And for certeyne Iuste 
+<lb/>cause </ab><ab n="295">I am al redy to change my conseillours ryght as tow wol 
+<lb/>deuise </ab><ab n="296">The <am>ꝓ</am><ex>pro</ex>uerbe seith that for to do synne is naturel 
+<lb/><lb/>
+<lb/>but certes for to <am>ꝑ</am><ex>per</ex>seu<am>ꝰ</am><ex>er</ex>e longe in synne ys werke of þe deuel </ab>
+<lb/><ab n="297">To þys sentence ansswerede anon dame Prudence <space dim="horizontal" extent="1" /> And 
+<lb/>sayde // </ab><ab n="298">Examineth quod she ȝoure conseil ⁊ lat vs see þ<hi rend="sup">e</hi> 
+<lb/>wheche of hem han spoken most resonable ⁊ thaught yow 
+<lb/>best conseil . </ab><ab n="299">And for as muche as þ<am rend="sup">t</am><ex>at</ex> þe examinacion is neces 
+<lb/>sarie / lat vs by gynne at þe sirurgiens and at the Fysiciens 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> furst speken in þys mateer / </ab><ab n="300">I say ȝow þ<am rend="sup">t</am><ex>at</ex> the Sirurgiens and 
+<lb/>Phisiciens han sayd to ȝow in youre conseil discretely as hem 
+<lb/>oghte</ab><ab n="301">⁊ in hir speche sayden ful wysely / that to þe office of 
+<lb/>hem a<am>ꝑ</am><ex>per</ex>teneth to don to eu<am>ꝰ</am><ex>er</ex>y wyght honour ⁊ <am>ꝓ</am><ex>pro</ex>fit and no 
+<lb/>wight to anoye / </ab><ab n="302">And aft<hi rend="sup">r</hi> hir craft to don gret diligence vn 
+<lb/>to þ<hi rend="sup">e</hi> cure of hem whiche þey han in hir gou<am>ꝰ</am><ex>er</ex>nance // </ab><ab n="303">And 
+<lb/>Sire right as they han answerd wysly . ⁊ discretly </ab><ab n="304">right so 
+<lb/>rede I . þ<am rend="sup">t</am><ex>at</ex> they ben heighy ⁊ sou<am rend="sup">r</am><ex>er</ex>eynely gerdoned for hir noble 
+<lb/>speche // </ab><ab n="305">And eek for þey shallen do the more ententyf bysy 
+<lb/>nesse in the curacion of thi doughter deere // </ab><ab n="306">For al be hit 
+<lb/>so that þey ben youre Frendes / therfore shul ȝe nat 
+<lb/>soffren / that þey sue yow for nought . </ab><ab n="307">but ye Aughte the 
+<lb/>rathere gerdone hem and shewe hem youre largesse </ab><ab n="308"><hi rend="ud">and</hi> 
+<lb/>And as touchynge the pposiciou which the Phisiciens encreseden 
+<lb/><pb n="174v" facs="ARMR010A.JPG"/>
+ In this caas þys ys to seyn </ab><ab n="309">þ<am rend="sup">t</am><ex>at</ex> in maladies that o cont<am rend="sup">a</am><ex>ra</ex>rie is warys 
+<lb/>shed by a nother contrarie </ab><ab n="310">I wolde fayn knowe how þ<hi rend="sup">e</hi> vnd<gap quantity="2" unit="chars"/> 
+<lb/>stode thilke text and what is youre sentence / </ab><ab n="311">Certes quod 
+<lb/>Melibeus I vnderstonde hit in þys wise </ab><ab n="312">that right as they 
+<lb/>han don to me a cont<am rend="sup">a</am><ex>ra</ex>rie right so sholde I doon to hem a . 
+<lb/>nother // </ab><ab n="313">For right as þey han venget hem ⁊ do me 
+<lb/>wronge / right so shal I . venge me . vpon hem ⁊ don hem 
+<lb/>wrong // </ab><ab n="314">And thanne haue I . cured o cont<am rend="sup">a</am><ex>ra</ex>rie by a nother </ab>
+<lb/><ab n="315">Lo . Lo quod dame Prudence // how lyghtly is euery man 
+<lb/>enclyned to his owne desir ⁊ to his owne plesance // </ab><ab n="316">Certes qd 
+<lb/>she / the wordes of þe Phisiciens ne sholde nat han ben 
+<lb/>vnderstonden in that wyse // </ab><ab n="317">For certes wykkednesse is nat 
+<lb/>contrarie to wikkednesse // ne vengeance to vengeance ne 
+<lb/>wrong to wrong but they ben semblable </ab><ab n="318">And therfore o 
+<lb/>vengeance is nat warissed by another vengeance ne o . 
+<lb/>wrong bi anoþ<am>ꝰ</am><ex>er</ex> wrong </ab><ab n="319">but eueryche of hem encresseth ⁊ 
+<lb/>engregeth ooþer / </ab><ab n="320">But certes the wordes of the Phisiciens 
+<lb/>shulde ben vnderstonden in þys wyse / </ab><ab n="321">For good ⁊ wykked 
+<lb/>nesse ben two contraries . And pees ⁊ werre . and vengean 
+<lb/>ce and suffrance . discord . and acord . and manye othere thyn 
+<lb/>ges </ab><ab n="322">But certes wykkenesse . shal be waryssed by goodnesse discord 
+<lb/>by a cord / werre . by pees <space dim="horizontal" extent="1" /> And forth of othere thynges </ab><ab n="323">and heer to 
+<lb/><lb/>acordeth Seint poule þ<hi rend="sup">e</hi> apostle in mony places </ab><ab n="324">he seith Ne 
+<lb/>yeldeth noght harm for harm ne wykked speche for wykked speche </ab>
+<lb/><ab n="325">but do wel to hym that doth to the harm // And blesse hym þ<am rend="sup">t</am><ex>at</ex> seith 
+<lb/>to þe harm // And in mony other places he amonesteth pees and 
+<lb/>acord // </ab><ab n="327">But now wol y speke to ȝow of þe conseil whiche þ<am rend="sup">t</am><ex>at</ex> was 
+<lb/>ȝeuen to yow by the men of lawe and the wyse folke </ab><ab n="328">that 
+<lb/>sayden alle by on acord / As ye han herd byfore / </ab><ab n="329">That ouer 
+<lb/>alle thynges ye shul do youre diligence to kepe youre <am>ꝑ</am><ex>per</ex>sone ⁊ 
+<lb/>to warnestore youre hous / </ab><ab n="330">And seyden also þ<am rend="sup">t</am><ex>at</ex> in this caas ȝe oghte<am>̄</am><ex>m</ex> 
+<lb/>forto werke ful avysely // And w<am rend="sup">t</am><ex>ith</ex> gret delibaciou<am>̄</am><ex>n</ex> // </ab><ab n="331">And sire as to þ<hi rend="sup">e</hi> 
+<lb/>firste point þ<am rend="sup">t</am><ex>at</ex> toucheth to þ<hi rend="sup">e</hi> kepyng of youre <am>ꝑ</am><ex>per</ex>sone </ab><ab n="332">ȝe shul 
+<lb/>vnderstonde that þ<am rend="sup">t</am><ex>at</ex> hath werre // Shal eu<am>ꝰ</am><ex>er</ex>more deuoutly and 
+<lb/>mekely preyen byforen alle thynges // </ab><ab n="333">That Ihu<am>̄</am><ex>n</ex> crist of his mercy 
+<lb/>wol haue hym in his <am>ꝓ</am><ex>pro</ex>tecciou<am>̄</am><ex>n</ex> <space dim="horizontal" extent="1" /> And been his souereigne 
+<lb/>helpyng at his nede . </ab><ab n="334">For c<am>ꝰ</am><ex>er</ex>tes in this world ther is no wight 
+<lb/><pb n="175r" facs="ARMR010B.JPG"/>
+ that may be conseild ne kept suffisantly w<am rend="sup">t</am><ex>ith</ex> oute the kepyng of 
+<lb/>oure lord Ihu<am>̄</am><ex>n</ex> crist // </ab><ab n="335">Tho þys sentense acordeth the <am>ꝓ</am><ex>pro</ex>fete dauid 
+<lb/>that seith . </ab><ab n="336">If god ne kepe the Citee in ydel waketh he þ<am rend="sup">t</am><ex>at</ex> hit kep<gap quantity="3" unit="chars"/> </ab>
+<lb/><ab n="337">Now sire thane shul ye comitte the kepyng of youre <am>ꝑ</am><ex>per</ex>sone to 
+<lb/>yowre trewe Frendes that ben a<am>ꝓ</am><ex>pro</ex>ued and y knowe // </ab><ab n="338">And of hem 
+<lb/>shul ȝe axen help ȝoure <am>ꝑ</am><ex>per</ex>sone forto kepe // For Caton seith . If þ<hi rend="sup">u</hi> 
+<lb/><lb/>hast nede of help / axe hit of þy Frendes / </ab><ab n="339">For ther nys noso good 
+<lb/>aphisician as thy trewe Frend // </ab><ab n="340">And aft<hi rend="sup">r</hi> this thanne shul ȝe 
+<lb/>kepe ȝow fro alle strange folk // And fro lyeres and haue alway 
+<lb/>in suspect hir compaignie </ab><ab n="341">For Piers Alfonce seith . ne take no 
+<lb/>compaignie by the way of a strange man but if so be þ<am rend="sup">t</am><ex>at</ex> þ<hi rend="sup">u</hi> 
+<lb/>haue knowe hym a lenger tyme </ab><ab n="342">and if so be þ<am rend="sup">t</am><ex>at</ex> he falle in to 
+<lb/><lb/>thy compaigne pauenture w<am rend="sup">t</am><ex>ith</ex> oute þyn asent . </ab><ab n="343">enquere thanne 
+<lb/>as suptyli as thow mayst of his conu<am>ꝰ</am><ex>er</ex>sacion / and of is lyf by fore 
+<lb/>And feyne þy way Seye þ<am rend="sup">t</am><ex>at</ex> thow go þeder as þ<hi rend="sup">u</hi> wolt nat goo </ab>
+<lb/><ab n="344">if he bereth a spere holt þe on þe ryght syde And if he ber 
+<lb/>a swerd hold þe in the lyft syde . </ab><ab n="345">And aft<hi rend="sup">r</hi> this þanne shal 
+<lb/>ye kepe yow <hi rend="ud">in swych mane</hi> wysly from all swich mane peple 
+<lb/>as y haue sayd by fore and hem ⁊ here conseil eschewe // </ab><ab n="346">And 
+<lb/>after this thane . shal ye kepe yow in swiche maner </ab><ab n="347">þ<am rend="sup">t</am><ex>at</ex> for 
+<lb/>any psumpcio<am>̄</am><ex>m</ex>n of youre streynthe þ<am rend="sup">t</am><ex>at</ex> ȝe ne despise nat ne 
+<lb/>attempte nat the myght of ȝoure <hi rend="ul"><am>ꝑ</am><ex>per</ex>sone by</hi> Adu<am>ꝰ</am><ex>er</ex>sarie so 
+<lb/>lite þ<am rend="sup">t</am><ex>at</ex> ȝe lette the kepyng of youre <am>ꝑ</am><ex>per</ex>sone by youre psu<am>̄</am><ex>n</ex>pcion </ab>
+<lb/><ab n="348">For eu<am>ꝰ</am><ex>er</ex>y wyse man dredeth his enemy / </ab><ab n="349">And Salomon seith 
+<lb/><lb/>welful is he þ<am rend="sup">t</am><ex>at</ex> of alle hath drede </ab><ab n="350">For c<am>ꝰ</am><ex>er</ex>tes he þ<am rend="sup">t</am><ex>at</ex> thurgh the 
+<lb/>hardinesse of his herte or thurgh the hardinesse of hym self 
+<lb/>hath to gret psumpciou<am>̄</am><ex>n</ex> þ<am rend="sup">t</am><ex>at</ex> hym shal yuel bytyde // </ab><ab n="351">Thanne shal 
+<lb/><lb/>ȝe euermo contrewayte emboyssement / and espiciallie // </ab><ab n="352">Fro For 
+<lb/>Senec seith that þ<hi rend="sup">e</hi> wyse man that dredeth harmes eschueth 
+<lb/><lb/>harmes </ab><ab n="353">ne he ne Falleth in to <am>ꝑ</am><ex>per</ex>ils þ<am rend="sup">t</am><ex>at</ex> <am>ꝑ</am><ex>per</ex>ils eschueth // </ab><ab n="354">And al . 
+<lb/>be so þ<am rend="sup">t</am><ex>at</ex> it seme þ<am rend="sup">t</am><ex>at</ex> thow art in siker place yet shaltow alwey 
+<lb/>do diligence in kepyng of þy <am>ꝑ</am><ex>per</ex>sone . </ab><ab n="355">This is to seyn ne be 
+<lb/>nat necligent to kepe þy <am>ꝑ</am><ex>per</ex>sou<am>̄</am><ex>n</ex> . noght oonly fro thy greteste 
+<lb/>enemyes but fro thy leste enemyes / </ab><ab n="356">Senec seith a man 
+<lb/>that is wel auysed he dredeth his leste enemy // </ab><ab n="357">Ouide 
+<lb/> 
+<lb/>seith þ<am rend="sup">t</am><ex>at</ex> the lytil wesele wol slee þe grete bole / ⁊ the wylde 
+<lb/>hert <space dim="horizontal" extent="1" /> </ab><ab n="358">And the bok<am>ꝭ</am><ex>es</ex> seith a lytil thorn may prikke a kyng<am>ꝭ</am><ex>es</ex> 
+<lb/><pb n="175v" facs="ARMR011A.JPG"/>
+ Ful sore // And an hound / wol holde the wylde boor // </ab><ab n="359">But na 
+<lb/>theles I . sey nat thou shalt be so toward þ<am rend="sup">t</am><ex>at</ex> thou doute ther 
+<lb/>wher as is no drede // </ab><ab n="360">The bok seith þ<am rend="sup">t</am><ex>at</ex> som folk haue gret 
+<lb/>lust to deceyue . but ȝet they dreden hem to be deceyued </ab><ab n="361">yet 
+<lb/>shaltow drede thee to been empoysoned / And kepe thee / fro the 
+<lb/>compaignie of scorners . </ab><ab n="362">For the book seith with scorners make 
+<lb/>no compaignie but fle hir wordes as venym // </ab><ab n="363">Now as to 
+<lb/>the seconde poynt wher as yowre wyse conseillours conseiled 
+<lb/>yow to warnestore youre hous w<am rend="sup">t</am><ex>ith</ex> greet diligence </ab><ab n="364">I . wolde 
+<lb/>fayn knowe how that ȝe knewe ⁊ vndstonde thilke wordes //
+<lb/>And what is yowre sentence / </ab><ab n="365">Melibeus answerede and sayde 
+<lb/>Certes I . vndertonde it in this wyse // that I shal warnestore 
+<lb/>myn hous wyth toures wiche as han Casteles ⁊ other mane 
+<lb/>edifices and armure and artelres . </ab><ab n="366">by whych thyges I may 
+<lb/>my <am>ꝑ</am><ex>per</ex>sone ⁊ my hous kepen and defenden þ<am rend="sup">t</am><ex>at</ex> myn enemyes 
+<lb/>shul ben in drede myn hoos forto appeuche / </ab><ab n="367">To thys . sentence 
+<lb/>answerede a non Prudence // warnesstoryng is quod she of 
+<lb/><lb/>heighe toures ⁊ of grete . edifices // </ab><ab n="368">wyth grete costages and with 
+<lb/>gret trauaille . and whan they been acomplices ȝet be they 
+<lb/>nat worth a stree but if þey be defended by trewe Frendez 
+<lb/>þat ben olde ⁊ wyse <space dim="horizontal" extent="1" /> </ab><ab n="369">And vnderstond wel þ<am rend="sup">t</am><ex>at</ex> gretteste and 
+<lb/>the strengeste garneson þ<am rend="sup">t</am><ex>at</ex> aryche man may haue as wel 
+<lb/>to kepen his <am>ꝑ</am><ex>per</ex>sone as his goodes . is </ab><ab n="370">þ<am rend="sup">t</am><ex>at</ex> he be by loued with 
+<lb/>his sugetz and w<am rend="sup">t</am><ex>ith</ex> hise neighebores // </ab><ab n="371">For thus seith // Tulius 
+<lb/>that ther is a man garnesou<am>̄</am><ex>n</ex> þ<am rend="sup">t</am><ex>at</ex> no man nay venquice ne 
+<lb/><lb/>disconfite / and þ<am rend="sup">t</am><ex>at</ex> is </ab><ab n="372">a lord to be byloued of his Citezeines and 
+<lb/>of his peple // </ab><ab n="373">Now sire as to the thridde poynt : wher as 
+<lb/>ȝoure olde ⁊ wylde wise conseillours seyden þ<am rend="sup">t</am><ex>at</ex> ȝow ne oghte 
+<lb/>nat so deynly ne hastely <am>ꝓ</am><ex>pro</ex>seden in this nede </ab><ab n="374">but that ȝow 
+<lb/>oghte purueyen ⁊ apparaylen ȝow in this caas w<am rend="sup">t</am><ex>ith</ex> gret dily 
+<lb/>gence ⁊ gret deliberaciou<am>̄</am><ex>n</ex> .  </ab><ab n="375">trewely I trowe þ<am rend="sup">t</am><ex>at</ex> þey seyden 
+<lb/>ryght wysely and right sooth // </ab><ab n="376">For Tulius seith . In euery 
+<lb/><lb/>nede / er þ<hi rend="sup">u</hi> bygynne it apparayle the w<am rend="sup">t</am><ex>ith</ex> gret diligence </ab>
+<lb/><ab n="377">than seye I þ<am rend="sup">t</am><ex>at</ex> in vengance takynge in werre in batayle 
+<lb/>and in warnestoryng </ab><ab n="378">er thow bygynne I rede that þ<hi rend="sup">u</hi> 
+<lb/>apparaille the þ<am>ꝰ</am><ex>er</ex>to . and do it with gret deliberaciou<am>̄</am><ex>n</ex> / </ab><ab n="379">For . 
+<lb/><pb n="176r" facs="ARMR011B.JPG"/>
+ Tulius seith that longe apparailing by foren the batayle . ma 
+<lb/>keth short victorye // </ab><ab n="380">And Cassiodrus seith . The gernissou is 
+<lb/><lb/>strenger when it is longe . tyme auysed // </ab><ab n="381">But now let vs speke 
+<lb/>of the conseil þ<am rend="sup">t</am><ex>at</ex> wes acorded by youre neybores swyche as don 
+<lb/>ȝow reu<am>ꝰ</am><ex>er</ex>ence w<am rend="sup">t</am><ex>ith</ex> . oute loue </ab><ab n="382">youre olde enemyes reconsiled youre 
+<lb/>flaterers </ab><ab n="383">þ<am rend="sup">t</am><ex>at</ex> conseileden yow certeyne thynges p<am rend="sup">i</am><ex>ri</ex>uely and openly 
+<lb/>conseileden yow the cont<am rend="sup">a</am><ex>ra</ex>rie </ab><ab n="384">The yonge folk<am>ꝭ</am><ex>es</ex> also that conseiled 
+<lb/>yow to venge ȝow and make werre a non / </ab><ab n="385">And certes sire as I 
+<lb/>haue seyd byforn . ȝe han gretly erred . to han cleped swiche 
+<lb/>manere Folk<am>ꝭ</am><ex>es</ex> to youre conseil </ab><ab n="386">wiche conseillours been ynough 
+<lb/>repreued by þe resones afore sayd </ab><ab n="387">but natheles lat vs  now des 
+<lb/>cende to the special / ȝe shullen forst <am>ꝓ</am><ex>pro</ex>cede after the doctrine 
+<lb/>of tulius // </ab><ab n="388">Certes the truthe of this matere or of this conseil 
+<lb/><lb/>nedeth nat deligently enquere </ab><ab n="389">for it is wel wist weche they 
+<lb/>ben þ<am rend="sup">t</am><ex>at</ex> han don yow this trespasse ⁊ vileynye </ab><ab n="390">and how many 
+<lb/>t<am>ꝰ</am><ex>er</ex>spassours / and in wat manere they han doon ȝow al this 
+<lb/>wrong and al this vylanye / </ab><ab n="391">And after this thanne shul . ye 
+<lb/>examyne the ij<hi rend="sup">e</hi> condiciou<am>̄</am><ex>n</ex> // wiche þ<am rend="sup">t</am><ex>at</ex> the same Tulius addeth 
+<lb/>in þys matere // </ab><ab n="392">For Tulius put a thyng which þ<am rend="sup">t</am><ex>at</ex> he clepeth 
+<lb/>consentynge this is to sayn // </ab><ab n="393">who ben then ⁊ weche ben 
+<lb/>they and how manye þ<am rend="sup">t</am><ex>at</ex> consenten to þy conseil in thy wilful 
+<lb/>nesse / to do hastif <hi rend="ud">wykkeden</hi>esse  / vengeance / </ab><ab n="394">And lat vs <hi rend="ud">con</hi> 
+<lb/>considere also who ben they and how manye ben they and 
+<lb/>whiche ben they þ<am rend="sup">t</am><ex>at</ex> consenteden to yowre aduersaries / </ab><ab n="395">And 
+<lb/>certes as to the first poynt . it is wel knowen / whiche folk 
+<lb/>ben þey that consenteden to youre hastyf wilfulnesse </ab><ab n="396">For tre 
+<lb/>wely . alle tho þ<am rend="sup">t</am><ex>at</ex> conseileden ȝow to make sodeyn werre ne ben 
+<lb/>nat ȝoure Frendes </ab><ab n="397">lat vs <hi rend="ud">nat</hi> now considere . whiche been 
+<lb/>they þ<am rend="sup">t</am><ex>at</ex> ȝe holde so gretly ȝoure . Frendes as to youre <am>ꝑ</am><ex>per</ex>sone </ab>
+<lb/><ab n="398">for albe it so þ<am rend="sup">t</am><ex>at</ex> þey ben myghty ⁊ ryche // certes ȝe ne been 
+<lb/>but alone </ab><ab n="399">for certes ye ne han no child but a doghter . </ab><ab n="400">ne 
+<lb/>ye ne han bretheren ne cosines germayns ne non oother 
+<lb/>ne kynrade / </ab><ab n="401">wherfore þ<am rend="sup">t</am><ex>at</ex> youre enemyes for drede shulde 
+<lb/>stynte to plede w<am rend="sup">t</am><ex>ith</ex> ȝow or destroye youre <am>ꝑ</am><ex>per</ex>sone // </ab><ab n="402">Ye knowen 
+<lb/>also þ<am rend="sup">t</am><ex>at</ex> ȝoure rychesses moten ben despended in dyu<am>ꝰ</am><ex>er</ex>se <am>ꝑ</am><ex>per</ex>ties </ab>
+<lb/><ab n="403">And whan þ<am rend="sup">t</am><ex>at</ex> euery wiht hath his part they ne wollen take<am>̄</am><ex>m</ex> 
+<lb/>but litel reward to venge thy deeth : </ab><ab n="404">But thyne . enemyes 
+<lb/>ben iij<hi rend="sup">e</hi> and they han manye children / bretheren cosynes 
+<lb/><pb n="176v" facs="ARMR012A.JPG"/>
+ and other ny kynrade </ab><ab n="405">and thogh so were thow haddest slayn of hem ij 
+<lb/>or iij<hi rend="sup">e</hi> ȝet dwellen ther ynowe to wreken hir deth And to slee thy 
+<lb/><am>ꝑ</am><ex>per</ex>sone . </ab><ab n="406">And thogh so be þ<am rend="sup">t</am><ex>at</ex> ȝoure kynrade be siker And stedefast 
+<lb/>than the kynrade of ȝoure adu<am>ꝰ</am><ex>er</ex>sarie </ab><ab n="407">ȝet natheles youre kynrade 
+<lb/>nys bote a fer kynrede thei ben but litel sibbe to ȝow </ab><ab n="408">And the 
+<lb/>kyn of youre enemys ben ney sybbe to hem . And certes as in 
+<lb/>that hir condicion ys bet than youres / </ab><ab n="409">Than lat vs considere 
+<lb/>also if þe conseillyng of hem þat conseilleden yow to take sodeyn 
+<lb/>vengeance whether yt acord to resou<am>̄</am><ex>n</ex> </ab><ab n="410">and certes ȝe know wel 
+<lb/>nay . </ab><ab n="411">For as bi ryght ⁊ reson ther may no man take<am>̄</am><ex>m</ex> vengeance 
+<lb/>on no wyght but þe Iuge þ<am rend="sup">t</am><ex>at</ex> hath the Iurdiccou<am>̄</am><ex>n</ex> of it </ab><ab n="412">whan it is 
+<lb/>y grau<am>̄</am><ex>n</ex>ted him to take thilke vengeance hastifli or attemprely 
+<lb/>as the lawe requeryeth <space dim="horizontal" extent="1" /> </ab><ab n="413">And yet more ouer of thilke word that 
+<lb/>Tulius clepethth consentyng </ab><ab n="414">thow shalt considere yf þy might 
+<lb/>⁊ thy power . may consente ⁊ suffre to thy wylfulnesse and to 
+<lb/>thy conseillours </ab><ab n="415">And certes thow mayst wel seyn þ<am rend="sup">t</am><ex>at</ex> nay </ab><ab n="416">For 
+<lb/>sykerly as forto speke <am>ꝓ</am><ex>pro</ex>prely we may do no thyng but oonly swich 
+<lb/>thyng . as we may do rightfully </ab><ab n="417">And certes rightfully ne may 
+<lb/>ye take no vengeance as of youre <am>ꝓ</am><ex>pro</ex>pre autorite </ab><ab n="418">thanne ma<gap quantity="1" unit="chars"/> 
+<lb/>ȝe seen þ<am rend="sup">t</am><ex>at</ex> youre power ne consenteth nat ne acordeth nat 
+<lb/>youre wilfulnesse / </ab><ab n="419">lat vs now examyne the thridde poynt þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>Tulius clepeth Consequent / ></ab><ab n="421">And ther of folweth a nother ven 
+<lb/>geance <am>ꝑ</am><ex>per</ex>il . and werre ⁊ other <gap quantity="1" unit="chars"/> damages with oute nombre 
+<lb/>of weche we been nat war as at þys tyme <space dim="horizontal" extent="1" /> </ab><ab n="422">And as touchynge 
+<lb/>the iiij poynt þ<am rend="sup">t</am><ex>at</ex> Tulius Clepeth engendrynge </ab><ab n="423">Thow shalt consider 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> this wrong which þ<am rend="sup">t</am><ex>at</ex> is don to the ys engendred of þ<hi rend="sup">e</hi> hate of 
+<lb/>þyn enemyes / </ab><ab n="424">And of the vengeance takyng epon that wolde 
+<lb/>engendre a nother vengeance / And muchel sorewe / </ab><ab n="425">Now sire 
+<lb/>as to the poynt þat Tulius clepeth causes whiche þ<am rend="sup">t</am><ex>at</ex> is þ<hi rend="sup">e</hi> laste 
+<lb/>point . </ab><ab n="426">Thow shalt vnderstonde þ<am rend="sup">t</am><ex>at</ex> the wrong that þ<hi rend="sup">u</hi> hast 
+<lb/>reseyued hath certeyne causes </ab><ab n="427">clepet oryens and Efficiens and 
+<lb/>causa longinqua and causa <am>ꝓ</am><ex>pro</ex>pinqua . that is to seyn the fer 
+<lb/>cause and the nygh cause . </ab><ab n="428">the fer cause is almyghty . god that 
+<lb/>is cause of alle thynges . </ab><ab n="429">the neer cause is thi iij enemyes </ab>
+<lb/><ab n="430">the cause accidental was hate . </ab><ab n="431">The cause material been the 
+<lb/>v . woundes of thy doghter . </ab><ab n="432">The cause formal is the manere of 
+<lb/>hyre werkyng þ<am rend="sup">t</am><ex>at</ex> broghten laddres And clambon In at thy 
+<lb/>wyndowes  </ab><ab n="433">The cause fynal was forto sle thy doghter it letted 
+<lb/>nat in as meche as in hem was / </ab><ab n="434">But forto speke of the fer 
+<lb/><pb n="177r" facs="ARMR012B.JPG"/>
+ cause as to what hende þey shul come . or what shal finaly bytyde 
+<lb/>of hem in this cas ne cannat I deme . But by coueytynge and 
+<lb/>by supposyng </ab><ab n="435">For we shullen suppose . that þey shul come to 
+<lb/><lb/>a wikked ende </ab><ab n="436">by cause þ<am rend="sup">t</am><ex>at</ex> the bok of decrees seith Seelden or w<am rend="sup">t</am><ex>ith</ex> 
+<lb/>gret peyne ben causes broght to good ende / whan they been <gap quantity="3" unit="chars"/> 
+<lb/>bygonne </ab><ab n="437">Now sire if men wolde axe me . why god wolde <gap quantity="3" unit="chars"/> 
+<lb/>fred men to do ȝow this vyleynye . certes I kan nat wel answer 
+<lb/><lb/>is for no suchfastnesse </ab><ab n="438">for thapostle seith . þ<am rend="sup">t</am><ex>at</ex> the sience ⁊ 
+<lb/>the Iuggement of oure lord almyghty been ful depe </ab><ab n="439">ther m<gap quantity="2" unit="chars"/> 
+<lb/>no man comprehende ne serchen hem suffisantly </ab><ab n="440">Natheles 
+<lb/>by certeyne psumpcions and coniectynges I holde and byleue </ab>
+<lb/><ab n="441">that god which that is ful of Iustice and ryghtwysnesse hath 
+<lb/>suffred thys bytyde by Iuste cause rosonable / </ab><ab n="442">Thy name is 
+<lb/>Melybee . this is to seye a man that drynketh hony </ab><ab n="443">thou hast y 
+<lb/>dronke so muchel hony of swete temporel rycheses ⁊ delite 
+<lb/>of honours of this world </ab><ab n="444">that þ<hi rend="sup">u</hi> art dronken and hast for 
+<lb/>geten Ihu<am>̄</am><ex>n</ex> crist thy creature . </ab><ab n="445">thou ne hast nat doon to hym 
+<lb/>swich honour and reu<am>ꝰ</am><ex>er</ex>ence as thee oghte </ab><ab n="446">ne thou ne hest 
+<lb/>nat wel ytake kepe . to þe wordes of Ouide That seith / </ab><ab n="447">vnder 
+<lb/><lb/>the hony of the goodes of the body is hyd . the venym // that 
+<lb/>sleeth the soule </ab><ab n="448">And . Salomon . Seith . If thou hast founden 
+<lb/><lb/>ete of hit þ<am rend="sup">t</am><ex>at</ex> Suffiseth / </ab><ab n="449">for if þ<hi rend="sup">u</hi> ete of it out of mesure thow 
+<lb/>shalt speke and be nedy ⁊ pore . </ab><ab n="450">and <am>ꝑ</am><ex>per</ex>auenture crist hath 
+<lb/>the in despit . and hath turned fro þ<hi rend="sup">e</hi> his face and is heres 
+<lb/>of mysericorde / </ab><ab n="451">And also he hath suffred þ<am rend="sup">t</am><ex>at</ex> thou hast been punys 
+<lb/>shed in the mane that þ<hi rend="sup">u</hi> hast ytrespased / </ab><ab n="452">Thow hast doon 
+<lb/>synne ageyns oure lord Ihu<am>̄</am><ex>n</ex> crist // For certes the iij enemys 
+<lb/>of mankynde / that is to seyn the Flesch the Feend and þ<hi rend="sup">e</hi> 
+<lb/>world </ab><ab n="454">thow hast suffred hem entre in to þy herte wylfully 
+<lb/>by the wyndowes of thy body </ab><ab n="455">and hast nat / defended thy 
+<lb/>self suffisauntly ageynes hire assautes ⁊ hire temptacions so 
+<lb/>that þey han wounded thy soule in . v . places . </ab><ab n="456">this is to seyn the . 
+<lb/>the dedly synnes þ<am rend="sup">t</am><ex>at</ex> ben entred in to þyn herte / by thy . v . wyttes </ab><ab n="457">⁊ 
+<lb/>in same matere Oure lord Crist hath wel y suffred . þ<am rend="sup">t</am><ex>at</ex> thy iij ene 
+<lb/>mys benentred . in to þyn hous by the wyndowes / </ab><ab n="458">And han y 
+<lb/>wonded thy dougter in the forsayde mane // </ab><ab n="459">Certes quod Melibee 
+<lb/><lb/>I se wel þat ye enforce yow muchel by wordes to ou<am>ꝰ</am><ex>er</ex>come me 
+<lb/>in swiche a mane þ<am rend="sup">t</am><ex>at</ex> I shal nat venge me of myn enemys . </ab><ab n="460">she 
+<lb/>wynge me the <am>ꝑ</am><ex>per</ex>ils and the yuels þ<am rend="sup">t</am><ex>at</ex> myghten falle of thys . 
+<lb/>vengeaunce ~ </ab><ab n="461">But who so wolde considere in alle vengeance 
+<lb/><pb n="177v" facs="ARMR013A.JPG"/>
+ <am>ꝑ</am><ex>per</ex>ils and yueles þ<am rend="sup">t</am><ex>at</ex> myghten sewe of vengeance takyng . </ab><ab n="462">A man 
+<lb/>wolde neu<am>ꝰ</am><ex>er</ex>e take vengeance . and that were harm </ab><ab n="463">For by the 
+<lb/>vengeance takyng ben the wykkede men desseuered fro the 
+<lb/>goode men </ab><ab n="464">And they þ<am rend="sup">t</am><ex>at</ex> han wyl to do wykkednesse restreyne 
+<lb/>hir wykede porpos whan þey seen the punyssynge and chastis 
+<lb/>synge of þe trespassours . </ab><ab n="465">And yet seye I more þ<am rend="sup">t</am><ex>at</ex> right as a 
+<lb/>synguler <am>ꝑ</am><ex>per</ex>sone synneth in takyng vengeance of a noþ<am>ꝰ</am><ex>er</ex> 
+<lb/>man . </ab><ab n="466">right so semethe the Iuge / if he do no vengeaunce of hem 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> it han deserued . // </ab><ab n="467">For Senec seith thus // That mayster he seith 
+<lb/>is good þ<am rend="sup">t</am><ex>at</ex> preueth shrewes / </ab><ab n="468">And as Cassidore seith a man dredeth 
+<lb/>to do outrages . whan he wot ⁊ know þat it displeseth to the Iuges 
+<lb/>and the souereynes </ab><ab n="469">And another seith the Iuge þ<am rend="sup">t</am><ex>at</ex> dredeth to 
+<lb/>do right maketh men shrewes / </ab><ab n="470">And seint Paule the apstle 
+<lb/>seith in this Epistle when he wryteth vn to the Romaynes //
+<lb/>That the Iuges beren nat the spere w<am rend="sup">t</am><ex>ith</ex> outen cause . </ab><ab n="471">but they beren 
+<lb/>hit to punysshe the shrewes ⁊ mysdoers . and forto do fende þ<hi rend="sup">e</hi> 
+<lb/>goodemen // </ab><ab n="472">if ye woll þanne take vengeance / of youre ene 
+<lb/>mys . ye shul retorne . or haue youre <hi rend="ud">record</hi> recours . to the Iuge 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> hath the Iurisdicciou<am>̄</am><ex>n</ex> vpon hem </ab><ab n="473">and he chal punische hym as the 
+<lb/>as the lawe axeth ⁊ requereth // </ab><ab n="474">A qd Melibee this vengaunce liketh 
+<lb/>me nothyng </ab><ab n="475">I . bythenke me now and take hedee . how fortune 
+<lb/>hath norisshed me fro my childhede . ⁊ hath holpen me to passe ma<am>̄</am><ex>n</ex>y 
+<lb/>a strong paas . </ab><ab n="476">Now wol I asayen hir trowynge w<am rend="sup">t</am><ex>ith</ex> godes help that 
+<lb/>she shal helpe . me my shame forto venge // </ab><ab n="477">Certes qd Prudence 
+<lb/>if ye wolle werke by ony conseil . ye shul nat assaye fortune by 
+<lb/>no way </ab><ab n="478">ne ȝe shul nat lene or bowe vn to hir after the word 
+<lb/>of senec . </ab><ab n="479">For thynges þ<am rend="sup">t</am><ex>at</ex> ben folyle doon . and þ<am rend="sup">t</am><ex>at</ex> ben don in 
+<lb/>hope of fortune / shulen neu<am>ꝰ</am><ex>er</ex> come to good ende // </ab><ab n="480">and as þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>same senor seyth // the more cleer / and the more shynynge 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> fortune is . the more bretel . and þ<hi rend="sup">e</hi> sonner broke she is  </ab>
+<lb/><ab n="481">trusteth nat in hir for she nys nat stedefast ne stable . </ab><ab n="482">for 
+<lb/>whan thow . trowest . to be most sure or siker of hir help . She 
+<lb/>wol fayle þ<hi rend="sup">e</hi> ⁊ deseyue the / </ab><ab n="483">And where as ye sayn þ<am rend="sup">t</am><ex>at</ex> fortune 
+<lb/>hath norised ȝow fro youre childhod  . </ab><ab n="484">I . seye þ<am rend="sup">t</am><ex>at</ex> in so muchel shul 
+<lb/>ȝe the lasse in hir ⁊ in hir wyt . </ab><ab n="485">For Senec seyth what man þ<am rend="sup">t</am><ex>at</ex> 
+<lb/><lb/>is norised by fortune . She maketh hym to gret a fool . </ab><ab n="486">Now 
+<lb/>thanne syn ye desire  ⁊ axe vengeance / And þe vengeance 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> is don . after the Lawe ⁊ by fore the Iuge . ne lyketh ȝow 
+<lb/>nat </ab><ab n="487">⁊ the vengenance þ<am rend="sup">t</am><ex>at</ex> is doon in hope of fortune is <am>ꝑ</am><ex>per</ex>i 
+<lb/>lous ⁊ vncerteyn . </ab><ab n="488">thanne haue ȝe noon remedie bote 
+<lb/>forte haue youre recours . vn to þ<hi rend="sup">e</hi> souerayn Iuge þ<am rend="sup">t</am><ex>at</ex> vengeth 
+<lb/>alle vyleynyes and wronges / </ab><ab n="489">And he shal venge yow / after 
+<lb/>that hym self wytnesseth wher as he sayth . </ab><ab n="490">leueth þ<am rend="sup">t</am><ex>at</ex> vengeance 
+<lb/><lb/></ab>
+<pb  n="180r" facs="ARMR015B.JPG"/>
+<ab n="592">harmes and eueles </ab><ab n="593">For gret pou<am>ꝰ</am><ex>er</ex>te co<am>̄</am><ex>m</ex>stryneth a man to do many 
+<lb/>yeueles / </ab><ab n="594">And therfore clepeth Casidore pouerte the moder of 
+<lb/><lb/>Ruyne </ab><ab n="595">that is to seyn . the moder of ou<am>ꝰ</am><ex>er</ex>throwynge or fallyng 
+<lb/>doun . </ab><ab n="596">And therfore seith . Piers Alfonce Oon of the grettest 
+<lb/>adu<am>ꝰ</am><ex>er</ex>sitees of this world . </ab><ab n="597">is whan a free man by kynde or 
+<lb/>burthe . is constrayned by pou<am>ꝰ</am><ex>er</ex>te . to eten the almes of his ene 
+<lb/>mys </ab><ab n="598">And the same seith : Inocent in on of his bokes ; he seith 
+<lb/>that sorweful . and mishappy is þ<hi rend="sup">e</hi> condicion of a pore begger . </ab><ab n="599">for 
+<lb/>if he axe nat his mete . he dyeth for hunger .</ab><ab n="600">And . if he axe 
+<lb/>nat he dyeth for shame ;  And algetes . necessite constryneth hym 
+<lb/>to axe . </ab><ab n="601">And therfore seith Salomon That bettre it is to dye þan 
+<lb/><lb/>forte haue swyche pouerte ; </ab><ab n="602">And as þ<hi rend="sup">e</hi> same Salomou<am>̄</am><ex>n</ex> seith 
+<lb/>Bettre it is to dye of bittre . deeth than for to lyuen in swyche 
+<lb/>wyse </ab><ab n="603">Bi these resones þ<am rend="sup">t</am><ex>at</ex> y haue shewed vn to yow . And by ma 
+<lb/>ny other resones . that I coude seyn . </ab><ab n="604">I grante yow þ<am rend="sup">t</am><ex>at</ex> rychesses 
+<lb/>been goode . to hem þ<am rend="sup">t</am><ex>at</ex> hem geten wel . And to hem þ<am rend="sup">t</am><ex>at</ex> wel 
+<lb/>vsen <hi rend="ud">hem</hi> tho rychesses . </ab><ab n="605">And therfore wole I . shewe yow how 
+<lb/>ye shulle haue yow and how ye shul bere yow in gadry<gap quantity="2" unit="chars"/> 
+<lb/>of rychesses ; And in wat man þ<am rend="sup">t</am><ex>at</ex> ye shul vsen hem / </ab><ab n="606">First ye 
+<lb/>shulle geten hem w<am rend="sup">t</am><ex>ith</ex> outen gret desir . by good leyser sekyng 
+<lb/>⁊ nat ouer hastyly . </ab><ab n="607">For a man þ<am rend="sup">t</am><ex>at</ex> is to desirynge to gete ryche 
+<lb/>abandeneth hym first to thefte . and to alle other yueles . </ab><ab n="608">⁊ 
+<lb/><lb/>therfor seith Salomon ; he that hasteth hym to bysyly to wex 
+<lb/>ryche . shal ben non Innocent ; </ab><ab n="609">He seith also . that þ<hi rend="sup">e</hi> rychesse 
+<lb/>that hastily cometh to a man . Soone ⁊ lytly goth ⁊ passeth 
+<lb/>fro a man </ab><ab n="610">but þ<am rend="sup">t</am><ex>at</ex> rychesse þ<am rend="sup">t</am><ex>at</ex> cometh lytel ⁊ lytel . wexeth 
+<lb/>alway ⁊ multiplieth ; </ab><ab n="611">And sire ye shullen geten rychesses 
+<lb/>by youre wyt ⁊ by youre t<am rend="sup">a</am><ex>ra</ex>uaille vn to your <am>ꝓ</am><ex>pro</ex>fit </ab><ab n="612">and þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>w<am rend="sup">t</am><ex>ith</ex> oute wrong or harm doyng to any other <am>ꝑ</am><ex>per</ex>sone . </ab><ab n="613">For þ<hi rend="sup">e</hi> 
+<lb/>lawe seith that þer maketh no man hym self . ryche if he 
+<lb/>do harm to another wight : </ab><ab n="614">this is to seyn that nature def 
+<lb/>fendeth . and forbedeth by ryght . that no man hym self 
+<lb/>ryche vn to þ<hi rend="sup">e</hi> harm of another <am>ꝑ</am><ex>per</ex>sone // </ab><ab n="615">And Tulius seith . 
+<lb/><lb/>that no sorewe ne na drede of deth . ne no thyng þ<am rend="sup">t</am><ex>at</ex> may 
+<lb/>falle vn to a man </ab><ab n="616">is so muchel . ageyns nature . as a man 
+<lb/>to encresse his <am>ꝓ</am><ex>pro</ex>fit . to the harm of a nother man // </ab><ab n="617">And ~ 
+<lb/>thogh the grete men and the myghty men . geten rychesse 
+<lb/>more lightly than thow ; </ab><ab n="618">yet shaltow . nat been ydel . ne 
+<lb/>slough to do thy <am>ꝓ</am><ex>pro</ex>fit . for þ<hi rend="sup">u</hi> shalt in alle wyse flee ydelnese 
+<lb/></ab>
+<pb  n="180v" facs="ARMR016A.JPG"/>
+<ab n="619">For Salomon seith that ydelnesse techeth aman to do mony yueles </ab>
+<lb/><ab n="620">and the same Salomon seith that he þ<am rend="sup">t</am><ex>at</ex> auayleth and bisieth hym 
+<lb/>to tellen hys land shal ete bred // </ab><ab n="621">but he þ<am rend="sup">t</am><ex>at</ex> is ydel and casteth hym 
+<lb/>to no bysinesse ne ocupaciou<am>̄</am><ex>n</ex> shal falle in to hungre ⁊ dye / of 
+<lb/>honger // </ab><ab n="622">and þ<am rend="sup">t</am><ex>at</ex> is ydel ⁊ slough kan neu<am>ꝰ</am><ex>er</ex> fynde couenable tyme 
+<lb/>for to do his <am>ꝓ</am><ex>pro</ex>fit </ab><ab n="623">For ther is a v<am>ꝰ</am><ex>er</ex>sifiour seith that þ<am rend="sup">t</am><ex>at</ex> ydel man excuseth 
+<lb/>hym bi cause of þ<hi rend="sup">e</hi> grete colde . And in Somer by cause encheson of the hete </ab>
+<lb/><ab n="624">For these causes seith Catou<am>̄</am><ex>n</ex> waketh ⁊ enclyne yow nat ouer muchil 
+<lb/>forto slepe for ouer muchel reste norisseth and causeth manye vyses </ab>
+<lb/><ab n="625">And therfor seith Seint Ierome doth somme goode dedes that the 
+<lb/>deuel which is oure enemy ne Fynde yow nat vnocupieed </ab><ab n="626">For 
+<lb/>the deuel ne taketh nat lyghtly vn to his werkeng swyche as 
+<lb/>he fyndeth ocupied in gode werkes . </ab><ab n="627">Thane thus in getynge 
+<lb/>rychesses ye mosten flee ydilnesse . </ab><ab n="628">and afterward ye shul / vse 
+<lb/>the rychesses whiche ye haue geten by youre wyt . and bi youre 
+<lb/>trauayll </ab><ab n="629">in swyche a mane that men holde yow nat to scars / ne 
+<lb/>to sparynge . ne ful large þ<am rend="sup">t</am><ex>at</ex> is to seyn ouer large a spender </ab>
+<lb/><ab n="630">for ryght as men blamen an auaricious man bi cause of his 
+<lb/><hi rend="ud">scrar</hi> scarsete and chyncherie . </ab><ab n="631">In the same wyse is he to blame 
+<lb/>that spendeth ouer largely . </ab><ab n="632">And therfore seith Catou<am>̄</am><ex>n</ex> vse he seith 
+<lb/>þy rychesses that þ<hi rend="sup">u</hi> hast getten </ab><ab n="633">in swyche amanere . that men haue 
+<lb/>no matier ne cause to calle the neither wreche ne chynche . </ab><ab n="634">for 
+<lb/>it is a gret shame to a man . to haue a pore herte . and aryche 
+<lb/>purs . </ab><ab n="635">he seith also the goodes that þ<hi rend="sup">u</hi> hast geten . vse hem by 
+<lb/>mesure þ<am rend="sup">t</am><ex>at</ex> is to seyn . spende mesurably </ab><ab n="636">For they that folyly wasten 
+<lb/>and dispenden the goodes . that they han . </ab><ab n="637">whan þey han nomor 
+<lb/><am>ꝓ</am><ex>pro</ex>pre of hir owne . they shapen hem to taken the goodes of anoþ<am>ꝰ</am><ex>er</ex> 
+<lb/>man ; </ab><ab n="638">I . seye tha<am>̄</am><ex>n</ex>ne ye shul flee auarice </ab><ab n="639">vsynge youre rychesses 
+<lb/>in swyche maner that men seye nat þ<am rend="sup">t</am><ex>at</ex> youre rychesses ben 
+<lb/>yburied </ab><ab n="640">but þ<am rend="sup">t</am><ex>at</ex> þey ȝe haue hem in youre myght and in youre 
+<lb/>weldynge . </ab><ab n="641">For a wys man repreueth the auaricious man And 
+<lb/>seyth þus in two vers // </ab><ab n="642">wher to and why burieth a man hise godes 
+<lb/>by his grete auaryce . ⁊ knoweth wel þ<am rend="sup">t</am><ex>at</ex> nedes moste he dye </ab><ab n="643">for 
+<lb/>deth is the ende of euery man . as in thys psent lyfe </ab><ab n="644">or for þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>cause or enchesou<am>̄</am><ex>n</ex> ioyneth he hym or knytteth he hym so faste 
+<lb/>vn to is goodes . </ab><ab n="645">þ<am rend="sup">t</am><ex>at</ex> alle is wyttes . mowen nat desseueren hym 
+<lb/><lb/>or de<am>ꝑ</am><ex>per</ex>tein hym fro is goodes </ab><ab n="646">and knowyth wel or oghte knowe 
+<lb/>that wan he is died . he shal no thyng bere wyth hym out of 
+<lb/><pb n="181r" facs="ARMR016B.JPG"/>
+ this world. </ab><ab n="647">And therfore seith austyn that the auaricious ma 
+<lb/><lb/>is likneden in to helle </ab><ab n="648">that þ<hi rend="sup">e</hi> more it swoleweth the more 
+<lb/>disir hit hath to swolewe ⁊ deuoure . </ab><ab n="649">and as wel as þe wol 
+<lb/>eschue to be called . and auaricious man or chynche : </ab><ab n="650">as <gap quantity="2" unit="chars"/> 
+<lb/>shulde ye kepe yow ⁊ gouerne yow in swiche a wyse that 
+<lb/>men calle nat yow fool large ; </ab><ab n="651">Therfore seith Tullius  the 
+<lb/><lb/>goodes he seith of þyn hous sholde nat been hyd ne kept 
+<lb/>cloos but þ<am rend="sup">t</am><ex>at</ex> þey myghte been opened by pitee and debon<gap quantity="5" unit="chars"/> </ab>
+<lb/><ab n="652">that is to sayn . to yeue hem part that hauen gret n<gap quantity="3" unit="chars"/> </ab>
+<lb/><ab n="653">ne thy goodes shulden nat been so hopen to been eu<gap quantity="3" unit="chars"/> 
+<lb/>mannes goodes // </ab><ab n="654">Afterward in getynge of youre ryches 
+<lb/>and in vsynge hem ye shuln alway haue thre thyng<gap quantity="5" unit="chars"/> 
+<lb/>youre herte . </ab><ab n="655">that is to seyn oure lord . god . Concience 
+<lb/>good name <space dim="horizontal" extent="1" /> </ab><ab n="656">Fyrst ye shul haue god in ȝoure herte . </ab><ab n="657">and for 
+<lb/>no rychesse ye shul do na thyng : which may in any m<gap quantity="4" unit="chars"/> 
+<lb/>displese god that is ȝoure creatour . </ab><ab n="658">For after 
+<lb/>word of Salomon ; It is bettre to haue a litel good . with 
+<lb/><lb/>loue of god . </ab><ab n="659">than to haue muchel good . and tresor and 
+<lb/>the loue of his lord god // </ab><ab n="660">And the <am>ꝓ</am><ex>pro</ex>phete seyth . bettre it 
+<lb/><lb/>to ben a good man . and haue litel good ⁊ tresor . </ab><ab n="661">than 
+<lb/>holden a shrewe . and haue gret rychesses ; </ab><ab n="662">and yet seye I 
+<lb/>ther moore . that ye shulden alwayis doon youre bysynesse 
+<lb/>to geten ȝow rychesses </ab><ab n="663">so that ye gette hem . w<am rend="sup">t</am><ex>ith</ex> good consience 
+<lb/></ab>
+<lb/><ab n="664">and thapostle seyth . that ther nys thyng in thys world of 
+<lb/>whiche we sholden haue so gret yoie as when oure con 
+<lb/>science . bereth vs good wytnesse . </ab><ab n="665">And the wyse man seyth 
+<lb/>The substance of a man is ful good whan synne is nat in a 
+<lb/><lb/>mannes consience . </ab><ab n="666">Afterward in getyng of youre richesses . 
+<lb/>and in vsyng of hem </ab><ab n="667">yow moste haue gret bysinesse and 
+<lb/>gret diligence . that youre good name be alwey kept And 
+<lb/>conserued . </ab><ab n="668">For salomon seith that bettre it is ⁊ more it auayl 
+<lb/><lb/>leth . a man to haue a good name than forto haue gret 
+<lb/>rychesses . </ab><ab n="669">And therfore he seith in a nother place ; do gret 
+<lb/>diligence seith Salomou<am>̄</am><ex>n</ex> in kepyng of thy frend and of 
+<lb/>thy good name </ab><ab n="670">for it shal . lenger abide w<am rend="sup">t</am><ex>ith</ex> the than any 
+<lb/>tresor be it neu<am>ꝰ</am><ex>er</ex> so pcious ; </ab><ab n="671">and c<am>ꝰ</am><ex>er</ex>tes he sholde nat be called 
+<lb/>a gentil man that after god . and good conscience alle þyngess 
+<lb/><pb n="181v" facs="ARMR017A.JPG"/>
+ left ne dooth his diligence . and bysinesse to kepen his goode name </ab>
+<lb/><ab n="672">And Cassidore seith . that it is signe of a gentil man herte whan 
+<lb/>a man leueth ⁊ desireth to haue a good name // </ab><ab n="673">And therfore 
+<lb/>seith . seint Augustyn that ther been two thynges . that arn neces 
+<lb/>sarye . and nedfull </ab><ab n="674">and þ<am rend="sup">t</am><ex>at</ex> is </ab><ab n="675">good conscience to thyn owne <am>ꝑ</am><ex>per</ex>sone 
+<lb/>inward and good loos for thy neghebore outward // </ab><ab n="676">And he that 
+<lb/>trusteth hym so muchel in good conscience . </ab><ab n="677">that he displeseth ⁊ 
+<lb/>setteth at noght . his good name or loos // and rekketh nat though 
+<lb/>he kepe nat his good name nys but a cruell cherl </ab><ab n="678">Sire now 
+<lb/>haue y shewet . yow how ȝe shul do in getynge rychesse And how 
+<lb/>ye shulln vsen hem . </ab><ab n="679">And I se wel that for the trust that ȝe 
+<lb/>han in youre rychesses . ye wolle meue werr ⁊ Bataylle </ab><ab n="680">I con 
+<lb/>seille yow that ye bygynne no werre . In trust of youre rychesses 
+<lb/>For they ne suffice<am>̄</am><ex>m</ex> naght werres to maynteygne / </ab><ab n="681">And therfore 
+<lb/>seith a philosopher that man that desyreth And wol algates han 
+<lb/>werre . shal neuer haue suffisance . </ab><ab n="682">for þ<hi rend="sup">e</hi> rychez þ<am rend="sup">t</am><ex>at</ex> he ys the 
+<lb/>grettre dispenses moste he make . yef he wol haue worschep 
+<lb/>⁊ victorye / </ab><ab n="683">And Salomon seyth That the grettre rychesses þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>a man hath . tho mo dispendours he hath . </ab><ab n="684">And dere Sire al 
+<lb/>be it so . that for youre richesses . ye mowe haue muchel 
+<lb/>folk<am>ꝭ</am><ex>es</ex> </ab><ab n="685">yet by houeth it nat ne it is nat good to by gynne 
+<lb/>werre . wher as ye mowe as in other maner / haue pees 
+<lb/>vn to youre worsschep and <am>ꝓ</am><ex>pro</ex>fit . </ab><ab n="686">For the victorye of batailles 
+<lb/>that ben in thys world lith nat in gret nowbre or multitude 
+<lb/>of peple ne in the vertue of man . </ab><ab n="687">but it lith in the wyl 
+<lb/>⁊ the hand of oure lord god a myghty / </ab><ab n="688">Andtherfore . Iudas 
+<lb/><lb/>Machabeus which was godes knyght .</ab><ab n="689">Whan he slolde fight 
+<lb/>   
+<lb/>ageyn his adu<am>ꝰ</am><ex>er</ex>saryes ; that hadde a grettre nombre ⁊ a grettr 
+<lb/>multitude of folk<am>ꝭ</am><ex>es</ex> and strenger than was the peple of þys 
+<lb/>Machabe </ab><ab n="690">yet reconfortede his litel compaignie ⁊ seide right 
+<lb/>in this // </ab><ab n="691">Als lightly quod he may oure lord god almyghty 
+<lb/>ȝeue viccorye to a Fewe folk as to mony folk </ab><ab n="692">For the 
+<lb/>victorye of a batylle cometh nat by the grete nombre of 
+<lb/>peple </ab><ab n="693">but it come from oure lord god of heuene . </ab><ab n="694"><hi rend="ud">but</hi> 
+<lb/>And dere Sire for as muchel as ther is no man . c<am>ꝰ</am><ex>er</ex>teyn 
+<lb/>if it be worthy that god yeue hym viccorye or noght 
+<lb/><lb/>after þ<am rend="sup">t</am><ex>at</ex> Salomou<am>̄</am><ex>n</ex> seith </ab><ab n="695">therfore eu<am>ꝰ</am><ex>er</ex>y man shulde gretly 
+<lb/>drede werres to bygygye<am>̄</am><ex>m</ex> </ab><ab n="696">and by cause that in batailles 
+<lb/>fallen many <am>ꝑ</am><ex>per</ex>ils </ab><ab n="697">and happeth otherwyle that as . sone 
+<lb/><pb n="182r" facs="ARMR017B.JPG"/>
+ Is the grete man slayn . as the litel man . </ab><ab n="698">And as it is wryten 
+<lb/>in the scde<am>̄</am><ex>m</ex> book . of kynghyes . The dedes of batailles ben auen 
+<lb/><lb/>turouse and no thyng certeyn . </ab><ab n="699">For as lightly . is on hurt wit 
+<lb/>a spere as a nother : </ab><ab n="700">And for ther is gret <am>ꝑ</am><ex>per</ex>il in werre therfor 
+<lb/>sholde a man Flee and eschue werre in as muchel as aman 
+<lb/>may goodli . </ab><ab n="701">For Salomon seith he that loueth <am>ꝑ</am><ex>per</ex>il shal falle 
+<lb/><lb/><am>ꝑ</am><ex>per</ex>il // </ab><ab n="702">After that dame Prudence hadde spoke in this man<gap quantity="2" unit="chars"/> 
+<lb/>Melibee Answerede ⁊ sayde . </ab><ab n="703">I se wel dame Prudence thy 
+<lb/><lb/>by youre fayre wordes and by youre resones þ<am rend="sup">t</am><ex>at</ex> ȝe han shew 
+<lb/>me that the werre lyketh yow no thyng ; </ab><ab n="704">but I haue nat yete 
+<lb/>hert ȝoure conseil . how I shal do in this nede </ab><ab n="705">Certes quod <gap quantity="3" unit="chars"/> 
+<lb/>I conseil ȝow þ<am rend="sup">t</am><ex>at</ex> ye acorde with youre Adu<am>ꝰ</am><ex>er</ex>sares / And þ<am rend="sup">t</am><ex>at</ex> ȝe haue 
+<lb/><lb/>pees w<am rend="sup">t</am><ex>ith</ex> hem . </ab><ab n="706">For seint . Iame seith in his apistles that by a 
+<lb/>cord ⁊ pees the smale richesses wexen grete ; </ab><ab n="707">And by debate 
+<lb/>⁊ discord the grete rychesses fallen doun // </ab><ab n="708">And ye knowen wel 
+<lb/>that on of the gretteste and most souereyn thyng þ<am rend="sup">t</am><ex>at</ex> is in thys 
+<lb/>world is vnitee and pees / </ab><ab n="709">And therfore sayde oure lord Ihu 
+<lb/>crist to hise aposteles in this wyse ; </ab><ab n="710">wel happy and blessed be 
+<lb/>they . that louen and p<am rend="sup">r</am><ex>ra</ex>chacen pees . For they ben called chilxxx 
+<lb/>of god / </ab><ab n="711">A quod Melibe // now se I . wel that ye louen nat my 
+<lb/><lb/>honour ne my worschep ; </ab><ab n="712">ye knowen wel that myn adu<am>ꝰ</am><ex>er</ex>saris 
+<lb/>han bygonne this debaat ; and brynge by hire out<am rend="sup">a</am><ex>ra</ex>ge </ab><ab n="713">and ye 
+<lb/>seen wel that they ne requiren me nat ne p<am rend="sup">a</am><ex>ra</ex>yen me nat 
+<lb/>of pees . ne axen nat . to be reconseild . </ab><ab n="714">wolle ye thanne that 
+<lb/>I go and meke me and obeye me to hem ⁊ crye hem 
+<lb/>mercy  </ab><ab n="715">For sothe that were nat my worschep . </ab><ab n="716">For right 
+<lb/>as men sayn . that ouer gret hoomblynesse engendreth 
+<lb/>dispreysynge . so forith it by to gret humylite or mekenesse //</ab>
+<lb/><ab n="717">Than by gan dame Prudence to make semblant of wratthe 
+<lb/><lb/>and sayde . </ab><ab n="718">certes sire saue . youre grace . I loue . youre honour 
+<lb/>⁊ youre <am>ꝓ</am><ex>pro</ex>fit . as I do myn owne . and euer haue I doun </ab><ab n="719">as 
+<lb/>ne ye no non oother sighen neuer the cont<am rend="sup">a</am><ex>ra</ex>rie // </ab><ab n="720">And yet 
+<lb/>if I hadde seyd that ye shulde han p<am rend="sup">r</am><ex>ra</ex>chased the pees ⁊ the 
+<lb/>reconsiliacion I ne hadde nat muchel mystaken me ne . 
+<lb/>seid amys . </ab><ab n="721">For the wyse man seith / the discension bygynnith 
+<lb/>by a nother man and reconsylinge bygynneth by thy self // </ab>
+<lb/><ab n="722">And the <am>ꝓ</am><ex>pro</ex>phete seith . flee srewednesse and do goodnesse 
+<lb/></ab>
+<lb/><ab n="723">seke pees and . folewe it as muchel as in the is . </ab><ab n="724">yet seye 
+<lb/><pb n="182v" facs="ARMR018A.JPG"/>
+ I nat that ye shul rather pursue to youre adu<am>ꝰ</am><ex>er</ex>saryes for pees than 
+<lb/>they shuln to yow . </ab><ab n="725">for y knowe wel þ<am rend="sup">t</am><ex>at</ex> ye been so hard herted 
+<lb/>that ye wol do no thyng for me / </ab><ab n="726">And Salomon seyth that 
+<lb/>he that hath ouer hard an herte . Atte laste . he shal myshappe 
+<lb/>and mystyde / </ab><ab n="727">whan Melibe hadde her dame Prudence maken 
+<lb/>semblant of wratthe he sayde in this wyse </ab><ab n="728">dame I prey þ<am rend="sup">t</am><ex>at</ex> ye 
+<lb/>be nat displesed / of thynges þ<am rend="sup">t</am><ex>at</ex> I  seye . </ab><ab n="729">For ye knowel wel . that I 
+<lb/>am angry and wrothe / and that is no <hi rend="ud">worth</hi> wonder / </ab><ab n="730">And they 
+<lb/>þ<am rend="sup">t</am><ex>at</ex> been wrothe wyten nat wel what that they doon ne what 
+<lb/>þey seyn / </ab><ab n="731">Therfore the <am>ꝓ</am><ex>pro</ex>phete seyth that trow bleed yen han 
+<lb/>no cleer sighte . </ab><ab n="732">but seyeth and conseileth me as yow lyketh 
+<lb/>for I am redy to do right as ye wol desyre </ab><ab n="733">And if ye repreue 
+<lb/>me of my folie I am the more holden to loue yow and 
+<lb/>to preyse yow . </ab><ab n="734">For Salamon seith that he þ<am rend="sup">t</am><ex>at</ex> repreueth . hym 
+<lb/>that doth folye </ab><ab n="735">he shal fynde grettre grace / Than he that 
+<lb/>reseyueth hym by swete wordes . </ab><ab n="736">Than seyde dame 
+<lb/>Prudence I make no sembland of wrathe ne of anger 
+<lb/><lb/>but for youre gret <am>ꝓ</am><ex>pro</ex>fit </ab><ab n="737">For Salomon seith he is more worth 
+<lb/>that repreueth or chideth afool for his folye shewynge hym 
+<lb/>semblant of wratthe . </ab><ab n="738">than he that supportheth hym and 
+<lb/><lb/>preyseth hym . in his mysdoyng . and laugheth at is folye </ab>
+<lb/><ab n="739">And this same Salomon seyth afterward / that by þ<hi rend="sup">e</hi> sorweful 
+<lb/>vysage of a man . that is to seyn by the sory and heuy con 
+<lb/>tenance of a man </ab><ab n="740">the fool correcceth and amendeth hym 
+<lb/>self . </ab><ab n="741">Thenne seyde Melibe / I shal nat konne answere vn 
+<lb/>to so many faire resons as ye putten to me and shewen </ab>
+<lb/><ab n="742">seyeth sortly youre wil and youre conseil . And I am al 
+<lb/>redy to fulfillen and <am>ꝑ</am><ex>per</ex>forme hit . </ab><ab n="743">Thanne dame Prudence 
+<lb/><lb/>discouereth al hir wyl vnto hym . and seyde // </ab><ab n="744">I conseille yow 
+<lb/>quod she a bouen alle thynges : that ye make pees by 
+<lb/>twene god ⁊ yow </ab><ab n="745">and beeth reconsiled vn to hym And to 
+<lb/>his grace . </ab><ab n="746">for as I haue seyd . yow heer byforn . god hath suffred 
+<lb/>yow to haue this tribulacion and disese for youre synnes </ab><ab n="747">and 
+<lb/>yef ye do as I sey yow ; god wol sende youre adu<am>ꝰ</am><ex>er</ex>saries vn to 
+<lb/>yow </ab><ab n="748">and hem fallen at youre feet redy to don youre wyl 
+<lb/>and youre comandementz </ab><ab n="749">For Salomon seith ; whan the 
+<lb/><lb/>condiciou<am>̄</am><ex>n</ex> of aman is plesau<am>̄</am><ex>n</ex>t and lykyng to god </ab><ab n="750">he changeth 
+<lb/>the hertes of a manes adu<am>ꝰ</am><ex>er</ex>saries . and constreyneth . hem to . 
+<lb/><pb n="183r" facs="ARMR018B.JPG"/>
+ byseken hym of pees and of grace . </ab><ab n="751">and y preye yow lot me sp<gap quantity="3" unit="chars"/> 
+<lb/>w<am rend="sup">t</am><ex>ith</ex> youre adu<am>ꝰ</am><ex>er</ex>saries in preuy plase / </ab><ab n="752">For they shalt nowt knowen þ<am rend="sup">t</am><ex>at</ex> 
+<lb/>it be of youre wille : or youre assent . </ab><ab n="753">And thanne when I knowe 
+<lb/>hir wylle ⁊ hir entent I may conseille yow þ<hi rend="sup">e</hi> more shuly </ab><ab n="754">dame 
+<lb/>quod Melibee dooth youre wille . and youre lynkyng </ab><ab n="755">For I putte 
+<lb/><lb/>me holly in youre disposicion . ⁊ . ordinance : </ab><ab n="756">Thann dame Prude<gap quantity="3" unit="chars"/> 
+<lb/>whann she saw þ<hi rend="sup">e</hi> good wylle of hir housbonde : deluered ⁊ tok 
+<lb/>avys in her self . </ab><ab n="757">chyngege how she myghte brynge this nede 
+<lb/><lb/>in to a good concluciou<am>̄</am><ex>n</ex> . and to agode ende : </ab><ab n="758">and whan she sa<gap quantity="1" unit="chars"/> 
+<lb/>hir tyme she sente for these adu<am>ꝰ</am><ex>er</ex>saries to come to her in to ap<am rend="sup">i</am><ex>ri</ex><gap quantity="2" unit="chars"/> 
+<lb/>place </ab><ab n="759">and shewed wisely to hem the grete goodes . that comen by 
+<lb/>pees </ab><ab n="760">⁊ the grette harmes ⁊ perelles þ<am rend="sup">t</am><ex>at</ex> comen of werre // </ab><ab n="761">And <gap quantity="5" unit="chars"/> 
+<lb/>to hem In a goodli mane ; how þ<am rend="sup">t</am><ex>at</ex> hem houghten haue gre<gap quantity="2" unit="chars"/> 
+<lb/>repentaunce </ab><ab n="762">of the iniurye and wrong / that þey hadden doon 
+<lb/>to Melibee here lord and vnto hir doughter . </ab><ab n="763">And whann they 
+<lb/>herden the goodlyche wordes / of dame Prudence </ab><ab n="764">they weren 
+<lb/>so supprysed ⁊ rauised / And hadden so gret . Ioye of here that 
+<lb/>wond<hi rend="sup">r</hi> was to telle . </ab><ab n="765">A lady quod / they ye han shewed vn to 
+<lb/>vs the blessyng of swetnesse . after þ<hi rend="sup">e</hi> lawe of dauit the <am>ꝓ</am><ex>pro</ex>phet </ab>
+<lb/><ab n="766">for þ<hi rend="sup">e</hi> reconseilyng wheche whe ben nowth worthy to haue in 
+<lb/>no mane . </ab><ab n="767">but we oughten requiren hit w<am rend="sup">t</am><ex>ith</ex> gret contryssiou 
+<lb/>And humiletee </ab><ab n="768">that ye of youre gret goodnesse haueth <am>ꝑ</am><ex>per</ex>sented 
+<lb/>vn to vs </ab><ab n="769">now se we wel that þ<hi rend="sup">e</hi> sience and the connynge 
+<lb/>of Salomon is ful trewe . </ab><ab n="770">for he seyth that swete wordes mul 
+<lb/><lb/>teplyen and encresen . Frendes . and maken shrewes to be debon 
+<lb/>and meke </ab><ab n="771">Certes quod they . we putten oute dede . and alle 
+<lb/>oure matier and cause . al holly in youre . good wyll / </ab><ab n="772">And ben 
+<lb/>redy to abeye vn to þy speche ⁊ comaudement of my lord 
+<lb/>Melibe / </ab><ab n="773">And therfore dere ⁊ benygne lady . whe p<am rend="sup">a</am><ex>ra</ex>yen yow ⁊ 
+<lb/>byschen you as mekely as we connen ⁊ mowen / </ab><ab n="774">that it 
+<lb/>lyke vn to youre gret goodnesse to fulfelle in dede youre 
+<lb/>goodlyche wordes . </ab><ab n="775">For we consideren and knowlachyn that 
+<lb/>whe haue<am>̄</am><ex>m</ex> offendet ⁊ greued my lord <hi rend="ud">my lord</hi> Melibee out 
+<lb/>of mesure . </ab><ab n="776">so soferforth that we ben nowth of power to maken 
+<lb/>his amendes . </ab><ab n="777">and therfore whe oblygen ⁊ bynden vs and 
+<lb/>oure frendes forto don al his wylle and his coma<am>̄</am><ex>n</ex>ndeme<am>̄</am><ex>m</ex>t </ab>
+<lb/><ab n="778">but <am>ꝑ</am><ex>per</ex>auent<hi rend="sup">r</hi>e he hath shuche heuynesse ⁊ shuche wrathe 
+<lb/>to vs ward . by cause of oure afence </ab><ab n="779">that he wol enioyne 
+<lb/><pb n="183v" facs="ARMR019A.JPG"/>
+ vs swich a peyne as we mowe nat beren ne susteyne ; </ab><ab n="780">And ther 
+<lb/>fore noble lady . whe bysekyn to youre womanly pytte </ab><ab n="781">to taken 
+<lb/>swich auysement . in this nede ;  that whe ne oure Frendes 
+<lb/>ben nat deserited ⁊ distried throgh oure folye . </ab><ab n="782">Certes quod 
+<lb/>Prudence it is an hard thyng ⁊ ryght <am>ꝑ</am><ex>per</ex>ilous </ab><ab n="783">that a man putte 
+<lb/>him al owtrely in the arbytracion and Iugement and in the 
+<lb/>myght ⁊ power of his enemyes ; </ab><ab n="784">For Salomon seyth leueth 
+<lb/>me and yeueth credence of that I shal seye . I sey quod he 
+<lb/>ye peple folk<am>ꝭ</am><ex>es</ex> and gouernours of holy chyrche . </ab><ab n="785">to thy soone 
+<lb/>to thy wyf <hi rend="ud">ne</hi> to thy frend ne to thy brother </ab><ab n="786">ne yeue þ<hi rend="sup">u</hi> 
+<lb/>neuer no maistry . of thy body whyl þ<hi rend="sup">u</hi> leuest ; </ab><ab n="787">now seythen 
+<lb/>he defendeth that man shulde nat yeuen to is brother ne 
+<lb/>to is Frend the myth of ys body </ab><ab n="788">by a strenger resou<am>̄</am><ex>n</ex> he 
+<lb/>defendeth . and forbedeth a man to yeuen hym self to is 
+<lb/>enemy / </ab><ab n="789">And natheles I conseille yow that ye mystrust nat 
+<lb/>my lord . </ab><ab n="790">For I wot wel and knowe verayly that he is debon 
+<lb/>⁊ meke . large curteys </ab><ab n="791">and nothyng desyrous ne coueytyng 
+<lb/>of good ne rychesse </ab><ab n="792">for ther nys to thyng in thy world that 
+<lb/>he desireth saue only the worschep ⁊ honour ; </ab><ab n="793">Forther more I 
+<lb/>knowe wel and am ryght sure that he shal . nothynge do 
+<lb/>in thys nede w<am rend="sup">t</am><ex>ith</ex> oute my conseil . </ab><ab n="794">And I . shal so . werkyn in 
+<lb/>thys cause that by grace of oure lord god . ye shul ben recon 
+<lb/>seyled in to vs </ab><ab n="795">than sayden they w<am rend="sup">t</am><ex>ith</ex> on voys worschepful . 
+<lb/>lady whe putten vs and oure goodes al fully in youre wyl 
+<lb/>and disposciciou<am>̄</am><ex>n</ex> </ab><ab n="796">and ben redy to come what day that hit 
+<lb/>lyke to your noblesse to lymete vs or a syne vs </ab><ab n="797">For to maken 
+<lb/>oure obligaciou<am>̄</am><ex>n</ex> and bond as strong as it lyketh vn to youre 
+<lb/>goodnesse </ab><ab n="798">that we may fulfille the wyll of yow and of my 
+<lb/>lord Melibe </ab><ab n="799">whan . dame Prudence hadde herd þ<hi rend="sup">e</hi> answer 
+<lb/>of these men she bat hem go agayn preuyly . </ab><ab n="800">and she 
+<lb/>retorned to here lord Melibee . and tolde hym . how she 
+<lb/>fond hys adu<am>ꝰ</am><ex>er</ex>saries ful repentaunt </ab><ab n="801">knowelachyng here 
+<lb/>synnes ⁊ here <hi rend="ud">repenta</hi> trespasse : and how they where 
+<lb/>redy to suffren alle peyne </ab><ab n="802">requiryng ⁊ preyge hym 
+<lb/><lb/>of mcy ⁊ pytte </ab><ab n="803">Than sayde Melibe . he is wel worthy to 
+<lb/>haue pardon ⁊ foryenesse of his synne that excuseth nat 
+<lb/>is synne </ab><ab n="804">but knowlacheth hym ⁊ repenteth hym askyng 
+<lb/>indulgence . // </ab><ab n="805">For . Senec . seyth ther is þ<hi rend="sup">e</hi> remissiou<am>̄</am><ex>n</ex> ⁊ 
+<lb/><lb/>foryeuenesse ther as confessiou is </ab><ab n="806">for confesciou is 
+<lb/>neyghbur to Innocens </ab><ab n="807">and therfore I asente . And . 
+<lb/><lb/></ab>
+<lb/></div>
+</body>
+</text>
+</TEI>
+

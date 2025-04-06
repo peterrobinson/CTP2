@@ -1,0 +1,30 @@
+Manuscript name and Mosser link
+
+ London, British Library Additional MS 5140. [[http://www.mossercatalogue.net/results.php?location=&repository=&manuscript=Ad1&edition=&search=SEARCH|Mosser: Ad1.]]
+ 
+Original construction
+TM is in the second part of Ar, contained in a quire of 12 and a quire of 8. 
+
+
+Missing folios
+
+The two outer sheets, bifolio 1.8 and 2.7, are missing from the second quire (folios 178, 179, 184, and 185).
+
+
+Added folios
+
+None.
+
+Absent text corresponding to the missing folios
+
+TM 490 to 592 (folios 178-179) and 807 to the end (folios 184-185).
+
+Notes
+
+Following Mosser, we number the first folio of the first quire holding TM as 166.
+
+Concordance of the traditional foliation (as reported by Mosser) and the new foliation 
+
+Traditional (Mosser)	New CT foliation  
+168-177	166-177
+178-181	180-183

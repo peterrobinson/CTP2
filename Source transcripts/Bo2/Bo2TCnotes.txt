@@ -1,0 +1,33 @@
+Manuscript name and Mosser link
+
+Oxford, Bodleian Library MS Bodl. 686. Mosser: Bo2.
+ 
+Original construction
+
+27 quires of eight (216 folios) and one quire of six: 222 folios.
+
+Missing folios
+
+The first leaf of quire 6 (folio 41); leaf 3 from quire 18 (folio 139), the last leaf from quire 27 (folio 216), and leaves 3, 4 and 6 from the final quire (219, 220, 222).
+
+Added folios
+
+None.
+
+Absent text corresponding to the missing folios
+
+MI 1-79 (folio 41); SQ 661-end; [L20?] FK 1-35 (folio 139).
+
+Notes
+
+The traditional foliation on the manuscript runs from 1 to 217, as 190 is skipped. The Tales finish on folio 186, at the end of NU.
+
+
+Traditional (Mosser)	New CT foliation 
+1-40 1-40
+41-137  42-138
+138-189 140-191
+191 192
+192-214  193-215
+215-216 217-218
+217  221
