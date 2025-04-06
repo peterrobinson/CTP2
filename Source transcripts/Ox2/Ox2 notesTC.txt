@@ -1,0 +1,53 @@
+==== Manuscript name and Mosser link  ====
+
+Philadelphia, Rosenbach Museum and Library, Rosenbach 1084/2. Mosser: Ox2.
+
+==== Original construction  ====
+
+The surviving leaves held in the Rosenbach library consist of three bifolia and five single leaves. We number these as Folios 57, 58, 61, 63, 64 (as bifolia 1.8, 2.7 and leaf 5) of an original quire 8; Folios 75 and 78 (bifolium 3.6) of an original quire 10; and four leaves arbitrarily numbered 87, 95, 103, 111.
+
+==== Notes  ====
+
+We here follow the suggestion of Manly and Rickert, followed by Mosser: that two of these bifolia and a single leaf are remnants of a single quire (as the two outer bifolia 1.8 2.7 and leaf 5), which itself was originally the eighth quire of the manuscript. The third bifolium (3.6) comes from the tenth quire. It is not possible to judge how many quires and folios fall between this tenth quire and the other four single leaves, or between the four leaves.
+
+Accordingly: the first surviving leaf, starting with RE 326, is the first quire of quire 8, hence folio 57. The bifolium 3.6 and fourth leaf (folios 59-60, 62) are missing from this quire; all of quire 9 (folios 65-72) is missing, the innermost and two outer bifolia are missing from quire 10, leaving only the bifolium 3.6 (folios 75 and 78) from this quire. The remaining four leaves are arbitrarily numbered 87, 95, 103, 111.
+
+Here is what we have:
+
+"Quire 8", folios 57-64: outer two bifolia 1.8 2.7 (57.64, 58.63) and leaf 5 (61)
+Folio 57 (conjoint with 64):  RE 326-363 (recto); RE 364-401 
+Folio 58 (conjoint with 63): RE 402-404, L3 1-32 (recto);  L3 33-40, CO 1-8 (verso)
+Folio 61 (singleton): L7 95-98; portrait; ML 1-7 (recto); ML 8-42 (verso)
+Folio 63 (conjoint with 58): ML 113-147 (recto); ML 148-182 (verso)
+Folio 64 (conjoint with 57): ML 183-217 (recto); ML 218-252 (verso), with catchword.
+
+"Quire 9", folios 65-72: missing
+
+"Quire 10": third bifolium 3.6 (75.78)
+Folio 75 (conjoint with 78): ML 953-987 (recto); ML 988-1022 (verso)
+Folio 78 (conjoint with 75): SQ 49-86 (recto); SQ 87-124 (verso)
+
+Four singleton leaves:
+Folio 87: TT 134-171 (recto); TT 172-end, L28 1-4 (verso)
+Folio 95: CY 372-409 (recto); CY 410-448 (verso)
+Folio 103: PA 194-209 (recto); PA 209-223 (verso)
+Folio 111: PA 969-983 (recto); PA 983-999 (verso), possible trace of catchword.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+These leaves are now unbound.  Previously, they were bound as folios 1-11.  
+
+|Traditional (Mosser)	|New CT foliation |
+|1 |61|
+|2 |58 (conjoint with 63)|
+|3 |63 (conjoint with 58)|
+|4 |78 (conjoint with 75, reversed)|
+|5 |75 (conjoint with 78, reversed)|
+|6 |87|
+|7 |95|
+|8 |103|
+|9 |111|
+|10 |57 (conjoint with 64)|
+|11 |64 (conjoint with 57)|
+
+

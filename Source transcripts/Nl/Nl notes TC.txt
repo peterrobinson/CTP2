@@ -1,0 +1,50 @@
+==== Manuscript name and Mosser link  ====
+
+Nl: Northumberland, Alnwick, (Trustees of the will of the Duke of Northumberland), MS 455. Mosser: Nl.
+
+==== Original construction  ====
+
+41 quires of 8: 328 folios. 
+
+==== Missing folios  ====
+
+The first two leaves are missing from the first quire (folios 1-2); the fourth leaf is missing from quire 6 (folio 44); the inner three bifolia 2.7, 3.6, 4.5 are missing from quire 8 (folios 58-63); the sixth leaf is missing from quire 16 (folio 126); the two inner bifolia 3.6, 4.5 are missing from quire 38 (folios 299-302) ; quires 39 and 40 are missing (folios 305-320); only the fourth leaf survives of the last quire (missing are 321-323, 325-328).  It appears also that the seventh leaf is missing from quire 24, folio 191.  The previous folio has the end of this portion of the Canterbury Tales, concluding with CY; the next folio has the first leaf of Beryn (192r).
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 1-156 (folios 1-2); MI 31-97 (folio 44); RE 308-end (c. 96 lines), L3 and CO (presumed; c. 95 lines), ML 1-218 (folios 58-63; accommodating c. 410 lines, thus L7 was likely not present); CL 57-142 (folio 126); PA 69-200 (folios 299-302); PA 259-884 (folios 305-323); PA 916-end (folios 325-328). There is no loss of text corresponding to the absent folio 191, falling between CY and Beryn. SQ finishes at line 341, on 80r; SU finishes at line 450 on 125r.
+
+==== Notes  ====
+
+Aside from the loss of folios, there are errors in the foliation.  Mosser reports that consecutive folios are numbered "78" and "78+" (our folios 87 and 88), "100" and "100*" (our folios 110 and 111), and "252" and "252+"; that folio 114 in the existing numbering is "missed"; and that folio 237 in his numbering was originally bound as the fourth leaf of quire 15, where our folio 124 should stand, and corresponding to the skipped "114", before being places in its current position.
+
+However, inconsistencies within the foliation given by Mosser and the frequent inability to see the folio numbers in the microfilm copies make it difficult to relate these folio numbers to the numbering we here give.  Mosser's "78" and "78+" are our folios 87 and 88. It appears that his "115" would be our folio 125, so that  his folio 114, holding SU 554-586 and now standing (according to Mosser) as the first leaf of quire 32 would appear before our folio 125.  
+
+The situation at the end of SU seems particularly complicated. The copying of SU breaks off at the base of 125r in our numbering, at line 450; CL begins on the verso. Then, after Beryn finishes on folio 247r, the seventh leaf of quire 31, SU resumes at the base of the same page and runs through the last leaf of the quire (248) onto the first leaf of the next quire, folio 249r, with 249v blank.  The last of these leaves, our 249, was at one point "folio 114" (pencil foliation on bottom recto), standing (it seems) before "folio 115", folio 125 in our numbering, holding SU 417-450 on the recto, and the first lines of CL on the verso.  If this was intended as a solution to the problem of the separation of SU, it was unsuccessful as it placed the text of SU 554-586, on "folio 114", before SU 47-450, on "folio 115".  It appears the scribe originally wrote up to folio 125r, finishing the folio at SU 450, thought he had hit the end of SU and so moved on to start CL on the verso.  Then, having realzed his mistake, he tried to fix it by writing the remainder of the SU onto two spare folios in q. 31, at the end of Beryn, and onto a spare empty folio (249) at the beginnng of quire 32.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+Note: the numbers here given for the traditional foliation are those written in pencil at the bottom right of each folio.  In some areas, notably around folios 100-130, these numbers are not visible in the microfilm copies.
+
+|Traditional (Mosser)	|New CT foliation |
+|1-41  |3-43|
+|42-54 |45-57|
+|55-77 |64-86|
+|78 |87|
+|78+ |88|
+|79-100 |89-110|
+|100* |111|
+|101-113 |112-124|
+|115 |125|
+|116-179   |127-190|
+|180-236  |192-248|
+|114      |249|
+|237-252    |250-265|
+|252* |266|
+|253-284 |267-298|
+|285-286 |303-304|
+|287  |324|

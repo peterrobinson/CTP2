@@ -1,0 +1,67 @@
+Ox2
+
+The surviving leaves held in the Rosenbach library consist of three bifolia and five single leaves. We here follow the suggestion of MR, followed by Mosser: that two of these bifolia and a single leaf are remnants of a single quire (as the two outer bifolia 1.8 2.7 and leaf 5), which itself was originally the eighth quire of the manuscript. The third bifolium (3.6) comes from the tenth quire. It is not possible to judge how many quires and folios fall between this tenth quire and the other four single leaves, or between the four leaves.
+
+Accordingly: the first surviving leaf, starting with RE 326, is the first quire of quire 8, hence folio 57. The bifolium 3.6 and fourth leaf (folios 59-60, 62) are missing from this quire; all of quire 9 (folios 65-72) is missing, the innermost and two outer bifolia are missing from quire 10, leaving only the bifolium 3.6 (folios 75 and 78) from this quire. The remaining four leaves are arbitrarily numbered 87, 95, 103, 111.
+
+
+Here is what we have:
+
+1 1r: L7 95-98; portrait; ML 1-7 = B 95-140 =MR "Q8.v": a singleton; 1v: ML 8-42. (folio 61)
+2 2r: RE 402-404, L3 1-32 = A 4322-72 = MR "Q8.ii", conjunct with MR "Q8.vii"; 2v: L3 33-40, CO 1-8 (folio 58)
+3  3r: ML 113-147 = B 211-280 = MT "Q8.vii", conjunct with MR MR "Q8.ii"; 3v: ML 148-182 (folio 63)
+4  4r: SQ 49-86 = F 57-132 = MR "Q10.vi", conjoint with "MR Q10.iii"; 4v: SQ 87-124 (folio 78)
+5 5r = ML 953-987 = B 1051-1120 = MR "Q10.iii", conjoint with MR "Q10.vi"; 5v = ML 988-1022 (folio 75)
+6 6r = TT 134-171; 6v = TT 172-end, L28 1-4 (folio 87)
+7= 7r = CY 372-409; 7v = CY 410-448 (folio 95)
+8  8r = PA 194-209; 8v = PA 209-223 (folio 103)
+9 9r = PA 969-983; 9v = PA 983-999 (trace of catchword?) (folio 111)
+10 10r= RE 326-363  (file Ox2-1) = A.4246-4321 = MR "Q8.i", conjunct with MR 'Q8.viii"; 10v = RE 364-401 (folio 57)
+11  11r = ML 183-217 = B 281-350 = MT "Q8.viii", conjunct with MR "Q8.i"; 11v = ML 218-252* (*catchword) (folio 64)
+
+images 
+1r= 05
+1v = 06, left
+2r = 06, right
+2v and 3r MISSING
+3v = 07 left
+4r = 07 right
+4v = 08 left
+5r = 08 right
+5v = 09 left
+6r = 09 right
+6v = 10 left
+7r = 10 right
+7v = 11 left
+8r = 11 right
+8v = 12 left
+9r = 12 right
+9v = 13 left 
+10r = 13 right
+10v = 14 left
+11r = 14 right
+11v = 15 left
+
+Correspondence: previous foliation, our foliation
+These leaves are now unbound.  Previously, they were bound as folios 1-11.  
+1 61
+2 58 (conjoint with 63)
+3 63 (conjoint with 58(
+4 78 (conjoint with 75, reversed)
+5 75 (conjoint with 78, reversed)
+6 87
+7 95
+8 103
+9 111
+10 57 (conjoint with 64)
+11 64 (conjoint with 57)
+
+
+Evidently, the order of the leaves should be:
+10 (RE 326-401) 2 (RE 402-04, L3, CO 1-8) 1 (L7 95-98 ML 1-42) 3 (ML 113-182) 11 (ML 183-252) 5 (ML 953-1022) 4 (SQ 49-124) 6 (TT L28) 7 (CY 372-448), 8 (PA 194-223) 9 (PA 969-999)
+
+
+Order
+RE L3 CO L7 ML SQ TT L28 CY PA
+Supplied RE L7 ML SQ TT L28 CY PA
+DWM: L3 CO

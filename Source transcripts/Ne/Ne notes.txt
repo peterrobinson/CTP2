@@ -1,0 +1,53 @@
+Ne notes
+
+The complete manuscript had 38 quires of 8 (304 folios) and three quires of six (quires 4, 9 and 14): 322 folios in total. The first quire (folios 1-8) is missing, as are the least three leaves of the last quires (folios 320-322). RT finishes on 319v.
+
+
+
+Absent text corresponding to the missing folios is as follows: GP 1-570 (folios 1-8).
+
+There is a huge lacuna on 277r: in midline we jump from PA 98 to 532!!! what is going on.. then in mid 279r it switches from 580 back to PA 162.  Clearly the exemplar had disordered pages and the scribe did not notice at all! Somewhere on 283v/284r the text moves from c. paragraph 256 (to 273 and from 687) to c. paragraph 690.  In 286v we move from 735 to 320; on 296r from 532 back to 99; on 298v from 161 up to 582; on 303r from 687 to 273; on 305v from 320 back up to 735, and so to the end.  Thus the ordering is as follows:
+1-98
+532-580    E   4
+162-273    B   9
+687-735    G   4
+320-532    D   19
+99-161     A   5
+582-687    F   9
+273-320    C   5
+735-
+Here is how this extraordinary disorder arose: seven blocks of text, of rather differing lengths, have been reshuffled. A key to understanding what happened is that the core units of reshuffled text was around 50 paragraph units, which might fit on two leaves: thus blocks E G A C were all written on two leaves, with blocks B and F comprising four leaves and block D eight leaves.    
+Thus the first quire was originally a quire of eight:
+A B C: with A and C as conjugate 1.8 and 2.7, B as 3.6 and 4.5 (that is: A is leaves 1 and 2; B is leaves 3, 4, 5 and 6; C is conjugate with A, with leaves 7 and 8)
+The second quire was a quire of eight, with four bifolia: D
+The third quire was a quire of eight:
+E F G: with E and G as conjugate 1.8 and 2.7, and F as 3.6 and 4.5.
+The existing order would then have been reached by someone swapping the two outer leaves of the first and third quires, so that E and G change places with A and C.  Thus E and G go into the first quire, around B, and A and C go into the third quire, around F. Brilliant!!!!	
+
+Images: 
+
+[8v]/9r - 122v/123r = 003-117
+123v/124r missing
+124v/125r: missing top of image = 118
+125v/126r - 190v/191r = 119-184
+191v/192r missing
+192v/193r - 282v/283r = 185 - 275
+283v/284r missing
+284v/285r - 286v/287r- = 276-278
+287v-288r missing
+288v/289r - 319v=
+
+Tale Order GP KT L1 MI L2 RE L3 CO L7 ML L8 SQ L15 ME WBP WBT L10 FR L11 SU CL L13 L14 FK NU L33 CY PH L21 PD SH L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA L37 PA
+Supplied: KT L2 RE L8 SQ WBT L10 FR L11 SU NU L33 CY PH L21 L36 MA L37 PA
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L15 ME L13
+Mosser L3 CO
+
+Munster PD
+Sheffield FK
+Posnan L7 ML
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP
+

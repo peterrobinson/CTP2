@@ -1,0 +1,243 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ox1</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+ 				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+					<respStmt n="L1 MI">
+						<resp>Original transcription and corrections:</resp>
+						<name n="Oxford Sheffield-C DMU UoS">Original and corrections: Oxford transcription team; corrections: Sheffield team, De Montfort team;  conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>Manchester</settlement>
+						<repository>John Rylands Library</repository>
+						<idno>English MS 63</idno>
+						<msName>Ox1</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb xml:id="Ox1-42r" n="42r" facs="42r.jpg"/>
+<div xml:id="L1-Ox1" n="L1" type="G">
+<lb/><l xml:id="L1-48-Ox1" n="48">I have a wyfe parde as wel as thow </l>
+<lb/><l xml:id="L1-49-Ox1" n="49">Yit nold I nat for the Oxen in my plowe </l>
+<lb/><l xml:id="L1-50-Ox1" n="50">To take oppon me more than I nowe </l>
+<lb/><l xml:id="L1-51-Ox1" n="51">As demyn of my self that I were one </l>
+<lb/><l xml:id="L1-52-Ox1" n="52">I wol be leve ther for that I am none </l>
+<lb/><l xml:id="L1-53-Ox1" n="53">An husbond shuld nat be inquisytyfe </l>
+<lb/><l xml:id="L1-54-Ox1" n="54">Of Goddis pryvitees ne of his wyfe </l>
+<lb/><l xml:id="L1-55-Ox1" n="55">So he may fynd Goddis fusou ther </l>
+<lb/><l xml:id="L1-56-Ox1" n="56">Of þe remnaunt nedith he nat to enquere </l>
+<lb/><l xml:id="L1-57-Ox1" n="57">What shuld I more sey but this myller </l>
+<lb/><l xml:id="L1-58-Ox1" n="58">He nold his word for no man for bere </l>
+<lb/><l xml:id="L1-59-Ox1" n="59">But told his Chorlissh tale in this manere </l>
+<lb/><l xml:id="L1-60-Ox1" n="60">Me ouyr thinkith that I shal reherce it here </l>
+<lb/><l xml:id="L1-61-Ox1" n="61">And therfor euery gentil white I prey </l>
+<lb/><l xml:id="L1-62-Ox1" n="62">Demeth nat for goddis love that I sey </l>
+<lb/><l xml:id="L1-63-Ox1" n="63">Not for ewil entent but þat I must reherce </l>
+<lb/><l xml:id="L1-64-Ox1" n="64">Al her talis al be they bettir or werce </l>
+<lb/><l xml:id="L1-65-Ox1" n="65">Or ellis to falsen som of my matere </l>
+<lb/><l xml:id="L1-66-Ox1" n="66">And therfor who so listynyth nat to here </l>
+<lb/><l xml:id="L1-67-Ox1" n="67">Torn owir the lefe and chese a nothir tale </l>
+<lb/><l xml:id="L1-68-Ox1" n="68">For he shal fynd I now both grete and smale </l>
+<lb/><l xml:id="L1-69-Ox1" n="69">Of storial thing that towchith gentilnes </l>
+<lb/><l xml:id="L1-70-Ox1" n="70">And eke moralite and also holynes </l>
+<lb/><l xml:id="L1-71-Ox1" n="71">Blamyth nat me yf that yee chese amys </l>
+<lb/><l xml:id="L1-72-Ox1" n="72">The Miller is a Chorll yee knowe wel this </l>
+<lb/><l xml:id="L1-73-Ox1" n="73">So was the Reve and also othir mo </l>
+<lb/><l xml:id="L1-74-Ox1" n="74">For of harlotry they told both to </l>
+<lb/><l xml:id="L1-75-Ox1" n="75">Awisith yewe and put me out of blame </l>
+<lb/><l xml:id="L1-76-Ox1" n="76">And eke men shul nat take ernest of game </l>
+<lb/><l xml:id="L1-IR-Ox1" n="IR">Here endithe the Myller his Prolog </l>
+
+</div>
+<div xml:id="MI-Ox1" n="MI" type="G">
+<lb/><l xml:id="MI-IR-Ox1" n="IR">And owir the leff begynnyth þe tale </l>
+<pb xml:id="Ox1-42v" n="42v" facs="42v.jpg"/>
+<lb/><l xml:id="MI-1-Ox1" n="1"><hi rend="orncp6">W</hi>hylom ther dwellid in Oxinford </l>
+<lb/><l xml:id="MI-2-Ox1" n="2">A riche chorll that gystis had to bord </l>
+<lb/><l xml:id="MI-3-Ox1" n="3">And of his craft he was a Carpenter </l>
+<lb/><l xml:id="MI-4-Ox1" n="4">W<am>ᵗ</am><ex>ith</ex> him þer was dwellyng a pore Skoler </l>
+<lb/><l xml:id="MI-5-Ox1" n="5">That lernyd Art but al his fantecy </l>
+<lb/><l xml:id="MI-6-Ox1" n="6">Was turnyd for to lern Astrology </l>
+<lb/><l xml:id="MI-7-Ox1" n="7">And also he coude a certen of conclucions </l>
+<lb/><l xml:id="MI-8-Ox1" n="8">For to demyn by interrogacions </l>
+<lb/><l xml:id="MI-11-Ox1" n="11">Or yf that men axid him what shuld befal </l>
+<lb/><l xml:id="MI-12-Ox1" n="12">Of euery thing I may nat rekyn al </l>
+<lb/><l xml:id="MI-13-Ox1" n="13">This clerk was clepid hend Nicholas </l>
+<lb/><l xml:id="MI-14-Ox1" n="14">Of dern love he coude and of solas </l>
+<lb/><l xml:id="MI-15-Ox1" n="15">And ther to he was sly and ful pryve </l>
+<lb/><l xml:id="MI-16-Ox1" n="16">And also like A maydyn meke for to se </l>
+<lb/><l xml:id="MI-17-Ox1" n="17">And a chambir he had in that hostolory </l>
+<lb/><l xml:id="MI-18-Ox1" n="18">Alone with outyn ony company </l>
+<lb/><l xml:id="MI-19-Ox1" n="19">Ful fetously I dite with herbis sote </l>
+<lb/><l xml:id="MI-20-Ox1" n="20">And he him selve as swete as the rote </l>
+<lb/><l xml:id="MI-21-Ox1" n="21">Of Licoryse or of ony maner Cetewale </l>
+<pb xml:id="Ox1-47r" n="47r" facs="47r.jpg"/>
+<lb/><l xml:id="MI-325-Ox1" n="325">Sey what thowe wilt I shal it newir tel </l>
+<lb/><l xml:id="MI-326-Ox1" n="326">To Child ne wyfe by him that harowid hel </l>
+<lb/><l xml:id="MI-327-Ox1" n="327">Now Iohn quod Nicholas I wol nat ly </l>
+<lb/><l xml:id="MI-328-Ox1" n="328">I have it found in myne Astrology </l>
+<lb/><l xml:id="MI-329-Ox1" n="329">As I have lokid in the mone so bright </l>
+<lb/><l xml:id="MI-330-Ox1" n="330">That now a monday next at quarter nyȝt </l>
+<lb/><l xml:id="MI-331-Ox1" n="331">Shal fal a reyn and that so wild and wood </l>
+<lb/><l xml:id="MI-332-1-Ox1" n="332-1">May Criste for bede it for his verry blode </l>
+<lb/><l xml:id="MI-333-Ox1" n="333">This world he seid in les than in an oure </l>
+<lb/><l xml:id="MI-334-Ox1" n="334">Shal al be dreynt so hydous is the shoure </l>
+<lb/><l xml:id="MI-335-Ox1" n="335">Thus shal man kynde drench and lese her lyfe </l>
+<lb/><l xml:id="MI-336-Ox1" n="336">This Carpenter answerd Alas my wyfe </l>
+<lb/><l xml:id="MI-337-Ox1" n="337">And shal she drench alas my Alisoun </l>
+<lb/><l xml:id="MI-338-Ox1" n="338">For sorow of this he fil al most adoun </l>
+<lb/><l xml:id="MI-339-Ox1" n="339">And seid is ther no remedy in this case </l>
+<lb/><l xml:id="MI-340-Ox1" n="340">Yis sir for God quod this end Nicholas </l>
+<lb/><l xml:id="MI-341-Ox1" n="341">Yf thow wolt workyn aftir lore and rede </l>
+<lb/><l xml:id="MI-342-Ox1" n="342">Thow maist nat workyn aftir thyn own hede </l>
+<lb/><l xml:id="MI-343-Ox1" n="343">For this seith Salamon that was ful trewe </l>
+<lb/><l xml:id="MI-344-Ox1" n="344">Work al by counsel and thow shalt newir rewe </l>
+<lb/><l xml:id="MI-345-Ox1" n="345">And yf thow workyn wolt be good counseile </l>
+<lb/><l xml:id="MI-346-Ox1" n="346">I vndir take with outyn mast or seile </l>
+<lb/><l xml:id="MI-347-Ox1" n="347">Yit shal I save her and the and me </l>
+<lb/><l xml:id="MI-348-Ox1" n="348">Hast thow nat herd howe sawid was Noye </l>
+<lb/><l xml:id="MI-349-Ox1" n="349">When that our lord had warnyd him be forn </l>
+<lb/><l xml:id="MI-350-Ox1" n="350">That al the world with watir shuld be lorn </l>
+<lb/><l xml:id="MI-351-Ox1" n="351">Ȝis quod the Carpenter ful yore ago </l>
+<lb/><l xml:id="MI-352-Ox1" n="352">Hast thow nat herd quod Nicholas also </l>
+<lb/><l xml:id="MI-353-Ox1" n="353">The sorowe of Noye with his felship </l>
+<lb/><l xml:id="MI-354-Ox1" n="354">Or that he myght gete his wyfe to ship </l>
+<lb/><l xml:id="MI-355-Ox1" n="355">Him had be lewir I dare wele vndirtake </l>
+<lb/><l xml:id="MI-356-Ox1" n="356">At þat tyme than al his wederis blake </l>
+<lb/><l xml:id="MI-357-Ox1" n="357">That she had had a ship her selve alone </l>
+<lb/><l xml:id="MI-358-Ox1" n="358">And therfor wotist thowe what is best to done </l>
+<lb/><l xml:id="MI-359-Ox1" n="359">This axithe hast and of an hastyf thyng </l>
+<lb/><l xml:id="MI-360-Ox1" n="360">Men may nat preche and make tarijng </l>
+<lb/><l xml:id="MI-361-Ox1" n="361">A none go gete vs fast in to this Inne </l>
+<lb/><l xml:id="MI-362-Ox1" n="362">A knedyng trowȝe or ellis a kemelyn </l>
+<pb xml:id="Ox1-47v" n="47v" facs="47v.jpg"/>
+<lb/><l xml:id="MI-363-Ox1" n="363">For eche of vs but loke loke that they be large </l>
+<lb/><l xml:id="MI-364-Ox1" n="364">In wich wee mow swymyn in as in a barge </l>
+<lb/><l xml:id="MI-365-Ox1" n="365">And have ther in vitaile sufficiaunte </l>
+<lb/><l xml:id="MI-366-Ox1" n="366">But for O day and fy on the remnaunte </l>
+<lb/><l xml:id="MI-367-Ox1" n="367">The watir shal a slake and go a way </l>
+<lb/><l xml:id="MI-368-Ox1" n="368">A bout pryme oppon the next day </l>
+<lb/><l xml:id="MI-369-Ox1" n="369">But Robyn may nat weet of this thy knave </l>
+<lb/><l xml:id="MI-370-Ox1" n="370">Ne eke thy maydyn Gyl I may nat save </l>
+<lb/><l xml:id="MI-371-Ox1" n="371">Axe nat why for thogh þou axe me </l>
+<lb/><l xml:id="MI-372-Ox1" n="372">I wol nat tellyn Goddis pryvyte </l>
+<lb/><l xml:id="MI-373-Ox1" n="373">Hit suffisith the but yf thy wit be mad </l>
+<lb/><l xml:id="MI-374-Ox1" n="374">To have as grete a grace as noye had </l>
+<lb/><l xml:id="MI-375-Ox1" n="375">Thy wyfe shal I wele save out of dout </l>
+<lb/><l xml:id="MI-376-Ox1" n="376">Go now thy wey and spede the her about </l>
+<lb/><l xml:id="MI-376r-Ox1" n="376r">Go nowe thy wey and spede the </l>
+<lb/><l xml:id="MI-378-Ox1" n="378">And go fast <am>⁊</am><ex>and</ex> gete þese knedyng tubbis thre </l>
+<lb/><l xml:id="MI-379-Ox1" n="379">Than shalt thowe hang hem in þe rofe ful hy </l>
+<lb/><l xml:id="MI-380-Ox1" n="380">That no man shal our pryvite a spy </l>
+<lb/><l xml:id="MI-383-Ox1" n="383">And eke an axe to smyte the with a to </l>
+<lb/><l xml:id="MI-384-Ox1" n="384">When that the watyr comyth that we may go </l>
+<lb/><l xml:id="MI-385-Ox1" n="385">And breke an hole an hygh oppon the gabil </l>
+<lb/><l xml:id="MI-386-Ox1" n="386">In to the gardyn ward ouyr the stabil </l>
+<lb/><l xml:id="MI-387-Ox1" n="387">That wee may frely pas forth our wey </l>
+<lb/><l xml:id="MI-388-Ox1" n="388">When that the grete shour is passyn a wey </l>
+<lb/><l xml:id="MI-389-Ox1" n="389">Than shul we swymmyn as merely I vndir take </l>
+<lb/><l xml:id="MI-390-Ox1" n="390">As doith the white doke aftir the drake </l>
+<lb/><l xml:id="MI-391-Ox1" n="391">Than wol I clepe how Alysoun howe Iohu </l>
+<lb/><l xml:id="MI-392-Ox1" n="392">Be mery for the flode wel pas a none </l>
+<lb/><l xml:id="MI-393-Ox1" n="393">And thow wolt sey heil mastir Nycholay </l>
+<lb/><l xml:id="MI-394-Ox1" n="394">God morowe I se the wele for it is day </l>
+<lb/><l xml:id="MI-395-Ox1" n="395">And than shal wee be lordis al our lyfe </l>
+<lb/><l xml:id="MI-396-Ox1" n="396">Of al the world as was Noye and his wyfe </l>
+<lb/><l xml:id="MI-397-Ox1" n="397">But of o thing I warn þe and þat ful right </l>
+<lb/><l xml:id="MI-398-Ox1" n="398">Be wel awysid on that ilk nyght </l>
+<lb/><l xml:id="MI-399-Ox1" n="399">When wee be entrid in to the ship bord </l>
+<lb/><l xml:id="MI-400-Ox1" n="400">That noon of oos than speke no word </l>
+<lb/><l xml:id="MI-401-Ox1" n="401">Ne clepe ne cry but be in his preyer </l>
+<lb/><l xml:id="MI-402-Ox1" n="402">For it is Goddis hest leve and dere</l>
+
+</div>
+</body>
+</text>
+</TEI>
+

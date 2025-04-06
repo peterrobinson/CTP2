@@ -1,0 +1,20 @@
+==== Manuscript name and Mosser link  ====
+
+Manchester, John Rylands Library, English MS 163. Mosser: Ox1.
+
+==== Original construction  ====
+
+A single bifolium only, numbered 42 and 47.
+
+==== Notes  ====
+
+The first leaf begins with the last 28 lines of L1 on the recto followed by the first 21 lines of MI on the verso. The other half of the bifolium has MI 325-362 on the recto, 363-402 on the verso.  The intermediate c. 300 lines would have occupied two bifolia, suggesting that this bifolium would have been the second in a gathering of a standard four bifolia. It is possible that this one bifolium survived because the first verso has a handsome portrait (the Miller?) in three-quarter page frame.
+
+Manly and Rickert calculate that this bifolium was the second outer bifolium in the sixth quire of the original manuscript which contained both this bifolium and the three bifolia and five leaves preserved in Ox2.  Following their suggestion, we number these two leaves as folios 42 and 47.
+
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1 | 42|
+|2 |47|

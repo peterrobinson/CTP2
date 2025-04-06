@@ -1,0 +1,60 @@
+==== Manuscript name and Mosser link  ====
+
+Oxford, Bodleian Library, New College, Oxford MS 314. Mosser: Ne.
+
+==== Original construction  ====
+
+38 quires of 8 (304 folios) and three quires of six (quires 4, 9 and 14): 322 folios. 
+
+==== Missing folios  ====
+
+The first quire (folios 1-8) is missing, as are the least three leaves of the last quire (folios 320-322). RT finishes on 319v.
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 1-570 (folios 1-8).
+
+==== Notes  ====
+ 
+There is considerable disorder in PA. The text appears in the following order, with the shifts occurring in mid-page.  The capitals beside each letter give the original order, as they should appear:
+
+|1-98|||
+|532-580|E|(folio 277r-279r; 4 pages)|
+|162-273|B|(279r-283v; 9 pages)|
+|687-735|G|(283v-286v; 6 pages)|
+|320-532|D|(286v-296r; 19 pages)|
+|99-161|A|(296r-298v; 5 pages)|
+|582-687|F|(298v-303r; 9 pages)|
+|273-320|C|(303r-305v; 5 pages)|
+|735-||(305v-end)|
+
+
+This disorder may be explained as follows: seven blocks of text, of rather differing lengths, have been reshuffled in the exemplar, and the reshuffled text copied in the order here given. A key to understanding what happened is that the core units of reshuffled text was around 50 paragraph units, which would fit on two leaves, or four pages. Thus blocks E G A C were all written on two leaves, with blocks B and F comprising four leaves and block D eight leaves.  
+  
+We can posit then that before the disordering, the exemplar contained PA 99-735 in three quires of eight, as follows:
+
+Quire 1:
+
+leaves 1 and 2 (conjoint with 7 and 8): PA 99-161 (Block A)
+leaves 3-6: PA 162-273 (Block B)
+leaves 7-8 (conjoint with 1 and 2): PA 273-320 (Block C)
+
+Quire2: PA 320-532 (Block D)
+
+Quire 3:
+leaves 1 and 2 (conjoint with 7 and 8): PA 532-580 (Block £)
+leaves 3-6: PA 582-687 (Block F)
+leaves 7 and 8 (conjoint with 1 and 2): PA 687-735 (Block G).
+
+The existing order would then have been reached by swapping the two outer leaves of the first and third quires, so that E and G change places with A and C.  Thus E and G go into the first quire, around B; the second quire containing block D is not affected; and A and C go into the third quire, around F. This reshuffled text is then copied into Ne, to give the results we see here.
+
+One may compare: Ha4 which contains PA 98-161 on 263r to 264v; 161-281 on 265r-268v; 282-320 on 269r-270r; 320-529 on 270v-277r, etc.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-311|9-319|

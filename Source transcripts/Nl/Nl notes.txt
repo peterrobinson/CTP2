@@ -1,0 +1,115 @@
+Nl notes
+
+The complete manuscript had 41 quires of 8, for 328 Folios. The first two leaves are missing from the first quire (folios 1-2); the fourth leaf is missing from quire 6 (folio 44); the inner three bifolia 2.7, 3.6, 4.5 are missing from quire 8 (folios 58-63); the sixth leaf is missing from quire 16 (folio 126); the two inner bifolia 3.6, 4.5 are missing from quire 38 (folios 299-302) ; quires 39 and 40 are missing (folios 305-320); only the fourth leaf survives of the last quire (missing are 321-323, 325-328).  It appears also that the seventh leaf is missing from quire 24, folio 191.  The previous folio has the end of this portion of the Canterbury Tales, concluding with CY; the next folio has the first leaf of Beryn (192r).
+
+Aside from these losses, there are errors in the foliation.  Mosser reports that consecutive folios are numbered "78" and "78+" (our folios 87 and 88), "100" and "100*" (our folios 110 and 111), and "252" and "252+"; that folio 114 in the existing numbering is "missed"; and that folio 237 in his numbering was originally bound as the fourth leaf of quire 15, where our folio 124 should stand, and corresponding to the skipped "114", before being places in its current position.
+
+However, inconsistencies within the foliation given by Mosser and the frequent inability to see the folio numbers in the microfilm copies make it difficult to relate these folio numbers to the numbering we here give.  Mosser's "78" and "78+" are our folios 87 and 88. It appears that his "115" would be our folio 125, so that  his folio 114, holding SU 554-586 and now standing (according to Mosser) as the first leaf of quire 32 would appear before our folio 125.  
+The situation at the end of SU seems particularly complicated. The copying of SU breaks off at the base of 125r in our numbering, at line 450; CL begins on the verso. Then, after Beryn finishes on folio 247r, the seventh leaf of quire 31, SU resumes at the base of the same page and runs through the last leaf of the quire (248) onto the first leaf of the next quire, folio 249r, with 249v blank.  The last of these leaves, our 249, was at one point "folio 114" (pencil foliation on bottom recto), standing (it seems) before "folio 115", folio 125 in our numbering, holding SU 417-450 on the recto, and the first lines of CL on the verso.  If this was intended as a solution to the problem of the separation of SU, it was unsuccessful as it placed the text of SU 554-586, on "folio 114" before SU 47-450, on "folio 115".  It appears the scribe originally wrote up to folio 125r, finishing the folio at SU 450, thought he had hit the end of SU and so moved on to start CL on the verso.  Then, having realzed his mistake, he tried to fix it by writing the remainder of the SU onto two spare folios in q. 31, at the end of Beryn, and onto a spare empty folio (249) at the beginnng of quire 32.
+
+
+
+Absent text corresponding to the missing folios is as follows: GP 1-156 (folios 1-2); MI 31-97 (folio 44); RE 308-end (c. 96 lines), L3 and CO (presumed; c. 95 lines), ML 1-218 (folios 58-63; accommodating c. 410 lines, thus L7 was likely not present); CL 57-142 (folio 126); PA 69-200 (folios 299-302); PA 259-884 (folios 305-323); PA 916-end (folios 325-328). There is no loss of text corresponding to the absent folio 191, falling between CY and Beryn.
+SQ finishes at line 341, on 80r; SU finishes at line 450 on 125r.
+
+
+Images: 
+
+NOTE images 261 and later now missing from collection.  But we must have them!!!
+
+[2v]/3r - 35v/36r  = [1a]/1b- 34a/34b
+image for 22v needs redoing
+36v/37r missing
+37v/38r - 43v/[44r] = 35a/35b - 41a/[41b]
+folio 44 missing (blank sheet inserted and photographed instead)
+[44v]/45r - 55v/56r = [42a]/42b - 53a/53b
+56v/57r missing
+57v = 54a
+folios 58-63 missing ((blank sheet inserted and photographed instead)
+[63v]/64r - 65v-66r = [55a]/55b  -57a/57b
+66v/67r missing
+67v/68r - 72v/73r = 58a/58b - 63a/63b
+73v/74r missing
+74v/75r - 77v/78r = 64a/64b - 67a/67b
+78v/79r missing
+79v = 68a
+68b/69a: Furnivall notes bound in to the ms.
+80r = 69b
+80v/81r - 91v/92r =70a/70b - 81a/81b
+image for 92v/93r missing
+93v/94r - 94v/95r = 82a/82b - 83a/83b
+95v/96r missing
+96v/97r - 97v/98r = 84a/84b - 85a/85b
+98v-99r missing
+99v/100r - 101v/102r = 86a/86b - 88a/88b
+102v/103r missing
+103v/104r - 125v/[] = 89a/89b - 111a/[111b]
+126 missing (blank sheet inserted and photographed)
+[126v]/127r - 147v/148r = [112a]/112b - 133a/133b
+148v/149r missing
+149v/150r - 155v/156r = 134a/134b - 140a/140b
+156v/157r missing
+157v/158r - 164v/165r= 141a/141b - 148a/148b
+165v/166r missing
+166v/167r - 173v/174r = 149a/149b - 156a/156b
+174v/175r missing
+175v/176r - 180v/181r = 157a/157b- 162a/162b
+181v/182r missing
+182v/183r - = 163a/163b - 
+183v/184r missing
+184v/185r-185v/186r = 164a/164b-165a/165b (=orig num  175)
+186v/187r - 187v/188r MISSING (=orig nums  176 177)
+188v/189r- = 166a (orig num 178)
+189v/190r - 191v/192r MISSING (Beryn starts here)
+SU returns on 248r...
+
+TM starts on 250r
+[249v]/250r - 250v/251r = [212a]/212b - 213a/213b
+251v/252r - 252v/253r missing
+253v/254r - = 214a/214b 
+254v/255r missing
+255v/256r - 259v/260r  = 215a/215b - 219a/219b
+260v/261r missing
+261v/262r - 262v/263r = 220a/220b - 221a/221b
+NOTE IMAGES IN WRONG ORFER
+263v/264r 223a/223b
+264v/265r - = 222a/222b
+image 224a/b repeat 223a/b
+265v/266r - 266v/267r missing
+267v/268r - 295v/296r= 225a/225b -  253a/253b
+296v/297r = 254a.jpg and 254b.jpg [[NO PREFIX]]
+297v/298r - 298v/[299r] = 255a/255b - 256a/[256b]
+299-302 missing
+[302v]/303r - = 304v/[305r]= [257a]/257b - 259a/[259b]
+Tale Order GP KT L1 MI L2 RE ML SQ L20 ME WBP WBT L10 FR L11 SU CL L13 L17 FK NU PR PH SH TT L28 PD L33 CY BERYN TM L29 MO L30 NP MA L37 PA 
+Supplied: KT L2 RE ML SQ WBT L10 FR L11 SU CL L13 L17 FK NU PH L33 CY MO MA PA
+
+NYU {CL not transcribed}
+Oxford GP WBP
+Oxford/DMU L1 MI 
+DMU L20 ME L13 L17 L37
+
+Munster PD
+Sheffield FK
+Posnan 
+BYU PR SH TT L28 TM L29 L30 NP
+
+Corresponding.  Note: the numbers here given for the traditional foliation are those written in pencil at the bottom right of each folio.  In some areas, notably around 100-130, these numbers are not visible in the microfilm copies.
+trad us
+1-41  3-43
+42-54 45-57
+55-77 64-86
+78 87
+78+ 88
+79-100 89-110
+100* 111
+101-113 112-124
+115 125
+116-179   127-190
+180-236  192-248
+114      249
+237-252    250-265
+252* 266
+253-284 267-298
+285-286 303-304
+287  324
