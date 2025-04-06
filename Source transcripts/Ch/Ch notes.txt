@@ -1,0 +1,32 @@
+Ch notes
+The complete manuscript had 16 quires of 20 (320 folios), two of  10 folios, and one of six folios, for a total of 346 folios. The first leaf is missing from the second quire (folio 21); the eleventh is missing from quire 6 (folio 101, a stub); the eighth leaf from quire 13 (folio 238,  a stub); bifolia 1.10 2.9 and leaves 6,7 and 8 (folios 271-272 and 276-280) are missing from quire 15, where the Tales finishes.  There is misbinding but no loss of folios in the remnant of the manuscript, from quire 16 on, containing works by Lydgate and Hoccleve. The whole manuscript is written on paper except for a single parchment flyleaf.  The foliation on the manuscript, followed by Mosser, includes the flyleaf.  As it was written on by the second scribe, who was not responsible for the text of the Tales, and so appears a late addition, we do not include it in this foliation.
+
+Absent text corresponding to the missing folios is as follows: KT 696-776 (folio 21);  L33 74-166 (folio 238); PA 814-869 (folios 271-272); PA 971-end and RT (folios 276-280). There is a blank page at 24r, with 'vacat' written on it, but no loss of text (23v ends KT 890, 24v starts 891), and no loss of text corresponding with folio 101, as CL 50 on 100v is followed by CL 51 on 102r. Folio 230v is blank, following the end of PL, with NU starting on 231r.
+
+There is an error in the foliation sequence in quire 2. In the original numbering, there should be a folio missing after folio 21 (our folio 20).  But the original numbering numbers the next folio 22, and then skips a folio to 24, so making it appear as if the missing folio follows folio 22, not folio 21.
+
+Image numbering: starts 2r = folio 1r; thereafter, out by one, as we do not include the folioation.
+Numbering
+Trad Us
+2-21 1-20
+22 22
+24- 23-
+
+
+
+Images: 
+1-20 = 2-21
+22- = 23-
+
+supplied:
+NYU CT
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU ME L13-L14 L15 L17 L37
+VT L3 CO
+Supplied KT L2 RE WBT L10 FR L11 SU PH L21 L36 MA L7 ML SQ PL NU L33  CY  PA
+Munster/Sheffield PD FK
+BYU SH-L24-PR-L25-TT-L28-TM-L29-MO-L30-NP-L31
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 PH 0 L21 0 L36 0 MA 0 SQ 0 PL 0 PA 0}
+array set pagedBase {FK 0}

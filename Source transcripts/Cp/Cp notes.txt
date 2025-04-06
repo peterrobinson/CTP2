@@ -1,0 +1,22 @@
+Cp notes
+The complete manuscript had 33 quires of 8 (264 folios) and two of  6 folios, for a total of 276 folios. The first folio is missing from the first quire (folio 1); one folio is missing from quire 14 (folio 103); one from quire 17 (folio 133, a stub); one from quire 19 (folio 149); one from quire 23 (folio 176);  one from quire 34 (folio 268); and the last three folios (274-276) of the last quire, quire 35.
+
+There is confusion in the foliation written on the manuscript itself and in accounts based on that foliation, some of it stemming from previous misbinding in quires 13-15. After folio 64, what we number as folio 65 is numbered as "64b (alt)", folio 66 is numbered "65", with all subsequent numbers out by one (leading to the  Mosser giving the foliation in quires 2-10. as running from folio 9 to folio 79, not folio 80, with quire 11 beginning with folio 80, not folio 81). The foliation on the manuscript in this quire reflects its misbinding, now corrected, with folio 117 in this numbering labelled "115a" (previously "106") and folio 118 labelled "115b", thus skipping a second folio in the numbering.  From here to the end of the manuscript, the foliation on the manuscript (reflected in Mosser's numbering) is out by two.  Mosser also states that folios 217-256 in his numbering (correctly, 219-258) comprise quires 29-35. The five quires of eight in these 40 folios correspond to quires 29-33, not 29-35.  Accordingly, the last two quires of the manuscript are quires 34 and 35, not 36 and 37. In summary: the foliation reported by Mosser numbers the last folio as 266: to this we should add the two folios misnumbered at folios 65 and 118 and the eight folios lost after the first quire, to give 276 folios, as in this foliation.
+
+Loss of text corresponding to the missing folios is as follows: GP 1-72 (folio 1); WBP 146-217 (folio 103); CL 33-108 (folio 133); L13 14-end, ME 1-48 (folio 149); FK 868-end, NU 1-36 (folio 176); L37 62-end, PA 1-29 (folio 268); PA 217-end, RT (folios 274-276).  The three missing folios from quire 35 would not be sufficient to carry the absent text of PA/RT: this would require in the region of 11 to 12 folios, thus probably a further quire of eight as well as the three folios lost from the end of quire 35.
+
+Corresponding number:
+DWM  Us
+2-64  2-64
+64b (alt) 65
+65-101 66-102 (CTP 103 absent)
+102-114   104-116
+115a  117
+115b  118
+116-129  119-132 (CTP 133 absent)
+130-144   134-148  (CTP 149 absent)
+145-170    150-175 (CTP 176 absent)
+171-261    177-267 (CTP 268 absent)
+262-266   269-273
+(267-269, absent = 274-276, absent)
+

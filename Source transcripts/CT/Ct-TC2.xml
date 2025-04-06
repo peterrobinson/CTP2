@@ -1,0 +1,1004 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/TEI-transcr-TC.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ct</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 				<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+<sourceDesc>
+ 		<bibl type="summary">
+			<respStmt n="General">
+				<resp>Textual editing and encoding:</resp>
+				<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+			</respStmt>
+ 		</bibl>
+ 		<bibl type="transcribers">
+ 			<respStmt n="Oxford">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+ 					</respStmt>
+ 			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+			<respStmt n="DMU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+ 					</respStmt>
+			<respStmt n="UoS">
+ 				 <resp>Conversion for Textual Communities:</resp>
+ 				<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+ 					</respStmt>
+		<respStmt n="VT">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Virgina Tech team, led by Daniel W. Mosser</name>
+ 		</respStmt>
+		<respStmt n="NYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+ 		</respStmt>
+ 		<respStmt n="BYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+ 		</respStmt>
+ 		 <respStmt n="Poznan">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+ 					</respStmt>
+ 		 		 <respStmt n="Murcia">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+ 					</respStmt>
+			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+   			<respStmt n="MU">
+  				<resp>Original capture and corrections:</resp>
+  				<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+  			</respStmt>
+ 		</bibl>
+  		<bibl type="notcontributed">
+  			<respStmt n="Sheffield">
+  				<resp>Original capture and corrections:</resp>
+  				<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+  			</respStmt>
+	</bibl>
+
+ 	<bibl type="transcripts">
+				<respStmt n="PR">
+						<resp>Original transcription and corrections:</resp>
+ 						<name n="BYU UoS">Brigham Young team; conversion for Textual Communities: Saskatchewan team.</name>
+ 				</respStmt>
+		</bibl>
+			 <msDesc>
+ 				  	<msIdentifier>
+ 				  	 <settlement>Manchester</settlement>
+  					<repository>Chetham’s Library</repository>
+  					<idno>MS Mun. A.4.104</idno>
+  					<msName>Ct</msName>
+  					</msIdentifier>
+ 			 </msDesc>
+ 	
+</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+	<text>
+		<body>
+<pb xml:id="Ct-160r" n="160r" facs="CTMR001.JPG" rend="50,0,100,100"/>
+<div xml:id="NU-Ct"  n="NU" type="G">
+<lb/><l xml:id="NU-IRL-Ct" n="IRL">(base) ⁊ bigynneth the Secund Nonnes Tale of Seynt Cecile with oute a <am>Ꝓ</am><ex>Pro</ex>loge                                                  </l>
+<lb/><l xml:id="NU-1-Ct" n="1">(base) The Ministre and the norice vnto vices </l>
+<lb/><l xml:id="NU-2-Ct" n="2">(base) Which that men clepeth in englissh ydelnesse </l>
+<lb/><l xml:id="NU-3-Ct" n="3">(base) That porter at the gate is of delices </l>
+<lb/><l xml:id="NU-4-Ct" n="4">(base) To eschuen and by hir contrarie hire oppresse </l>
+<lb/><l xml:id="NU-5-Ct" n="5">(base) That is to seyn by leueful bisynesse </l>
+<lb/><l xml:id="NU-6-Ct" n="6">(base) Wel oghte we to doon al oure entente </l>
+<lb/><l xml:id="NU-7-Ct" n="7">(base) Lest that the feend thurgh ydelnesse vs hente </l>
+<lb/><l xml:id="NU-8-Ct" n="8">(base) For he that with his thousand cordes slye </l>
+<lb/><l xml:id="NU-9-Ct" n="9">(base) Continuelly vs wayteth to biclappe </l>
+<lb/><l xml:id="NU-10-Ct" n="10">(base) Whan he may man in ydelnesse espye </l>
+<lb/><l xml:id="NU-11-Ct" n="11">(base) He kan so lightly cacche hym in his trappe </l>
+<lb/><l xml:id="NU-12-Ct" n="12">(base) Til that a man be hent right by the lappe </l>
+<lb/><l xml:id="NU-13-Ct" n="13">(base) He nys nat war the feend hath hym in honde </l>
+<lb/><l xml:id="NU-14-Ct" n="14">(base) Wel oghte vs werche and ydelnesse withstonde </l>
+<lb/><l xml:id="NU-15-Ct" n="15">(base) And thogh men dradden neuere for to dye </l>
+<lb/><l xml:id="NU-16-Ct" n="16">(base) Yet seen men wel by reson doutelees </l>
+<lb/><l xml:id="NU-17-Ct" n="17">(base) That ydelnesse is roten slogardye </l>
+<lb/><l xml:id="NU-18-Ct" n="18">(base) Of which ther neuere comth no good nencrees </l>
+<lb/><l xml:id="NU-19-Ct" n="19">(base) And seen that slouthe hir holdeth in a lees </l>
+<lb/><l xml:id="NU-20-Ct" n="20">(base) Oonly for to slepe and ete and drynken </l>
+<lb/><l xml:id="NU-21-Ct" n="21">(base) And to deuouren al that othere swynken </l>
+<pb xml:id="Ct-160v" n="160v" facs="CTMR002.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-22-Ct" n="22">(base) And for to putte vs from swich ydelnesse </l>
+<lb/><l xml:id="NU-23-Ct" n="23">(base) That cause is of so greet confusioun </l>
+<lb/><l xml:id="NU-24-Ct" n="24">(base) I haue here doon my feithful bisynesse </l>
+<lb/><l xml:id="NU-25-Ct" n="25">(base) After the legende in translacioun </l>
+<lb/><l xml:id="NU-26-Ct" n="26">(base) Right of thy glorious lyf and passioun </l>
+<lb/><l xml:id="NU-27-Ct" n="27">(base) Thow with thy gerland wroght of rose and lilie </l>
+<lb/><l xml:id="NU-28-Ct" n="28">(base) Thee mene I mayde and martir Seinte Cecilie </l>
+<lb/><l xml:id="NU-29-Ct" n="29">(base) And thow that flour of virgines art alle </l>
+<lb/><l xml:id="NU-30-Ct" n="30">(base) Of whom that Bernard list so wel to write </l>
+<lb/><l xml:id="NU-31-Ct" n="31">(base) To thee at my bigynnyng I first calle </l>
+<lb/><l xml:id="NU-32-Ct" n="32">(base) Thow confort of vs wrecches do mendite </l>
+<lb/><l xml:id="NU-33-Ct" n="33">(base) Thy maydens deeth that wan thurgh hir merite </l>
+<lb/><l xml:id="NU-34-Ct" n="34">(base) The eternal lyf and of the feend victorie </l>
+<lb/><l xml:id="NU-35-Ct" n="35">(base) As man may after reden in hir Storie </l>
+<lb/><l xml:id="NU-36-Ct" n="36">(base) Thow mayde and moder doghter of thy sone </l>
+<lb/><l xml:id="NU-37-Ct" n="37">(base) Thow welle of mercy synful soules cure </l>
+<lb/><l xml:id="NU-38-Ct" n="38">(base) In whom that god for bountee chees to wone </l>
+<lb/><l xml:id="NU-39-Ct" n="39">(base) Thow humble and heigh ouer euery creature </l>
+<lb/><l xml:id="NU-40-Ct" n="40">(base) Thow nobledest so ferforth oure nature </l>
+<lb/><l xml:id="NU-41-Ct" n="41">(base) That no desdaign the makere hadde of kynde </l>
+<lb/><l xml:id="NU-42-Ct" n="42">(base) His sone in blood and flessh to clothe and wynde </l>
+<pb xml:id="Ct-161r" n="161r" facs="CTMR002.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-43-Ct" n="43">(base) With Inne the Cloistre blisful of thy sydis </l>
+<lb/><l xml:id="NU-44-Ct" n="44">(base) Took mannes shap the eternal loue and pees </l>
+<lb/><l xml:id="NU-45-Ct" n="45">(base) That of the tryne compas lord and gyde is </l>
+<lb/><l xml:id="NU-46-Ct" n="46">(base) Whom erthe and see and heuene out of relees </l>
+<lb/><l xml:id="NU-47-Ct" n="47">(base) Ay heryen and thow virgyne wemmelees </l>
+<lb/><l xml:id="NU-48-Ct" n="48">(base) Bar of thy body and dweltest mayde pure </l>
+<lb/><l xml:id="NU-49-Ct" n="49">(base) The creatour of euery creature </l>
+<lb/><l xml:id="NU-50-Ct" n="50">(base) Assembled is in thee Magnificence </l>
+<lb/><l xml:id="NU-51-Ct" n="51">(base) With mercy goodnesse and swich pitee </l>
+<lb/><l xml:id="NU-52-Ct" n="52">(base) That thow that art the sonne of excellence </l>
+<lb/><l xml:id="NU-53-Ct" n="53">(base) Nat oonly helpest hem that prayen thee </l>
+<lb/><l xml:id="NU-54-Ct" n="54">(base) But ofte tyme of thy benygnytee </l>
+<lb/><l xml:id="NU-55-Ct" n="55">(base) Ful frely er that men thyn help biseche </l>
+<lb/><l xml:id="NU-56-Ct" n="56">(base) Thow goost biforn and art hir lyues leche </l>
+<lb/><l xml:id="NU-57-Ct" n="57">(base) Now help thow meke and blisful faire mayde </l>
+<lb/><l xml:id="NU-58-Ct" n="58">(base) Me flemed wrecche in this desert of galle </l>
+<lb/><l xml:id="NU-59-Ct" n="59">(base) Thynk on the womman Cananee that sayde </l>
+<lb/><l xml:id="NU-60-Ct" n="60">(base) That whelpes eten somme of the crommes alle </l>
+<lb/><l xml:id="NU-61-Ct" n="61">(base) That from hir lordes table been yfalle </l>
+<lb/><l xml:id="NU-62-Ct" n="62">(base) And thogh that I vnworthy sone of Eue </l>
+<lb/><l xml:id="NU-63-Ct" n="63">(base) Be synful yet accepte my bileue </l>
+<pb xml:id="Ct-161v" n="161v" facs="CTMR003.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-64-Ct" n="64">(base) And for that feith is deed withouten werkis </l>
+<lb/><l xml:id="NU-65-Ct" n="65">(base) So for to werken yif me wit and space </l>
+<lb/><l xml:id="NU-66-Ct" n="66">(base) That I be quyt from thennes that moost derk is </l>
+<lb/><l xml:id="NU-67-Ct" n="67">(base) O thow that art so fair and ful of grace </l>
+<lb/><l xml:id="NU-68-Ct" n="68">(base) Be myn Aduocate in that heighe place </l>
+<lb/><l xml:id="NU-69-Ct" n="69">(base) Ther as withouten ende is songe Osanne </l>
+<lb/><l xml:id="NU-70-Ct" n="70">(base) Thow cristes moder doghter deere of Anne </l>
+<lb/><l xml:id="NU-71-Ct" n="71">(base) And of thy light my soule in prison lighte </l>
+<lb/><l xml:id="NU-72-Ct" n="72">(base) That troubled is by the contagioun </l>
+<lb/><l xml:id="NU-73-Ct" n="73">(base) Of my body and also by the wighte </l>
+<lb/><l xml:id="NU-74-Ct" n="74">(base) Of erthely lust and fals affeccioun </l>
+<lb/><l xml:id="NU-75-Ct" n="75">(base) O hauene o refut o sauacioun </l>
+<lb/><l xml:id="NU-76-Ct" n="76">(base) Of hem that been in sorwe and in distresse </l>
+<lb/><l xml:id="NU-77-Ct" n="77">(base) Now help for to my werk I wol me dresse </l>
+<lb/><l xml:id="NU-78-Ct" n="78">(base) Yet praye ich yow that reden that I write </l>
+<lb/><l xml:id="NU-79-Ct" n="79">(base) Foryeue me that I do no diligence </l>
+<lb/><l xml:id="NU-80-Ct" n="80">(base) This ilke storie subtilly to endite </l>
+<lb/><l xml:id="NU-81-Ct" n="81">(base) For bothe haue I the wordes and sentence </l>
+<lb/><l xml:id="NU-82-Ct" n="82">(base) Of hym that at the Seintes reuerence </l>
+<lb/><l xml:id="NU-83-Ct" n="83">(base) The storie wroot and folwen hir legende </l>
+<lb/><l xml:id="NU-84-Ct" n="84">(base) And pray yow that ye wol my werk amende </l>
+<lb/><l xml:id="NU-84a-Ct" n="84a">(base) As ferforth as god wyl me grace sende </l>
+<pb xml:id="Ct-162r" n="162r" facs="CTMR003.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-85-Ct" n="85">(base) First wolde I yow the name of Seinte Cecilie </l>
+<lb/><l xml:id="NU-86-Ct" n="86">(base) Expowne as men may in hir storie se </l>
+<lb/><l xml:id="NU-87-Ct" n="87">(base) It is to seyn on englissh heuenes lilie </l>
+<lb/><l xml:id="NU-88-Ct" n="88">(base) For pure chastnesse of virginitee </l>
+<lb/><l xml:id="NU-89-Ct" n="89">(base) Or for she whitnesse hadde of honestee </l>
+<lb/><l xml:id="NU-90-Ct" n="90">(base) And grene of conscience and of good fame </l>
+<lb/><l xml:id="NU-91-Ct" n="91">(base) The swote sauour lilie was hir name </l>
+<lb/><l xml:id="NU-92-Ct" n="92">(base) Or Cecile is to seyn the wey to blynde </l>
+<lb/><l xml:id="NU-93-Ct" n="93">(base) For she ensample was by good techynge </l>
+<lb/><l xml:id="NU-94-Ct" n="94">(base) Or ellis Cecile as I writen fynde </l>
+<lb/><l xml:id="NU-95-Ct" n="95">(base) Is ioyned by a manere conioignynge </l>
+<lb/><l xml:id="NU-96-Ct" n="96">(base) Of heuene and lia and here in figurynge </l>
+<lb/><l xml:id="NU-97-Ct" n="97">(base) The heuene is set for thoght of holynesse </l>
+<lb/><l xml:id="NU-98-Ct" n="98">(base) And lia for hir lastynge bisynesse </l>
+<lb/><l xml:id="NU-99-Ct" n="99">(base) Cecile may eek be seyd in this manere </l>
+<lb/><l xml:id="NU-100-Ct" n="100">(base) Wantynge of blyndnesse for hir grete light </l>
+<lb/><l xml:id="NU-101-Ct" n="101">(base) Of sapience and for hir thewes clere </l>
+<lb/><l xml:id="NU-102-Ct" n="102">(base) Or ellis lo this maydenes name bright </l>
+<lb/><l xml:id="NU-103-Ct" n="103">(base) Of heuene and leos comth for which by right </l>
+<lb/><l xml:id="NU-104-Ct" n="104">(base) Men myghte hire wel the heuene of peple calle </l>
+<lb/><l xml:id="NU-105-Ct" n="105">(base) Ensample of goode and wise werkes alle </l>
+<pb xml:id="Ct-162v" n="162v" facs="CTMR004.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-106-Ct" n="106">(base) For leos peple in englissh is to seye </l>
+<lb/><l xml:id="NU-107-Ct" n="107">(base) And right as men may in the heuene see </l>
+<lb/><l xml:id="NU-108-Ct" n="108">(base) The sonne and moone and sterres euery weye </l>
+<lb/><l xml:id="NU-109-Ct" n="109">(base) Right so men goostly in this mayden free </l>
+<lb/><l xml:id="NU-110-Ct" n="110">(base) Sayen of feith the magnanymytee </l>
+<lb/><l xml:id="NU-111-Ct" n="111">(base) And eek the cleernesse hool of Sapience </l>
+<lb/><l xml:id="NU-112-Ct" n="112">(base) And sondry werkes brighte of excellence </l>
+<lb/><l xml:id="NU-113-Ct" n="113">(base) And right so as thise Philosophres write </l>
+<lb/><l xml:id="NU-114-Ct" n="114">(base) That heuene is swift and round and eek brennynge </l>
+<lb/><l xml:id="NU-115-Ct" n="115">(base) Right so was faire Cecile the white </l>
+<lb/><l xml:id="NU-116-Ct" n="116">(base) Ful swift and bisy euere in good werkynge </l>
+<lb/><l xml:id="NU-117-Ct" n="117">(base) And round and hool in good perseuerynge </l>
+<lb/><l xml:id="NU-118-Ct" n="118">(base) And brennyng euere in charite ful brighte </l>
+<lb/><l xml:id="NU-119-Ct" n="119">(base) Now haue I yow declared what she highte </l>
+<lb/><l xml:id="NU-119-1-Ct" n="119-1">(base) Here endith the Second Nonnys prolog </l>
+<lb/><l xml:id="NU-119-2-Ct" n="119-2">(base) And here begynneth the tale </l>
+<lb/><l xml:id="NU-120-Ct" n="120">(base) This mayde bright Cecilie as hir lyf seith </l>
+<lb/><l xml:id="NU-121-Ct" n="121">(base) Was come of Romayns and of noble kynde </l>
+<lb/><l xml:id="NU-122-Ct" n="122">(base) And from hir Cradel vp fostred in the feith </l>
+<lb/><l xml:id="NU-123-Ct" n="123">(base) Of crist and baar his gospel in hir mynde </l>
+<lb/><l xml:id="NU-124-Ct" n="124">(base) She neuere cessed as I writen fynde </l>
+<lb/><l xml:id="NU-125-Ct" n="125">(base) Of hir prayere and god to loue and drede </l>
+<lb/><l xml:id="NU-126-Ct" n="126">(base) Bisekyng hym to kepe hir maydenhede </l>
+<pb xml:id="Ct-163r" n="163r" facs="CTMR004.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-127-Ct" n="127">(base) And whan this mayden sholde vn til a man </l>
+<lb/><l xml:id="NU-128-Ct" n="128">(base) Ywedded be that was ful yong of age </l>
+<lb/><l xml:id="NU-129-Ct" n="129">(base) Which that ycleped was Valerian </l>
+<lb/><l xml:id="NU-130-Ct" n="130">(base) And day was comen of hir mariage </l>
+<lb/><l xml:id="NU-131-Ct" n="131">(base) She ful deuout and humble in hir corage </l>
+<lb/><l xml:id="NU-132-Ct" n="132">(base) Vnder hir robe of gold that sat ful faire </l>
+<lb/><l xml:id="NU-133-Ct" n="133">(base) Hadde next hir flessh yclad hire in an haire </l>
+<lb/><l xml:id="NU-134-Ct" n="134">(base) And whil that the Organs maden melodie </l>
+<lb/><l xml:id="NU-135-Ct" n="135">(base) To god allone in hir herte thus soong she </l>
+<lb/><l xml:id="NU-136-Ct" n="136">(base) O lord my soule and eek my body gye </l>
+<lb/><l xml:id="NU-137-Ct" n="137">(base) Vnwemmed lest that I confounded be </l>
+<lb/><l xml:id="NU-138-Ct" n="138">(base) And for his loue that deyde vpon the tree </l>
+<lb/><l xml:id="NU-139-Ct" n="139">(base) Euery seconde and thridde day she faste </l>
+<lb/><l xml:id="NU-140-Ct" n="140">(base) Ay biddyng in hir orisons ful faste </l>
+<lb/><l xml:id="NU-141-Ct" n="141">(base) The nyght cam and to bedde moste she gon </l>
+<lb/><l xml:id="NU-142-Ct" n="142">(base) With hire housbonde as ofte is the manere </l>
+<lb/><l xml:id="NU-143-Ct" n="143">(base) And priuely to hym she seyde anon </l>
+<lb/><l xml:id="NU-144-Ct" n="144">(base) O swete and wel biloued spouse deere </l>
+<lb/><l xml:id="NU-145-Ct" n="145">(base) Ther is a conseil and ye wolde it heere </l>
+<lb/><l xml:id="NU-146-Ct" n="146">(base) Which that right fayn I wolde vnto yow seye </l>
+<lb/><l xml:id="NU-147-Ct" n="147">(base) So that ye swere ye shul it nat biwreye </l>
+<pb xml:id="Ct-163v" n="163v" facs="CTMR005.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-148-Ct" n="148">(base) Valerian gan faste vnto hir swere </l>
+<lb/><l xml:id="NU-149-Ct" n="149">(base) That for no cas ne thyng that myghte be </l>
+<lb/><l xml:id="NU-150-Ct" n="150">(base) He sholde neuere mo biwreyen here </l>
+<lb/><l xml:id="NU-151-Ct" n="151">(base) And thanne at erst to hym seyde she </l>
+<lb/><l xml:id="NU-152-Ct" n="152">(base) I haue an Aungel which that loueth me </l>
+<lb/><l xml:id="NU-153-Ct" n="153">(base) That with gret loue wher so I wake or slepe </l>
+<lb/><l xml:id="NU-154-Ct" n="154">(base) Is redy ay my body for to kepe </l>
+<lb/><l xml:id="NU-155-Ct" n="155">(base) And if that he may feelen out of drede </l>
+<lb/><l xml:id="NU-156-Ct" n="156">(base) That ye me touche or loue in vileynye </l>
+<lb/><l xml:id="NU-157-Ct" n="157">(base) He right anon wol sleen yow with the dede </l>
+<lb/><l xml:id="NU-158-Ct" n="158">(base) And in youre youthe thus ye shullen dye </l>
+<lb/><l xml:id="NU-159-Ct" n="159">(base) And if that ye in clene loue me gye </l>
+<lb/><l xml:id="NU-160-Ct" n="160">(base) He wol yow loue as me for youre clennesse </l>
+<lb/><l xml:id="NU-161-Ct" n="161">(base) And shewe to yow his ioye and his brightnesse </l>
+<lb/><l xml:id="NU-162-Ct" n="162">(base) This Valerian corrected as god wolde </l>
+<lb/><l xml:id="NU-163-Ct" n="163">(base) Answerde agayn if I shal trusten thee </l>
+<lb/><l xml:id="NU-164-Ct" n="164">(base) Lat me that Aungel seen and hym biholde </l>
+<lb/><l xml:id="NU-165-Ct" n="165">(base) And if that it a verray Aungel be </l>
+<lb/><l xml:id="NU-166-Ct" n="166">(base) Thanne wol I doon as thow hast prayed me </l>
+<lb/><l xml:id="NU-167-Ct" n="167">(base) And if thow loue another man for sothe </l>
+<lb/><l xml:id="NU-168-Ct" n="168">(base) Right with this swerd than wol I sle yow bothe </l>
+<pb xml:id="Ct-164r" n="164r" facs="CTMR005.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-169-Ct" n="169">(base) Cecile answerde right in this wise </l>
+<lb/><l xml:id="NU-170-Ct" n="170">(base) If that yow list the Aungel shal ye se </l>
+<lb/><l xml:id="NU-171-Ct" n="171">(base) So that ye trowe on crist and yow baptise </l>
+<lb/><l xml:id="NU-172-Ct" n="172">(base) Goth forth to Via Apia  quod she </l>
+<lb/><l xml:id="NU-173-Ct" n="173">(base) That fro this town ne stant but Milys thre </l>
+<lb/><l xml:id="NU-174-Ct" n="174">(base) And to the poure folkes that ther dwellen </l>
+<lb/><l xml:id="NU-175-Ct" n="175">(base) Sey hem right thus as that I shal yow tellen </l>
+<lb/><l xml:id="NU-176-Ct" n="176">(base) Telle hem that I Cecile yow to hem sente </l>
+<lb/><l xml:id="NU-177-Ct" n="177">(base) To shewen yow the goode Vrban the olde </l>
+<lb/><l xml:id="NU-178-Ct" n="178">(base) For secree nedes and for good entente </l>
+<lb/><l xml:id="NU-179-Ct" n="179">(base) And whan that ye Seint Vrban han biholde </l>
+<lb/><l xml:id="NU-180-Ct" n="180">(base) Telle hym the wordes whiche I to yow tolde </l>
+<lb/><l xml:id="NU-181-Ct" n="181">(base) And whan that he hath purged yow fro synne </l>
+<lb/><l xml:id="NU-182-Ct" n="182">(base) Thanne shal ye seen that Aungel er we twynne </l>
+<lb/><l xml:id="NU-183-Ct" n="183">(base) This Valerian is to the place gon </l>
+<lb/><l xml:id="NU-184-Ct" n="184">(base) And right as hym was taught by his lernynge </l>
+<lb/><l xml:id="NU-185-Ct" n="185">(base) He foond this holy olde Vrban anon </l>
+<lb/><l xml:id="NU-186-Ct" n="186">(base) Among the Seintes buryels lotynge </l>
+<lb/><l xml:id="NU-187-Ct" n="187">(base) And he anon withouten tariynge </l>
+<lb/><l xml:id="NU-188-Ct" n="188">(base) Dide his message and whan that he it tolde </l>
+<lb/><l xml:id="NU-189-Ct" n="189">(base) Vrban for ioye hise handes gan vp holde </l>
+<pb xml:id="Ct-164v" n="164v" facs="CTMR006.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-190-Ct" n="190">(base) The teerys from hise eyen leet he falle </l>
+<lb/><l xml:id="NU-191-Ct" n="191">(base) Almyghty lord o Ihu crist quod he </l>
+<lb/><l xml:id="NU-192-Ct" n="192">(base) Sowere of chaast conseil hierde of vs alle </l>
+<lb/><l xml:id="NU-193-Ct" n="193">(base) The fruyt of thilke seed of chastitee </l>
+<lb/><l xml:id="NU-194-Ct" n="194">(base) That thow hast sowe in Cecilie taak to thee </l>
+<lb/><l xml:id="NU-195-Ct" n="195">(base) Lo lyk a bisy bee withouten gyle </l>
+<lb/><l xml:id="NU-196-Ct" n="196">(base) Thee serueth ay thyn owene thral Cecile </l>
+<lb/><l xml:id="NU-197-Ct" n="197">(base) For thilke spouse that she tok but now </l>
+<lb/><l xml:id="NU-198-Ct" n="198">(base) Ful lyk a fiers leoun she sendeth heere </l>
+<lb/><l xml:id="NU-199-Ct" n="199">(base) As meke as euere was any lamb to yow </l>
+<lb/><l xml:id="NU-200-Ct" n="200">(base) And with that word anon ther gan appeere </l>
+<lb/><l xml:id="NU-201-Ct" n="201">(base) An old man clad in white clothes cleere </l>
+<lb/><l xml:id="NU-202-Ct" n="202">(base) That hadde a book with lettre of gold in honde </l>
+<lb/><l xml:id="NU-203-Ct" n="203">(base) And gan biforn Valerian to stonde </l>
+<lb/><l xml:id="NU-204-Ct" n="204">(base) Valerian as deed fil doun for drede </l>
+<lb/><l xml:id="NU-205-Ct" n="205">(base) Whan he hym say and he vp hente hym tho </l>
+<lb/><l xml:id="NU-205a-Ct" n="205a">(base) Whan he this old man sawe standing so </l>
+<lb/><l xml:id="NU-206-Ct" n="206">(base) And on his book right thus he gan to rede </l>
+<lb/><l xml:id="NU-206a-Ct" n="206a">(base) Whiche forthwith anone he herd hym rede </l>
+<lb/><l xml:id="NU-207-Ct" n="207">(base) O lord o feith o god withoute mo </l>
+<lb/><l xml:id="NU-208-Ct" n="208">(base) O cristendom and fader of all also </l>
+<lb/><l xml:id="NU-209-Ct" n="209">(base) Abouen alle and oueral euery where </l>
+<lb/><l xml:id="NU-210-Ct" n="210">(base) Thise wordes al with gold ywriten were </l>
+<pb xml:id="Ct-165r" n="165r" facs="CTMR006.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-211-Ct" n="211">(base) Whan this was rad thanne seyde this olde man </l>
+<lb/><l xml:id="NU-212-Ct" n="212">(base) Leuestow this thyng or no sey ye or nay </l>
+<lb/><l xml:id="NU-213-Ct" n="213">(base) I leue al this thyng quod Valerian </l>
+<lb/><l xml:id="NU-213a-Ct" n="213a">(base) I leeue all þis þing þan þis I dar wel say </l>
+<lb/><l xml:id="NU-214-Ct" n="214">(base) For sother thyng than this I dar wel say </l>
+<lb/><l xml:id="NU-215-Ct" n="215">(base) Vnder the heuene no wight thynke may </l>
+<lb/><l xml:id="NU-216-Ct" n="216">(base) Tho vanysshed this olde man he nyste where </l>
+<lb/><l xml:id="NU-217-Ct" n="217">(base) And pope Vrban hym cristned right there </l>
+<lb/><l xml:id="NU-218-Ct" n="218">(base) Valerian goth hom and fynt Cecilie </l>
+<lb/><l xml:id="NU-219-Ct" n="219">(base) In with his chambre with an Aungel stonde </l>
+<lb/><l xml:id="NU-220-Ct" n="220">(base) This Aungel hadde of Roses and of lilie </l>
+<lb/><l xml:id="NU-221-Ct" n="221">(base) Corones two the whiche he bar in honde </l>
+<lb/><l xml:id="NU-222-Ct" n="222">(base) And first to Cecile as I vnderstonde </l>
+<lb/><l xml:id="NU-223-Ct" n="223">(base) He yaf that oon and after gan he take </l>
+<lb/><l xml:id="NU-224-Ct" n="224">(base) That oother to Valerian hir make </l>
+<lb/><l xml:id="NU-225-Ct" n="225">(base) With body clene and with vnwemmed thoght </l>
+<lb/><l xml:id="NU-226-Ct" n="226">(base) Kepeth ay wel thise corones quod he </l>
+<lb/><l xml:id="NU-227-Ct" n="227">(base) Fro Paradys to yow haue I hem broght </l>
+<lb/><l xml:id="NU-228-Ct" n="228">(base) Ne neuere mo ne shal they roten be </l>
+<lb/><l xml:id="NU-229-Ct" n="229">(base) Ne lese hir swote sauour trusteth me </l>
+<lb/><l xml:id="NU-230-Ct" n="230">(base) Ne neuere wight shal seen hem with his eye </l>
+<lb/><l xml:id="NU-231-Ct" n="231">(base) But he be chaast and hate vileynye </l>
+<pb xml:id="Ct-165v" n="165v" facs="CTMR007.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-232-Ct" n="232">(base) And thow Valerian for thow so soone </l>
+<lb/><l xml:id="NU-233-Ct" n="233">(base) Assentedest to good conseil also </l>
+<lb/><l xml:id="NU-234-Ct" n="234">(base) Sey what thee list and thow shalt han thy boone </l>
+<lb/><l xml:id="NU-235-Ct" n="235">(base) I haue a brother quod Valerian tho </l>
+<lb/><l xml:id="NU-236-Ct" n="236">(base) That in this world I loue no man so </l>
+<lb/><l xml:id="NU-237-Ct" n="237">(base) I pray yow that my brother may han grace </l>
+<lb/><l xml:id="NU-238-Ct" n="238">(base) To knowe the trouthe as I do in this place </l>
+<lb/><l xml:id="NU-239-Ct" n="239">(base) The Aungel seyde god liketh thy requeste </l>
+<lb/><l xml:id="NU-240-Ct" n="240">(base) And bothe with the palm of martirdom </l>
+<lb/><l xml:id="NU-241-Ct" n="241">(base) Ye shullen come vnto his blisful feste </l>
+<lb/><l xml:id="NU-242-Ct" n="242">(base) And with that word Tiburce his brother coom </l>
+<lb/><l xml:id="NU-243-Ct" n="243">(base) And whan that he the sauour vndernoom </l>
+<lb/><l xml:id="NU-244-Ct" n="244">(base) Which that the Roses and the lilies caste </l>
+<lb/><l xml:id="NU-245-Ct" n="245">(base) With Inne his herte he gan to wondre faste </l>
+<lb/><l xml:id="NU-245a-Ct" n="245a">(base) He spak vnto his brother in gret haste </l>
+<lb/><l xml:id="NU-246-Ct" n="246">(base) And seyde I wondre this tyme of the yere </l>
+<lb/><l xml:id="NU-247-Ct" n="247">(base) Whennes that swote sauour cometh so </l>
+<lb/><l xml:id="NU-248-Ct" n="248">(base) Of Rose and lilies that I smelle heere </l>
+<lb/><l xml:id="NU-249-Ct" n="249">(base) For thogh I hadde hem in myne handes two </l>
+<lb/><l xml:id="NU-250-Ct" n="250">(base) The sauour myghte in me no depper go </l>
+<lb/><l xml:id="NU-251-Ct" n="251">(base) The swete smel that in myn herte I fynde </l>
+<lb/><l xml:id="NU-252-Ct" n="252">(base) Hath chaunged me al in another kynde </l>
+<pb xml:id="Ct-166r" n="166r" facs="CTMR007.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-253-Ct" n="253">(base) Valerian seyde two corones han we </l>
+<lb/><l xml:id="NU-254-Ct" n="254">(base) Snow white and Rose reed that shynen clere </l>
+<lb/><l xml:id="NU-255-Ct" n="255">(base) Which that thyne eyen han no myght to se </l>
+<lb/><l xml:id="NU-256-Ct" n="256">(base) And as thow smellest hem thurgh my prayere </l>
+<lb/><l xml:id="NU-257-Ct" n="257">(base) So shaltow seen hem leue brother deere </l>
+<lb/><l xml:id="NU-258-Ct" n="258">(base) If it so be thow wolt withouten slouthe </l>
+<lb/><l xml:id="NU-259-Ct" n="259">(base) Bileue aright and knowen verray trouthe </l>
+<lb/><l xml:id="NU-260-Ct" n="260">(base) Tiburce answerde seystow this to me </l>
+<lb/><l xml:id="NU-261-Ct" n="261">(base) In soothnesse or in dreem I herkne this </l>
+<lb/><l xml:id="NU-262-Ct" n="262">(base) In dremes quod Valerian han we be </l>
+<lb/><l xml:id="NU-263-Ct" n="263">(base) Vnto this tyme brother myn ywys </l>
+<lb/><l xml:id="NU-264-Ct" n="264">(base) And now at erst in trouthe oure dwellyng is </l>
+<lb/><l xml:id="NU-265-Ct" n="265">(base) How wostow this quod Tiburce in what wyse </l>
+<lb/><l xml:id="NU-266-Ct" n="266">(base) Quod Valerian that shal I thee deuyse </l>
+<lb/><l xml:id="NU-266a-Ct" n="266a">(base) Telle me anon here with gode auyse </l>
+<lb/><l xml:id="NU-267-Ct" n="267">(base) The Aungel of god hath me the trouthe ytaught </l>
+<lb/><l xml:id="NU-268-Ct" n="268">(base) Which thow shalt seen if that thow wolt reneye </l>
+<lb/><l xml:id="NU-269-Ct" n="269">(base) The ydoles and be clene and ellis nAught </l>
+<lb/><l xml:id="NU-270-Ct" n="270">(base) And of the myracle of thise corones tweye </l>
+<lb/><l xml:id="NU-271-Ct" n="271">(base) Seint Ambrose in his preface list to seye </l>
+<lb/><l xml:id="NU-272-Ct" n="272">(base) Solempnely this noble doctour deere </l>
+<lb/><l xml:id="NU-273-Ct" n="273">(base) Commendeth it and seith in this manere </l>
+<pb xml:id="Ct-166v" n="166v" facs="CTMR008.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-274-Ct" n="274">(base) The palme of martirdom for to receyue </l>
+<lb/><l xml:id="NU-275-Ct" n="275">(base) Seinte Cecile fulfild of goddes yifte </l>
+<lb/><l xml:id="NU-276-Ct" n="276">(base) The world and eek hir chambre gan she weyue </l>
+<lb/><l xml:id="NU-277-Ct" n="277">(base) Witnesse Tiburces and Cecilies shrifte </l>
+<lb/><l xml:id="NU-278-Ct" n="278">(base) To whiche god of his bountee wolde shifte </l>
+<lb/><l xml:id="NU-279-Ct" n="279">(base) Corones two of floures wel smellynge </l>
+<lb/><l xml:id="NU-280-Ct" n="280">(base) And made his Aungel hem the corones brynge </l>
+<lb/><l xml:id="NU-281-Ct" n="281">(base) The mayde hath broght men to blisse aboue </l>
+<lb/><l xml:id="NU-282-Ct" n="282">(base) The world hath wist what it is worth certeyn </l>
+<lb/><l xml:id="NU-283-Ct" n="283">(base) Deuocion of chastitee to loue </l>
+<lb/><l xml:id="NU-284-Ct" n="284">(base) Tho shewed hym Cecile al open and pleyn </l>
+<lb/><l xml:id="NU-285-Ct" n="285">(base) That alle ydoles nys but a thyng in veyn </l>
+<lb/><l xml:id="NU-286-Ct" n="286">(base) For they been dowmbe and ther to they been deue </l>
+<lb/><l xml:id="NU-287-Ct" n="287">(base) And charged hym hise ydoles for to leue </l>
+<lb/><l xml:id="NU-288-Ct" n="288">(base) Who so that troweth nat this a beest he is </l>
+<lb/><l xml:id="NU-289-Ct" n="289">(base) Quod tho Tiburce if that I shal nat lye </l>
+<lb/><l xml:id="NU-290-Ct" n="290">(base) And she gan kisse his brest that herde this </l>
+<lb/><l xml:id="NU-291-Ct" n="291">(base) And was ful glad he koude trouthe espye </l>
+<lb/><l xml:id="NU-292-Ct" n="292">(base) This day I take thee for myn allye </l>
+<lb/><l xml:id="NU-293-Ct" n="293">(base) Seyde this blisful faire mayde deere </l>
+<lb/><l xml:id="NU-294-Ct" n="294">(base) And after that she seyde as ye may heere </l>
+<pb xml:id="Ct-167r" n="167r" facs="CTMR008.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-295-Ct" n="295">(base) Lo right so as the loue of Crist quod she </l>
+<lb/><l xml:id="NU-296-Ct" n="296">(base) Made me thy brotheres wyf right in that wise </l>
+<lb/><l xml:id="NU-297-Ct" n="297">(base) Anon for myn allie heere take I thee </l>
+<lb/><l xml:id="NU-298-Ct" n="298">(base) Syn that thow wolt thyne ydoles despise </l>
+<lb/><l xml:id="NU-299-Ct" n="299">(base) Go with thy brother now and thee baptise </l>
+<lb/><l xml:id="NU-300-Ct" n="300">(base) And make thee clene so that thow mowe biholde </l>
+<lb/><l xml:id="NU-301-Ct" n="301">(base) The Aungeles face of which thy brother tolde </l>
+<lb/><l xml:id="NU-302-Ct" n="302">(base) Tiburce answerde and seyde brother deere </l>
+<lb/><l xml:id="NU-303-Ct" n="303">(base) First tel me whider that I shal and to what man </l>
+<lb/><l xml:id="NU-304-Ct" n="304">(base) To whom quod he com forth with right good cheere </l>
+<lb/><l xml:id="NU-305-Ct" n="305">(base) I wol thee lede vnto the pope Vrban </l>
+<lb/><l xml:id="NU-306-Ct" n="306">(base) Til Vrban brother myn Valerian </l>
+<lb/><l xml:id="NU-307-Ct" n="307">(base) Quod tho Tiburce woltow me thider lede </l>
+<lb/><l xml:id="NU-308-Ct" n="308">(base) Me thynketh that it were a wonder dede </l>
+<lb/><l xml:id="NU-309-Ct" n="309">(base) Ne menestow nat Vrban quod he tho </l>
+<lb/><l xml:id="NU-310-Ct" n="310">(base) That is so ofte dampned to be deed </l>
+<lb/><l xml:id="NU-311-Ct" n="311">(base) And woneth in halkes alwey to and fro </l>
+<lb/><l xml:id="NU-312-Ct" n="312">(base) And dar nat ones putte forth his heed </l>
+<lb/><l xml:id="NU-313-Ct" n="313">(base) Men sholde hym brennen in a fyr so reed </l>
+<lb/><l xml:id="NU-314-Ct" n="314">(base) If he were founde or that men myghte hym spye </l>
+<lb/><l xml:id="NU-315-Ct" n="315">(base) And we also to bere hym compaignye </l>
+<pb xml:id="Ct-167v" n="167v" facs="CTMR009.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-316-Ct" n="316">(base) And whil we seken thilke diuinytee </l>
+<lb/><l xml:id="NU-317-Ct" n="317">(base) That is yhyd in heuene priuely </l>
+<lb/><l xml:id="NU-318-Ct" n="318">(base) Algate ybrend in this world shul we be </l>
+<lb/><l xml:id="NU-319-Ct" n="319">(base) To whom Cecile answerde boldely </l>
+<lb/><l xml:id="NU-320-Ct" n="320">(base) Men myghten dreden wel and skilfully </l>
+<lb/><l xml:id="NU-321-Ct" n="321">(base) This lyf to lese myn owene deere brother </l>
+<lb/><l xml:id="NU-322-Ct" n="322">(base) If thys were lyuyng oonly and noon oother </l>
+<lb/><l xml:id="NU-323-Ct" n="323">(base) But ther is bettre lyf in oother place </l>
+<lb/><l xml:id="NU-324-Ct" n="324">(base) That neuere shal be lost ne drede thee noght </l>
+<lb/><l xml:id="NU-325-Ct" n="325">(base) Which goddes sone vs tolde thurgh his grace </l>
+<lb/><l xml:id="NU-326-Ct" n="326">(base) That fadres sone hath alle thynges wroght </l>
+<lb/><l xml:id="NU-327-Ct" n="327">(base) And al that wroght is with a skilful thoght </l>
+<lb/><l xml:id="NU-328-Ct" n="328">(base) The goost that fro the fader gan procede </l>
+<lb/><l xml:id="NU-329-Ct" n="329">(base) Hath souled hem withouten any drede </l>
+<lb/><l xml:id="NU-330-Ct" n="330">(base) By word and by myracle he goddes sone </l>
+<lb/><l xml:id="NU-331-Ct" n="331">(base) Whan he was in this world declared heere </l>
+<lb/><l xml:id="NU-332-Ct" n="332">(base) That ther was oother lyf ther men may wone </l>
+<lb/><l xml:id="NU-333-Ct" n="333">(base) To whom answerde Tiburce o suster deere </l>
+<lb/><l xml:id="NU-334-Ct" n="334">(base) Ne seydestow right now in this manere </l>
+<lb/><l xml:id="NU-335-Ct" n="335">(base) Ther nys but o god lord in sothfastnesse </l>
+<lb/><l xml:id="NU-336-Ct" n="336">(base) And now of thre how maystow bere witnesse </l>
+<pb xml:id="Ct-168r" n="168r" facs="CTMR009.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-337-Ct" n="337">(base) That shal I telle quod she er I go </l>
+<lb/><l xml:id="NU-338-Ct" n="338">(base) Right as a man hath Sapiences thre </l>
+<lb/><l xml:id="NU-339-Ct" n="339">(base) Memorie engyn and intellect also </l>
+<lb/><l xml:id="NU-340-Ct" n="340">(base) So in o beynge of diuinytee </l>
+<lb/><l xml:id="NU-341-Ct" n="341">(base) Thre persones may ther right wel be </l>
+<lb/><l xml:id="NU-342-Ct" n="342">(base) Tho gan she hym ful bisily to preche </l>
+<lb/><l xml:id="NU-343-Ct" n="343">(base) Of cristes come and of his peynes teche </l>
+<lb/><l xml:id="NU-344-Ct" n="344">(base) And manye pointes of his passioun </l>
+<lb/><l xml:id="NU-345-Ct" n="345">(base) How goddes sone in this world was withholde </l>
+<lb/><l xml:id="NU-346-Ct" n="346">(base) To doon mankynde pleyn remyssioun </l>
+<lb/><l xml:id="NU-347-Ct" n="347">(base) That was ybounde in synne and cares colde </l>
+<lb/><l xml:id="NU-348-Ct" n="348">(base) Al this thyng she vnto Tiburce tolde </l>
+<lb/><l xml:id="NU-349-Ct" n="349">(base) And after this Tiburce in good entente </l>
+<lb/><l xml:id="NU-350-Ct" n="350">(base) With Valerian to Pope Vrban he wente </l>
+<lb/><l xml:id="NU-351-Ct" n="351">(base) That thanked god and with glad herte and light </l>
+<lb/><l xml:id="NU-352-Ct" n="352">(base) He cristned hym and made hym in that place </l>
+<lb/><l xml:id="NU-353-Ct" n="353">(base) Parfit in his lernyng goddes knyght </l>
+<lb/><l xml:id="NU-354-Ct" n="354">(base) And after this Tiburce gat swich grace </l>
+<lb/><l xml:id="NU-355-Ct" n="355">(base) That euery day he say in tyme and space </l>
+<lb/><l xml:id="NU-356-Ct" n="356">(base) The Aungel of god and euery maner boone </l>
+<lb/><l xml:id="NU-357-Ct" n="357">(base) That he god axed it was sped ful soone </l>
+<pb xml:id="Ct-168v" n="168v" facs="CTMR010.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-358-Ct" n="358">(base) It were ful hard by ordre for to seyn </l>
+<lb/><l xml:id="NU-359-Ct" n="359">(base) How many wondres Ihesus for hem wroghte </l>
+<lb/><l xml:id="NU-360-Ct" n="360">(base) But at the laste to tellen short and pleyn </l>
+<lb/><l xml:id="NU-361-Ct" n="361">(base) The sergeantz of the town of Rome hem soghte </l>
+<lb/><l xml:id="NU-362-Ct" n="362">(base) And hem biforn Almache the Prefect broghte </l>
+<lb/><l xml:id="NU-363-Ct" n="363">(base) Which hem opposed and knew al hir entente </l>
+<lb/><l xml:id="NU-364-Ct" n="364">(base) And to the ymage of Iubiter hem sente </l>
+<lb/><l xml:id="NU-365-Ct" n="365">(base) And seyde who so wol nat sacrifise </l>
+<lb/><l xml:id="NU-366-Ct" n="366">(base) Swap of his heed this is my sentence heer </l>
+<lb/><l xml:id="NU-367-Ct" n="367">(base) Anon thise martirs that I yow deuyse </l>
+<lb/><l xml:id="NU-368-Ct" n="368">(base) Oon Maximus that was an Officer </l>
+<lb/><l xml:id="NU-369-Ct" n="369">(base) Of the Prefectes and his Corniculer </l>
+<lb/><l xml:id="NU-370-Ct" n="370">(base) Hem hente and whan he forth the Seintes ladde </l>
+<lb/><l xml:id="NU-371-Ct" n="371">(base) Hymself he weep for pitee that he hadde </l>
+<lb/><l xml:id="NU-372-Ct" n="372">(base) Whan Maximus hadde herd the Seintes loore </l>
+<lb/><l xml:id="NU-373-Ct" n="373">(base) He gat hym of the tormentours leue </l>
+<lb/><l xml:id="NU-374-Ct" n="374">(base) And ladde hem to his hous withoute moore </l>
+<lb/><l xml:id="NU-375-Ct" n="375">(base) And with hir prechyng er that it were eue </l>
+<lb/><l xml:id="NU-376-Ct" n="376">(base) They gonnen fro the tormentours to reue </l>
+<lb/><l xml:id="NU-377-Ct" n="377">(base) And fro Maxime and fro his folk echone </l>
+<lb/><l xml:id="NU-378-Ct" n="378">(base) The false feith to trowe in god allone </l>
+<pb xml:id="Ct-169r" n="169r" facs="CTMR010.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-379-Ct" n="379">(base) Cecile cam whan it was woxen nyght </l>
+<lb/><l xml:id="NU-380-Ct" n="380">(base) With preestes that hem cristned alle yfeere </l>
+<lb/><l xml:id="NU-381-Ct" n="381">(base) And afterward whan day was woxen light </l>
+<lb/><l xml:id="NU-382-Ct" n="382">(base) Cecile hym seyde with a ful stedefast cheere </l>
+<lb/><l xml:id="NU-383-Ct" n="383">(base) Now cristes owene knyghtes leue and deere </l>
+<lb/><l xml:id="NU-384-Ct" n="384">(base) Cast al awey the werkes of derknesse </l>
+<lb/><l xml:id="NU-385-Ct" n="385">(base) And armeth yow in armure of brightnesse </l>
+<lb/><l xml:id="NU-386-Ct" n="386">(base) Ye han for sothe ydoon a greet bataille </l>
+<lb/><l xml:id="NU-387-Ct" n="387">(base) Youre cours is doon youre feith han ye conserued </l>
+<lb/><l xml:id="NU-388-Ct" n="388">(base) Goth to the corone of lyf that may nat faille </l>
+<lb/><l xml:id="NU-389-Ct" n="389">(base) The rightful Iuge which that ye han serued </l>
+<lb/><l xml:id="NU-390-Ct" n="390">(base) Shal yeue it yow as ye han it disserued </l>
+<lb/><l xml:id="NU-391-Ct" n="391">(base) And whan this thyng was seyd as I deuyse </l>
+<lb/><l xml:id="NU-392-Ct" n="392">(base) Men ledde hem forth to doon the sacrifise </l>
+<lb/><l xml:id="NU-393-Ct" n="393">(base) But whan they weren to the place broght </l>
+<lb/><l xml:id="NU-394-Ct" n="394">(base) To tellen shortly the conclusioun </l>
+<lb/><l xml:id="NU-395-Ct" n="395">(base) They nolde encense ne sacrifise right noght </l>
+<lb/><l xml:id="NU-396-Ct" n="396">(base) But on hir knees they setten hem adoun </l>
+<lb/><l xml:id="NU-397-Ct" n="397">(base) With humble herte and sad deuocioun </l>
+<lb/><l xml:id="NU-398-Ct" n="398">(base) And losten bothe hir heuedes in the place </l>
+<lb/><l xml:id="NU-399-Ct" n="399">(base) Hir soules wenten to the kyng of grace </l>
+<pb xml:id="Ct-169v" n="169v" facs="CTMR011.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-400-Ct" n="400">(base) This Maximus that say this thyng bityde </l>
+<lb/><l xml:id="NU-401-Ct" n="401">(base) With pitous teerys tolde it anon right </l>
+<lb/><l xml:id="NU-402-Ct" n="402">(base) That he hir soules saugh to heuene glyde </l>
+<lb/><l xml:id="NU-403-Ct" n="403">(base) With Aungeles ful of cleernesse and of light </l>
+<lb/><l xml:id="NU-404-Ct" n="404">(base) And with his word conuerted many a wight </l>
+<lb/><l xml:id="NU-405-Ct" n="405">(base) For which Almachius dide hym so bete </l>
+<lb/><l xml:id="NU-406-Ct" n="406">(base) With whippe of leed til he his lyf gan lete </l>
+<lb/><l xml:id="NU-407-Ct" n="407">(base) Cecile hym took and buryed hym anon </l>
+<lb/><l xml:id="NU-408-Ct" n="408">(base) By Tiburce and Valerian softely </l>
+<lb/><l xml:id="NU-409-Ct" n="409">(base) With Inne hir buryyng place vnder the stoon </l>
+<lb/><l xml:id="NU-410-Ct" n="410">(base) And after this Almachius hastily </l>
+<lb/><l xml:id="NU-411-Ct" n="411">(base) Bad hise Ministres fecchen openly </l>
+<lb/><l xml:id="NU-412-Ct" n="412">(base) Cecilie so that she myghte in his presence </l>
+<lb/><l xml:id="NU-413-Ct" n="413">(base) Doon sacrifice and Iubiter encense </l>
+<lb/><l xml:id="NU-414-Ct" n="414">(base) But they conuerted at hir wise loore </l>
+<lb/><l xml:id="NU-415-Ct" n="415">(base) Wepten ful sore and yauen ful credence </l>
+<lb/><l xml:id="NU-416-Ct" n="416">(base) Vnto hir word and cryden moore and moore </l>
+<lb/><l xml:id="NU-417-Ct" n="417">(base) Crist goddes sone withouten difference </l>
+<lb/><l xml:id="NU-418-Ct" n="418">(base) Is verray god this is al oure sentence </l>
+<lb/><l xml:id="NU-419-Ct" n="419">(base) That hath so good a seruant hym to serue </l>
+<lb/><l xml:id="NU-420-Ct" n="420">(base) This with o voys we trowen thogh we sterue </l>
+<pb xml:id="Ct-170r" n="170r" facs="CTMR011.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-421-Ct" n="421">(base) Almachius that herde of this doynge </l>
+<lb/><l xml:id="NU-422-Ct" n="422">(base) Bad fecchen Cecilie that he myghte hir se </l>
+<lb/><l xml:id="NU-423-Ct" n="423">(base) And alderfirst lo this was his axynge </l>
+<lb/><l xml:id="NU-424-Ct" n="424">(base) What maner womman artow quod he </l>
+<lb/><l xml:id="NU-425-Ct" n="425">(base) I am a gentil womman born quod she </l>
+<lb/><l xml:id="NU-426-Ct" n="426">(base) I axe thee quod he thogh it the greue </l>
+<lb/><l xml:id="NU-427-Ct" n="427">(base) Of thy religioun and of thy bileue </l>
+<lb/><l xml:id="NU-428-Ct" n="428">(base) Ye han bigonne youre question folily </l>
+<lb/><l xml:id="NU-429-Ct" n="429">(base) Quod she that wolden two answeres conclude </l>
+<lb/><l xml:id="NU-430-Ct" n="430">(base) In o demande ye axed lewedly </l>
+<lb/><l xml:id="NU-431-Ct" n="431">(base) Almachie answerde vnto that similitude </l>
+<lb/><l xml:id="NU-432-Ct" n="432">(base) Of whennes comth thyn answeryng so rude </l>
+<lb/><l xml:id="NU-433-Ct" n="433">(base) Of whennes quod she whan that she was freyned </l>
+<lb/><l xml:id="NU-434-Ct" n="434">(base) Of conscience and of good feith vnfeyned </l>
+<lb/><l xml:id="NU-435-Ct" n="435">(base) Almachius seyde ne takestow noon hede </l>
+<lb/><l xml:id="NU-436-Ct" n="436">(base) Of my power and she answerde hym this </l>
+<lb/><l xml:id="NU-437-Ct" n="437">(base) Youre myght quod she ful litel is to drede </l>
+<lb/><l xml:id="NU-438-Ct" n="438">(base) For euery mortal mannes power nys </l>
+<lb/><l xml:id="NU-439-Ct" n="439">(base) But lyk a bladdre ful of wynd ywys </l>
+<lb/><l xml:id="NU-440-Ct" n="440">(base) For with a nedles point whan it is blowe </l>
+<lb/><l xml:id="NU-441-Ct" n="441">(base) May al the boost of it be leyd ful lowe </l>
+<pb xml:id="Ct-170v" n="170v" facs="CTMR012.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-442-Ct" n="442">(base) Ful wrongfully bigonne thow quod he </l>
+<lb/><l xml:id="NU-443-Ct" n="443">(base) And yet in wrong is al thy perseueraunce </l>
+<lb/><l xml:id="NU-444-Ct" n="444">(base) Wostow nat how oure myghty princes free </l>
+<lb/><l xml:id="NU-445-Ct" n="445">(base) Han thus comanded and maad ordinaunce </l>
+<lb/><l xml:id="NU-446-Ct" n="446">(base) That euery cristen wight shal han penaunce </l>
+<lb/><l xml:id="NU-447-Ct" n="447">(base) But if that he his cristendom withseye </l>
+<lb/><l xml:id="NU-448-Ct" n="448">(base) And goon al quyt if he wol it reneye </l>
+<lb/><l xml:id="NU-449-Ct" n="449">(base) Youre Prynces erren as youre nobleye dooth </l>
+<lb/><l xml:id="NU-450-Ct" n="450">(base) Quod tho Cecile and with a wood sentence </l>
+<lb/><l xml:id="NU-451-Ct" n="451">(base) Ye make vs gilty and is nat sooth </l>
+<lb/><l xml:id="NU-452-Ct" n="452">(base) For ye that knowen wel oure Innocence </l>
+<lb/><l xml:id="NU-453-Ct" n="453">(base) For as muche as we doon a reuerence </l>
+<lb/><l xml:id="NU-454-Ct" n="454">(base) To crist and for we bere a cristen name </l>
+<lb/><l xml:id="NU-455-Ct" n="455">(base) Ye putte on vs a cryme and eek a blame </l>
+<lb/><l xml:id="NU-456-Ct" n="456">(base) But we that knowen thilke name so </l>
+<lb/><l xml:id="NU-457-Ct" n="457">(base) For vertuous we may it nat withseye </l>
+<lb/><l xml:id="NU-458-Ct" n="458">(base) Almache answerde chees oon of thise two </l>
+<lb/><l xml:id="NU-459-Ct" n="459">(base) Do sacrifice or cristendom reneye </l>
+<lb/><l xml:id="NU-460-Ct" n="460">(base) That thow mowe now escapen by that weye </l>
+<lb/><l xml:id="NU-461-Ct" n="461">(base) At which this holy blisful faire mayde </l>
+<lb/><l xml:id="NU-462-Ct" n="462">(base) Gan for to laughe and to the Iuge she sayde </l>
+<pb xml:id="Ct-171r" n="171r" facs="CTMR012.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-463-Ct" n="463">(base) O Iuge confus in thy nycetee </l>
+<lb/><l xml:id="NU-464-Ct" n="464">(base) Wiltow that I reneye Innocence </l>
+<lb/><l xml:id="NU-465-Ct" n="465">(base) To maken me a wikked wight quod she </l>
+<lb/><l xml:id="NU-466-Ct" n="466">(base) Lo he dissimuleth heere in audience </l>
+<lb/><l xml:id="NU-467-Ct" n="467">(base) He stareth and woodeth in his aduertence </l>
+<lb/><l xml:id="NU-468-Ct" n="468">(base) To whom Almachius vnsely wrecche </l>
+<lb/><l xml:id="NU-469-Ct" n="469">(base) Ne wostow nat how fer my myght may strecche </l>
+<lb/><l xml:id="NU-470-Ct" n="470">(base) Han noght oure myghty princes to me yeuen </l>
+<lb/><l xml:id="NU-471-Ct" n="471">(base) Ye bothe power and auctoritee </l>
+<lb/><l xml:id="NU-472-Ct" n="472">(base) To maken folk to dyen or to lyuen </l>
+<lb/><l xml:id="NU-473-Ct" n="473">(base) Why spekestow so prowdly thanne to me </l>
+<lb/><l xml:id="NU-474-Ct" n="474">(base) I speke noght but stedefastly quod she </l>
+<lb/><l xml:id="NU-475-Ct" n="475">(base) Nat proudly for I seye as for my syde </l>
+<lb/><l xml:id="NU-476-Ct" n="476">(base) We haten dedly thilke vice of pryde </l>
+<lb/><l xml:id="NU-477-Ct" n="477">(base) And if thow drede nat a sooth to here </l>
+<lb/><l xml:id="NU-478-Ct" n="478">(base) Thanne wol I shewe al openly by right </l>
+<lb/><l xml:id="NU-479-Ct" n="479">(base) That thow hast maad a ful greet lesyng here  </l>
+<lb/><l xml:id="NU-480-Ct" n="480">(base) Thow seist thy princes han thee yeuen myght </l>
+<lb/><l xml:id="NU-481-Ct" n="481">(base) Bothe for to sleen and for to quyken a wight </l>
+<lb/><l xml:id="NU-482-Ct" n="482">(base) Thow that ne mayst but oonly lyf byreue </l>
+<lb/><l xml:id="NU-482-1-Ct" n="482-1">(base) Boþe for to sleen and for to quyke a wight </l>
+<lb/><l xml:id="NU-483-Ct" n="483">(base) Thow hast noon oother power ne no leue </l>
+<pb xml:id="Ct-171v" n="171v" facs="CTMR013.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-484-Ct" n="484">(base) But thow mayst seyn thy princes han thee maked </l>
+<lb/><l xml:id="NU-485-Ct" n="485">(base) Ministre of deeth for if thow speke of me </l>
+<lb/><l xml:id="NU-486-Ct" n="486">(base) Thow lyest for thy power is ful naked </l>
+<lb/><l xml:id="NU-487-Ct" n="487">(base) Do wey thy boldnesse seyde Almachius tho </l>
+<lb/><l xml:id="NU-488-Ct" n="488">(base) And sacrifice to oure goddes er thow go </l>
+<lb/><l xml:id="NU-489-Ct" n="489">(base) I recche nat what wrong that thow me profre </l>
+<lb/><l xml:id="NU-490-Ct" n="490">(base) For I kan suffre it as a Philosophre </l>
+<lb/><l xml:id="NU-491-Ct" n="491">(base) But thilke wronges may I nat endure </l>
+<lb/><l xml:id="NU-492-Ct" n="492">(base) That thow spekest of oure goddes here quod he </l>
+<lb/><l xml:id="NU-493-Ct" n="493">(base) Cecilie answerde o nyce creature </l>
+<lb/><l xml:id="NU-494-Ct" n="494">(base) Thow seydest no word syn thow spak to me </l>
+<lb/><l xml:id="NU-495-Ct" n="495">(base) That I ne knew therwith thy nycetee </l>
+<lb/><l xml:id="NU-496-Ct" n="496">(base) And that thow were in euery maner wise </l>
+<lb/><l xml:id="NU-497-Ct" n="497">(base) A lewed Officer a veyn Iustise </l>
+<lb/><l xml:id="NU-498-Ct" n="498">(base) Ther lakketh no thyng to thyne outter eyen </l>
+<lb/><l xml:id="NU-499-Ct" n="499">(base) That thow nart blynd for thyng that we seen alle </l>
+<lb/><l xml:id="NU-500-Ct" n="500">(base) That is a stoon that men may wel espien </l>
+<lb/><l xml:id="NU-501-Ct" n="501">(base) That ilke stoon a god thow wolt it calle </l>
+<lb/><l xml:id="NU-502-Ct" n="502">(base) I rede thee lat thyn hand vpon it falle </l>
+<lb/><l xml:id="NU-503-Ct" n="503">(base) And taste it wel and stoon thow shalt it fynde </l>
+<lb/><l xml:id="NU-504-Ct" n="504">(base) Syn that thow seest nat with thyne eyen blynde </l>
+<pb xml:id="Ct-172r" n="172r" facs="CTMR013.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-505-Ct" n="505">(base) It is a shame that the peple shal </l>
+<lb/><l xml:id="NU-506-Ct" n="506">(base) So scornen thee and laughe at thy folye </l>
+<lb/><l xml:id="NU-507-Ct" n="507">(base) For comenly men woot it wel oueral </l>
+<lb/><l xml:id="NU-508-Ct" n="508">(base) That myghty god is in hise heuenes hye </l>
+<lb/><l xml:id="NU-509-Ct" n="509">(base) And thise ymages wel thow mayst espye </l>
+<lb/><l xml:id="NU-510-Ct" n="510">(base) To thee ne to hem self mowe noght profite </l>
+<lb/><l xml:id="NU-511-Ct" n="511">(base) For in effect they be nat worth a myte </l>
+<lb/><l xml:id="NU-512-Ct" n="512">(base) Thise and swiche othere seyde she </l>
+<lb/><l xml:id="NU-513-Ct" n="513">(base) And he weex wrooth and bad men sholde hir lede </l>
+<lb/><l xml:id="NU-514-Ct" n="514">(base) Hoom til hir hous and in hir hous quod he </l>
+<lb/><l xml:id="NU-515-Ct" n="515">(base) Bren hire right in a Bath of flambes rede </l>
+<lb/><l xml:id="NU-516-Ct" n="516">(base) And as he bad right so was doon the dede </l>
+<lb/><l xml:id="NU-517-Ct" n="517">(base) For in a Bath they gonne hire faste shetten </l>
+<lb/><l xml:id="NU-518-Ct" n="518">(base) And nyght and day greet fyr they vnder betten </l>
+<lb/><l xml:id="NU-519-Ct" n="519">(base) The longe nyght and eek a day also </l>
+<lb/><l xml:id="NU-520-Ct" n="520">(base) For al the fyr and eek the Bathes hete </l>
+<lb/><l xml:id="NU-521-Ct" n="521">(base) She sat al coold and feeled no wo </l>
+<lb/><l xml:id="NU-522-Ct" n="522">(base) It made hir nat o drope for to swete </l>
+<lb/><l xml:id="NU-523-Ct" n="523">(base) But in that Bath hir lyf she moste lete </l>
+<lb/><l xml:id="NU-524-Ct" n="524">(base) For he Almachius with a ful wikke entente </l>
+<lb/><l xml:id="NU-525-Ct" n="525">(base) To sleen hire in the Bath his sonde sente </l>
+<pb xml:id="Ct-172v" n="172v" facs="CTMR014.JPG" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-526-Ct" n="526">(base) Thre strokes in the nekke he smoot hire tho </l>
+<lb/><l xml:id="NU-527-Ct" n="527">(base) The tormentour but for no maner chaunce </l>
+<lb/><l xml:id="NU-528-Ct" n="528">(base) He myghte noght smyte al hir nekke atwo </l>
+<lb/><l xml:id="NU-529-Ct" n="529">(base) And for ther was that tyme an ordinaunce </l>
+<lb/><l xml:id="NU-530-Ct" n="530">(base) That no man sholde doon man swich penaunce </l>
+<lb/><l xml:id="NU-531-Ct" n="531">(base) The ferthe strook to smyten softe or soore </l>
+<lb/><l xml:id="NU-532-Ct" n="532">(base) This tormentour ne dorste do namoore </l>
+<lb/><l xml:id="NU-533-Ct" n="533">(base) But half deed with hir nekke ycoruen there </l>
+<lb/><l xml:id="NU-534-Ct" n="534">(base) He lefte hir lye and on his wey he went </l>
+<lb/><l xml:id="NU-535-Ct" n="535">(base) The cristen folk whiche that aboute hire were </l>
+<lb/><l xml:id="NU-536-Ct" n="536">(base) With shetes han the blood ful faire yhent </l>
+<lb/><l xml:id="NU-537-Ct" n="537">(base) Thre dayes lyued she in this torment </l>
+<lb/><l xml:id="NU-538-Ct" n="538">(base) And neuere cessed hem the feith to teche </l>
+<lb/><l xml:id="NU-539-Ct" n="539">(base) That she hadde fostred hem she gan to preche </l>
+<lb/><l xml:id="NU-540-Ct" n="540">(base) And hem she yaf hir moebles and hir thyng </l>
+<lb/><l xml:id="NU-541-Ct" n="541">(base) And to the Pope Vrban bitook hem tho </l>
+<lb/><l xml:id="NU-542-Ct" n="542">(base) And seyde I axed this of heuene kyng </l>
+<lb/><l xml:id="NU-543-Ct" n="543">(base) To han respit thre dayes and namo </l>
+<lb/><l xml:id="NU-544-Ct" n="544">(base) To recommende to yow er that I go </l>
+<lb/><l xml:id="NU-544a-Ct" n="544a">(base) To perfourme that I before haue do </l>
+<lb/><l xml:id="NU-545-Ct" n="545">(base) Thise soules lo and that I myghte do Werche </l>
+<lb/><l xml:id="NU-546-Ct" n="546">(base) Here of myn hous perpetuelly a cherche </l>
+<pb xml:id="Ct-173r" n="173r" facs="CTMR014.JPG" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l xml:id="NU-547-Ct" n="547">(base) Seint Vrban with hise deknes pryuely </l>
+<lb/><l xml:id="NU-548-Ct" n="548">(base) The body fette and buryed it by nyghte </l>
+<lb/><l xml:id="NU-549-Ct" n="549">(base) Among hise othere Seintes honestly </l>
+<lb/><l xml:id="NU-550-Ct" n="550">(base) Hir hous the chirche of Seinte Cecilie highte </l>
+<lb/><l xml:id="NU-551-Ct" n="551">(base) Seint Vrban halwed it as he wel myghte </l>
+<lb/><l xml:id="NU-552-Ct" n="552">(base) In which in to this day in noble wyse </l>
+<lb/><l xml:id="NU-553-Ct" n="553">(base) Men doon to crist and to his Seinte seruyse </l>
+<lb/><l xml:id="NU-FRE-Ct" n="FRE">(base) Here is ended the Nonnes tale </l>
+
+</div>
+<div xml:id="PR-Ct"  n="PR" type="G">
+<lb/><l xml:id="PR-IRE-Ct" n="IRE">¶ The proheme of the Prioresse tale </l>
+<lb/><l xml:id="PR-IRL-Ct" n="IRL">Domine dominus noster </l>
+<lb/><l xml:id="PR-1-Ct" n="1"><hi rend="orncp3">O</hi> lord oure lord thy Name eu m<am>ꝰ</am><ex>er</ex>uelous . </l>
+<lb/><l xml:id="PR-2-Ct" n="2">Is in this large worlde Ispred qd . she . </l>
+<lb/><l xml:id="PR-3-Ct" n="3">For not all only thy lawde pe<am>ꝭ</am><ex>es</ex>ious . </l>
+<lb/><l xml:id="PR-4-Ct" n="4">Perfourmyd is be men of dygnyte . </l>
+<lb/><l xml:id="PR-5-Ct" n="5">But be mowth of chyldryn thy Bounte . </l>
+<lb/><l xml:id="PR-6-Ct" n="6">P<gap quantity="8" unit="chars"/>d Is for on the Breste sowkynge ; </l>
+<lb/><l xml:id="PR-7-Ct" n="7">S<gap quantity="2" unit="chars"/> tyme shew they thyn <gap quantity="8" unit="chars"/> lF 173vl</l>
+<lb/><l xml:id="PR-8-Ct" n="8">Wherfore In lawde as I Kan or May . </l>
+<lb/><l xml:id="PR-9-Ct" n="9">Of the . and of the swete lylye flowre . </l>
+<lb/><l xml:id="PR-10-Ct" n="10">Which that the bare . ⁊ Is A mayde alway . </l>
+<lb/><l xml:id="PR-11-Ct" n="11">To tell A story  I wyll do my labowre . </l>
+<lb/><l xml:id="PR-12-Ct" n="12">Motte that I may Encrese her honowre . </l>
+<lb/><l xml:id="PR-13-Ct" n="13">For she her self is honowre ⁊ the Roote . </l>
+<lb/><l xml:id="PR-14-Ct" n="14">Of bounte nexte her sonne ⁊ sowlis boote . </l>
+<lb/><l xml:id="PR-15-Ct" n="15">O Moder mayde . O mayde ⁊ moder free . </l>
+<lb/><l xml:id="PR-16-Ct" n="16">O bussh vnbrente . brennyg In Moyses syghte . </l>
+<lb/><l xml:id="PR-17-Ct" n="17">That Rauesshedyst down from the deyte . </l>
+<lb/><l xml:id="PR-18-Ct" n="18">Throw thyn humblesse . the gooste þ<am rend="sup">t</am><ex>at</ex> i the lyghte . </l>
+<lb/><l xml:id="PR-19-Ct" n="19">Of whose vertu . when he thyn hart lyght . </l>
+<lb/><l xml:id="PR-20-Ct" n="20">Conceyuyd was the fadyrs sapyence . </l>
+<lb/><l xml:id="PR-21-Ct" n="21">Helpe me to tell itte In thy Reuence . </l>
+<lb/><l xml:id="PR-22-Ct" n="22">Lady thy Bounte . thy magnyfycence . </l>
+<lb/><l xml:id="PR-23-Ct" n="23">Thy vertu . and thy grete humylyte . </l>
+<lb/><l xml:id="PR-24-Ct" n="24">Ther may no tong expresse i no science . </l>
+<lb/><l xml:id="PR-25-Ct" n="25">For somtyme lady  or men pray to the . </l>
+<lb/><l xml:id="PR-26-Ct" n="26">Thow gooste beforn of thy benygnyte . </l>
+<lb/><l xml:id="PR-27-Ct" n="27">And getyste vs the lyght . of thy prayere . </l>
+<lb/><l xml:id="PR-28-Ct" n="28">To gyde vs vnto thy sone soo deere . lF 174rl</l>
+<lb/><l xml:id="PR-29-Ct" n="29">¶ My konnyng Is so weke o blisfull queene . </l>
+<lb/><l xml:id="PR-30-Ct" n="30">For to declare thyn high worthynesse . </l>
+<lb/><l xml:id="PR-31-Ct" n="31">That I ne may . the weyth nat susteene . </l>
+<lb/><l xml:id="PR-32-Ct" n="32">Butte as a chyld of . xii . monyth olde or lesse . </l>
+<lb/><l xml:id="PR-33-Ct" n="33">That kan vnneth any worde expresse . </l>
+<lb/><l xml:id="PR-34-Ct" n="34">Right so fare I . and therfore I yow pray . </l>
+<lb/><l xml:id="PR-35-Ct" n="35">Gydith my song . as I shall yow say . </l>
+<lb/><l xml:id="PR-36-Ct" n="36"><hi rend="orncp3">T</hi>her was In Asie In A greate Cyte . </l>
+<lb/><l xml:id="PR-37-Ct" n="37">Among Crysten folke A Iurye . </l>
+<lb/><l xml:id="PR-38-Ct" n="38">Susteynyd be A lorde of that contre . </l>
+<lb/><l xml:id="PR-39-Ct" n="39">For foule vsure . and lucre of vylenye . </l>
+<lb/><l xml:id="PR-40-Ct" n="40">Hatefull to Cryste and to hys companye . </l>
+<lb/><l xml:id="PR-41-Ct" n="41">And throwgh this streete . men myght hyde ⁊ wen<gap quantity="3" unit="chars"/> </l>
+<lb/><l xml:id="PR-42-Ct" n="42">For itte was free . ⁊ opyn atte euy ende . </l>
+<lb/><l xml:id="PR-43-Ct" n="43">A lytyll Scoole of Crysten folke ther stoode . </l>
+<lb/><l xml:id="PR-44-Ct" n="44">Down atte farther ende . In which ther were . </l>
+<lb/><l xml:id="PR-45-Ct" n="45">Chyldryn an heepe Comen of Crysten bloode . </l>
+<lb/><l xml:id="PR-46-Ct" n="46">That lernyd In Scole yere be yere . </l>
+<lb/><l xml:id="PR-47-Ct" n="47">Such maner of doctryne as men vsyn there . </l>
+<lb/><l xml:id="PR-48-Ct" n="48">Thys is to say to syng and to Rede . </l>
+<lb/><l xml:id="PR-49-Ct" n="49">As smale Chyldryn doon . In her chyldehe∆ lF 174vl</l>
+<lb/><l xml:id="PR-50-Ct" n="50">Among thyse chyldryn was A wydewys son . </l>
+<lb/><l xml:id="PR-51-Ct" n="51">A lytyll Clergyon  .vij. yere of age . </l>
+<lb/><l xml:id="PR-52-Ct" n="52">That day be day to Scoole was hys won . </l>
+<lb/><l xml:id="PR-53-Ct" n="53">And eke also where that he sawe the Image . </l>
+<lb/><l xml:id="PR-54-Ct" n="54">Of Cryst<am>ꝭ</am><ex>es</ex> moder had he In vsage . </l>
+<lb/><l xml:id="PR-55-Ct" n="55">As hym was tawght to knele A down ⁊ say . </l>
+<lb/><l xml:id="PR-56-Ct" n="56">His Aue Maria . as he goth be the way . </l>
+<lb/><l xml:id="PR-57-Ct" n="57">Thus hath this wydewe her lytyll son tawght . </l>
+<lb/><l xml:id="PR-58-Ct" n="58">Owre blessid lady . Cryst<am>ꝭ</am><ex>es</ex> moder deere . </l>
+<lb/><l xml:id="PR-59-Ct" n="59">To worshippe ay . ⁊ he forgate itte nowght . </l>
+<lb/><l xml:id="PR-60-Ct" n="60">For the sely Chylde wolde alwey sone leere . </l>
+<lb/><l xml:id="PR-61-Ct" n="61">Butte ay when I Remembyr me on this Mateere . </l>
+<lb/><l xml:id="PR-62-Ct" n="62">Seynt Nicholasse stonte evyr In my p<am>ꝰ</am><ex>er</ex>sense . </l>
+<lb/><l xml:id="PR-63-Ct" n="63">For he so yong to Cryste dyde Reuerence . </l>
+<lb/><l xml:id="PR-64-Ct" n="64">This lytyll Chylde his lytyll boke lernyg . </l>
+<lb/><l xml:id="PR-65-Ct" n="65">As he satte In the Scoole atte his Prymere . </l>
+<lb/><l xml:id="PR-66-Ct" n="66">He Alma Redemptoris mater herd syng . </l>
+<lb/><l xml:id="PR-67-Ct" n="67">As Chyldryn lernyd her santyphonere . </l>
+<lb/><l xml:id="PR-68-Ct" n="68">And as he durste he drewe ay nere ⁊ nere . </l>
+<lb/><l xml:id="PR-69-Ct" n="69">And herkend ay the wordys and the Noote . </l>
+<lb/><l xml:id="PR-70-Ct" n="70">Tyll he the fyrste verse . Cowde ale be Roote  lF 175rl</l>
+<lb/><l xml:id="PR-71-Ct" n="71">Nought <gap quantity="21" unit="chars"/> was to say </l>
+<lb/><l xml:id="PR-72-Ct" n="72">For he so yong ⁊ tendyr was of Age . </l>
+<lb/><l xml:id="PR-73-Ct" n="73">Butte on a day his felawe gan he pray . </l>
+<lb/><l xml:id="PR-74-Ct" n="74">To expown hym this song In his langage . </l>
+<lb/><l xml:id="PR-75-Ct" n="75">Or tell hym why thys song was In vsage . </l>
+<lb/><l xml:id="PR-76-Ct" n="76">This prayd he hym to Constrewe ⁊ declare . </l>
+<lb/><l xml:id="PR-77-Ct" n="77">Full oftyn tymes vppon his kneye bare . </l>
+<lb/><l xml:id="PR-78-Ct" n="78">His felawe  which þ<am rend="sup">t</am><ex>at</ex> elder was then he . </l>
+<lb/><l xml:id="PR-79-Ct" n="79">Answerd hym thus . this song I have hard say . </l>
+<lb/><l xml:id="PR-80-Ct" n="80">Was . made of owre blessid lady free . </l>
+<lb/><l xml:id="PR-81-Ct" n="81">Her to salewe and eke her to preye . </l>
+<lb/><l xml:id="PR-82-Ct" n="82">To be owre helpe<hi rend="sup">r</hi> ⁊ socowre when we deye . </l>
+<lb/><l xml:id="PR-83-Ct" n="83">I Can nomore expown In this Matere . </l>
+<lb/><l xml:id="PR-84-Ct" n="84">I lern song . I Can butte lytell gramere . </l>
+<lb/><l xml:id="PR-85-Ct" n="85">And Is this song made In Reuence . </l>
+<lb/><l xml:id="PR-86-Ct" n="86">Off cryst<am>ꝭ</am><ex>es</ex> moder seyid this Innocente . </l>
+<lb/><l xml:id="PR-87-Ct" n="87">Nowe certeyn I wyll do my dylygence . </l>
+<lb/><l xml:id="PR-88-Ct" n="88">To Conne itte or Crystemasse is all I wente . </l>
+<lb/><l xml:id="PR-89-Ct" n="89">Though þ<am rend="sup">t</am><ex>at</ex> I for my prymer be shent . </l>
+<lb/><l xml:id="PR-90-Ct" n="90">And sheld be bete thryes In an owre . </l>
+<lb/><l xml:id="PR-91-Ct" n="91">I wyll Itte Conne . owre lady to honowre . lF 175vl</l>
+<lb/><l xml:id="PR-92-Ct" n="92">¶ His felawe taught hym homward pryuely . </l>
+<lb/><l xml:id="PR-93-Ct" n="93">Fro day to . day till he kowd itte all be Roote . </l>
+<lb/><l xml:id="PR-94-Ct" n="94">And than he song itye well and boldelye . </l>
+<lb/><l xml:id="PR-95-Ct" n="95">Fro word to word Accordyng to the Roote . </l>
+<lb/><l xml:id="PR-96-Ct" n="96">Twyse a day Itte passid throw his throte . </l>
+<lb/><l xml:id="PR-97-Ct" n="97">To scoleward ⁊ homeward whan he wente . </l>
+<lb/><l xml:id="PR-98-Ct" n="98">On Crist<am>ꝭ</am><ex>es</ex> moder sette was all his Entente . </l>
+<lb/><l xml:id="PR-99-Ct" n="99">As I have sayd throw owte the Iurye . </l>
+<lb/><l xml:id="PR-100-Ct" n="100">This lytyll Chyld as he Cam to ⁊ fro . </l>
+<lb/><l xml:id="PR-101-Ct" n="101">Ful Meryly wolde he syng and Crye . </l>
+<lb/><l xml:id="PR-102-Ct" n="102">O alma redemptoris mater evyr moo . </l>
+<lb/><l xml:id="PR-103-Ct" n="103">The swetnes his harte percyd soo . </l>
+<lb/><l xml:id="PR-104-Ct" n="104">Off cryst<am>ꝭ</am><ex>es</ex> moder . <am>ꝑ</am><ex>per</ex><hi rend="sup">t</hi> he to her pray . </l>
+<lb/><l xml:id="PR-105-Ct" n="105">He C annotte stynte of syngyng be the way . </l>
+<lb/><l xml:id="PR-106-Ct" n="106">Owre fyrste foo the Spent Sathanas . </l>
+<lb/><l xml:id="PR-107-Ct" n="107">That hath In Iues harte his waspes neste . </l>
+<lb/><l xml:id="PR-108-Ct" n="108">Vp swall ⁊ sayd . o . ebrayk people alas . </l>
+<lb/><l xml:id="PR-109-Ct" n="109">Is this A thyng þ<am rend="sup">t</am><ex>at</ex> is to vs honeste . </l>
+<lb/><l xml:id="PR-110-Ct" n="110">That such A Boy shall walke as hym leste . </l>
+<lb/><l xml:id="PR-111-Ct" n="111">In yo<am rend="sup">r</am><ex>ur</ex> despyte and syng of such sentence . </l>
+<lb/><l xml:id="PR-112-Ct" n="112"><gap quantity="10" unit="chars"/>youste owre lawye Reuence . lF 176rl</l>
+<lb/><l xml:id="PR-113-Ct" n="113">Fro thensforth the Iues have Conspired . </l>
+<lb/><l xml:id="PR-114-Ct" n="114">This Innocente owte of this worlde to Chais </l>
+<lb/><l xml:id="PR-115-Ct" n="115">An homycyde therto have thay hyred . </l>
+<lb/><l xml:id="PR-116-Ct" n="116">Right atte an Aley hadde A a preuy place . </l>
+<lb/><l xml:id="PR-117-Ct" n="117">And as the Chylde gan forth by to pace . </l>
+<lb/><l xml:id="PR-118-Ct" n="118">This Cursid Iue hym hente ⁊ held faste . </l>
+<lb/><l xml:id="PR-119-Ct" n="119">And Cutte his throte . ⁊ In A pytte hym Caste </l>
+<lb/><l xml:id="PR-120-Ct" n="120">I say that In A wardrope they hym threwe </l>
+<lb/><l xml:id="PR-121-Ct" n="121">Where as the Iues purgeyn her Entrayle . </l>
+<lb/><l xml:id="PR-122-Ct" n="122">O Cursyd folke of herodys all newe . </l>
+<lb/><l xml:id="PR-123-Ct" n="123">What may yo<am rend="sup">r</am><ex>ur</ex> euyll Intente yow Avayle . </l>
+<lb/><l xml:id="PR-124-Ct" n="124">Murdre will owte <am>ꝸ</am><ex>ser</ex>teyn itte will notte fayle . </l>
+<lb/><l xml:id="PR-125-Ct" n="125">And namely ther ⁊ the honowr of god shall sprede </l>
+<lb/><l xml:id="PR-126-Ct" n="126">The Bloode owte Cryeth . on yo<am rend="sup">r</am><ex>ur</ex> Cursid dede . </l>
+<lb/><l xml:id="PR-127-Ct" n="127">O martyr sowdid . vnto virgynyte . </l>
+<lb/><l xml:id="PR-128-Ct" n="128">Nowe mayste thow syng folowyng evyr In oone . </l>
+<lb/><l xml:id="PR-129-Ct" n="129">The whyte Lambe Celestyall qd he . </l>
+<lb/><l xml:id="PR-130-Ct" n="130">Off which the greate Eu<hi rend="sup">a</hi>ngeleste seynt Iohn </l>
+<lb/><l xml:id="PR-131-Ct" n="131">In Pathmos wrote . which seyth þ<am rend="sup">t</am><ex>at</ex> they gan </l>
+<lb/><l xml:id="PR-132-Ct" n="132">Beforn this Lambe ⁊ syng<am rend="sup">e</am><ex>re</ex> A song ay newe </l>
+<lb/><l xml:id="PR-133-Ct" n="133">That nevyr fleshaly woman thay ne knewe lF 176vl</l>
+<lb/><l xml:id="PR-134-Ct" n="134">This poure wydewe awaytyth all the <gap quantity="5" unit="chars"/> </l>
+<lb/><l xml:id="PR-135-Ct" n="135">Aftyr her lytyll Chyld ⁊ he Cam nought . </l>
+<lb/><l xml:id="PR-137-Ct" n="137">Wi<am>̄</am><ex>n</ex>th face pale of drede ⁊ Besy thought . </l>
+<lb/><l xml:id="PR-138-Ct" n="138">She hath atte scole ⁊ ellyswhere hym sought </l>
+<lb/><l xml:id="PR-139-Ct" n="139">Tyll fynally she gan to espye . </l>
+<lb/><l xml:id="PR-140-Ct" n="140">That he laste seyn was In the Iurye . </l>
+<lb/><l xml:id="PR-141-Ct" n="141">With . modyrs pyte In her Breste enclosid . </l>
+<lb/><l xml:id="PR-142-Ct" n="142">She goyth as she were half owte of her mynde </l>
+<lb/><l xml:id="PR-143-Ct" n="143">To euy place where she hath supposid . </l>
+<lb/><l xml:id="PR-144-Ct" n="144">Be lyklyhede her lytyll Chyld for to fynde </l>
+<lb/><l xml:id="PR-145-Ct" n="145">And evyr on Crist<am>ꝭ</am><ex>es</ex> moder meke ⁊ kynde . </l>
+<lb/><l xml:id="PR-146-Ct" n="146">She Cried ⁊ at the laste thus she wrought </l>
+<lb/><l xml:id="PR-147-Ct" n="147">Among the Cursid Iues she hym sowght </l>
+<lb/><l xml:id="PR-148-Ct" n="148">She askyth ⁊ she freynyth pytouslye . </l>
+<lb/><l xml:id="PR-149-Ct" n="149">Of euy Iue that dwellyd In þ<am rend="sup">t</am><ex>at</ex> place . </l>
+<lb/><l xml:id="PR-150-Ct" n="150">To tell her if her chyld wente aught forth bye . </l>
+<lb/><l xml:id="PR-151-Ct" n="151">They sayd nay . Butte Ihu of his grace . </l>
+<lb/><l xml:id="PR-152-Ct" n="152">Yaff In her thought þ<am rend="sup">t</am><ex>at</ex>vIn A lytell space </l>
+<lb/><l xml:id="PR-153-Ct" n="153">That in that place aftyr her son she Cryde . </l>
+<lb/><l xml:id="PR-154-Ct" n="154">Wher he was Caste In A pytte besyde . lF 177rl</l>
+<lb/><l xml:id="PR-155-Ct" n="155">O grete God that <am>ꝑ</am><ex>per</ex>fournyst thy laude . </l>
+<lb/><l xml:id="PR-156-Ct" n="156">Be mowth of Innocent<am>ꝭ</am><ex>es</ex> lo here thy myght . </l>
+<lb/><l xml:id="PR-157-Ct" n="157">This gemme of Chastete thys Emeraved . </l>
+<lb/><l xml:id="PR-158-Ct" n="158">And eke of Martyrdom the Rubye bryght . </l>
+<lb/><l xml:id="PR-159-Ct" n="159">There with throte I Corvyn lith vppe ri<am>̄</am><ex>n</ex>ght </l>
+<lb/><l xml:id="PR-160-Ct" n="160">He Alma Redemptoris gan to syng . </l>
+<lb/><l xml:id="PR-161-Ct" n="161">So lowd þ<am rend="sup">t</am><ex>at</ex> all the place gan to Ryng . </l>
+<lb/><l xml:id="PR-162-Ct" n="162">The Crysten folke that be the strete wente </l>
+<lb/><l xml:id="PR-163-Ct" n="163">In Cam for to wonder vppon thys thyng . </l>
+<lb/><l xml:id="PR-164-Ct" n="164">And hastely they for the proveste sente . </l>
+<lb/><l xml:id="PR-164-1-Ct" n="164-1">Whith sounde the Chyld fresshly yitte blodyng </l>
+<lb/><l xml:id="PR-166-Ct" n="166">And heryeth criste that Is of hevyn kyng . </l>
+<lb/><l xml:id="PR-167-Ct" n="167">And eke his moder honowre of Mankynde . </l>
+<lb/><l xml:id="PR-168-Ct" n="168">And aftyr þ<am rend="sup">t</am><ex>at</ex> . the Iues lette he bynde . </l>
+<lb/><l xml:id="PR-169-Ct" n="169">This Childe w<am rend="sup">t</am><ex>ith</ex> pitous lamentacyon . </l>
+<lb/><l xml:id="PR-170-Ct" n="170">Vppe takyn was . syngyng thys song alway . </l>
+<lb/><l xml:id="PR-171-Ct" n="171">And with honowre and greate processyon . </l>
+<lb/><l xml:id="PR-172-Ct" n="172">They Carye hym In to the Nexte Abbey . </l>
+<lb/><l xml:id="PR-173-Ct" n="173">His moder swownyng by his Bere ley . </l>
+<lb/><l xml:id="PR-174-Ct" n="174">Vnneth myght the people þ<am rend="sup">t</am><ex>at</ex> was there </l>
+<lb/><l xml:id="PR-175-Ct" n="175">This sorowfull Rachell . bryng fro this bere . lF 177vl </l>
+<lb/><l xml:id="PR-176-Ct" n="176">With torment and w<am rend="sup">t</am><ex>ith</ex> shamefull deth echoone . </l>
+<lb/><l xml:id="PR-177-Ct" n="177">Thys provoste doth thise Iues for to Sterve . </l>
+<lb/><l xml:id="PR-178-Ct" n="178">That of this Mourdre knewe ⁊ þ<am rend="sup">t</am><ex>at</ex> A noon . </l>
+<lb/><l xml:id="PR-179-Ct" n="179">He nolde no su<am>c̄</am><ex>etc</ex>h Cursidnes observe . </l>
+<lb/><l xml:id="PR-180-Ct" n="180">evyll shall he have . that evyll will de<am>ꝸ</am><ex>ser</ex>ve . </l>
+<lb/><l xml:id="PR-181-Ct" n="181">Wherfore with wyld horse he did hem drawe . </l>
+<lb/><l xml:id="PR-182-Ct" n="182">And after he hangid the be the lawe . </l>
+<lb/><l xml:id="PR-183-Ct" n="183">Vppon his Beere ay lyeth this Innocent . </l>
+<lb/><l xml:id="PR-184-Ct" n="184">Before the hygh Autere while the masse laste . </l>
+<lb/><l xml:id="PR-185-Ct" n="185">And aftyr that the Abbot and his Covent . </l>
+<lb/><l xml:id="PR-186-Ct" n="186">Hem spedde for to bary hym full faste . </l>
+<lb/><l xml:id="PR-187-Ct" n="187">And when they holy watyr on hym Caste . </l>
+<lb/><l xml:id="PR-188-Ct" n="188">Yette spake this Childe . was spreynt was holy w<gap quantity="4" unit="chars"/> </l>
+<lb/><l xml:id="PR-189-Ct" n="189">He sang O Alma Redemptoris Mater . </l>
+<lb/><l xml:id="PR-190-Ct" n="190">This Abbot which þ<am rend="sup">t</am><ex>at</ex> was an holy man . </l>
+<lb/><l xml:id="PR-191-Ct" n="191">As Monkes been or ellys oughte to be . </l>
+<lb/><l xml:id="PR-192-Ct" n="192">This yong Chylde to Conjure he began . </l>
+<lb/><l xml:id="PR-193-Ct" n="193">And sayd O deere chyld I Conjure the . </l>
+<lb/><l xml:id="PR-194-Ct" n="194">In the vertu of the hooly Trynyte . </l>
+<lb/><l xml:id="PR-195-Ct" n="195">Tell me what is thy Cause for to syng . </l>
+<lb/><l xml:id="PR-196-Ct" n="196">Sy<gap quantity="2" unit="chars"/> that thy throte is Cutte to my semynge lF 178rl </l>
+<lb/><l xml:id="PR-197-Ct" n="197">My throote Is Cutte vnto my nekke boone . </l>
+<lb/><l xml:id="PR-198-Ct" n="198">Sayde this Chylde . ⁊ As be way of kynde . </l>
+<lb/><l xml:id="PR-199-Ct" n="199">I shald A deyde ye longe tyme agoon . </l>
+<lb/><l xml:id="PR-200-Ct" n="200">Butte Ihu Cryste . as ye In Bookis fynde . </l>
+<lb/><l xml:id="PR-201-Ct" n="201">Wyll that his glory laste ⁊ be In mynde . </l>
+<lb/><l xml:id="PR-202-Ct" n="202">And for the worshippe of his moder deere . </l>
+<lb/><l xml:id="PR-203-Ct" n="203">Yitte may I syng . O alma . lowde and Cleere  </l>
+<lb/><l xml:id="PR-204-Ct" n="204">This well of m<am>ꝰ</am><ex>er</ex>cy Cryst<am>ꝭ</am><ex>es</ex> moder swete . </l>
+<lb/><l xml:id="PR-205-Ct" n="205">I lovid alwey as after my Connyng. </l>
+<lb/><l xml:id="PR-206-Ct" n="206">And whan þ<am rend="sup">t</am><ex>at</ex> I my lyf shold forlete . </l>
+<lb/><l xml:id="PR-207-Ct" n="207">To me she Cam  . ⁊ bad me for to syng. </l>
+<lb/><l xml:id="PR-208-Ct" n="208">This Antem veryly In my dying . </l>
+<lb/><l xml:id="PR-209-Ct" n="209">As ye have herd ⁊ whan þ<am rend="sup">t</am><ex>at</ex> I had song . </l>
+<lb/><l xml:id="PR-210-Ct" n="210">Me thought she layd A grayn on my tong . </l>
+<lb/><l xml:id="PR-211-Ct" n="211">Wherfor I syng . ⁊ syng moste Certeyn . </l>
+<lb/><l xml:id="PR-212-Ct" n="212">In honowre of that Blessid Mayde<hi rend="sup">e</hi>n free </l>
+<lb/><l xml:id="PR-213-Ct" n="213">Tyll fro my Tng takyn is the greyn . </l>
+<lb/><l xml:id="PR-214-Ct" n="214">And aftyr that . thus said she to me . </l>
+<lb/><l xml:id="PR-215-Ct" n="215">My lytyll Child the will I fecche the . </l>
+<lb/><l xml:id="PR-216-Ct" n="216">Whan þ<am rend="sup">t</am><ex>at</ex> the greyn is fro thy Tong I take </l>
+<lb/><l xml:id="PR-217-Ct" n="217">The notte A gaste I wyll the notte forsake . </l>
+<pb xml:id="Ct-178v" n="178v" facs="CTMR020.JPG" rend="0,0,50,100"/>
+<lb/><l xml:id="PR-218-Ct" n="218">This hooly Monk this Abbotte hym meane I .  </l>
+<lb/><l xml:id="PR-219-Ct" n="219">His Tong . owte Cawght . ⁊ tooke A way the Greyn </l>
+<lb/><l xml:id="PR-220-Ct" n="220">And he yaff vppe the gooste full softely . </l>
+<lb/><l xml:id="PR-221-Ct" n="221">And when this Abbotte had this Mervayle seyn . </l>
+<lb/><l xml:id="PR-222-Ct" n="222">His salte terys trollid down as Reyn . </l>
+<lb/><l xml:id="PR-223-Ct" n="223">And grovelyng platte he fyll to the grounde . </l>
+<lb/><l xml:id="PR-224-Ct" n="224">And still he lay . as he had be I bounde </l>
+<lb/><l xml:id="PR-225-Ct" n="225">The Covente eke lay vppon the pamente </l>
+<lb/><l xml:id="PR-226-Ct" n="226">Wepyng ⁊ herying Crist<am>ꝭ</am><ex>es</ex> moder deere . </l>
+<lb/><l xml:id="PR-227-Ct" n="227">And aftyr þ<am rend="sup">t</am><ex>at</ex> vppe they Rose ⁊ forth they wente </l>
+<lb/><l xml:id="PR-228-Ct" n="228">And toke awey this Martyr fro his Beere . </l>
+<lb/><l xml:id="PR-229-Ct" n="229">And In A Tombe of Marble stonys Cleere </l>
+<lb/><l xml:id="PR-230-Ct" n="230">Enclosen they thys lytell Body swete : </l>
+<lb/><l xml:id="PR-231-Ct" n="231">Ther he Is nowe . Godde leue vs for to Mete . </l>
+<lb/><l xml:id="PR-232-Ct" n="232">O yong hewe of lyncoln slayn also . </l>
+<lb/><l xml:id="PR-233-Ct" n="233">With Cursid Iues as it Is Notable . </l>
+<lb/><l xml:id="PR-234-Ct" n="234">For it is Butte A lytyll whyle A goo . </l>
+<lb/><l xml:id="PR-235-Ct" n="235">Prey eke for vs we synfull folke vnstable . </l>
+<lb/><l xml:id="PR-236-Ct" n="236">That of his Mercy . God so mercyable . </l>
+<lb/><l xml:id="PR-237-Ct" n="237">On vs his greate mcy multyplye . </l>
+<lb/><l xml:id="PR-238-Ct" n="238">For reuerence of his swete moder Marye   </l>
+<lb/><l xml:id="PR-239-Ct" n="239"><gap quantity="35" unit="chars"/> </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

@@ -1,0 +1,35 @@
+==== Manuscript name and Mosser link  ====
+
+University of Texas, Austin, Harry Ransom Humanities Research Center, HRC Pre-1700 MS 143. Mosser: Cn.
+ 
+==== Original construction  ====
+
+19 quires of twelve folios (228 folios), 8 quires of 8 (64), 2 of 10 (20), and one of 6: 318 folios. 
+
+==== Missing folios  ====
+
+The first three leaves of quire 1 (folios 1-3), leaves 2, 4 and 9 of quire 2 (folios 14, 16 and 21), the first leaf of quire 7 (folio 71); the last leaf of quire 10 (folio 118), leaf 7 of quire 25 (outside the Tales), and the final two leaves of the last quire, 30 (folios 317-318).
+
+==== Added folios  ====
+
+A singleton after folio 115, foliated 115a. See Notes.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 1-152 (folios 1-3,  apparently removed when the manuscript was stolen from Deene Park in 1915); KT 86-164 (folio 14); KT 243-324 (folio 16); KT 652-734 (folio 21); ML 998-1064, WBP 1-5 (folio 71). For folio 118, see Notes.
+
+==== Notes  ====
+
+Quire 10 is anomalous: the last leaf (folio 118) has been removed and a singleton leaf inserted two leaves earlier, after folio 115, but without any loss or disorder of text. Keiser, cited by Mosser, explained this by an error of copying, resulting from the bifolia being disarranged so that the text which should have been copied onto the tenth leaf (the conjunct of the third leaf) was actually copied onto the twelfth leaf (the conjunct of the first leaf). According to this scenario, the scribe corrected this by removing this last leaf, copied its text onto a replacement singleton and inserted it after the ninth leaf (folio 115), where it continues the text on the previous folio.  We count this additional leaf as 115a (109, in Mosser's numbering). Thus, there is no loss of text corresponding to the absent folio 118.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser) |	New CT foliation |
+|1-10|	4-13|
+|11	|15|
+|12-15  |17-20|
+|16-64	|22-70|
+|65-108 |72-115|
+|109 |115a|
+|110-111	|116-117|
+|112-244	|119-251|
