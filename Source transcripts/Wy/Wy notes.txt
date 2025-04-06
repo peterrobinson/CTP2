@@ -1,0 +1,66 @@
+Wy notes
+
+This incunable has 5 quires of 4 (20 folios; quires a-b, t, y, .:.), 4 quires of  8 (32 folios; quires c-d, r-s), 17 quires of 6 folios (102 folios; quires e-q [excluding j], u, x, z, &, &con;),for a total of 154 folios. It appears the entire outermost sheet of quire u was removed and replaced by a singleton at the beginning of the quire, with no conjunct u6.
+
+47
+
+Tale Order GP KT L1 MI L2 RE L3 CO L7 ML WBP WBT L10 FR L11 SU CL L13 L14 L15 ME L8 SQ L20 FK NU L33 CY PH L21 PD SH L24 PR L25 TT L28 TM L29 MO L30 NP L31 L36 MA L37 PA 
+
+1
+Supplied L15
+
+NYU 
+Oxford GP WBP
+ST KT L2 RE WBT L10 FR L11 SU CL L13 L14 L8 SQ L20 FK NU L33 CY PH L21 L31 L36 MA L37 PA
+Oxford/DMU L1 MI 
+DMU ME
+Mosser L3 CO 
+
+Munster PD
+Sheffield 
+ST/Posnan L7 ML
+BYU/DMU/ST SH L24 PR L25 TT L28 TM L29 MO L30 NP 
+ 
+Images:
+a1-4= 1-4
+b1-4= 5-8
+c1-8= 9-16
+d1-8= 17-24
+e1-e4r=25-28r
+e4v/e5r MISSING
+e5v-e6 =28v-29
+f1-6=30-35
+g1-6=36-41
+h1-6=42-47
+i1-6=48-53
+k1-6=54-59
+l1-2r=60-61r
+61v and 62r repeat 60v and 61r
+l2v-l5r = 62v-65r
+65v and 66r repeat 64v and 65r
+l5v-l6v=66v-67v
+m1-6=68-73
+n1-6=74-79
+o1-6=80-85
+p1-6=86-91
+q1-6=92-97
+r1-8=98-105
+s1-8=106-113
+t1-4=114-117
+u1-5=118-122
+x1-6=123-128
+y1-4=129-132
+z1-6=133-138
+Replaced & with A
+&1-6r=139-144r
+145v and 146r repeat 144v and 145r
+&6v=145v
+Replaced &con; with B
+&con;1-2r=146-147r
+&con;2v-6=149v-153
+Replaced .:. with C
+.:.1-3=154-156
+RESCAN &con;1v = 146v and &con;2r = 147r
+
+Correspondence:
+Trad us
