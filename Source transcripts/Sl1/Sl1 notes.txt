@@ -1,0 +1,68 @@
+Sl1 notes
+The complete manuscript had 30 quires of 8 (240 folios), and additional quires to the 30 which survive.  There has been considerable loss of leaves. The whole of the first quire and the first leaf of the second quire (folio 9) are missing, so the manuscript begins on folio 10 in our foliation.	The seventh leaf is missing from the third quire (folio 23); the first leaf from the fourth quire (folio 25); the second and third leaves from quire 10 (folios 74 and 75); the sixth leaf from quire 12 (folio 94); the sixth leaf from quire 17 (folio 134); the fourth and eighth leaves from quire 18 (folios 140 and 144); the third leaf from quire 20 (folio 155).
+
+Absent text corresponding to the missing folios is as follows:  GP 1-648 (folios 1-9); KT 721-792 (folio 23); KT 865-936 (folio 25); TG 826-end, L7 1-67(c. 75 + 67 lines); SQ 283-256 (folio 94); WBT 1225-end [c. 12 lines], FR 1-20 and presumed L10 [c. 36 lines] (folio 134); L11 15-end [c. 30 lines], SU 1-40 (folio 140); SU 259-330 (folio 144; no blank page inserted in ms); CL 603-674 (folio 155)
+
+The ending of SU is abbreviated, as in several other mss, to omit the detail of the farting. MO stops at 680, as do other MSS. NP stops at the base of 240v, the last folio of the last extant quire, at line 604. The presence of a catchword at the base of this page suggests at least one additional quire was present in the original manuscript.
+
+
+
+Numbering
+Trad Us
+1-13 10-22
+14 24
+15-62 26-73
+63-80 76-93
+81-119 95-133
+120-124  135-139
+125-127 141-143
+128-137 145-154
+138-222 156-240
+
+
+
+
+Images: 
+[]/10r -22v/[23r] = 2-15
+folio 23 missing
+[23v]/24r = 16
+24v/[25r] = 17
+folio 25 missing
+[25v]/26r--73v/[74r] = 18-66
+folios 74 and 75 missing
+[75v]/76r -- 93v/[94r]= 67-85
+folio 94 missing
+[94v]/95r- 97v/98r = 86-89
+89 and 90 are identical
+98v/99r -- 133v/[134r] = 91-126
+folio 134 missing
+[134v]/135r-139v/[140r] = 127-132
+folio 140 missing
+[140v]/141r-143v/[144r] = 133-136
+folio 144 missing
+[144v]/145r-154v/[155r]= 136-146
+folio 155 missing
+[155v]/156r-210v/211r = 147-202
+202 and 203 are identical
+211v/212r - 213v/214r = 204-206
+206 and 207 are identical
+214v/215r - 240v = 208-
+
+
+Order
+GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ L20 ME WBP WBT FR L11 SU CL L13 L17 FK NU L33 CY L34 PH L21 PD L22 SH L24 PR L29 MO L30 NP
+
+supplied: KT L2 RE TG L8 SQ WBT FR L11 SU L13 NU L33 CY PH L21 L22 SH L24 PR
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU ME L20 L17 L34
+VT L3 CO
+Posnan L7 ML
+Sheffield  FK
+Munster PD
+BYU L29 MO L30 NP
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 PH 0 L21 0 L36 0 MA 0 SQ 0 PL 0 PA 0}
+array set pagedBase {FK 0}

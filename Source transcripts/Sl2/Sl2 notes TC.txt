@@ -1,0 +1,264 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library Sloane MS 1686. Mosser: Sl2.
+
+==== Original construction  ====
+
+37 quires of 8 (296 folios), one quire of four (quire 32): 300 folios.
+
+==== Missing folios  ====
+
+The outer bifolium 1.8 is missing from the first quire (folios 1 and 8); the third leaf is missing from quire 28 (folio 219); and the outer bifolium 1.8 is missing from the last quire (folios 293 and 300). 
+
+==== Added folios  ====
+
+None. 
+
+==== Absent text corresponding to the missing folio  ====
+ 
+ GP 1-62 (folio 1); GP 414-471 (folio 8). Folio 219: see Notes. NP 556-620 (folio 293).  299v finishes with the end of MA, followed by blank space and the note "Deo gracias" suggesting this was the end of the MS.
+
+==== Notes  ====
+
+There may be no missing text on 219. NU finishes on half way down 218v; PH may start at top of 220r. Images for 218v/220r missing, so can't check whether something follows NU on 218v, and whether PH starts on 220r. The text is so faded for L28 and TM (folios 251-269) that no attempt was made to identify the text on each page.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+|Traditional (Mosser)	|New CT foliation |
+|1-6 | 2-7|
+|7-216 | 9-218|
+|217-289 | 220-292|
+|290-295 | 294-299| 
+
+
+Sl2 notes
+
+The complete manuscript had 37 quires of 8 (296 folios) and one quire of four (quire 32), for a total of 300 folios.  The outer bifolium 1.8 is missing from the first quire (folios 1 and 8); the third leaf is missing from quire 28 (folio 219); and the outer bifolium 1.8 is missing from the last quire (folios 293 and 300). There is a minor error in Mosser's foliation: he numerates quires 33 to 37, five quires of 8 and hence forty folios, as "250-290": it should be "250-289", with the six folios of the last quire (38) foliated as "290-295".
+
+Absent text corresponding to the missing folios is as follows:  GP 1-62 (folio 1); GP 414-471 (folio 8);  likely no missing text on 219? NU finishes on half way down 218v; PH *may* at top of 220r -- check when image is available. What was between them? image for 218v/220r missing, so can't check whether something follows NU on 218v, and whether PH starts on 220r
+NP 556-620 (folio 293)
+
+The text is so faded from L28 on that no attempt was made to identify the text on each page: so no files created for L28 TM. 
+BYU resumes on 270v with L29. MO breaks off at 680 on 283v, followed by L30 immediately after on 284r. 
+
+
+Numbering
+Trad Us
+1-6 2-7
+7-216  9-218
+217-289  220-292
+290-295  294-299 (note error in Mosser, above).
+
+
+
+Images: 
+[]/2r -7v/[8r] = []/3b-9a/[9b]
+folio 8 missing
+[8v]/9r-13v/14r  = [9a]/9b - 14a/14b
+14v/15r missing 
+15v/16r = 15a/b
+16v/17r missing
+17v/18r - 19v/20r = 16a/b -- 18a/b
+20v/21r missing
+21v/22r -- 30v/31r = 19a/b -- 28a/b
+31v/32r missing
+32v/33r -- 36v/37r = 29a/b-- 33a/b
+37v/38r missing
+38v/39r -- = 34a/b--
+39v/40r missing
+40v/41r -- = 35a/b
+41v/42r missing
+42v/43r- 46v/47r- = 36a/b -- 40a/b
+47v/48r missing
+48v/49r -- 49v/50r = 41a/b-- 42a/b
+50v/51r missing
+51v/52r -- = 43a/b
+52v/53r missing
+53v/54r -- = 44a/b -- 45a/b
+55v/56r missing
+56v/57r -- 57v/58r = 46a/b-47a/b
+58v/59r missing
+59v/60r = 48a/b
+60v/61r missing
+61v/62r -- 62v/63r = 49a/b -- 50a/b
+63v/64r missing
+64v/65r -- = 51a/b
+65v/66r missing
+66v/67r -- = 52a/b
+67v/68r missing
+68v/69r -- 69v/70r = 53a/b-54a/b
+70v/71r missing
+71v/72r -- = 55a/b
+72v/73r missing
+73v/74r -- 75v/76r = 56a/b -- 58a/b
+76v/77r missing
+77v/78r -- = 59a/b
+78v/79r missing
+79v/80r -- = 60a/b
+80v/81r missing
+81v/82r -- = 61a/b
+82v/83r missing
+83v/84r -- = 62a/b
+84v/85r missing
+85v/86r -- = 63a/b
+86v/87r missing
+87v/88r -- = 64a/b
+88v/89r missing
+89v/90r--90v/91r = 65a/b-66a/b
+91v/92r missing
+92v/93r -- 93v/94r = 67a/b-68a/b
+94v/95r missing
+95v/96r -- = 69a/b
+96v/97r missing
+97v/98r --  98v/99r= 70a/b--71a/b
+99v/100r missing
+100v/101r -- = 72a/b
+101v/102r missing
+102v/103r -- = 73a/b
+103v/104r missing
+104v/105r -- = 74a/b
+105v/106r missing
+106v/107r -- = 75a/b
+107v/108r missing
+108v/109r -- = 76a/b
+109v/110r missing
+110v/111r -- = 77a/b
+111v/112r missing
+112v/113r = 78/B
+113v/114r missing
+114v/115r = 79a/b
+115v/116r missing
+116v/117r = 80a/b
+117v/118r missing
+118v-119r = 81a/b
+119v/120r missing
+120v/121r 82a/b
+121v/122r missing
+112v/123r 83a/b
+123v/124r missing
+124v/125r -- 125v/126r = 84a/b-85a/b
+126v/127r missing
+127v/128r 86a/b 86a/b
+128v/129r missing
+129v/130r 87a/b
+130v/131r missing
+131v/132r = 88a/b
+132v/133r missing
+133v/134r 89a/b
+134v/135r missing
+135v/136r 90a/b
+136v/137 missing
+137v/138r 91a/b
+138v/139r missing
+139v/140r 92a/b
+140v/141r missing
+141v/142r 93a/b
+142v/143r missing
+143v/144r-114v/145r  94a/b--95a/b
+145v/146r missing
+146v/147r-147v/148r 96a/b-97a/b
+148v/149r missing
+149v/150r--151v/152r 98a/b--100a/b
+152v/153r missing
+153v/154r 101a/b
+154v/155r missing
+155v/156r -- 156v/157r 102a/b--103a/b
+157v/158r missing
+158v/159r-159v/160r 104a/b-105a/b
+160v-161v missing (no 106a!)
+[]/162r 106b
+162v/163r--163v/164r  107a/b-108a/b
+164v/165r missing
+165v/166r 109a/b
+166v/167r missing
+167v/168r 110a/b
+168v/169r missing
+169v/170r-170v/171r 111a/b-112a/b
+171v/172r missing
+172v/173r 113a/b
+173v/174r missing
+174v/175r 114a/b
+175v/176r missing
+176v/177r 115a/b
+177v/178r missing   //is L14 present???
+178v/179r 116a/b
+179v/180r missing
+180v/181r 117a/b
+181v/182 missing
+182v/183r--184v/185r 118a/b -- 120a/b
+185v/186r missing
+186v/187r -- 188v/189r 121a/b-123a/b
+189v/190r missing
+190v/191r 124a/b
+191v/192r missing
+192v/193r 125a/b
+193v/194r missing
+194v/195r 126a/b
+195v/196r missing
+196v/197r  127a/b
+197v/198r missing
+198v/199r -- 200v/201r 128a/b -- 130a/b
+201v/202r missing
+202v/203r 131a/b
+203v/204r missing
+204v/205r--209v/210r 132a/b -- 137a/b
+210v/211r missing
+211v/212r 138a/b
+212v/213r missing
+213v/214r 139a/b
+214v/215r missing
+215v/216r 140a/b
+216v/217r missing
+217v/218r 141a/b
+218v/[219r] missing
+folio 219 missing
+[219v]/220r missing
+220v/221r--223v/224r 142a/b-145a/b
+224v/225r missing
+225v/226r 146a/b
+226v/227r missing
+227v/228r 147a/b
+228v/229r missing
+229v/230r 148a/b
+230v/231r missing
+231v/232r 149a/b
+232v/233r missing
+233v/234r 150a/b
+234v/235r missing
+235v/236r--236v/237r 151a/b--152a/b
+237v/238r missing
+238v/239r 153a/b
+239v/240r missing
+240v/241r 154a/b
+241v/242r missing
+242v/243r 155a/b
+243v/244r missing
+244v/245r 156a/b
+245v/246r missing
+246v/247r 157a/b
+247v/248r missing
+248v/249r-249v/250r 158a/b-159a/b
+250v/251r missing
+251v/252r 160a/b
+252v/253r missing
+253v/254r-254v/255r 161a/b -- 162a/b
+163 duplicates 162
+255v/256r -- 292v/[293r] = 164a/b -- 201a/[b]
+folio 293 missing
+[293v]/294r -- 298v/299r = 201[a]/b-206a/b
+
+folio 299v? missing? image is blank?
+Tale order: GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ WBP WBT L10 FR L11 SU CL L13 ME FK NU PH L21 PD SH L24 PR L25 TT L29 MO L30 NP L36 MA
+supplied: KT L2 RE TG L7 ML L8 SQ WBT L10 FR L11 SU CL L13 NU PH L21 SH L24 PR L25 TT L28 L36 MA
+
+
+NYU 
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU ME L13 
+VT L3 CO
+Sheffield  FK
+Munster PD
+BYU L29 MO L30 NP
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 PH 0 L21 0 L36 0 MA 0 SQ 0 PL 0 PA 0}
+array set pagedBase {FK 0}

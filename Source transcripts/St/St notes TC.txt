@@ -1,0 +1,81 @@
+==== Manuscript name and Mosser link  ====
+
+Stonyhurst, Clitheroe, Lancashire, Stonyhurst College MS. Mosser: St.
+
+==== Original construction  ====
+
+8 quires of 8 (64 folios) and a final irregular quire, foliated by Mosser as "5+1": 69 folios.
+
+==== Missing folios  ====
+
+None.
+
+==== Added folios  ====
+
+A singleton added after the last leaf of quire 8, hence "64a" in our numbering. 
+
+==== Absent text corresponding to the missing folio  ====
+ 
+
+==== Notes  ====
+
+TM is on folios 35r-45r in our numbering. In the traditional foliation, folios 10 and 11 are numerated as "10" and "10*", folios 49 and 50 as "48" and "48*".
+
+Note the omission of TM 170-203 on 40r, and the abbreviation of the text  in 44r col a, between TM 351 and 437; 44v col a, between TM 450-533; 45r col a, between TM 547-654; 45v col b between TM 677 and 911.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+|Traditional (Mosser)	|New CT foliation |
+|1-10 | 1-10|
+|10* | 11|
+|11-47 | 12-48|
+|48 | 49|
+|48* | 50|
+|49-62 | 51-64|
+|63 | 64a|
+|64-68 | 65-69|
+
+St notes
+
+The manuscript consists of 8 quires of 8 (64 folios) and a final irregular quire, foliated by Mosser as "5+1". In the traditional foliation, folios 10 and 11 are numerated as "10" and "10*", folios 49 and 50 as "48" and "48*".  There is a singleton added after the last leaf of quire 8, hence "64a" in our numbering.  TM is on folios 35r-45r in our numbering.
+Note the omission of TM 170-203 on 40r, and the abbreviation of the text  in 44r col a, between TM 351 and 437; 44v col a, between TM 450-533; 45r col a, between TM 547-654; 45v col b between TM 677 and 911.
+
+
+Tale order TM
+Supplied TM
+
+Images: 
+
+[]/35r-35v/36r=[]/1-2
+36v/37r - 37v/38r = 3-4
+38v/39r DISPLACED ?
+39v/40r =5
+38v/39r = 6
+40v/41r -- 45v/46r = 7- 12
+
+
+44v/45r = 3 - 11 (?)
+
+Tale Order 
+Supplied:
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L15 ME L13
+Mosser L3 CO
+
+Munster PD
+Sheffield FK
+Posnan L7 ML
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP
+
+Correspondence
+trad us
+1-10 1-10
+10* 11
+11-47 12-48
+48 49
+48* 50
+49-62 51-64
+63 64a
+64-68 65-69

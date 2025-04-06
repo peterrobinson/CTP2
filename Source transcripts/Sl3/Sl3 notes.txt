@@ -1,0 +1,34 @@
+Sl3 notes
+
+TM occupies 20 folios of 61 surviving folios in the first volume of this manuscript, containing medieval English and Latin texts.  According to Mosser, TM was originally in a single quire of 24 which is now missing the first and last three leaves. In fact, the first leaf of this quire (folio 29) appears to be present, but in mutilated form, with the last extant text on 29v being in TM 29. The next extant leaf commences in TM 68, suggesting that it is the second leaf, not the first, which is missing. Hence, we number this next surviving leaf as 31. TM finishes on leaf 21 of the quire (folio 49v) at TM 876.  Mosser thinks there may have been an outer bifolium of this quire, which might have held L28: this would have been folio 29.  However, Mosser does not take account of the gap between this folio 29 (in our numbering; 30 in his) and the next extant folio (31 in both our numberings).
+
+
+No images available.
+
+Absent text corresponding to the missing folios is as follows:  
+
+
+Numbering
+Trad Us
+29  29
+30-48 31-49
+
+
+
+Images: 
+[28v]/29r-29v/[30r]- = 24-25
+fol 30 missing 
+[30v]/31r- = 25
+image for 31v-32r missing
+32v/33r- 38v/39r = 26-32
+39v-40r image missing
+40v/41r-47v/48r = 33-40
+48v-49r image missing
+49v/[] = 41
+
+supplied: TM
+
+Supplied TM
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 PH 0 L21 0 L36 0 MA 0 SQ 0 PL 0 PA 0}
+array set pagedBase {FK 0}

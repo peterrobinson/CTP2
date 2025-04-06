@@ -1,0 +1,36 @@
+Se notes
+
+The manuscript originally consisted of 38 quires of 8 (304 folios).  These quires are followed by two bifolia, which are included in the traditional foliation but which may not be part of the original manuscript. The manuscript is bound with three parchment fly leaves, containing a fifteenth-century liturgical calendar. These are included in the traditional foliation, but not in this foliation.  Both the traditional foliation and this foliation ignore a sheet of manuscript music bound at the front and back, which previously was a pastedown.  The traditional foliation skipped from 174 (=folio 171) to 176 (=folio 172).
+
+As with several other mss, MO breaks off abruptly, at MO 768, at the end of fol. 201v.
+
+Images: 
+[]/1r-76v/77r=[5a]/5b-81a/b
+images 81 and 82 are identical
+image for 77v/78r missing
+78v/79r-288v/[289r] = 83a/b-293a/[b]
+289r image MISSING
+289v/290r - 305v/[306r] = 294a/b-310a/[b]
+306r image MISSING
+306v = 311a
+
+
+Tale Order GP KT L1 MI L2 RE L3 CO CL L13 L14 WBP WBT L10 FR L11 SU L15 ME L17 SQ L7 ML L8 SH L24 PR L25 TT L28 TM L29 MO L30 NP NU L33 CY L34 PH L21 PD FK L36 MA L37 PA RT
+Supplied: KT L2 RE CL WBT L10 FR L11 SU SQ L8 NU L33 CY PH L21 MA PA RT
+
+NYU 
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L13 L14 L15 ME L17 L34 L36 L37
+Mosser L3 CO
+
+Munster PD
+Sheffield FK
+Posnan L7 ML
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP
+
+Correspondence
+trad us
+4-174 1-171
+176-310 172-306
+
