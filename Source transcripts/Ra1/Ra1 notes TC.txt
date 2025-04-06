@@ -1,0 +1,78 @@
+==== Manuscript name and Mosser link  ====
+
+Oxford, Bodleian Library MS Rawlinson poet. 141 [s.c. 14635]. Mosser: Ra1.
+
+==== Original construction  ====
+
+27 quires of 8 (216 folios), and an additional unknown number of quires at the end. 
+
+==== Missing folios  ====
+
+The first five quires (folios 1-40), quire 26 (folios 201-208), and an unknown number of quires at the end are missing. The second leaf is missing from the ninth quire (folio 66); the first four leaves from the 21st quire (folios 161-164); the inner bifolium 4.5 from the 23rd quire (folios 180-181); and the inner four leaves (two bifolio 3.6, 4.5?) from the last quire (folios 211-214). The last surviving quire breaks off at MA 36, with a catchword. 
+
+==== Absent text corresponding to the missing folio  ====
+ 
+GP, KT 1-1708 (folios 1-40; approx 62 lines a folio); RE 241-304 (folio 66); MO 245-411 (folios 161-164); WBP 693-820 (folios 180-181); SU 359-end, NP 1-255   (folios 201-208, c. 228+255 lines, likely including the short form of L30 with 62 lines a folio accommodating c. 500 lines); NP 385-end, L36 1-13 (folios 211-214, c. 254 lines; approx 63 lines a folio).
+
+==== Notes  ====
+
+Abbreviation of TM on 137v; rearrangement of text in 143r-144r, including repetition of 395-415.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-25 | 41-65|
+|26-119 | 67-160|
+|120-134 | 165-179|
+|135-153 | 182-200|
+|154-155 | 209-210|
+|156-157 | 215-216|
+
+
+
+Ra1 notes
+
+The complete manuscript had 27 quires of 8 (216 folios), and an additional unknown number of quires at the end. There has been considerable loss from the manuscript.  All of the first five quires (folios 1-40), quire 26 (folios 201-208), and an unknown number of quires at the end are missing. The second leaf is missing from the ninth quire (folio 66); the first four leaves from the 21st quire (folios 161-164); the inner bifolium 4.5 from the 23rd quire (folios 180-181); and the inner four leaves (two bifolio 3.6, 4.5?) from the last quire (folios 211-214). The last surviving quire breaks off at MA 36, with a catchword. The manuscript thus lacks FK CY PA PD NU and the associated links.
+
+
+Absent text corresponding to the missing folios is as follows: GP, KT 1-1708 (folios 1-40; approx 62 lines a folio); RE 241-304 (folio 66); MO 245-411 (folios 161-164); WBP 693-820 (folios 180-181); SU 359-end, NP 1-255   (folios 201-208, c. 228+255 lines, likely including the short form of L30 with 62 lines a folio accommodating c. 500 lines); NP 385-end, L36 1-13 (c. 254 lines; approx 63 lines a folio)
+
+Note abbreviation of TM on 137v; rearrangement of text in 143r-144r, including repetition of 395-415.
+
+Images: 
+[40v]/41r-65v/[66r] = 6[a]/b -31a/[b]
+fol 66 missing
+[66v]/67r - 91v/92r = 31[a]/b- 56a/b
+92v/93r missing
+93v/94r - 160v/[] = 57a/b- 124a/[]
+124v missing (=88a)
+folios 161-164 missing
+[]/165r-179v/[] = 124[a]/b-139a/[b]
+folios 180-181 missing
+[]/182r-200v/[] = 139[a]/b-158a/[b]
+folios 201-208 missing
+[]/209r - 210v/[] = 158[a]/b- 160a/[b]
+folios 211-214 missing
+[]/215r-216v = []/160b -
+
+Tale Order KT L1 MI L2 RE L3 CO L7 ML L8 SQ CL SH L24 PR L25 TT L28 TM L29 MO WBP WBT L10 FR L11 SU NP L36 MA
+Supplied: KT L2 RE L7 ML L8 SQ SH L24 PR L25 TT L28 TM L10 FR L11 SU L36 MA
+
+NYU CL
+Oxford  WBP
+Oxford/DMU L1 MI
+DMU L15 ME L13
+Mosser L3 CO
+Munster PD
+Sheffield FK
+Posnan  
+BYU  L29 MO NP
+
+Correspondence
+Trad us
+1-25 41-65
+26-119 67-160
+120-134 165-179
+135-153 182-200
+154-155 209-210
+156-157 215-216

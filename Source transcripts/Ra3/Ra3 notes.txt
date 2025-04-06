@@ -1,0 +1,105 @@
+==== Manuscript name and Mosser link  ====
+
+Oxford, Bodleian Library MS Rawlinson poet. 149 [s.c. 14641]. Mosser: Ra2.
+
+==== Original construction  ====
+
+23 of 12 (276 folios) and two of 8 (the tenth and last quires): 292 folios. 
+
+==== Missing folios  ====
+
+The first seven leaves are missing from the first quire (folios 1-7); the eighth leaf is missing from the sixth quire (folio 68); the last leaf is missing from the tenth quire (folio 116); the last leaf is missing from the eleventh quire (folio 128); the fourth leaf is missing from the thirteenth quire (folio 144); the inner five bifolia 2.11 3.10 4.9 5.8 6.7 are missing from quire 18 (folios 202-211); the sixth and last leaves of quire 25, the last folio in the manuscript (folios 290 and 292).
+
+==== Added folios  ====
+
+After folio 96, the last leaf of the eighth quire, foliated as 96a.
+
+==== Absent text corresponding to the missing folio  ====
+ 
+GP 1-712 (folios 1-7; 172 lines would have taken less than three folios); RE 403-404, L3, CO 1-18 (folio 68); ME 804-872 (folio 128); WBP 673-740 (folio 144); TM 327-798 (folios 202-211); PA 986-end, RT 1007-1012 (folio 290). Folio 291v is blank, as 292 is likely to have been. No text is missing corresponding to folio 116: 115v finishes with the end of the 'Prohemye' of CL, at line 56, marked by an elaborate rubric, with the 'Tale' commencing on the first folio of quire 11, folio 117. This suggests that the scribe planned to begin the new 'tale' with the new quire, as ME commences quire 9. In the case of ME, this meant an extra leaf (96a) had to be added to accommodate the end of SQ; in this case, a leaf has to be removed to avoid a blank leaf between the 'prohemye' and the 'tale' in CL.
+
+==== Notes  ====
+
+The leaf added at the end of quire 8, 96a, carries up to the end of SQ on the recto, with the verso left blank, preceding L20 and ME on the first leaf of quire 9.
+
+KT 516-601 are omitted on 25v. Bizarrely, L28 is written in the same tennis-fixture format used for TT. Also bizarrely: FK is introduced as the Merchant's Prologue.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-5 | 6-10|
+|6-13 | 12-19|
+|14-17 | 21-24|
+|18-19 | 34-35|
+|20-21 | 38-39|
+|22-35 | 48-61|
+|36-44 | 63-71|
+|45-52 | 73-80|
+|53-85 | 97-129|
+|85a | 130|
+|86-89 | 131-134|
+|90-115 | 136-161|
+|116-128 | 168-180|
+|129-136 | 182-189|
+
+
+Ra3 notes
+
+The complete manuscript had 25 quires: 23 of 12 (276 folios) and two of 8 (the tenth and last quires), for a total of 292 folios.  The first seven leaves are missing from the first quire (folios 1-7); the eighth leaf is missing from the sixth quire (folio 68); the last leaf is missing from the tenth quire (folio 116); the last leaf is missing from the eleventh quire (folio 128); the fourth leaf is missing from the thirteenth quire (folio 144); the inner five bifolia 2.11 3.10 4.9 5.8 6.7 are missing from quire 18 (folios 202-211); the sixth and last leaves of quire 25,the last folio in the manuscript (folios 290 and 292). A leaf has been added after folio 96, the last leaf of the eighth quire: we foliate this as 96a.
+
+ 
+
+Absent text corresponding to the missing folios is as follows: GP 1-712 (folios 1-7; 172 lines would have taken less than three folios); RE 403-404, L3, CO 1-18 (folio 68); ME 804-872 (folio 128); WBP 673-740 (folio 144); TM 327-798 (folios 202-211); PA 986-end, RT 1007-1012 (folio 290). Folio 291v is blank, as 292 is likely to have been. No text is missing corresponding to folio 116: 115v finishes with the end of the 'Prohemye' of CL, at line 56, marked by an elaborate rubric, with the 'Tale' commencing on the first folio of quire 11, folio 117. This suggests that the scribe planned to begin the new 'tale' with the new quire, as ME commences quire 9. In the case of ME, this meant an extra leaf (96a) had to be added to accommodate the end of SQ; in this case, a leaft has to be removed to avoid a blank leaf between the 'prohemye' and the 'tale' in CL.
+
+The leaf added at the end of quire 8, 96a, carries up to the end of SQ on the recto, with the verso left blank, preceding L20 and ME on the first leaf of quire 9.
+
+KT 516-601 are omitted on 25v. Bizarrely, L28 is written in the same tennis-fixture format used for TT. Also bizarrely: FK is introduced as the Merchant's Prologue.
+
+Images: 
+[7v]/8r-- 67v/[68r] = 240-300
+Folio 68 missing
+[68v]/69r-96v/96ar  = 300-328
+96av/97r 329
+97v/98r - 115v/[116r] = 330-348
+Folio 116 is missing
+[116v]/117r - 127v/[128r] = 348-359
+Folio 128 is missing
+[128v]/129r - 143v/[144r] =359-374
+Folio 144 is missing
+[144v]/145r -- 151v/[152r] = 374-381
+image for 152r MISSING
+152v/153r - 192v/[193r] = 382-422
+image for 193r MISSING
+193v/194r -- 201v/[202r] = 423-431
+[211v]/212r - 223v/[224r] = 431-443
+image for 224r MISSING
+224v/225r - 234v/235r = 444-454
+image 454 and 455 identical
+235v/236r - 238v/[239r] = 456-459
+image for 239r MISSING
+239v/240r - 251v/252r = 460-472
+
+Tale Order GP KT L1 MI L2 RE CO L7 ML L8 SQ L20 ME CL L13 WBP WBT L10 FR L11 SU NU PD L36 MA TT L28 TM NP PH SH L24 PR FK L37 PA
+Supplied: KT L2 RE SQ WBT SU TT L28 TM PH SH L24 PR PA
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L20 ME L13 FK L37
+Mosser CO
+Munster PD
+Sheffield  L10 FR L11 NU L36 MA
+Posnan L7 ML L8
+BYU   NP
+
+Correspondence
+Trad us
+1-60	 8-67
+61-88 69-96
+89 96a
+90-108 97-115
+109-119 117-127
+120-134 129-143
+135-191 145-201
+192-269  212-289
+270 291

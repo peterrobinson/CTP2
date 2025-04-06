@@ -1,0 +1,100 @@
+==== Manuscript name and Mosser link  ====
+
+San Marino, Huntington Library HM 140. Mosser: Ph4.
+
+==== Original construction  ====
+
+23 quires of 8 (184 folios) and a final quire of six: 190 folios.
+
+==== Missing folios  ====
+
+The eighth leaf is missing from the fifth quire (folio 70). 
+
+==== Absent text corresponding to the missing folio  ====
+ 
+CL 189-260 (folio 70).
+
+==== Notes  ====
+
+CL finishes on the sixth leaf of the sixth quire, folio 84.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|68-69 |68-69|
+|70-84 |71-85|
+
+
+
+Ra2 notes
+
+The complete manuscript had 23 quires of 8 (184 folios) and a final quire of six, for a total of 190 folios. There has been considerable loss from the manuscript. The fourth, eleventh and twelfth quires (folios 25-32, 81-96) are missing. The first five leaves are missing from the first quire (folios 1-5); the third leaf is missing from the second quire (folio 11); the fourth leaf is missing from the third quire (folio 20); the outer and inner bifolia 1.8 4.5 are missing from the fifth quire (folios 33, 36-37, 40); the first seven folios are missing from the sixth quire (folios 41-47); the sixth folio is missing from the eighth quire (folio 62); the last folio is missing from the ninth quire (folio 72); the seventh folio is missing from quire 17 (folio 135); the inner three bifolia 2.7 3.6 4.5 from quire 21 (folios 162-167); the fifth folio from quire 23 (folio 181); the last folio of quire 24,the last folio in the manuscript (folio 190).
+
+ 
+
+Absent text corresponding to the missing folios is as follows: GP 1-432 (folios 1-5); KT 54-129 (folio 11); KT 841-931 (folio 20), KT 1280-2086 (folios 25-33),  L1 22-end, MI 1-123 (c. 54 lines+123, folios 36-37), MI 304-end, L2, RE 1-281 (c. 360 +66 + 281= c. 700 lines, folios 40-47); ML 920-999 ESTIMATED images missing (folio 62); ME 760-end, ?, TG 1-266 (c. 410+266; hence space for additional c. 850 lines,folios 81-96); CY 316-453 (folio 135); MO 112-end, L30 [presumed], NP 1-172 (folios 162-167; 6 at 148 lines=888= MO c. 660 [long version] + L30 54 [long version?] + NP 172); PA 481-536 (folio 181); (folio 192)
+
+SQ finishes half way down 71r (Mosser; image is missing). The verso, 71v is blank, and folio 72 (presumably blank) is absent. The same abbreviated SU is here as elsewhere. TM is abbreviated on 154v, 155r
+	
+
+Images:  
+6r.JPG 7r.JPG (ex unsplit 9)
+7r image missing
+7v/8r - 10v/[11r] = 10-13
+folio 11 missing
+[11v]/12r - 19v/[20r] =  13-21
+folio 20 missing
+[20v]/21r - 24v/[25r] = 21-25
+folios 25-33 missing
+[33v]/34r - 35v/[36r] = 25-27
+folios 36-37 missing
+[37v]/38r-39v/[40r] = 27-29
+folios 0-47 missing
+[47v]/48r - 60v/61r = 29-42
+image for 61v/63r missing
+folio 62 missing
+63v/64r - 69v/70r = 43-49
+image for 70v/71r missing
+71v/[72r] = 50
+folio 72 missing
+[72v]/73r - 80v/[81r]= 50-58
+folios 81-96 missing
+[96v]/97r-128v/129r = 58-90
+image for 129v/130r missing
+130v/131r - 134v/[135r] = 91-95
+folio 135 missing
+[135v]/136r - 161v/[162r] = 95-121
+folios 162-167 missing
+[167v]/168r - 189v/190r = 121-143
+
+
+Tale Order GP KT L1 MI RE L7 ML L8 SQ L20 ME TG WBP WBT L10 FR L11 SU CL L13 NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT L28 TM L29 MO NP L36 MA L37 PA
+Supplied: KT RE L7 ML L8 SQ TG WBT L10 FR L11 SU CL NU L33 CY PH L21 SH L24 PR L25 TT L28 TM L36 MA PA RT
+
+NYU 
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L20 ME L13 L34 L37
+Mosser 
+Munster PD
+Sheffield FK
+Posnan 
+BYU L29 MO NP
+
+Correspondence
+Trad us
+1-5	 6-10
+6-13 12-19
+14-17 21-24
+18-19 34-35
+20-21  38-39
+22-35 48-61
+36-44 63-71
+45-52 73-80
+53-85 97-129
+85a 130
+86-89 131-134
+90-115 136-161
+116-128 168-180
+129-136 182-189
+

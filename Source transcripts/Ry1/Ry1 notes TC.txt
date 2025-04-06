@@ -1,0 +1,97 @@
+==== Manuscript name and Mosser link  ====
+
+ London, British Library Royal MS 17.d.xv. Mosser: Ry1.
+ 
+==== Original construction  ====
+
+This foliation refers only to the first section of the manuscript, containing CT. This part of the manuscript had 26 quires of 12: 312 folios.
+
+==== Missing folios  ====
+
+The first leaf is missing from the first quire (folio 1); the third leaf is missing from the thirteenth quire (folio 147); the eleventh leaf is missing from the fifteenth quire (folio 179); the third leaf is missing from the twentieth quire (folio 231);the last seven leaves are missing from the last quire (folios 306-312).
+
+==== Added folios  ====
+
+
+==== Absent text corresponding to the missing folio  ====
+ 
+ GP 1-68 (folio 1); FR 150-211 (folio 147); PA 376-end (folios 306-312).  There appears to be nothing lost corresponding to Folio 179 (L13 finishes top 178v, FK starts on 180r), or to folio 231 (PD finishes halfway down 230v, SH starts on 232r).
+
+==== Notes  ====
+
+A large space is left after the end of TT at the base of 245r, with L28 commencing some way down 245v. MO finishes at 680.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+|Traditional (Mosser)	|New CT foliation |
+|1-145 | 2-146|
+|146-176 | 148-178|
+|177-227 | 180-230|
+|228-301 | 232-305|
+
+
+
+Ry1 notes
+
+This foliation refers only to the first section of the manuscript, containing CT. This part of the manuscript had 26 quires of 12: 312 folios. The first leaf is missing from the first quire (folio 1); the third leaf is missing from the thirteenth quire (folio 147); the eleventh leaf is missing from the fifteenth quire (folio 179); the third leaf is missing from the twentieth quire (folio 231);the last seven leaves are missing from the last quire (folios 306-312).
+
+
+
+Absent text corresponding to the missing folios is as follows: GP 1-68 (folio 1); FR 150-211 (folio 147); no text missing? L13 finishes top 178v, FK starts on 180r (folio 179); no text missing? PD finishes halfway down 230v, SH starts on 232r (folio 231); PA 376-end (folios 306-312).  A large space is left after the end of TT at the base of 245r, with L28 commencing some way down 245v. MO finishes at 680.
+
+Images: 
+[1v]/2r-72v/73r= 2-73
+images 74 and 75 identical; 74 incomplete, use 75
+73v/74r-75v/76r = 75-77
+image 78 defective
+76v/77r -- 146v/[147r] = 79-149
+folio 147 missing
+[147v]/148r - 178v/[179r] = 149-180
+folio 179 missing
+[179v]/180r - 230v/[231r] = 180- 231
+folio 231 missing
+[231v]/232 -- 245v/246r = 231-245
+images 246 and 247 identical; 246 incomplete, use 247
+246v/247r -- 266v/267r = 247-267
+image for 267v/268r missing
+268v/269r 268 
+image for 269v/270r missing
+270v/271r = 269
+image for 271v/272r missing
+272v/273r = 270
+image for 273v/274r missing
+274v/275r = 271
+image for 275v/276r missing
+276v/277r = 272
+image for 277v/278r missing
+278v/279r = 273
+image for 279v/280r missing
+280v/281r = 274
+image for 281v/282r missing
+282v/283r - 289v/290r = 275 - 282
+images 282 and 283 identical
+290v/291r = 284
+291v/292r - 303v/304r  = 285-297
+304v/305r missing
+305v 298
+
+Tale Order GP KT L1 MI L2 RE L3 CO TG L7 ML L8 L17 SQ L15 ME WBP WBT L10 FR L11 SU CL L13 FK NU L33 CY L34 PH L21 PD SH L24 PR L25 TT L28 TM L29 MO L30 NP L31 L36 MA L37 PA
+Supplied: KT L2 RE TG ML L8 SQ WBT L10 FR L11 SU NU L33 CY PH L21 L31 L36 MA L37 PA 
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L17 L15 ME L13 L34
+Mosser L3 CO
+
+Munster PD
+Sheffield FK
+Posnan L7 
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP
+
+Correspondence
+trad us
+1-145 2-146
+146-176 148-178
+177-227 180-230
+228-301 232-305
+

@@ -1,0 +1,1236 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ra4</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+ 				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+					<respStmt n="L13">
+						<resp>Original transcription and corrections:</resp>
+						<name n="DMU UoS">De Montfort team; conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+					<respStmt n="CL">
+						<resp>Original transcription and corrections:</resp>
+ 						<name n="NYU UoS">New York University team; conversion for Textual Communities: Saskatchewan team.</name>
+ 					</respStmt>
+					<respStmt n="PR">
+						<resp>Original transcription and corrections:</resp>
+						<name n="BYU UoS">Brigham Young team; conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+ 				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>Oxford</settlement>
+						<repository>Bodleian Library</repository>
+						<idno>MS Rawlinson C.86</idno>
+						<msName>Ra4</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb n="156v" facs="RA4BD165a.JPG"/>
+<div n="CL" type="G">
+<lb/><l n="IR">Grysil </l>
+<lb/><l n="57">Ther is ryght atte west syde of Italie </l>
+<lb/><l n="58">Downe at þᵉ rote of vessillus þᵉ olde </l>
+<lb/><l n="59">A lusty playne haboundant of vitayle </l>
+<lb/><l n="60">Wher many townse and towres þᵘ may beholde </l>
+<lb/><l n="61">That founden weren in tyme of faders olde </l>
+<lb/><l n="62">And many an othir deletabyl syght </l>
+<lb/><l n="63">And Slus þ<am>ᵗ</am><ex>at</ex> nobyl kuntre hyght </l>
+<lb/><l n="64">An Merkquys whylom was lord of þ<am>ᵗ</am><ex>at</ex> londe </l>
+<lb/><l n="65">As was his worthy auncestres hym beforne </l>
+<lb/><l n="66">And obeysaunt en redy to his hande </l>
+<lb/><l n="67">Weren al his liegis bothe lesse 7 more </l>
+<lb/><l n="68">Thus in delyte he lyued and hath done yore </l>
+<lb/><l n="69">Lovid and drede by fauoure of fortune </l>
+<lb/><l n="70">Both of his lordis and of his co<am>̄</am><ex>m</ex>mune </l>
+<lb/><l n="71">Ther w<am>ᵗ</am><ex>ith</ex> he was to speke of lynage </l>
+<lb/><l n="72">The gentillest borne of al Lumbardy </l>
+<lb/><l n="73">A fayre parsone stronge and yonge of age </l>
+<lb/><l n="74">And ful of honour and of curtasie </l>
+<lb/><l n="75">Dyscrete ynogh his countre for to guyde </l>
+<lb/><l n="76">Saue in some thyng<am>ꝭ</am><ex>es</ex> he was to blame </l>
+<lb/><l n="77">And Walter was þᵉ yong lordys name </l>
+<lb/><l n="78">I blame hym thus þ<am>ᵗ</am><ex>at</ex> he considred not </l>
+<lb/><l n="79">In tyme comyng what myght hym betyde </l>
+<lb/><l n="80">But on his lust psent was al his thoght </l>
+<lb/><l n="81">As for to hauke and hunte on eu<am>̉</am><ex>er</ex>y syde </l>
+<lb/><l n="82">Wele nygh al of honoure he lete slyde  ??? waiting for folio image </l>
+<pb n="157r" facs="157r.JPG"/>
+<lb/><l n="204">Among this poure folk ther dwelte a man </l>
+<lb/><l n="205">Which that was holden pourest of hem alle </l>
+<lb/><l n="206">But heighe god som tyme senden kan </l>
+<lb/><l n="207">His grace in to a litel Oxes Stalle </l>
+<lb/><l n="208">Ianicula men of that Throop hym calle </l>
+<lb/><l n="209">A doghter hadde he fair ynogh to sighte </l>
+<lb/><l n="210">And Grisildis this yonge mayden highte </l>
+<lb/><l n="211">But for to speke of vertuous beautee </l>
+<lb/><l n="212">Thanne was she oon the faireste vnder the sonne </l>
+<lb/><l n="213">For poureliche yfostred vp was she </l>
+<lb/><l n="214">No likerous lust was thurgh hir herte yronne </l>
+<lb/><l n="215">Wel ofter of the welle than of the tonne </l>
+<lb/><l n="216">She drank and for she wolde vertu plese </l>
+<lb/><l n="217">She knew wel labour but noon ydel ese </l>
+<lb/><l n="217a">Hit was hir lust and hir most ese </l>
+<lb/><l n="218">But thogh this mayde tendre were of age </l>
+<lb/><l n="219">Yet in the brest of hir virginitee </l>
+<lb/><l n="220">Ther was enclosed rype and sad corage </l>
+<lb/><l n="221">And in gret reuerence and charitee </l>
+<lb/><l n="222">Hir olde poure fader fostred she </l>
+<lb/><l n="223">A fewe sheep spynnynge on feld she kepte </l>
+<lb/><l n="224">She wolde noght been ydel til she slepte </l>
+<lb/><l n="225">And whan she homward cam she wolde brynge </l>
+<lb/><l n="226">Wortes or othere herbes tymes ofte </l>
+<lb/><l n="227">The whiche she shredde and seeth for his lyuynge </l>
+<lb/><l n="228">And made hir bed ful harde and no thyng softe </l>
+<lb/><l n="229">And ay she kepte hir fadres lyf on lofte </l>
+<lb/><l n="230">With euery obeysance and diligence </l>
+<lb/><l n="231">That child may doon to fadres reuerence </l>
+<lb/><l n="232">Vp on Grisilde this poure creature </l>
+<lb/><l n="233">Ful ofte sithe this Markys sette his eye </l>
+<lb/><l n="234">As he on huntyng rood per auenture </l>
+<lb/><l n="235">And whan it fil that he myghte hir espie </l>
+<lb/><l n="236">He noght wit wantowne lookyng of folye </l>
+<lb/><l n="237">Hise eyen caste on hir but in sad wyse </l>
+<lb/><l n="238">Vp on hir cheere he wolde hym ofte auyse </l>
+<pb n="157v" facs="RA4BD166a.JPG"/>
+<lb/><l n="239">Comedynge in his herte her womanhede </l>
+<lb/><l n="240">And eke her vertu passyng any wyght </l>
+<lb/><l n="241">Of so yonge age as wel as dede </l>
+<lb/><l n="242">For though þᵉ peapyl haue none gret insighte </l>
+<lb/><l n="243">Her vertu he considerith ful ryght </l>
+<lb/><l n="244">Her beaute and disposid þ<am>ᵗ</am><ex>at</ex> he wolde </l>
+<lb/><l n="245">Her wedde if eu<am>̉</am><ex>er</ex> he wedd shulde </l>
+<lb/><l n="246">The day of weddyng came but no wyght can </l>
+<lb/><l n="247">Tel what woman it shulde be </l>
+<lb/><l n="248">For whych mervauylle wondreth many a man </l>
+<lb/><l n="249">And sayde whan þey weren in prevyte </l>
+<lb/><l n="250">Wol he nat oure lorde leve his vanite </l>
+<lb/><l n="251">Wol he nat wedde alas þᵉ whyle </l>
+<lb/><l n="252">Why wol he hym selfe and vs begyle </l>
+<lb/><l n="253">But neu<am>̉</am><ex>er</ex>thelesse þd???need superscript s here??? lorde let make </l>
+<lb/><l n="254">Of Jemmes set on golde <am>⁊</am><ex>and</ex> in asure </l>
+<lb/><l n="255">Broches <am>⁊</am><ex>and</ex> Ryng<am>ꝭ</am><ex>es</ex> for Grysil sake </l>
+<lb/><l n="256">And of her clothyng toke he þᵉ mesure </l>
+<lb/><l n="257">Of a mayde lyke to her stature </l>
+<lb/><l n="258">Also of her ornement<am>ꝭ</am><ex>es</ex> al </l>
+<lb/><l n="259">That to such a weddyng shuld befal </l>
+<lb/><l n="260">Þᵉ tyme of noon in þᵉ same daye </l>
+<lb/><l n="261">Approchid þ<am>ᵗ</am><ex>at</ex> this weddyng shulde be </l>
+<lb/><l n="262">And al þᵉ peapyl was set in aray </l>
+<lb/><l n="263">Bothe hal and chaumbr in theyre degre </l>
+<lb/><l n="264">Howsis of offices stuffed w<am>ᵗ</am><ex>ith</ex> grete plente </l>
+<lb/><l n="265">Ther men may se dayntes of vitayle </l>
+<pb n="158r" facs="RA4BD166b.JPG"/>
+<lb/><l n="317">So rede he waxed and abassyng <am>⁊</am><ex>and</ex> qᵃkeyng </l>
+<lb/><l n="318">He stode vnnethes he sayd any worde moo </l>
+<lb/><l n="319">But only this lorde quod he my willyng </l>
+<lb/><l n="320">Is as your wyl not to gaynstand yo<am>ᵘ</am><ex>ur</ex> lykyng </l>
+<lb/><l n="321">I wol none þyng ye be myn lorde so dere </l>
+<lb/><l n="322">Ryght as you lyst gou<am>̉</am><ex>er</ex>ne þdˢ mater </l>
+<lb/><l n="323">Than wyl I do this qd Marcus softely </l>
+<lb/><l n="324">Þ<am>ᵗ</am><ex>at</ex> into þdˢ chaumbre I þᵘ <am>⁊</am><ex>and</ex> she </l>
+<lb/><l n="325">Haue a collaciou and wote þᵘ whye </l>
+<lb/><l n="326">For I wol aske her and her wyl be </l>
+<lb/><l n="327">To be my wyfe and reuled after me </l>
+<lb/><l n="328">And al this she shal be done in þy psens </l>
+<lb/><l n="329">I wol not speke oute of þyn audience </l>
+<lb/><l n="330">In this chambr whyle þay weren alone </l>
+<lb/><l n="331">Her tretys whych ye shal after here </l>
+<lb/><l n="332">Þᵉ peopyl cāme in to þᵉ house w<am>ᵗ</am><ex>ith</ex> oute </l>
+<lb/><l n="333">And wondret hem in honeste mane </l>
+<lb/><l n="334">And tentyfly she kepte her fader dere </l>
+<lb/><l n="335">But vttely Grysil wondir myght </l>
+<lb/><l n="336">For neu<am>̉</am><ex>er</ex> a fore sawe she suche a syght </l>
+<lb/><l n="337">No wondir were thogh she were astonyd </l>
+<lb/><l n="338">To se so grete a geste ??? come to þ<am>ᵗ</am><ex>at</ex> place </l>
+<lb/><l n="339">She was neu<am>̉</am><ex>er</ex> to suche gest<am>ꝭ</am><ex>es</ex> wunde </l>
+<lb/><l n="340">For whyche she lokyth w<am>ᵗ</am><ex>ith</ex> pale face </l>
+<lb/><l n="341">But shortly fro this mater to passe </l>
+<pb n="158v" facs="RA4BD167a.JPG"/>
+<lb/><l n="342">Thise were þᵉ wordis þ<am>ᵗ</am><ex>at</ex> þᵉ lord sayde </l>
+<lb/><l n="343">To this benyngne verray feythful mayde </l>
+<lb/><l n="344">Grysilde he sayde I wil ye vndirstonde            </l>
+<lb/><l n="345">It liketh vnto yoᵃ<am>̉</am><ex>e</ex> ??? fader and me </l>
+<lb/><l n="346">þ<am>ᵗ</am><ex>at</ex> I you wedde and also to me stonde </l>
+<lb/><l n="347">As my suppose ye wil þ<am>ᵗ</am><ex>at</ex> <app><rdg type="orig"> ib ib</rdg><rdg type="c1"> it it</rdg><rdg type="lit"> <seg type="st"> ib </seg> <seg type="pl"> it </seg> <seg type="pl"> it </seg></rdg></app> be </l>
+<lb/><l n="348">But this demande I aske first q ???super d??? he </l>
+<lb/><l n="349">That it shal be done in hasti wyse </l>
+<lb/><l n="350">Wyl ye assent or ellys wyl te auyse </l>
+<lb/><l n="351">I saye be ye redy w<am>ᵗ</am><ex>ith</ex> good hert </l>
+<lb/><l n="352">To my luste þ<am>ᵗ</am><ex>at</ex> I frely maye </l>
+<lb/><l n="353">As me best lykyth done yow laugh or smerte </l>
+<lb/><l n="354">And ye neu<am>̉</am><ex>er</ex> to gurge nyght ne daye </l>
+<lb/><l n="355">And eek when I say yes ye say not nay </l>
+<lb/><l n="356">Neyther be worde ne frowarde countennce ???ww w/ alpha above </l>
+<lb/><l n="357">Swere þd ???super s??? and here I swere oure alyaunce </l>
+<lb/><l n="358">Wondrynge vpon þd ???super s??? quakyng for drede </l>
+<lb/><l n="359">She sayde magne and vnworthy </l>
+<lb/><l n="360">Am I to þ<am>ᵗ</am><ex>at</ex> ye me bydde </l>
+<lb/><l n="361">But ryght as ye wol lord so wyl I </l>
+<lb/><l n="362">And swere þ<am>ᵗ</am><ex>at</ex> neu<am>̉</am><ex>er</ex> willyngly </l>
+<lb/><l n="363">In worde ne dede I wol you disobey </l>
+<lb/><l n="364">For to be dede though me were loþe to dye </l>
+<lb/><l n="365">This is I nowe Grysyll myn owne qd he </l>
+<lb/><l n="366">And furth he goth w<am>ᵗ</am><ex>ith</ex> a sobir chere </l>
+<pb n="159r" facs="RA4BD167b.JPG"/>
+<lb/><l n="MRE366">Shud </l>
+<lb/><l n="367">Out at þᵉ dore and after þ<am>ᵗ</am><ex>at</ex> cam she </l>
+<lb/><l n="418">So sprad of her bounte the mdme of fame </l>
+<lb/><l n="419">That men and women as the yonge <am>⁊</am><ex>and</ex> olde </l>
+<lb/><l n="420">Come to Salus her to be holde </l>
+<lb/><l n="421">This Marquys weddid lowly nay but ryally </l>
+<lb/><l n="422">W<am>ᵗ</am><ex>ith</ex> fortune and w<am>ᵗ</am><ex>ith</ex> honeste </l>
+<lb/><l n="423">In goddes peace lyuete wele honestly </l>
+<lb/><l n="424">Al hom and outward gᵃace Inough had he </l>
+<lb/><l n="425">And for he sawe vnder neth so lowe degre </l>
+<lb/><l n="426">Was ofte vertu hid the devyse hym he behylde </l>
+<lb/><l n="427">A prudent man and that sayne ful selde </l>
+<lb/><l n="442">Nought long tyme after this Gryseld </l>
+<lb/><l n="443">Was weddid she gate a dought<am>̉</am><ex>er</ex> Ibore </l>
+<lb/><l n="444">Alle had he leu<am>̉</am><ex>er</ex> haf borne a childe </l>
+<lb/><l n="445">Glad was this Marquys <am>⁊</am><ex>and</ex> his folke therfore </l>
+<lb/><l n="446">For though an mayde <app><rdg type="orig">shylde</rdg><rdg type="c1">Jiede</rdg><rdg type="lit"><seg type="i">Jiede</seg> shylde</rdg></app>before </l>
+<lb/><l n="447">She may a knaf childe attayne </l>
+<lb/><l n="448">By lykhode sithen she is nat bareyne </l>
+<lb/><l n="449">Therfor it falleth tymys moo </l>
+<lb/><l n="450">When this shilde had souked but a throwe </l>
+<lb/><l n="451">This Markguys in hert thought so </l>
+<lb/><l n="452">To temper his wif her sadnes to know </l>
+<lb/><l n="453">That he ne myghte his hert throwe </l>
+<lb/><l n="454">This mvelous desyre his wyf to assay </l>
+<lb/><l n="455">Neu<am>̉</am><ex>er</ex>theles he thought her to affray </l>
+<lb/><l n="456">He had assaued her Inough to fore </l>
+<lb/><l n="457">And fonde her euere good what nedith it ???Note Marginalia??? </l>
+<pb n="159v" facs="RA4BD168a.JPG"/>
+<lb/><l n="458">Her to tempte allwaie more <am>⁊</am><ex>and</ex> more </l>
+<lb/><l n="459">Though that some men pysith for an subtill wyt </l>
+<lb/><l n="460">But as for me I saie þ<am>ᵗ</am><ex>at</ex> eveyl it site </l>
+<lb/><l n="461">To assaie a woman when it is no nede </l>
+<lb/><l n="462">And put her in anguysshe <am>⁊</am><ex>and</ex> in drede </l>
+<lb/><l n="463">For which this Marquys though in this mane </l>
+<lb/><l n="464">A nyght alone where as she lay </l>
+<lb/><l n="465">W<am>ᵗ</am><ex>ith</ex> sterne face and cruel cheere </l>
+<lb/><l n="466">And said to Grysil quod he that daie </l>
+<lb/><l n="467">That I you take of your pour araie </l>
+<lb/><l n="468">And put you in astateeeeee of heigh nobles </l>
+<lb/><l n="469">Yet ye haue not forgeten as I gesse </l>
+<lb/><l n="470">I saie Grysyld this psent Diginte </l>
+<lb/><l n="471">In whiche I haf put you as I trowe </l>
+<lb/><l n="472">Makith you not foryetful for to be </l>
+<lb/><l n="473">That I you take in pou<am>̉</am><ex>er</ex>e astate <am>⁊</am><ex>and</ex> full lowe </l>
+<lb/><l n="474">For ne thinke you must yo<am>ᵘ</am><ex>ur</ex> self knowe </l>
+<lb/><l n="475">Takith hede to eu<am>̉</am><ex>er</ex>y word that I saie </l>
+<lb/><l n="476">Ther is no wight þ<am>ᵗ</am><ex>at</ex> herith this but we tway </l>
+<lb/><l n="477">Ye woote wele yo<am>ᵘ</am><ex>ur</ex> self how ye cam heere </l>
+<lb/><l n="478">Into this house it is nat longe ago </l>
+<lb/><l n="479">And though ye be to me lief and dere </l>
+<lb/><l n="480">Vnto me gentle ye no thyng soo </l>
+<lb/><l n="481">The say to hem self it is grete shame <am>⁊</am><ex>and</ex> woo </l>
+<pb n="160r" facs="RA4BD168b.JPG"/>
+<lb/><l n="485">Thise wordes hath þey spoken douteles </l>
+<lb/><l n="486">But I desire as I haue done before </l>
+<lb/><l n="487">To haue my lyfe in rest and peace </l>
+<lb/><l n="488">I may not in this cas be recchelees </l>
+<lb/><l n="489">I must done w<am>ᵗ</am><ex>ith</ex> þyn doughter þᵉ best </l>
+<lb/><l n="490">Not <app><rdg type="orig">I</rdg><rdg type="c1">as</rdg><rdg type="lit"><seg type="i">as</seg> I</rdg></app> wolde but as my gentles list </l>
+<lb/><l n="491">And yet god wote it is wel loth to me </l>
+<lb/><l n="492">But neu<am>̉</am><ex>er</ex>theles w<am>ᵗ</am><ex>ith</ex> oute your<am>̉</am><ex>e</ex> wittyng </l>
+<lb/><l n="493">I wol not don but þis I wyl <expan >quod</expan> he </l>
+<lb/><l n="494">Þ<am>ᵗ</am><ex>at</ex> ye to me assure as in <expan >this</expan> thynge </l>
+<lb/><l n="495">Sheweth nowe yoᵃ<am>̉</am><ex>e</ex> pacience and worthynys </l>
+<lb/><l n="496">Þ<am>ᵗ</am><ex>at</ex> ye me behight in yoᵃ<am>̉</am><ex>e</ex> vyllage </l>
+<lb/><l n="497">Þ<am>ᵗ</am><ex>at</ex> day þ<am>ᵗ</am><ex>at</ex> make was our<am>̉</am><ex>e</ex> mariage </l>
+<lb/><l n="498">When she hard al <expan >this</expan> she was nat moved </l>
+<lb/><l n="499">Nanther in worde or chere ne contenᵃnce </l>
+<lb/><l n="500">For as it semed she was not a greved </l>
+<lb/><l n="501">She sayd lord al it lyeth in yoᵃ<am>̉</am><ex>e</ex> plesaunce </l>
+<lb/><l n="502">Myn chylde <am>⁊</am><ex>and</ex> I w<am>ᵗ</am><ex>ith</ex> herty obeysaunce </l>
+<lb/><l n="503">Be youre al <am>⁊</am><ex>and</ex> ye may save and spyl </l>
+<lb/><l n="504">Your owne þing where þ<am>ᵗ</am><ex>at</ex> ye wyl </l>
+<lb/><l n="505">Ther may no thyng so god my soule saue </l>
+<lb/><l n="506">Lykyng to you þ<am>ᵗ</am><ex>at</ex> may displese me </l>
+<lb/><l n="507">Ne I desyryng no þyng to haue </l>
+<lb/><l n="508">Ne drede to lese <am>⁊</am><ex>and</ex> saue only ye </l>
+<lb/><l n="509">This wyl is in myn herte <am>⁊</am><ex>and</ex> eu<am>̉</am><ex>er</ex> shal be </l>
+<lb/><l n="510">Nathing <app><rdg type="orig">of</rdg><rdg type="c1">lengthe</rdg><rdg type="lit"><seg type="i">lengthe</seg> of</rdg></app>  tyme or deth may deface </l>
+<pb n="160v" facs="RA4BD169a.JPG"/>
+<lb/><l n="511">Ne chaunge myn corage in other place </l>
+<lb/><l n="512">Glad was þᵉ Marquys for her answeryng </l>
+<lb/><l n="513">But yet hefayned as he were not soo </l>
+<lb/><l n="514">Al dry was his chere <am>⁊</am><ex>and</ex> his lokyng </l>
+<lb/><l n="515">When he oute shuld of þᵉ chaumbr goo </l>
+<lb/><l n="516">Shone after <expan >this</expan> a furlong weye or two </l>
+<lb/><l n="517">He playnly hath tolde al his entent </l>
+<lb/><l n="518">Vnto a man whych he to his wyf sente </l>
+<lb/><l n="519">A man of a <am>ʆ</am><ex>ser</ex>geant was <expan >this</expan> good man </l>
+<lb/><l n="520">The whych þ<am>ᵗ</am><ex>at</ex> faithful he ofte founde had </l>
+<lb/><l n="521">In thyng<am>ꝭ</am><ex>es</ex> grete and eke such folk wele can </l>
+<lb/><l n="522">Done execusion of þyng<am>ꝭ</am><ex>es</ex> bad </l>
+<lb/><l n="523">The lorde knewe wel þ<am>ᵗ</am><ex>at</ex> he hym loued and drad </l>
+<lb/><l n="524">And when <expan >this</expan> lorde had tolde him his wyl </l>
+<lb/><l n="525">Into þᵉ chaumbir he stalkyth ful styl </l>
+<lb/><l n="526">Madame he sayde ye must for geue it me </l>
+<lb/><l n="527">Though I do þyng<am>ꝭ</am><ex>es</ex> þᵉ whych I am constrayned </l>
+<lb/><l n="528">Ye ben so wys þ<am>ᵗ</am><ex>at</ex> wele knowe ye </l>
+<lb/><l n="529">That lordys behestys may not be fayned </l>
+<lb/><l n="530">That may be as wel wayled as complayned </l>
+<lb/><l n="531">But men must nedis to her behestys obeye </l>
+<lb/><l n="532">And so wyl I þ<am>̉</am><ex>er</ex> is no more to saye </l>
+<lb/><l n="533">That chylde I am comaunded to take </l>
+<lb/><l n="534">And spake no more but þᵉ chylde he hent </l>
+<lb/><l n="535">Spituosly and gan a chere make </l>
+<pb n="161r" facs="RA4BD169b.JPG"/>
+<lb/><l n="536">As he wolde haue it or he went </l>
+<lb/><l n="537">Grysil must al suffir <am>⁊</am><ex>and</ex> al consent </l>
+<lb/><l n="538">And as a babe she sat meke and stil </l>
+<lb/><l n="539">And leet þᵉ cruel <am>ʆ</am><ex>ser</ex>geaunt haue his wyl </l>
+<lb/><l n="540">Suspecte was þᵉ name of þᵉ man </l>
+<lb/><l n="542">Suspect þᵉ tyme þ<am>ᵗ</am><ex>at</ex> he this began </l>
+<lb/><l n="543">For her dought<am>̉</am><ex>er</ex> þ<am>ᵗ</am><ex>at</ex> she lowyd soo </l>
+<lb/><l n="544">She wende he shuld haue slayn it ryght thoo </l>
+<lb/><l n="545">But neu<am>̉</am><ex>er</ex>theles she neythir wepte ne syqhed </l>
+<lb/><l n="546">Constraynyng her to þ<am>ᵗ</am><ex>at</ex> <app><rdg type="orig">Marquys</rdg><rdg type="c1">þᵉ</rdg><rdg type="lit"><seg type="i">þᵉ</seg> Marquys</rdg></app> lyked </l>
+<lb/><l n="547">But at þᵉ laste speke she began </l>
+<lb/><l n="548">So mekely to þᵉ <am>ʆ</am><ex>ser</ex>geaunt prayed </l>
+<lb/><l n="549">So as he was a worthy man </l>
+<lb/><l n="550">That she myght kys her childe or þ<am>ᵗ</am><ex>at</ex> it deyde </l>
+<lb/><l n="551">And in her armes <expan >this</expan> lytel chylde she layde </l>
+<lb/><l n="552">W<am>ᵗ</am><ex>ith</ex> sad face and gan þᵉ chylde to <app><rdg type="orig">kysse</rdg><rdg type="c1">blysse</rdg><rdg type="lit"><seg type="st">kysse</seg> blysse</rdg></app> </l>
+<lb/><l n="553">And lullyd it and after gan it kesse </l>
+<lb/><l n="554">And <expan >thus</expan> she sayde in her benygne voice </l>
+<lb/><l n="555">Fare wele my childe I shal þᵉ neu<am>̉</am><ex>er</ex> se </l>
+<lb/><l n="556">But sithen I haue marked þᵉ w<am>ᵗ</am><ex>ith</ex> þᵉ holy cross </l>
+<lb/><l n="557">Of myn fader blessid mot þᵘ be </l>
+<lb/><l n="558">That for vs died vppon þᵉ Rode tree </l>
+<lb/><l n="559">Thyne soule litel chylde I hym betake </l>
+<lb/><l n="560">For this nyght dye shalt þᵘ for myn sake </l>
+<lb/><l n="561">I trowe þ<am>ᵗ</am><ex>at</ex> to a Norys in this case </l>
+<pb n="161v" facs="RA4BD170a.JPG"/>
+<lb/><l n="562">It had ben hard <expan >this</expan> ruth to se </l>
+<lb/><l n="563">Wel myghte a moder þan cry alasse </l>
+<lb/><l n="564">But neu<am>̉</am><ex>er</ex>thelese so sad <am>⁊</am><ex>and</ex> stedfast was she </l>
+<lb/><l n="565">That she endured al adu<am>̉</am><ex>er</ex>site </l>
+<lb/><l n="566">And to þᵉ <am>ʆ</am><ex>ser</ex>geaunt mekely she sayd </l>
+<lb/><l n="567">Haue here ayen myn lytyl yong maide </l>
+<lb/><l n="568">And goith nowe and do myn lordys beheste </l>
+<lb/><l n="569">And one þyng wold I pᵃye you of youre gᵃce </l>
+<lb/><l n="570">That but my lorde forbade you at þᵉ laste </l>
+<lb/><l n="571">Bury <expan >this</expan> litel body in some place </l>
+<lb/><l n="572">That none beste it to race </l>
+<lb/><l n="573">But he no word to þ<am>ᵗ</am><ex>at</ex> purpose wolde say </l>
+<lb/><l n="574">But toke þᵉ childe and wente on his waye </l>
+<lb/><l n="575">This <am>ʆ</am><ex>ser</ex>geaunt cōme vnto þᵉ lorde ayen </l>
+<lb/><l n="576">And of Grysildis worde and of hir chere </l>
+<lb/><l n="577">He tolde hym poynt for poynt in shorte <am>⁊</am><ex>and</ex> playn </l>
+<lb/><l n="578">And hym psent w<am>ᵗ</am><ex>ith</ex> his dought<am>̉</am><ex>er</ex> dere </l>
+<lb/><l n="579">Somwhat <expan >this</expan> lord hadde ruthe in his mane </l>
+<lb/><l n="580">But nev<am>̉</am><ex>er</ex>theles his purpose helde he styl </l>
+<lb/><l n="581">As lordys done when þey wol haue her wyl </l>
+<lb/><l n="582">And bad þᵉ <am>ʆ</am><ex>ser</ex>geaunt ful prevely </l>
+<lb/><l n="583">He shulde þᵉ chylde wynde <am>⁊</am><ex>and</ex> wrappe </l>
+<lb/><l n="584">W<am>ᵗ</am><ex>ith</ex> alle þᵉ circumstaunce tendrely </l>
+<lb/><l n="585">And carye it in an cofir or in a lappe </l>
+<lb/><l n="586">But of payne his hede of to choppe </l>
+<pb n="162r" facs="RA4BD170b.JPG"/>
+<lb/><l n="587">That no man shulde knowe of his entente </l>
+<lb/><l n="588">Ne whene he cōme ne whedir he wente </l>
+<lb/><l n="589">But to Boleyne to his suster dere </l>
+<lb/><l n="590">That þan of pauy was Countesse </l>
+<lb/><l n="591">He shulde her take and shew her this mater </l>
+<lb/><l n="592">Besekyng her to done her besynes </l>
+<lb/><l n="593">This childe to foster in al goodnes </l>
+<lb/><l n="594">And whose childe it was he bad hir hyde </l>
+<lb/><l n="595">Fro eu<am>̉</am><ex>er</ex>y wyght for aught þ<am>ᵗ</am><ex>at</ex> maye betyde </l>
+<lb/><l n="596">This <am>ʆ</am><ex>ser</ex>geaunt goith <am>⁊</am><ex>and</ex> hath fulfillid <expan >this</expan> þyng </l>
+<lb/><l n="597">But to <expan >this</expan> Marquys nowe retorne we </l>
+<lb/><l n="598">For now goith he ful ofte faste ymagynyng </l>
+<lb/><l n="599">If he be his wyfe myghte se </l>
+<lb/><l n="600">That by her wordys yf þ<am>ᵗ</am><ex>at</ex> he </l>
+<lb/><l n="601">Wher chaunged but he couth neu<am>̉</am><ex>er</ex>e fynde </l>
+<lb/><l n="602">But eu<am>̉</am><ex>er</ex> mone lyke sad and kynde </l>
+<lb/><l n="603">As glad as busy as humble in <am>ʆ</am><ex>ser</ex>uice </l>
+<lb/><l n="604">And eke in love as she was wonte to be </l>
+<lb/><l n="605">Was she to hym in eu<am>̉</am><ex>er</ex>y man wyse </l>
+<lb/><l n="606">Ne of her an word spake she </l>
+<lb/><l n="607">Non accident for none adu<am>̉</am><ex>er</ex>site </l>
+<lb/><l n="608">Was seyne in her ne in her doughter name </l>
+<lb/><l n="609">Named she for ernest ne for game </l>
+<lb/><l n="610">In this astate passed ben 4 yere </l>
+<lb/><l n="611">Er she w<am>ᵗ</am><ex>ith</ex> chylde was but as god wolde <app><rdg type="orig">god wolde</rdg><rdg type="c1">as</rdg><rdg type="lit"><seg type="i">as</seg> god wolde</rdg></app></l>
+<lb/><l n="612">A knaue chylde she be her lorde bare </l>
+<pb n="162v" facs="RA4BD171a.JPG"/>
+<lb/><l n="613">Wele gᵃcous and fayre to beholde </l>
+<lb/><l n="614">And when folke to þᵉ fader tolde </l>
+<lb/><l n="615">Not only he but al þᵉ contre more </l>
+<lb/><l n="616">Was for this god to thanke <am>⁊</am><ex>and</ex> her </l>
+<lb/><l n="617">When it was two yere olde <am>⁊</am><ex>and</ex> fro þᵉ brest </l>
+<lb/><l n="618">Departed fro his moder on a daye </l>
+<lb/><l n="619">This Marquys caughte it on a oþ<am>̉</am><ex>er</ex> liste </l>
+<lb/><l n="620">To tempte his wyffe yf þ<am>ᵗ</am><ex>at</ex> he maye </l>
+<lb/><l n="621">Un goodly was she temptyd in asaye </l>
+<lb/><l n="622">But wedded men knowe noo mesure </l>
+<lb/><l n="623">When þey fynde a pacient creature </l>
+<lb/><l n="624">Wyf quod <expan >this</expan> marquys <am>⁊</am><ex>and</ex> wyf ye haue hed or <expan >this</expan> </l>
+<lb/><l n="625">My peaple sekerly beren our<am>̉</am><ex>e</ex> mariage </l>
+<lb/><l n="626">And namely sithen my son born is </l>
+<lb/><l n="627">Now it is wors þan eu<am>̉</am><ex>er</ex> it was in oure age </l>
+<lb/><l n="628">The murmur sleith myn herte <am>⁊</am><ex>and</ex> my corage </l>
+<lb/><l n="629">For to myn Erys comyth þᵉ voyce so smerte </l>
+<lb/><l n="630">That it wel nyȝ distroy myn herte </l>
+<lb/><l n="631">For men sayn þus be I dede or gayn </l>
+<lb/><l n="632">Than shal þᵉ blode of Ianacle succede </l>
+<lb/><l n="633">And ben our<am>̉</am><ex>e</ex> lorde for other haue we non </l>
+<lb/><l n="634">Such wordis sayne myn peapyl it is no drede </l>
+<lb/><l n="635">Wele might I of suche murmoᵘ take hede </l>
+<lb/><l n="636">For certenly I drede such countenᵘnce </l>
+<lb/><l n="637">Though þey not speken pleynly in myn audience </l>
+<lb/><l n="638">If I myght I wolde lyve in pease <am>⁊</am><ex>and</ex> I myghte </l>
+<lb/><l n="641">Right so I þynke I to <am>ʆ</am><ex>ser</ex>ue hym pryvely </l>
+<pb n="163r" facs="RA4BD171b.JPG"/>
+<lb/><l n="642">This warne I you þ<am>ᵗ</am><ex>at</ex> ye not sodenly </l>
+<lb/><l n="643">Oute of your self for no woo shulde ooutᵘraie </l>
+<lb/><l n="644">Beth pacient and þ<am>̉</am><ex>er</ex>of I you pᵃye </l>
+<lb/><l n="645">I haue quod she said and eu<am>̉</am><ex>er</ex> shal </l>
+<lb/><l n="646">I wol desire no þing certayne </l>
+<lb/><l n="647">But as you list nought grevyth me at al </l>
+<lb/><l n="648">Thogh þ<am>ᵗ</am><ex>at</ex> myn dought<am>̉</am><ex>er</ex> and myn son be slayn </l>
+<lb/><l n="649">Al youre co<am>̄</am><ex>m</ex>mandement þ<am>̉</am><ex>er</ex> is no mor<am>̉</am><ex>e</ex> to sayn </l>
+<lb/><l n="650">I haue not had no parte of chyldren twayn </l>
+<lb/><l n="651">But firste sykenes woo <am>⁊</am><ex>and</ex> peyne </l>
+<lb/><l n="652">Ye beth oure lorde aske no rede of me </l>
+<lb/><l n="654">For as I lefte at home al myn <app><rdg type="orig">lyble</rdg><rdg type="c1">clothyng</rdg><rdg type="lit"><seg type="st">lyble</seg> clothyng</rdg></app></l>
+<lb/><l n="655">When I come furst you to ryght quod she </l>
+<lb/><l n="656">Lefte I my wyl <am>⁊</am><ex>and</ex> al my libertee </l>
+<lb/><l n="657">And toke your<am>̉</am><ex>e</ex> clothyng ??? wherfor I you pᵃye </l>
+<lb/><l n="658">Doo your wyl I wyl to you obeye </l>
+<lb/><l n="659">And cert<am>ꝭ</am><ex>es</ex> yf I had pscience </l>
+<lb/><l n="660">Your wil to knowe or ye yoᵃ list me tolde </l>
+<lb/><l n="662">But nowe I wote youᵃ lyste <am>⁊</am><ex>and</ex> what ye wolde </l>
+<lb/><l n="664">For wiste I my deeth myght wolde do you ease </l>
+<lb/><l n="665">Gladly wolde I it suffir you to do plese </l>
+<lb/><l n="666">Deth may make none compison </l>
+<lb/><l n="667">Vn to your love <am>⁊</am><ex>and</ex> when <expan >this</expan> lorde saye </l>
+<lb/><l n="668">The constance of his wyf he keste his hede down </l>
+<lb/><l n="669">And his two <am>⁊</am><ex>and</ex> wondred þ<am>ᵗ</am><ex>at</ex> she myght </l>
+<lb/><l n="670">In suche penannce suffir al <expan >this</expan> arraye </l>
+<pb n="163v" facs="RA4BD172a.JPG"/>
+<lb/><l n="671">And forth he goth w<am>ᵗ</am><ex>ith</ex> drery countenᵃnce </l>
+<lb/><l n="672">But to his hert it was ful grete penannce </l>
+<lb/><l n="673">This egir <am>ʆ</am><ex>ser</ex>geaunt in the same wyse </l>
+<lb/><l n="674">That he her daught<am>̉</am><ex>er</ex> caught ryght so he </l>
+<lb/><l n="675">Or vors yf he couth wors devyse </l>
+<lb/><l n="676">Hath caught hir childe so ful was of beaute </l>
+<lb/><l n="677">And evir in one so pacient was she </l>
+<lb/><l n="678">That she non ther made of hevynese </l>
+<lb/><l n="679">But kyssith her son and aftir him blysse </l>
+<lb/><l n="680">Save þis she prayed if þ<am>ᵗ</am><ex>at</ex> he myght </l>
+<lb/><l n="681">Her litel son he wolde in erth graue </l>
+<lb/><l n="682">His tendir lymes delicate to sight </l>
+<lb/><l n="683">Fro foweles and best<am>ꝭ</am><ex>es</ex> to saue </l>
+<lb/><l n="684">But she none answer of hym myght haue </l>
+<lb/><l n="685">He went his weyes as he no þyng roughte </l>
+<lb/><l n="686">But vnto bologne tendirlye it broghte </l>
+<lb/><l n="687">This Markys wondryth eu<am>̉</am><ex>er</ex> þᵉ lenger þᵉ more </l>
+<lb/><l n="688">Vppon her pacience and yf þ<am>ᵗ</am><ex>at</ex> he </l>
+<lb/><l n="689">Ne hadde knowen þᵉ soth before </l>
+<lb/><l n="690">That parfetly her chyldren loveth she </l>
+<lb/><l n="691">He wolde haue wend þ<am>ᵗ</am><ex>at</ex> of som subtylte </l>
+<lb/><l n="692">And of malice or of cruel corage </l>
+<lb/><l n="693">That she had suffred w<am>ᵗ</am><ex>ith</ex> sad vysage </l>
+<lb/><l n="694">But he knew þ<am>ᵗ</am><ex>at</ex> nexte hym selfe certayne </l>
+<lb/><l n="695">She loved her chyldren best in eu<am>̉</am><ex>er</ex>y wyse </l>
+<lb/><l n="696">But nowe of women I wolle axe fayne </l>
+<pb n="164r" facs="RA4BD172b.JPG"/>
+<lb/><l n="697">Yf thise assayes myght suffice </l>
+<lb/><l n="698">What couth a sturdy husband devyse </l>
+<lb/><l n="699">To preve his wyfe of stedfastnes </l>
+<lb/><l n="700">And he contynuyng in sturdynesse </l>
+<lb/><l n="701">But ther be folke of suche condicion </l>
+<lb/><l n="702">That when þey haue a certeyne takyn pᵃpose </l>
+<lb/><l n="703">They can not stynte of þeyre intencion </l>
+<lb/><l n="704">But as þey weren bounde tyl a stake </l>
+<lb/><l n="705">They wyl not of þeyre pᵃpose slake </l>
+<lb/><l n="706">Right as þis Marquys fully purposith </l>
+<lb/><l n="707">To tempte his wyf was fully dysposed </l>
+<lb/><l n="708">He wayted yef by worde or countenᵃnce </l>
+<lb/><l n="709">Yef she weren chaunged of corage </l>
+<lb/><l n="710">But nevir couth he fynde by experiance </l>
+<lb/><l n="711">She was eu<am>̉</am><ex>er</ex> in herte <am>⁊</am><ex>and</ex> vysage </l>
+<lb/><l n="712">And eu<am>̉</am><ex>er</ex>more feythful in age </l>
+<lb/><l n="713">The more trewe yf it were possibl </l>
+<lb/><l n="714">She was to hym in love and more pynyble </l>
+<lb/><l n="715">For which it semyth þus of hem two </l>
+<lb/><l n="716">Ther was but one wyl as her lorde lyste </l>
+<lb/><l n="717">The same luste was his al plesaunce also </l>
+<lb/><l n="718">And god be thankyd al fyl for þe beste </l>
+<lb/><l n="719">She shewyd wele for none worldely vnrest </l>
+<lb/><l n="720">A wyfe as of her selfe no thyng shulde </l>
+<lb/><l n="721">Wolden her enfecte but as her husbonde wolde </l>
+<pb n="164v" facs="RA4BD173a.JPG"/>
+<lb/><l n="722">The sclaunder of Walter is wyde spradde </l>
+<lb/><l n="723">That of cruel herte wykkedly </l>
+<lb/><l n="724">For he a poure woman wedded had </l>
+<lb/><l n="725">Had murdred both his chyldren pʳuely </l>
+<lb/><l n="726">Wyche murmoᵃ was amonge hem softely </l>
+<lb/><l n="727">No wonder was for to þᵉ peaplys ere </l>
+<lb/><l n="728">Ther come no worde but þ<am>ᵗ</am><ex>at</ex> they murthrid were </l>
+<lb/><l n="729">For soth as for thes peapyl þ<am>ᵗ</am><ex>at</ex> byfore </l>
+<lb/><l n="730">Had lovid hym wele disclaunderyng of his name </l>
+<lb/><l n="731">Made þ<am>ᵗ</am><ex>at</ex> they hated hym þ<am>̉</am><ex>er</ex>for </l>
+<lb/><l n="732">To be an murtherer it is an hateful name </l>
+<lb/><l n="733">But neu<am>̉</am><ex>er</ex>theles for ernest ne for game </l>
+<lb/><l n="735">To tempte his wyfe was his his entent </l>
+<lb/><l n="734">He of his cruelte wolde not stynte </l>
+<lb/><l n="736">When his doughter xij yere was of age </l>
+<lb/><l n="737">He to tje courte of Rome in subtyl wyse </l>
+<lb/><l n="738">Enformed of his wil sent his message </l>
+<lb/><l n="739">Co<am>̄</am><ex>m</ex>maundyng him suche bulles to brynge <am>⁊</am><ex>and</ex> devyse </l>
+<lb/><l n="740">As to his cruel counsel may suffice </l>
+<lb/><l n="741">How þ<am>ᵗ</am><ex>at</ex> þᵉ pope for his peapyles reste </l>
+<lb/><l n="742">Bad hym wedde a noþ<am>̉</am><ex>er</ex> wyfe yf hym leste </l>
+<lb/><l n="743">I say he bad þey shulde counterfete </l>
+<lb/><l n="744">The popes bulles makyng mencion </l>
+<lb/><l n="745">That he hath leve his firste wyfe to lete </l>
+<lb/><l n="746">As by þᵉ popes dispensacion </l>
+<lb/><l n="748">Bytwyxte þᵉ peapyl <am>⁊</am><ex>and</ex> hym þus spake þᵉ bulle </l>
+<pb n="165r" facs="RA4BD173b.JPG"/>
+<lb/><l n="749">The whiche þey had publysshed atte ful </l>
+<lb/><l n="750">The rude peapyl as none wondir <app><rdg type="orig">were</rdg><rdg type="c1">is</rdg><rdg type="lit"><seg type="st">were</seg> is</rdg></app></l>
+<lb/><l n="751">Wende ful wele it had be right so </l>
+<lb/><l n="752">That this tydyng<am>ꝭ</am><ex>es</ex> cōmen to Gryselde is </l>
+<lb/><l n="753">I deme she was ful woo </l>
+<lb/><l n="754">But she was lyke sadde for eu<am>̉</am><ex>er</ex> more </l>
+<lb/><l n="755">Disposid was <expan >this</expan> humble creature </l>
+<lb/><l n="756">The adu<am>̉</am><ex>er</ex>site of fortune al to a byde </l>
+<lb/><l n="757">Abydyng eu<am>̉</am><ex>er</ex> his luste <am>⁊</am><ex>and</ex> pleasaunce </l>
+<lb/><l n="758">To whom she yeven herte and al </l>
+<lb/><l n="759">As to his worldely suffisaunce </l>
+<lb/><l n="760">But certenly forth <expan >this</expan> story tel I shal </l>
+<lb/><l n="761">This marquys a letter hath wryten in especial </l>
+<lb/><l n="762">In whyche he shewed his entent </l>
+<lb/><l n="763">And sekyrly he it to Bolone hath sent </l>
+<lb/><l n="764">To þᵉ Erle of pavy whyche thoo </l>
+<lb/><l n="765">Weddid his suster he prayd specially </l>
+<lb/><l n="766">To brynge <seg type="st">a</seg> hom agayn his chyldren two </l>
+<lb/><l n="767">In honurable astate al openly </l>
+<lb/><l n="768">But only one þyng he prayed hym vtterly </l>
+<lb/><l n="769">That yef any wyght wolde hym <seg type="st">eq</seg> enquere </l>
+<lb/><l n="770">He shulde not tel whos chyldren þey were </l>
+<lb/><l n="771">But say þ<am>ᵗ</am><ex>at</ex> þᵉ mayde weddid shulde be </l>
+<lb/><l n="772">Vnto þᵉ Marquys Salus of name </l>
+<lb/><l n="773">And as þᵉ Erle was prayed so did he </l>
+<lb/><l n="774">For at a daye he set his wey to gone </l>
+<lb/><l n="775">W<am>ᵗ</am><ex>ith</ex> lordys and ladys many on </l>
+<lb/><l n="776">In riche array <expan >this</expan> mayden to gyde </l>
+<pb n="165v" facs="RA4BD174a.JPG"/>
+<lb/><l n="777">Hir yonge brother ridyng her bisyde </l>
+<lb/><l n="778">Arrayed was toward her mariage </l>
+<lb/><l n="779">This fresshe mayde ful of gemmes clere </l>
+<lb/><l n="780">Hir brother which þ<am>ᵗ</am><ex>at</ex> seuen yeer was of age </l>
+<lb/><l n="781">Arrayed eek ful fressh in his manere </l>
+<lb/><l n="782">And thus in gret noblesse and w<am>ᵗ</am><ex>ith</ex> glad cheere </l>
+<lb/><l n="783">Toward Saluces shapyng her iourney </l>
+<lb/><l n="784">Fro day to day they ryden in her wey </l>
+<lb/><l n="MR784"><hi rend="ul">Explicit quarta pars</hi> </l>
+<lb/><l n="MR784-1">Incipit pars quinta  </l>
+<lb/><l n="785">Among al this after his wikke vsage </l>
+<lb/><l n="MR785">Incipit pars qᵃnta et Vltima </l>
+<lb/><l n="786">This Markys yet his wif to tempte moore </l>
+<lb/><l n="787">To þᵉ outreste preue of her corage </l>
+<lb/><l n="788">Fully to han experience and loore </l>
+<lb/><l n="789">If þ<am>ᵗ</am><ex>at</ex> she were as stedefast as bifore </l>
+<lb/><l n="790">He on a day in open audience </l>
+<lb/><l n="791">Ful boystously hath seyd her this sentence </l>
+<lb/><l n="792">Certes Grisilde I hadde ynogh plesance </l>
+<lb/><l n="793">To han you to my wyf for your goodnesse </l>
+<lb/><l n="794">As for youre trouthe and for your obeysance </l>
+<lb/><l n="795">Noght for your lynage ne for your richesse </l>
+<lb/><l n="796">But now knowe I in verray sothfastnesse </l>
+<lb/><l n="797">That in gret lordshipe yf I wel auyse </l>
+<lb/><l n="798">Ther is gret seruitute in sondry wyse </l>
+<lb/><l n="799">I may not do as euery Plowman may </l>
+<lb/><l n="800">My peple me constreyneth for to take </l>
+<lb/><l n="801">Another wyf and cryen day by day </l>
+<lb/><l n="802">And eek þᵉ pope rancour for to slake </l>
+<lb/><l n="803">Consenteth it þ<am>ᵗ</am><ex>at</ex> dar I vndertake </l>
+<lb/><l n="804">And trewely thus muche I wol you seye </l>
+<pb n="166r" facs="RA4BD174b.JPG"/>
+<lb/><l n="805">My newe wif is comynge by þᵉ weye </l>
+<lb/><l n="806">Be strong of herte and voyde anon her place </l>
+<lb/><l n="807">And thilke dower þ<am>ᵗ</am><ex>at</ex> ye broghten me </l>
+<lb/><l n="808">Tak it agayn I graunte it of my grace </l>
+<lb/><l n="809">Retourneth to youre fadres hous quod he </l>
+<lb/><l n="810">No man may alwey han prosperitee </l>
+<lb/><l n="811">W<am>ᵗ</am><ex>ith</ex> euene herte I rede you tendure </l>
+<lb/><l n="812">The strook of Fortune or of auenture </l>
+<lb/><l n="813">And she agayn answerde in pacience </l>
+<lb/><l n="814">My lord quod she I woot and wiste alway </l>
+<lb/><l n="815">How þ<am>ᵗ</am><ex>at</ex> bitwixen youre magnificence </l>
+<lb/><l n="816">And my pouerte no wight kan ne may </l>
+<lb/><l n="817">Maken comparisoun it is no nay </l>
+<lb/><l n="818">I ne heeld me neuere digne in no manere </l>
+<lb/><l n="819">To be your wyf no ; ne youre chambrere </l>
+<lb/><l n="820">And in this hous ther ye me lady made </l>
+<lb/><l n="821">The heighe god take I for my witnesse </l>
+<lb/><l n="822">And also wisly he my soule glade </l>
+<lb/><l n="823">I neuere heeld me lady ne maistresse </l>
+<lb/><l n="824">But humble seruant to youre worthynesse </l>
+<lb/><l n="825">And euere shal whil þ<am>ᵗ</am><ex>at</ex> my lyf may dure </l>
+<lb/><l n="826">Abouen euery worldly creature </l>
+<lb/><l n="827">That ye so longe of youre benygnytee </l>
+<lb/><l n="828">Han holden me in honour and nobleye </l>
+<lb/><l n="829">Where as I was noght worthy for to be </l>
+<lb/><l n="830">That thonke I god and you to whom I preye </l>
+<lb/><l n="831">Foryelde it you ther is namoore to seye </l>
+<lb/><l n="832">Vn to my fader gladly wol I wende </l>
+<pb n="166v" facs="RA4BD175a.JPG"/>
+<lb/><l n="833">And w<am>ᵗ</am><ex>ith</ex> hym dwelle vn to my lyues ende </l>
+<lb/><l n="834">Ther I was fostred of a chylde ful smal </l>
+<lb/><l n="835">Til I be deed my lyf ther wol I lede </l>
+<lb/><l n="836">A wydewe clene in body herte and al </l>
+<lb/><l n="837">For sith I yaf to you my maydenhede </l>
+<lb/><l n="838">And am youre trewe wyf it is no drede </l>
+<lb/><l n="839">God shilde suche a lordes wyf to take </l>
+<lb/><l n="840">Another man to housbond or to make </l>
+<lb/><l n="841">And of youre newe wyf god of his grace </l>
+<lb/><l n="842">So graunte you wele and prosperitee </l>
+<lb/><l n="843">For I wol gladly yelden her my place </l>
+<lb/><l n="844">In which þ<am>ᵗ</am><ex>at</ex> I was blisful wont to be </l>
+<lb/><l n="845">For sith it liketh you my lord quod she </l>
+<lb/><l n="846">That whilom weren al myn hertes reste </l>
+<lb/><l n="847">That I shal goon I wol goon whan you leste </l>
+<lb/><l n="848">But ther as ye me profre suche dowaire </l>
+<lb/><l n="849">As I first broghte it is wel in my mynde </l>
+<lb/><l n="850">It were my wrecched clothes no thyng faire </l>
+<lb/><l n="851">The whiche to me were hard now for to fynde </l>
+<lb/><l n="852">O goode god how gentil and how kynde </l>
+<lb/><l n="853">Ye semed by your speche and your visage </l>
+<lb/><l n="854">The day þ<am>ᵗ</am><ex>at</ex> maked was oure mariage </l>
+<lb/><l n="855">But sooth is seyd algate I fynde it trewe             </l>
+<lb/><l n="856">For in effect it proued is on me </l>
+<lb/><l n="857">Loue is noght old as whan þ<am>ᵗ</am><ex>at</ex> it is newe </l>
+<lb/><l n="858">But certes lord for noon aduersitee </l>
+<pb n="167r" facs="RA4BD175b.JPG"/>
+<lb/><l n="859">To dyen in this cas it shal not be </l>
+<lb/><l n="860">That euere in word or werk I shal repente </l>
+<lb/><l n="861">That I you yaf myn herte in hool entente </l>
+<lb/><l n="862">My lord ye woot þ<am>ᵗ</am><ex>at</ex> in my fadres place </l>
+<lb/><l n="863">Ye dide me strepe out of my poure wede </l>
+<lb/><l n="864">And richely me cladden of youre grace </l>
+<lb/><l n="865">To you broghte I noght ellis out of drede </l>
+<lb/><l n="866">But feith and nakednesse and maydenhede </l>
+<lb/><l n="867">And here agayn my clothyng I restore </l>
+<lb/><l n="868">And eek my weddyng ryng for euere moore </l>
+<lb/><l n="869">The remenant of your Iewels redy be </l>
+<lb/><l n="870">Inwith your chambre dar I saufly sayn </l>
+<lb/><l n="871">Naked out of my fadres hous quod she </l>
+<lb/><l n="872">I cam and naked must I turne agayn </l>
+<lb/><l n="873">Al youre plesance wol I folwen fayn </l>
+<lb/><l n="874">But yet I hope it be not youre entente </l>
+<lb/><l n="875">That I smoklees out of your palays wente </l>
+<lb/><l n="876">Ye koude not doon so dishoneste a thyng </l>
+<lb/><l n="877">That thilke wombe in which youre children leye </l>
+<lb/><l n="878">shuld biforn þᵉ peple in my walkyng </l>
+<lb/><l n="879">Be seyn al bare wher fore I you preye </l>
+<lb/><l n="880">Lat me not lyk a worm go by þᵉ weye </l>
+<lb/><l n="881">Remembre you myn owene lord so deere </l>
+<lb/><l n="882">I was youre wyf thogh I vnworthy weere </l>
+<lb/><l n="883">Wher fore in gerdou of my maydenhede </l>
+<lb/><l n="884">Which þ<am>ᵗ</am><ex>at</ex> I broghte and noght agayn I bere </l>
+<lb/><l n="885">As voucheth sauf to yeue me to my mede </l>
+<pb n="167v" facs="RA4BD176a.JPG"/>
+<lb/><l n="886">But suche a smok as I was wont to were </l>
+<lb/><l n="887">That I ther w<am>ᵗ</am><ex>ith</ex> may wrye þᵉ wombe of here </l>
+<lb/><l n="888">That was youre wyf and here I take my leeue </l>
+<lb/><l n="889">Of you myn owene lord lest I you greeue </l>
+<lb/><l n="890">The smok quod he þ<am>ᵗ</am><ex>at</ex> thow hast on thy bak </l>
+<lb/><l n="891">Lat it be stille and bere it forth w<am>ᵗ</am><ex>ith</ex> thee </l>
+<lb/><l n="892">But wel vnnethes thilke word he spak </l>
+<lb/><l n="893">But wente his wey for routhe and for pitee </l>
+<lb/><l n="894">Biforn þᵉ folk her seluen strepeth shee </l>
+<lb/><l n="895">And in her smok w<am>ᵗ</am><ex>ith</ex> heued and feet al bare </l>
+<lb/><l n="896">Toward her fader hous forth is she fare </l>
+<lb/><l n="897">The folk her folwen wepynge in her weye </l>
+<lb/><l n="898">And Fortune ay they cursen as they goon </l>
+<lb/><l n="899">But she fro wepyng kepte her eyen dreye </l>
+<lb/><l n="900">Ne in this tyme word ne spak she noon </l>
+<lb/><l n="901">Hir fader þ<am>ᵗ</am><ex>at</ex> this tidynge herde anon </l>
+<lb/><l n="902">Curseth þᵉ day and tyme þ<am>ᵗ</am><ex>at</ex> nature </l>
+<lb/><l n="903">Shoop hym to been a lyues creature </l>
+<lb/><l n="904">For out of doute this olde poure man </l>
+<lb/><l n="905">Was euere in suspect of her mariage </l>
+<lb/><l n="906">For euere he demed sith þ<am>ᵗ</am><ex>at</ex> it bigan </l>
+<lb/><l n="907">That whan þᵉ lord fulfild hadde his corage </l>
+<lb/><l n="908">Hym wolde thynke it were a disperage </l>
+<lb/><l n="908-1">To wedde oon of so pore alynage </l>
+<lb/><l n="909">To his estat so lowe for talighte </l>
+<lb/><l n="910">And voyden her as soone as euere he myght </l>
+<lb/><l n="911">Agayns his doghter hastiliche goth he </l>
+<pb n="168r" facs="168r.JPG"/>
+<lb/><l n="912">For he by noyse of folk knew her comynge </l>
+<lb/><l n="913">And w<am>ᵗ</am><ex>ith</ex> her olde cote as it myght be </l>
+<lb/><l n="914">He couered hire ful sorwefully wepynge </l>
+<lb/><l n="915">But on her body myght he it not brynge </l>
+<lb/><l n="916">For rude was þᵉ clooth and she moore of age </l>
+<lb/><l n="917">By dayes fele than at her mariage </l>
+<lb/><l n="918">Thus w<am>ᵗ</am><ex>ith</ex> her fader for a certein space </l>
+<lb/><l n="919">Dwelleth this flour of wifly pacience </l>
+<lb/><l n="920">That neyther by her wordes ne her face </l>
+<lb/><l n="921">Biforn þᵉ folk ne eek in her absence </l>
+<lb/><l n="922">Ne shewed she þ<am>ᵗ</am><ex>at</ex> her was doon offence </l>
+<lb/><l n="923">Ne of her heighe estat no remembrance </l>
+<lb/><l n="924">Ne hadde she as by her contenance </l>
+<lb/><l n="925">No wonder is for in her grete estat                      </l>
+<lb/><l n="926">Hir goost was euere in pleyn humylitee </l>
+<lb/><l n="927">No tendre mouth noon herte delicat </l>
+<lb/><l n="928">No pompe no semblant of realtee </l>
+<lb/><l n="929">But ful of pacient benygnytee </l>
+<lb/><l n="930">Discreet and pridelees ay honurable </l>
+<lb/><l n="931">And to her housbonde euere meke and stable </l>
+<lb/><l n="932">Men speke of Iob and moost for his hunblenesse </l>
+<lb/><l n="933">As clerkes whan hem lest konne wel endite </l>
+<lb/><l n="934">Namely of men but as in soothfastnesse </l>
+<lb/><l n="935">Thogh clerkes preyse wommen but alite </l>
+<lb/><l n="936">Ther kan no man in humblesse hym acquite </l>
+<lb/><l n="937">As wommen kan ne kan be half so trewe </l>
+<lb/><l n="938">As wommen been but it be falle of newe </l>
+<lb/><l n="MR938">¶ . Quinta pars . </l>
+<lb/><l n="MR938-1">Incipit pars Sexta </l>
+<pb n="168v" facs="RA4BD177a.JPG"/>
+<lb/><l n="939">Fro Boloigne is this Erl of Pavyk come </l>
+<lb/><l n="940">Of which þᵉ fame vp sprong to moore and lesse </l>
+<lb/><l n="941">And to þᵉ peples erys alle and some </l>
+<lb/><l n="942">Was kouth eek þ<am>ᵗ</am><ex>at</ex> a newe Markisesse </l>
+<lb/><l n="943">He w<am>ᵗ</am><ex>ith</ex> hym broghte in suche pomp and richesse </l>
+<lb/><l n="944">That neuere was ther seyn w<am>ᵗ</am><ex>ith</ex> mannes eye </l>
+<lb/><l n="945">So noble array in al westlumbardye </l>
+<lb/><l n="946">The Markys which þ<am>ᵗ</am><ex>at</ex> shoop and knew al this </l>
+<lb/><l n="947">Er þ<am>ᵗ</am><ex>at</ex> this Erl was come sente his message </l>
+<lb/><l n="948">For thilke sely poure Grysil </l>
+<lb/><l n="949">And she w<am>ᵗ</am><ex>ith</ex> humble herte and glad visage </l>
+<lb/><l n="950">Not w<am>ᵗ</am><ex>ith</ex> no swollen thoght in her corage </l>
+<lb/><l n="951">Cam at his heste and on her knees her sette </l>
+<lb/><l n="952">And reuerently and wysly she hym grette </l>
+<lb/><l n="953">Grisilde quod he my wyl is outrely </l>
+<lb/><l n="954">This mayden þ<am>ᵗ</am><ex>at</ex> shal wedded been to me </l>
+<lb/><l n="955">Receyued be tomorwe as really </l>
+<lb/><l n="956">As it possible is in myn hous to be </l>
+<lb/><l n="957">And eek þ<am>ᵗ</am><ex>at</ex> euery wight in his degree </l>
+<lb/><l n="958">Haue his estat in sittyng and seruyse </l>
+<lb/><l n="959">And heigh plesance as I kan best deuyse </l>
+<lb/><l n="960">I haue no wommen suffisant certayn </l>
+<lb/><l n="961">The chambres for taraye in ordynance </l>
+<lb/><l n="962">After my lust and ther fore wolde I fayn </l>
+<lb/><l n="963">That thyn were al suche manere gouernance </l>
+<lb/><l n="964">Thow knowest eek of old al my plesance </l>
+<lb/><l n="965">Though thyn array be badde and yuel biseye </l>
+<lb/><l n="966">Do thow thy deuoir at þᵉ leeste weye </l>
+<pb n="169r" facs="RA4BD177b.JPG"/>
+<lb/><l n="967">Not oonly lord þ<am>ᵗ</am><ex>at</ex> I am glad quod she </l>
+<lb/><l n="968">To doon youre lust but I desire also </l>
+<lb/><l n="969">you for to serue and plese in my degree </l>
+<lb/><l n="970">W<am>ᵗ</am><ex>ith</ex> outen feyntyng and shal euere mo </l>
+<lb/><l n="971">Ne neuere for no wele ne no wo </l>
+<lb/><l n="972">Ne shal þᵉ goost w<am>ᵗ</am><ex>ith</ex> Inne myn herte stente </l>
+<lb/><l n="973">To loue you best w<am>ᵗ</am><ex>ith</ex> al my trewe entente </l>
+<lb/><l n="974">And w<am>ᵗ</am><ex>ith</ex> <seg type="st">w</seg> þ<am>ᵗ</am><ex>at</ex> word she gan þᵉ hous to dighte </l>
+<lb/><l n="975">And tables for to sette and beddes make </l>
+<lb/><l n="976">And peyned her to doon al þ<am>ᵗ</am><ex>at</ex> she myght </l>
+<lb/><l n="977">Preyynge þᵉ chambreres for goddes sake </l>
+<lb/><l n="978">To hasten hem and faste swepe and shake </l>
+<lb/><l n="979">And she þᵉ mooste seruysable of alle </l>
+<lb/><l n="980">Hath euery chambre arrayed and his halle </l>
+<lb/><l n="981">Abouten vndren gan this Erl alighte </l>
+<lb/><l n="982">That w<am>ᵗ</am><ex>ith</ex> hym broghte thise noble children tweye </l>
+<lb/><l n="983">For which þᵉ peple ran to seen þᵉ sighte </l>
+<lb/><l n="984">Of hire array so richely biseye </l>
+<lb/><l n="985">And thanne at erst amonges hem they seye </l>
+<lb/><l n="986">That Walter was no fool thogh þ<am>ᵗ</am><ex>at</ex> hym leste </l>
+<lb/><l n="987">To chaunge his wyf for it was for his beste </l>
+<lb/><l n="988">For she is fairer as they demen alle </l>
+<lb/><l n="989">Than is Grisilde and moore tendre of age </l>
+<lb/><l n="990">And fairer fruyt bitwene hem shuld falle </l>
+<lb/><l n="991">And moore plesant for her heigh lynage </l>
+<lb/><l n="992">Hir brother eek so fair was of visage </l>
+<pb n="169v" facs="RA4BD178a.JPG"/>
+<lb/><l n="993">That hem to seen þᵉ peple hath caught plesance </l>
+<lb/><l n="994">Commendynge now þᵉ Markys gouernance </l>
+<lb/><l n="995">O stormy peple vnsad and euere vntrewe </l>
+<lb/><l n="996">Ay vndiscreet and chaungynge as a vane </l>
+<lb/><l n="997">Delitynge euere in rumbel þ<am>ᵗ</am><ex>at</ex> is newe </l>
+<lb/><l n="997a">Here may ye se þᵉ peple how newe </l>
+<lb/><l n="998">For lyk þᵉ moone ay wexe ye and wane </l>
+<lb/><l n="999">Ay ful of clappyng deere ynow a Iane </l>
+<lb/><l n="999-1">And changeable be right as þᵉ mane </l>
+<lb/><l n="1000">Youre doom is fals youre constance yuele preueth </l>
+<lb/><l n="1001">A ful greet fool is he þ<am>ᵗ</am><ex>at</ex> on you leueth </l>
+<lb/><l n="1002">Thus sayden sadde folk in þ<am>ᵗ</am><ex>at</ex> Citee </l>
+<lb/><l n="1003">Whan þ<am>ᵗ</am><ex>at</ex> þᵉ peple gazed vp and doun </l>
+<lb/><l n="1004">For they were glad right for þᵉ noueltee </l>
+<lb/><l n="1005">To han a newe lady of her town </l>
+<lb/><l n="1006">Namoore of this make I now mencioun </l>
+<lb/><l n="1007">But to Grisilde agayn wol I me dresse </l>
+<lb/><l n="1008">And telle her constance and her bisynesse </l>
+<lb/><l n="1009">Ful bisy was Grisilde in euery thyng </l>
+<lb/><l n="1010">That to þᵉ feste was apertinent </l>
+<lb/><l n="1011">Right noght was she abayst of her clothyng </l>
+<lb/><l n="1012">Thogh it were rude and somdel eek to rent </l>
+<lb/><l n="1013">But w<am>ᵗ</am><ex>ith</ex> glad cheere to þᵉ yate is she went </l>
+<lb/><l n="1014">W<am>ᵗ</am><ex>ith</ex> oother folk to greete þᵉ Markysesse </l>
+<lb/><l n="1015">And after þ<am>ᵗ</am><ex>at</ex> dooth forth her bisynesse </l>
+<lb/><l n="1016">W<am>ᵗ</am><ex>ith</ex> so glad cheere his gestes she receyueth </l>
+<lb/><l n="1017">And so konnyngly euerich in his degree </l>
+<lb/><l n="1018">That no defaute no man aparceyueth </l>
+<lb/><l n="1019">But ay they wondren what she myght be </l>
+<lb/><l n="1020">That in so poure array was for to se </l>
+<pb n="170r" facs="RA4BD178b.JPG"/>
+<lb/><l n="1021">And koude suche honour and reuerence </l>
+<lb/><l n="1022">And worthily they preysen her prudence </l>
+<lb/><l n="1023">In al this mene while she ne stente </l>
+<lb/><l n="1024">This mayde and eek her brother to commende </l>
+<lb/><l n="1025">W<am>ᵗ</am><ex>ith</ex> al her herte in ful benygne entente </l>
+<lb/><l n="1026">So wel þ<am>ᵗ</am><ex>at</ex> no man koude her prys amende </l>
+<lb/><l n="1027">But at þᵉ laste whan þ<am>ᵗ</am><ex>at</ex> thise lordes wende </l>
+<lb/><l n="1028">To sitten doun to mete he gan to calle </l>
+<lb/><l n="1029">Grisilde as she was bisy in his halle </l>
+<lb/><l n="1030">Grisilde quod he as it were in his pley                </l>
+<lb/><l n="1031">How liketh thee my wyf and her beautee </l>
+<lb/><l n="1032">Right wel quod she my lord for in good fey </l>
+<lb/><l n="1033">A fairer saw I neuere noon than she </l>
+<lb/><l n="1034">I prey to god yeue hire prosperritee </l>
+<lb/><l n="1035">And so hope I þ<am>ᵗ</am><ex>at</ex> he wol to you sende </l>
+<lb/><l n="1036">Plesance ynogh vn to youre lyues ende </l>
+<lb/><l n="1037">O thyng biseke I you and warne also </l>
+<lb/><l n="1038">That ye ne prike w<am>ᵗ</am><ex>ith</ex> no tormentynge </l>
+<lb/><l n="1039">This tendre mayden as ye han do mo </l>
+<lb/><l n="1040">For she is fostred in her norissynge </l>
+<lb/><l n="1041">Moore tendrely and to my supposynge </l>
+<lb/><l n="1042">She koude not aduersitee endure </l>
+<lb/><l n="1043">As koude a poure fostred creature </l>
+<lb/><l n="1044">And whan this Walter saw her pacience </l>
+<lb/><l n="1045">Hir glad cheere and no malice at al </l>
+<lb/><l n="1046">And he so ofte had doon to her offence </l>
+<lb/><l n="1047">And she ay sad and constant as a wal </l>
+<lb/><l n="1048">Continuynge euere her Innocence ouer al vbique </l>
+<pb n="170v" facs="RA4BD179a.JPG"/>
+<lb/><l n="1049">This sturdy Markys gan his herte dresse </l>
+<lb/><l n="1050">To rewen vp on her wifly stedfastnesse </l>
+<lb/><l n="1051">This is ynogh Grisilde myn quod he </l>
+<lb/><l n="1052">Be now namoore agast ne yuele apayed </l>
+<lb/><l n="1053">I haue thy feith and thy benygnytee </l>
+<lb/><l n="1153a">Mankynde which þ<am>ᵗ</am><ex>at</ex> he wroght </l>
+<lb/><l n="1054">As wel as euere womman  was assayed </l>
+<lb/><l n="1055">In greet estat and poureliche arrayed </l>
+<lb/><l n="1056">Now knowe I deere wyf thy stedfastnesse </l>
+<lb/><l n="1057">And hire in armes toke and gan her kesse </l>
+<lb/><l n="1058">And she for wonder toke of it no keep </l>
+<lb/><l n="1059">She herde not what thyng he to her sayde </l>
+<lb/><l n="1060">She ferde as she hadde stirt out of a sleep </l>
+<lb/><l n="1060r">Sche ferd as sche had stert oute of her slepe </l>
+<lb/><l n="1061">Til she out of her mazednesse abreyde </l>
+<lb/><l n="1062">Grisilde quod he by god þ<am>ᵗ</am><ex>at</ex> for vs deyde </l>
+<lb/><l n="1063">Thow art my wyf noon oother I haue </l>
+<lb/><l n="1064">Ne neuere hadde as god my soule saue </l>
+<lb/><l n="1065">This is thy doghter which thow hast supposed </l>
+<lb/><l n="1066">To be my wyf þ<am>ᵗ</am><ex>at</ex> oother feithfully </l>
+<lb/><l n="1067">Shal be myn heir as I haue ay supposed </l>
+<lb/><l n="1068">Thow bare hym in thy body trewely </l>
+<lb/><l n="1069">At Boloigne haue I kept hem priuely </l>
+<lb/><l n="1070">Tak hem agayn for now maistow not seye </l>
+<lb/><l n="1071">That thow hast lorn noon of thy children tweye </l>
+<lb/><l n="1072">And folk þ<am>ᵗ</am><ex>at</ex> oother weys han seyd of me </l>
+<lb/><l n="1073">I warne hem wel þ<am>ᵗ</am><ex>at</ex> I haue doon this dede </l>
+<lb/><l n="1074">For no malice ne for no crueltee </l>
+<lb/><l n="1075">But for tassaye in thee thy wommanhede </l>
+<pb n="171r" facs="RA4BD179b.JPG"/>
+<lb/><l n="1076">And not to sleen my children god forbede </l>
+<lb/><l n="1077">But for to kepe hem pryuely and stille </l>
+<lb/><l n="1078">Til I thy purpos knewe and al thy wille </l>
+<lb/><l n="1079">Whan she this herde aswowne doun she falleth </l>
+<lb/><l n="1080">For pitous ioye and after her swownynge </l>
+<lb/><l n="1081">She bothe her yonge children vn to her calleth </l>
+<lb/><l n="1082">And in her armes pitously wepynge </l>
+<lb/><l n="1083">Embraceth hem and tendrely kissynge </l>
+<lb/><l n="1084">Ful lyk a moder w<am>ᵗ</am><ex>ith</ex> her salte terys </l>
+<lb/><l n="1085">She batheth bothe her visage and her herys </l>
+<lb/><l n="1086">O which a pitous thyng it was to se </l>
+<lb/><l n="1086-1">O such a pitous thing it was to see </l>
+<lb/><l n="1087">Hir swownyng and her humble voys to heere </l>
+<lb/><l n="1088">Grant mercy lord god thanke it you quod she </l>
+<lb/><l n="1089">That ye han saued me my children deere </l>
+<lb/><l n="1090">Now rekke I neuere to been ded right heere </l>
+<lb/><l n="1091">Sith I stonde in your loue and in youre grace </l>
+<lb/><l n="1092">No fors of deeth ne whan my spirit pace </l>
+<lb/><l n="1093">O tendre o deere o yonge children myne </l>
+<lb/><l n="1094">Youre woful moder wende stedefastly </l>
+<lb/><l n="1095">That cruel houndes or som foul vermyne </l>
+<lb/><l n="1096">Hadde eten you but god of his mercy </l>
+<lb/><l n="1097">And youre benygne fader tendrely </l>
+<lb/><l n="1098">Hath doon you kept and in þ<am>ᵗ</am><ex>at</ex> same stounde </l>
+<lb/><l n="1099">Al sodeynly she swapte adoun to grounde </l>
+<lb/><l n="1100">And in her swogh so sadly holdeth she </l>
+<lb/><l n="1101">Hir children two whan she gan hem tembrace </l>
+<pb n="171v" facs="RA4BD180a.JPG"/>
+<lb/><l n="1102">That w<am>ᵗ</am><ex>ith</ex> greet sleghte and greet difficultee </l>
+<lb/><l n="1103">The children from her arm they gonne arace </l>
+<lb/><l n="1104">O many a teer o many a pitous face </l>
+<lb/><l n="1105">Doun ran of hem þ<am>ᵗ</am><ex>at</ex> stoden her bisyde </l>
+<lb/><l n="1106">Vnnethe aboute her myght they abyde </l>
+<lb/><l n="1107">Walter her gladeth and her sorwe slaketh </l>
+<lb/><l n="1108">She riseth vp abaysed from her traunce </l>
+<lb/><l n="1109">And euery wight her ioye and feste maketh </l>
+<lb/><l n="1110">Til she hath caught agayn her contenaunce </l>
+<lb/><l n="1111">Walter her dooth so feithfully plesaunce </l>
+<lb/><l n="1112">That it was deyntee for to seen þᵉ cheere </l>
+<lb/><l n="1113">Bitwix hem two now they ben met yfeere </l>
+<lb/><l n="1114">Thise ladies whan þ<am>ᵗ</am><ex>at</ex> they her tyme say </l>
+<lb/><l n="1115">Han taken her and in to chambre goon </l>
+<lb/><l n="1116">And strepen her out of her rude aray </l>
+<lb/><l n="1117">And in a clooth of gold þ<am>ᵗ</am><ex>at</ex> brighte shoon </l>
+<lb/><l n="1118">W<am>ᵗ</am><ex>ith</ex> a coroune of many a riche stoon </l>
+<lb/><l n="1119">Vp on her hed they in to halle her broghte </l>
+<lb/><l n="1120">And ther she was honured as her oghte </l>
+<lb/><l n="1121">Thus hath this pitous day a blisful ende </l>
+<lb/><l n="1122">For euery man and womman dooth his myght </l>
+<lb/><l n="1123">This day in murthe and reuel to dispende </l>
+<lb/><l n="1124">Til on þᵉ welkne shoon þᵉ sterres lyght </l>
+<lb/><l n="1125">For moore solempne in euery mannes syght </l>
+<lb/><l n="1126">This feste was and gretter of costage </l>
+<lb/><l n="1127">Than was þᵉ reuel of her mariage </l>
+<pb n="172r" facs="RA4BD180b.JPG"/>
+<lb/><l n="1128">Ful many a yeer in heigh prosperitee </l>
+<lb/><l n="1129">Lyuen thise two in concord and in reste </l>
+<lb/><l n="1130">And richely his doghter maried he </l>
+<lb/><l n="1131">Vn to a lord oon of þᵉ worthyeste </l>
+<lb/><l n="1132">Of al Ytaille and thanne in pees and reste </l>
+<lb/><l n="1133">His wyues fader and his court he kepeth </l>
+<lb/><l n="1134">Til þ<am>ᵗ</am><ex>at</ex> þᵉ soule out of his body crepeth </l>
+<lb/><l n="1135">His sone succedeth in his heritage </l>
+<lb/><l n="1136">In reste and pees after his fader day </l>
+<lb/><l n="1137">And fortunat was eek his mariage </l>
+<lb/><l n="1138">Al putte he not his wyf in gret assay </l>
+<lb/><l n="1139">This world is not so strong it is no nay </l>
+<lb/><l n="1140">As it hath been in olde tymes yore </l>
+<lb/><l n="1141">And herkneth what this Auctour seith therfore </l>
+<lb/><l n="1142">This storie is seyd not for þ<am>ᵗ</am><ex>at</ex> wyues shuld </l>
+<lb/><l n="1143">Folwen Grisilde as in humylitee </l>
+<lb/><l n="1144">For it were inpor table thogh they wolde </l>
+<lb/><l n="1145">But for þ<am>ᵗ</am><ex>at</ex> euery wight in his degree </l>
+<lb/><l n="1146">shuld be constant in aduersitee </l>
+<lb/><l n="1147">As was Grisilde therfore Petrak writeth </l>
+<lb/><l n="1148">This storie which he w<am>ᵗ</am><ex>ith</ex> heigh stile enditeth </l>
+<lb/><l n="1149">For sith a womman was so pacient </l>
+<lb/><l n="1150">Vn to a mortal man wel moore vs oghte </l>
+<lb/><l n="1151">Receyuen al in gree þ<am>ᵗ</am><ex>at</ex> god vs sent </l>
+<pb n="172v" facs="RA4BD181a.JPG"/>
+<lb/><l n="1152">For gret skile is he preue þ<am>ᵗ</am><ex>at</ex> he wroghte </l>
+<lb/><l n="1153">But he ne tempteth no man þ<am>ᵗ</am><ex>at</ex> he boghte </l>
+<lb/><l n="1154">As seith Seint Iame yf ye his pistel rede </l>
+<lb/><l n="1155">He preueth folk al day it is no drede </l>
+<lb/><l n="1156">And suffreth vs as for oure excercise </l>
+<lb/><l n="1157">W<am>ᵗ</am><ex>ith</ex> sharpe scourges of aduersitee </l>
+<lb/><l n="1158">Ful ofte to be bete in sondry wise </l>
+<lb/><l n="1159">Not for to knowe oure wyl for certes he </l>
+<lb/><l n="1160">Er we were born knew al oure freletee </l>
+<lb/><l n="1161">And for oure beste is al his gouernance </l>
+<lb/><l n="1162">Lat vs thanne lyue in vertuous suffrance </l>
+<lb/><l n="1163">But o word lordynges herkneth er I go </l>
+<lb/><l n="1164">It were ful hard to fynde now a dayes </l>
+<lb/><l n="1165">In al a town Grysil </l>
+<lb/><l n="1166">For yf þ<am>ᵗ</am><ex>at</ex> they were put to swiche assayes </l>
+<lb/><l n="1167">The gold of hem hath now so badde alayes </l>
+<lb/><l n="1168">W<am>ᵗ</am><ex>ith</ex> bras þ<am>ᵗ</am><ex>at</ex> thogh þᵉ coigne be fair at eye </l>
+<lb/><l n="1169">It wolde rather breste atwo than plye </l>
+
+</div>
+<div n="L13" type="G">
+<lb/><l n="1">Gryseld is dede and eke her pacience </l>
+<lb/><l n="2">And both at ones buried in Italie </l>
+<lb/><l n="3">For which I crie in opyn audience </l>
+<lb/><l n="4">No weddid man be so hardy to assayle </l>
+<lb/><l n="5">His wywye pacience in truste to fynde </l>
+<lb/><l n="6">Grysedes in certeyne he shal fayle </l>
+<lb/><l n="7">O nobil wywes ful of prudence </l>
+<pb n="173r" facs="RA4BD181b.JPG"/>
+<lb/><l n="8">Lette none humilite noᵃ tonge nayle </l>
+<lb/><l n="9">Ne lette none clerke haue cause ne deligence </l>
+<lb/><l n="10">To wryte of you an story of such mvayle </l>
+<lb/><l n="11">As of Gryseld paciens <am>⁊</am><ex>and</ex> kynde </l>
+<lb/><l n="12">Leste chychevache you swalow in her entrayle </l>
+<lb/><l n="13">Folow w<am>ᵗ</am><ex>ith</ex> akko þ<am>ᵗ</am><ex>at</ex> holdith none silence </l>
+<lb/><l n="14">But eu<am>̉</am><ex>er</ex> aunswerith at þe contrary tale </l>
+<lb/><l n="15">Be nt be daffed for yo<am>ᵘ</am><ex>ur</ex> Innocence </l>
+<lb/><l n="16">But shortely take vppe you for to cou<am>̉</am><ex>er</ex> al </l>
+<lb/><l n="17">In pryvyte bere þⁱˢ lesso<am rend="ū">ıı̄</am><ex>un</ex> wele in yo<am>ᵘ</am><ex>ur</ex> mynde </l>
+<lb/><l n="18">For como<am rend="ū">ıı̄</am><ex>un</ex> seith it may avayle </l>
+<lb/><l n="25">Ne drede hem not to done no reu<am>̉</am><ex>er</ex>ence </l>
+<lb/><l n="26">For though thyn husbond be in mayle </l>
+<lb/><l n="27">The errour of thyn crabbed eloquence </l>
+<lb/><l n="28">Shal persse his breste <am>⁊</am><ex>and</ex> his Aventayle </l>
+<lb/><l n="29">In Ielouse I rede you him bynde </l>
+<lb/><l n="30">And þ<am>ᵗ</am><ex>at</ex> thou make him covche as A quayle </l>
+<lb/><l n="31">Yef þᵘ be fayre there folke be in psence </l>
+<lb/><l n="32">Shew þᵘ thyn visage and thyn apparayle </l>
+<lb/><l n="33">Yef þᵘ be fovle befre of þyn expense </l>
+<lb/><l n="34">To gete þᵉ Frendis aye do þyn travayle </l>
+<lb/><l n="35">Be aye of chere as lyght as leef on lynde </l>
+<lb/><l n="36">And let him care wrynge and wake </l>
+<lb/><l n="19">Yea herkenyth wyvis stonde at yo<am>ᵘ</am><ex>ur</ex> defence </l>
+<lb/><l n="20">Syth ye be stronge as A Camayle </l>
+<lb/><l n="21">Ne sufferith þ<am>ᵗ</am><ex>at</ex> man to do yow offence </l>
+<pb n="173v" facs="RA4BD182a.JPG"/>
+<lb/><l n="22">As slendir wywes and febyl in batyl </l>
+<lb/><l n="23">Beth egir as A tygre in your mynde </l>
+<lb/><l n="24">Ay clappyth as A mylle I you counsel </l>
+<lb/><l n="24-1">But yet god graunte vs grace to make good ende </l>
+<lb/><l n="24-2">And bryng vs oute of eu<am>̉</am><ex>er</ex>y bale </l>
+<lb/><l n="24-3">And eu<am>̉</am><ex>er</ex> to haue pacience in oure mynde </l>
+<lb/><l n="FRL">Finis Gryseld </l>
+
+</div>
+<pb n="174v" facs="RA4BD183a.JPG"/>
+<div n="PR" type="G">
+<lb/><l n="1"><hi rend="other">O</hi> goode lorde thyn Name how mvelous . </l>
+<lb/><l n="2">Is in this large Worlde spredde quod she </l>
+<lb/><l n="3">For only thyn laws full precious </l>
+<lb/><l n="4">Performed by men of dignite </l>
+<lb/><l n="5">But by the mouth of chyldren thyn bounte </l>
+<lb/><l n="6">Perfourmed is for on þᵉ beeste sowkynge </l>
+<lb/><l n="7">Some tyme þey in þyn heryng </l>
+<lb/><l n="8">Wherfor in lawd as I can best or may </l>
+<lb/><l n="9">Of the and of lylly floure </l>
+<lb/><l n="10">Whyche þ<am>ᵗ</am><ex>at</ex> the bare and is mayde alway </l>
+<lb/><l n="11">To tell A story woll I doo my labour </l>
+<lb/><l n="12">Now þ<am>ᵗ</am><ex>at</ex> I may encrease her honour </l>
+<lb/><l n="13">For she herself is honour and rote </l>
+<lb/><l n="14">Of bounte nexte her son <am>⁊</am><ex>and</ex> soule bote </l>
+<lb/><l n="16">O busshe vnbrent brynnyng moyses sighte </l>
+<lb/><l n="17">That vanysshed fro the daytte </l>
+<lb/><l n="18">Thorough thyn hombles þᵉ goste in the lyghte </l>
+<lb/><l n="19">Of whos vertu when he thyn hert dyght </l>
+<lb/><l n="20">Conseyved was the fader sapience </l>
+<lb/><l n="22">Lady thyn bounte and magnificence </l>
+<lb/><l n="23">Thyn pacience <am>⁊</am><ex>and</ex> grete humilyte </l>
+<lb/><l n="24">Ther may no tounge expresse in none science </l>
+<lb/><l n="25">For some tyme lady or men pray to the </l>
+<lb/><l n="26">Thou goiste before of thyn benyngnite </l>
+<pb n="175r" facs="RA4BD183b.JPG"/>
+<lb/><l n="27">And getiste vs the lyght thorawgh þyn pˢyer   </l>
+<lb/><l n="28">To gadir vs to þyn son dere </l>
+<lb/><l n="29">Myn connynge is full weyke O blysfull quene </l>
+<lb/><l n="30">For to declare þyn grete worthynes </l>
+<lb/><l n="31">That I ne maye ne none wyghte susteyne </l>
+<lb/><l n="32">But as on chylde of xij monethes olde or lesse </l>
+<lb/><l n="34">Ryght so fare I and therfor I you pˢye </l>
+<lb/><l n="35">Tendyr myn songe þ<am>ᵗ</am><ex>at</ex> I shall you saye </l>
+<lb/><l n="36">Ther was in assye in the grete cite </l>
+<lb/><l n="37">Amonge crysten folke A Iewrye </l>
+<lb/><l n="38">Susteynyd by A lorde of þ<am>ᵗ</am><ex>at</ex> countre </l>
+<lb/><l n="39">For foule vsurye <am>⁊</am><ex>and</ex> lukyr of vilanie </l>
+<lb/><l n="40">Hatefull to cryste and to his companye </l>
+<lb/><l n="41">And thorogh þᵉ strete men myght ryde <am>⁊</am><ex>and</ex> wende </l>
+<lb/><l n="42">For it was fre <am>⁊</am><ex>and</ex> opyn at eu<am>̉</am><ex>er</ex>y syde </l>
+<lb/><l n="43">A scole of crysten folke þ<am>̉</am><ex>er</ex> stode </l>
+<lb/><l n="44">Downe in the ferther ende in þᵉ whyche were </l>
+<lb/><l n="45">Chyldren an hepe come of crysten blode </l>
+<lb/><l n="46">That lerned in þ<am>ᵗ</am><ex>at</ex> scole fro yere to yere </l>
+<lb/><l n="47">Suche man of doctrine as men vsid ther </l>
+<lb/><l n="48">That is to say to singe and rede </l>
+<lb/><l n="49">As smale chyldren done in theyre chylhode </l>
+<lb/><l n="50">Amonge thyse chyldren was þ<am>̉</am><ex>er</ex> a wedow sone </l>
+<lb/><l n="51">A lytill clerke of viij yere of Age </l>
+<lb/><l n="52">That day by day to þᵉ scole was he wan </l>
+<pb n="175v" facs="RA4BD184a.JPG"/>
+<lb/><l n="53"><hi rend="other">A</hi>nd eke Wher eu<am>̉</am><ex>er</ex> he saw any ymage </l>
+<lb/><l n="54">Of crystes moder had he in vsage </l>
+<lb/><l n="55">As him was taughte to knele downe <am>⁊</am><ex>and</ex> saye </l>
+<lb/><l n="56">His Aue maria as he goith be the way </l>
+<lb/><l n="57">Thus hath þᵉ wedow her lytyll sonne taught </l>
+<lb/><l n="58">Of blisfull lady cristis moder dere </l>
+<lb/><l n="60">For the cely chylde alway sone wolde lere </l>
+<lb/><l n="61">But eu<am>̉</am><ex>er</ex> when I remembr þ<am>ᵗ</am><ex>at</ex> mater </l>
+<lb/><l n="62">Seynt Nicolas stode eu<am>̉</am><ex>er</ex> in my psence </l>
+<lb/><l n="63">For he so yonge to criste do reu<am>̉</am><ex>er</ex>ence </l>
+<lb/><l n="64">This litell chylde his boke lernynge </l>
+<lb/><l n="65">As he sat at scole in his pmer </l>
+<lb/><l n="66">He Alma Redemtoris hard synge </l>
+<lb/><l n="67">As chyldren lernyd þeyre Antiphen </l>
+<lb/><l n="68">And as he durste he draugh him nere <am>⁊</am><ex>and</ex> nere </l>
+<lb/><l n="69">And herkend the worde <am>⁊</am><ex>and</ex> þᵉ note </l>
+<lb/><l n="70">Tyl he þᵉ fyrste wers couth be nōte Rote </l>
+<lb/><l n="71">Not Wyste he what was þ<hi rend="sup">is</hi> latyn to say </l>
+<lb/><l n="72">For he so yong and tendir was of Age </l>
+<lb/><l n="73">But on a daye his felaw gan he pᵃye </l>
+<lb/><l n="74">To expounde him þ<hi rend="sup">is</hi> song in his langage </l>
+<lb/><l n="75">Or tell him why þ<hi rend="sup">is</hi> song was in vsage </l>
+<lb/><l n="76">Thus prayed he hym to costrue <am>⁊</am><ex>and</ex> declar </l>
+<pb n="176r" facs="RA4BD184b.JPG"/>
+<lb/><l n="77">Full ofte vppon his knees bare </l>
+<lb/><l n="78">His felawe þ<am>ᵗ</am><ex>at</ex> elder was þan he </l>
+<lb/><l n="79">Aunswerde him þis song as I haue harde saye </l>
+<lb/><l n="80">Was made of oure blessyd lady fre </l>
+<lb/><l n="81">Her for to <am>ʆ</am><ex>ser</ex>ue and praye </l>
+<lb/><l n="82">To be<am>̄</am><ex>n</ex> oure socour <am>⁊</am><ex>and</ex> helpe when we dye </l>
+<lb/><l n="83">I can no more expounde in this mater </l>
+<lb/><l n="84">I lerne song and can com but lityl of smale gᵃmere </l>
+<lb/><l n="85">And is þ<hi rend="sup">is</hi> song made in the reu<am>̉</am><ex>er</ex>ence </l>
+<lb/><l n="86">Of crist<am>ꝭ</am><ex>es</ex> moder saide þᵉ Innocent </l>
+<lb/><l n="87">Now cert<am>ꝭ</am><ex>es</ex> I wol do myn deligent </l>
+<lb/><l n="88">To con it or cristmas be wente </l>
+<lb/><l n="88-r">To con it or cristmas be went </l>
+<lb/><l n="89">Thogh þ<am>ᵗ</am><ex>at</ex> I for my pm shal be shent </l>
+<lb/><l n="90">If I shall thryese w<am>ᵗ</am><ex>ith</ex> in an owre </l>
+<lb/><l n="91">I woll it con oure lady to honoure </l>
+<lb/><l n="92">His felaw tawghte him p<am>ⁱ</am><ex>ri</ex>vele </l>
+<lb/><l n="93">Fro day to day till he coude it be Rote </l>
+<lb/><l n="94">And than he song it wele <am>⁊</am><ex>and</ex> boldely </l>
+<lb/><l n="95">Fro Worde to worde accordyng to þᵉ note </l>
+<lb/><l n="96">Thrise A day it passid thorogh his throte </l>
+<lb/><l n="97">To scole warde and homwarde when he wente </l>
+<lb/><l n="98">On cristis moder sette was his entent </l>
+<lb/><l n="99">As I haue sayed thoroghoute þᵉ I </l>
+<lb/><l n="100">This litel chylde as he came to <am>⁊</am><ex>and</ex> fro </l>
+<lb/><l n="101">Full meryly wolde he syng <am>⁊</am><ex>and</ex> crye </l>
+<lb/><l n="102">And alma Redemptoris eu<am>̉</am><ex>er</ex> more </l>
+<pb n="176v" facs="RA4BD185a.JPG"/>
+<lb/><l n="103">The swetnesse his herte <am>ꝑ</am><ex>per</ex>issed so </l>
+<lb/><l n="104">Of Cristis moder þ<am>ᵗ</am><ex>at</ex> to her to pᵃyre </l>
+<lb/><l n="105">He can not stynte by the waye </l>
+<lb/><l n="106">Oure furste foo þᵉ serpent satanas </l>
+<lb/><l n="107">That hath in the Iewis hert þᵉ waspis neste </l>
+<lb/><l n="108">Vp shall and said O ebrak pepell alas </l>
+<lb/><l n="109">Is this to you A thyng þ<am>ᵗ</am><ex>at</ex> is honeste </l>
+<lb/><l n="110">That suche A boye shall walke as him lyste </l>
+<lb/><l n="111">In yo<hi rend="sup">r</hi> dispite and syng suche sentence </l>
+<lb/><l n="112">Wych is Ayenste oure lawes <am>⁊</am><ex>and</ex> reu<am>̉</am><ex>er</ex>ence </l>
+<lb/><l n="114">This Innocent oute of this Worlde to chase </l>
+<lb/><l n="115">An homidersith þ<am>̉</am><ex>er</ex> to hane þy hyⁱre </l>
+<lb/><l n="117">And as þᵉ chylde gan forth by passe </l>
+<lb/><l n="118">A cursed Iewe him hent <am>⁊</am><ex>and</ex> helde him faste </l>
+<lb/><l n="119">And cutte his throte and in A pitte him caste </l>
+<lb/><l n="120">I say þ<am>ᵗ</am><ex>at</ex> in A Warre Warderobe þey him caste </l>
+<lb/><l n="121">Where as þᵉ Iewes pourgene theyre entrale </l>
+<lb/><l n="122">O cursed folke of herodes all newe </l>
+<lb/><l n="123">What may yo<am>ᵘ</am><ex>ur</ex> evill entente Avayle </l>
+<lb/><l n="124">Murdur will oute certayne it is no fayle </l>
+<lb/><l n="125">And namely þ<am>̉</am><ex>er</ex> the hono<am>ᵘ</am><ex>ur</ex> of god shall be sprede </l>
+<lb/><l n="126">The blode oute crieth on yo<am>ᵘ</am><ex>ur</ex> cursed dede </l>
+<lb/><l n="127">O martir sendid vnto virginite </l>
+<lb/><l n="128">Now mayste singe folowing eu<am>̉</am><ex>er</ex> mone </l>
+<lb/><l n="129">The whyche lambe celestiall quod she  </l>
+<pb n="177v" facs="RA4BD186a.JPG"/>
+<lb/><l n="155">O grete god þ<am>ᵗ</am><ex>at</ex> <am>ꝑ</am><ex>par</ex>moste þyn laude </l>
+<lb/><l n="156">By mouth of Innocent<am>ꝭ</am><ex>es</ex> lo þ<am>̉</am><ex>er</ex> thyn myghte </l>
+<lb/><l n="157">Thys gemme of chastyte þ<hi rend="sup">is</hi> emaude </l>
+<lb/><l n="158">And also marterdome the Rubye bryght </l>
+<lb/><l n="159">Ther he w<am>ᵗ</am><ex>ith</ex> throte rve lay vp ryghte </l>
+<lb/><l n="160">He Alma redemptor<am>ꝭ</am><ex>es</ex> gan to synge </l>
+<lb/><l n="161">So lowde þ<am>ᵗ</am><ex>at</ex> all þ<am>ᵗ</am><ex>at</ex> place began to rynge </l>
+<lb/><l n="162">The crysten folke þ<am>ᵗ</am><ex>at</ex> thoroght þ<am>ᵗ</am><ex>at</ex> strete w<am>ᵗ</am><ex>ith</ex>oute </l>
+<lb/><l n="163">In come<am>̄</am><ex>n</ex> faste to wondir on þ<hi rend="sup">is</hi> thynge </l>
+<lb/><l n="164">And hastly þey for þᵉ provost sente </l>
+<lb/><l n="165">He camē Anone w<am>ᵗ</am><ex>ith</ex>oute tarynge </l>
+<lb/><l n="166">And heryeth cryste þ<am>ᵗ</am><ex>at</ex> is oure fa heven kyng </l>
+<lb/><l n="167">And also his moder þ<am>ᵗ</am><ex>at</ex> is honour of mankynde </l>
+<lb/><l n="168">And after þ<am>ᵗ</am><ex>at</ex> the Iewes lete he bynde </l>
+<lb/><l n="169">This chylde w<am>ᵗ</am><ex>ith</ex> piteous lamentaciou </l>
+<lb/><l n="170">Vp take was syning his songe alwaye </l>
+<lb/><l n="171">And w<am>ᵗ</am><ex>ith</ex> honour <am>⁊</am><ex>and</ex> grete processiou </l>
+<lb/><l n="172">They caried it to þᵉ nexte Abbey </l>
+<lb/><l n="173">His moder swonyng by his bere lye </l>
+<lb/><l n="174">Vnnethes myght þᵉ people þ<am>ᵗ</am><ex>at</ex> was ther </l>
+<lb/><l n="175">Thys newe Rachell brynge fro his bere </l>
+<lb/><l n="176">W<am>ᵗ</am><ex>ith</ex> turnament and shamefull deth Ichone </l>
+<lb/><l n="177">The provost doith the Iewes to sterve </l>
+<lb/><l n="179">He no wolde none suche cursidnes obserue </l>
+<lb/><l n="179-1">T f this murthir wist and þ<am>ᵗ</am><ex>at</ex> anone </l>
+<lb/><l n="180">Evill shall þey haue þ<am>ᵗ</am><ex>at</ex> evill de<am>ʆ</am><ex>ser</ex>ue  </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

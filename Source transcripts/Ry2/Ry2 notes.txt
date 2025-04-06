@@ -1,0 +1,114 @@
+Ry2 notes
+
+The manuscript originally consisted of 32 quires of 8 (256 folios), a quire of 14 (the 30th) and a final quire of four, hence 274 folios. CT begins on the first leaf of the first folio and continues through to the end of the manuscript.  The manuscript is now preceded by two leaves containing 15th century materials: these leaves are included in the traditional foliation. The two inner bifolia (3.6 and 4.5) in the ninth quire, folios 67/70 (=3.6) and 68/69 (=4.5) have been transposed, so that the order of leaves in this quire is 65 66 68 67 70 69 71 72.  The final three folios of quire 30, folios 244-246, are missing, as may also be the last folio of the last quire, folio 274, if this is not a pastedown. However, there is no text missing following 243v (the thirteenth leaf of quire 30), and there is a catchword on the base of this page, suggesting that the three pages were removed (leaving stubs) before the copying of the manuscript.  However, we retain these three pages in the foliation, to indicated the irregularity at this point.
+
+SU is abbreviated at the end, as are several other mss. Note the transition from the first 8 lines of L14 to line 9 of L17. MO finishes at 680, as do many others.
+
+Disarranged folios in Q.9:
+order is: 65,66: L7 (finishes base of 66v) with L7 90: 91-97 are missing
+
+NOTE: WE MUST BE MISSING images in quire 9. 
+Apparently missing are:
+
+
+65r/65v: TG 831-902; L7 1-9
+
+66r/66v L7 10-91
+
+67r(71b = Trad 69): ML 75-115 (marked "a") = IMAGE 71b
+67v(72a): ML 34-74 (reversed verso and recto!!!) (note at base "iii fo seque[n]ter) (note at base "ij° folio p[re]side[n]t[er] a") = IMAGE 72a [NOT POSSIBLE..????] -- ie verso of 67r??? Mosser must be mistaken.  I don't see "iii fo seque[n]ter" at the base of ANY of these pages
+
+68r(72b): ML 239-279 (marked "c") = IMAGE 72b = Mosser 71r
+68v (73a): ML 198-238 (reversed again!) can't be!] (note at base "ij° f° c") = IMAGE 73a.  Mosser claims that the inscription on this page should be "ijo fo° d". I don't see ijo fo° d on any page. He puts "ij° f° c" on his 72v, with 72r having no mark.
+
+69r (73b = trad 71): ML 321-361 (marked "d" = IMAGE 73b)
+69v (74a): ML 444-484 (with catchword?? to "saugh of custance" (note at base "ijo fo° d") I don't see "ijo fo° d" on any page
+
+70r (74b): 485-525 
+70v (75a): 608-648 
+
+
+71r (75b): 649-689 
+71v (76a): 772-812  (???)
+
+72r (76b): 813-854
+72v (77a): 855-89  NO CATCHWORD
+
+Something much wierder has happened here than transposition of 3.6 and 4.5. ML 1-33 are missing entirely, as are 116-197, 280-320, 362-443, 526-607, 690-771.  It is notable that all these, apart from ML 1-33, correspond to what might have been written on complete single folios. And how does the inner bifolium, 68/69, come to have a catchword?
+
+Accordingly: I am retaining the numbering 65-72 as currently bound.  It appears that the later scribal notation on the the ms which Mosser cites as evidence of the transposition of the folios is actually the scribe's recognition of the disorder in the ms, and his attempt to repair it -- but what actually has gone wrong is more than simple transposition. Here is what I think happened:
+ The scribes exemplar for ML existed in a series of single sheets (text now missing is indicated by *:
+1. ML 1-33* (probably on the verso, preceded by L7 91-97)
+2. ML 34-74, 
+3. ML 75-115 
+4 and 5. ML 116-197*
+6. ML 198-238
+7. M 239-279 (
+8. ML 280-320* 
+9. ML 321-361 
+10 and 11. ML 362-443*
+12 and 13. ML 444-484, 485-525 (verso)
+14 and 15. ML 526-607*
+16 and 17. ML 608-648, 649-689 (
+18 and 19. ML 690-771*
+20 and 21. ML 772-854
+
+According to this explanation: leaves 1, 4, 5, 8, 10, 11, 14, 15, 18, 19 were lost. Leaves 2/3, and 6/7 were transposed, and the sequence copied to yield the order here given.  NOTE: this assumes that the scribe retained the lines per page of the exemplar in the copy.  This is most likely to have happened if 
+
+The confusion in these pages appears to be deepened by what appear as inconsistencies between Mosser and what can be seen on the ms images.
+
+our 67r=M69r=I71b: marked "a"
+our 67v=M69v=I72a: Images shows "ij° folio p[re]side[n]t[er] a". M states that 
+"iii fo seque[n]ter" is on this page: I don't see this on any page
+our 68r=M70r=I72b
+
+
+Absent text corresponding to the missing folios is as follows: (folios 244-246)
+
+Images: 
+[0v]/1r-66v/67r=[5a]/5b-71a/b
+image for 67v/68r MISSING
+68v/69r = 72/ab
+image for 69v/70r MISSING 
+70v/71r = 73a/b
+image for 71v/72r MISSING
+72v/73r = 74a/b
+image for 73v/74r MISSING
+74v/75r = 75a/b
+image for 75v/76r MISSING
+76v/77r-79v/80r  = 76a/b- 79a/b
+80v/81r missing
+81v/82r = 80a/b
+82v/83r missing
+83v/84r- 148v/149r = 81a/b -- 146a/b
+images 146 and 147 identical
+149v/150r - 184v/185r = 148a/b - 183a/b
+image for 185v/186r MISSING
+186v/187r - 243v/[244r] = 184a/b - 241a/[b]
+folios 244-246 missing
+[246v]/247r - 271v/272r = 241[a]/b-266a/b
+
+Tale Order GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ L20 ME WBP  WBT L10 FR L11 SU CL L13 L14 L17 FK NU L33 CY L34 PH L21 PD L22 SH L24 PR L25 TT L28 TM L29 MO L30 NP MA L37 PA RT 
+Supplied: KT L2 RE L8 SQ WBT L10 FR L11 SU NU L33 CY PH L21 MA PA RT 
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI  
+DMU L20 ME L13 L14 L17 L37 L34
+Mosser L3 CO
+Murcia TG
+Munster PD
+Sheffield FK
+Posnan L7 ML
+BYU L22 SH L24 PR L25 TT L28 TM L29 MO L30 NP
+
+Correspondence
+trad us
+3-68 1-66
+69 68
+70 67
+71 70
+72 69
+73-245 71-243
+246-272  247-273
+
