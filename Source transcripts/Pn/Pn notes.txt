@@ -1,0 +1,172 @@
+Pn notes
+
+This incunable has 39 quires of 8 (312 folios; quires a-v, aa-kk, A-I, and two quires of 6, ll (appearing after kk and before A) and K (final in the manuscript, after I), for a total of 324 folios. 
+
+Note: k8 is missing! seems no one ever noticed this, but quire 8 has only seven leaves.  There is no absence of text
+
+B2r finishes in the middle of PA 495; B2v over the leaf plunges into the middle of TM 783! wierd! has anyone noticed this..?
+The wierdness continues. Next page, B3r: plunges back to TM 526 (from mid 817 so omitting about what would have been on a whole page, recto or verso) and carries
+At base of B4v the text goes suddenly from TM 50 back to TM 618, then returns on the next pages to 651, with some text missing from 651; whence the text carries forward to 682, at the base of the B5r, whence we get ANOTHER fragment of 651, whereupon at the top of B5v we suddenly switch back into 682, exactly where he had left off. Then at the base of B6v, we go from mid 783 to 497, forwqrd to 526, then at B7v we go 817 and thence through to the end.  So it goes:
+
+1-495
+B2r: -495
+xxxv: 783-817
+B3r-B4v  526-650 (4 pages)
+[Base B4v} 618 (repeated)
+B5r: 651 (part)-682 (part) (1 page); part 651 at base of page
+B5v-B6v 682 (part) -782  (5 pages?)
+B7r 497-526 (1 page)
+B7v 817-end
+
+That is:
+B2r finishes on TM 495
+its verso, B2v, carries 783-817, where one would expect 495-526
+the next two sheets (B3r-B6v) carry on from 526-782
+B7r carries 495-526, where one would expect 783-817
+
+Apart from the repetition of parts of 618 and 650 at the base of B4v and B5r: this could be explained by exchange of what should be B2v and B7r: these two pages would have been on the inner forme of the second sheet of quire B. Transposing of the two pages when composing the forme, so that B7r is at the left, B2v to the right, would have given exactly this result. We represent this by numbering the page containing TM 783-817 as [B7r], that holding 497-526 as [B2v]
+
+Concerning the repetition of parts of 618 and 650 at the base of B4v and B5r: these two pages would have both been on the inner forme of the fourth sheet of quire B.
+
+There is similar disorder in PA. The text appears in the order below, from folios H5r (ending PA 448) through I1v (starting PA 589). Here is the order in which the text actually appears. The foliation given is what it should be, for the text to appear in the correct order; asterisks 
+
+H5r --448
+[H8v] 554-570
+
+I1r 571--589
+[H5v] 449-467
+
+[H6r] 467-488
+[H6v] 488-505
+
+[H7r] 505-520
+[H7v] 520-536
+
+[H8r] 536-554
+[I1v] 589-605
+
+I2r 606-
+
+
+This is baffling. Beside the disorder, which has (for example) [H8v] appearing as the verso of [H5r] we have three instances where pages which should have been in different quires are printed on the one forme.  This could only have arisen through disorder in the transfer of marked-up text to the formes, with the wrong pages being composed on the wrong formes.  We here assign the pages the numbers they should have if they had been composed in the right sequence.
+
+See: Mosser, Daniel W. “The Manuscript Glosses of the Canterbury Tales and the University of London’s Copy of Pynson’s [1492] Edition: Witness to a Lost Exemplar.” Chaucer Review 41 (2007): 360-92. 
+
+ Absent text corresponding to the missing folios is as follows: 
+
+
+Images: 
+a2r- a7r = 2r-7r
+7v 8r  defective 8v 9r repeat 6v 7r
+a7v - a8v  = 9v - 10v
+b1r - b8v  =11r-18v
+c1r -c8v = 19r-26v
+d1r = 27r
+missing d1v-d2r
+d2v-d8v = 27v-33v
+e1r-e8v = 34r-41v
+f1r-f3r = 42r-44r
+f3v missing
+f4r - = 44v   (note misapplication of r and v)
+f4v missing
+f5r-f8v = 45r-48v
+g1r-g8v =49r-56v
+h1r-h8v = 57r-64v
+i1r-i8v = 65r-72v
+k1r-k7v = 73r-79v
+l1r-l8v = 80r-87v
+m1r-m8v = 88r-95v
+n1r-n8v =96r-103v
+01r-o8v = 104r-111v
+p1r-p8v = 112r-119v
+q1r-q8v =120r-127v
+r1r-r2v = 128r-129v
+129 and 130 are duplicates
+r3r-r8v=131-136
+s1r-8v =137-144v
+t1r-t8v = 145r-152v
+v1r- = 153r-
+153v repeats 152v
+154r repeats 153r
+v1v-v8v =154v-161v
+aa1r-aa8v =162r-169v
+bb1r-bb8v = 170r-177v
+178 and 179 identical
+cc1r-cc8v =179r-186v
+dd1r-dd8v =187r-194v
+ee1r-ee8v =195r-202v
+ff1r-ff8v- =203r-210v
+gg1r-gg6r = 211r-216r
+
+gg6v/gg7r- gg8v/[hh1r]=Pn_Page_001 - 3
+[gg8v]/hh1r-hh8v/[ii1r] = 003-011
+[hh8v]/ii1r-ii8v/[kk1r] = 011-019
+[ii8v]/kk1r-kk8v/[ll1r] = 019-27
+[kk8v]/ll1r-ll6v/A1r = 27-33
+[ll6v]/A1r = 33
+images 33 and 34 identical
+A1v/A2r-A8v/[B1r] = 35-42
+[A8v]/B1r-B1v/B2r = 42-43
+[[B7r]]/B3r-B6v/[[B2v]] = 44-48
+B7v/B8r - B8v/[C1r]=49-50
+[B8v]/C1r-C8v/[D1r]=50-58
+[C8v]/D1r-D8v/[E1r]=58-66
+[D8v]/E1r-E8v/[F1r]=66-74
+[E8v]/F1r-F8v/[G1r] = 74-82
+[F8v]/G1r-G8v/[H1r]=82-90
+[G8v]/H1r-H4v/H5r=90-94
+note hypothesized numbers bracketed in disordered sequence [H8v]-[H8r]
+H8v/I1r-H5v/H6r=95-96
+H6v/H7r-H7v/H8r=97-98
+I1v/I2r-I8v/[K1r]=99-106
+[I8v]/K1r-K4v/K5r = 106-110
+K5v = 111
+
+H5v-H8r images missing
+H8v/I1r-=95-
+47
+29
+
+Tale Order GP KT L1 MI L2 RE L3 CO L7 ML L15 ME L8 SQ L20 FK WBP WBT L10 FR L11 SU CL L13 L14 NU L33 CY PH L21 PD SH L24 PR L25 TT L28 TM L29 MO L30 NP L31 L36 MA L37 PA
+Supplied: KT L2 RE L8 SQ WBT L10 FR L11 SU L13 L14 NU L33 CY PH L21 SH L24 PR L25 TT L28 TM L29 MO L31 L36 PA
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI 
+DMU L15 ME L20 L37
+Mosser L3 CO
+Munster PD
+
+Munster PD
+Sheffield FK
+Posnan L7 ML
+BYU L30 NP
+
+Correspondence
+trad us
+5-19 3-17
+[20-21]  [18-19] /traditional numbering includes these missing pages/
+22-26  20-24
+27-125 26-124
+[126] (skipped number in traditional)
+127-137    125-135
+[138] [136]
+139-199 137-197
+[200-201] [201-202] 
+202-216 203-217
+217-221 219-223
+222-316 225-319
+
+errors in the Mosser foliation:
+[4-5]12 fols 38-62: should be 38-61
+[6]8 fols 63-69: should be 62-69
+[7-11]12 fols 70-130: should be 70-129
+[12]12 (-8) fols 131-142: should be 130-140 (presuming the missing leaf 8 is NOT included in the foliation)
+My guess is that the missing leaf 8 is included in the foliation, so this should be 130-141
+[13]14 fols 143-156: should be 141-154 (or 142-155, including the leaf 8)
+[14-16]12 fols 157-192: should be 155-190 (or 156-191, ditto)
+[17]12 (-8-12, but two stubs included in the foliation) fols 193-201: should be 191-199 (or 192-200, ditto)
+My guess here is that THREE of the five missing leaves -- the two stubs plus one other -- are included in the foliation.  So these leaves should be numbered 192-201.  This brings the numbering back into alignment and all is good to the end of the ms then.
+****
+ Now corrected!!!! extra folio in numeration, as it goes from 125-127 and leaf 8 in q12 is included in the foliation.   Perfect.
+

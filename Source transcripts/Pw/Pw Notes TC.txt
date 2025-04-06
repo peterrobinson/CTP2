@@ -1,0 +1,21 @@
+==== Manuscript name and Mosser link  ====
+
+Sussex, Petworth House National Trust MS 7. Mosser: Pw.
+
+==== Original construction  ====
+
+38 regular quires of eight (304 folios) with a final quire of 4: 308 folios.
+
+==== Missing folios  ====
+
+The last folio of the last quire (308). The text of the Tales finishes on the third folio of the last quire, so there is no loss of text.
+
+==== Absent text corresponding to the missing folio  ====
+ 
+None.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-307 |1-307|
+|

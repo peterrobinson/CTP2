@@ -1,0 +1,194 @@
+==== Manuscript name and Mosser link  ====
+
+London, Royal College of Physicians MS 388. Mosser: Py.
+
+==== Original construction  ====
+
+18 quires of 20 (360 folios) and one of 16 (the twelfth): 376 folios.
+
+==== Missing folios  ====
+
+The two outer bifolia (1.20, 2.19) and the third leaf (folios 257-259, 275-276) are missing from quire 14, as are the last seven leaves of the last quire (folios 370-376).
+
+==== Absent text corresponding to the missing folio  ====
+ 
+PR 92-end, L25 1-13 (folios 257-259); TM 271-334 (folios 275-276); PA 989-end (370ff).
+
+==== Notes  ====
+
+Note the eyeskup of KT 1860-61, around the page break on the word "disconfortynge" -- 1859 and 1861. L20 is copied twice: once on 110v, and again on 245v (crossed out, and then followed by L15, finishing at top of 246v with the rest of the sheet blank).  This is followed by SH -- perhaps on the premise that the first line of SH mentions a merchant.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-173 | 1-173|
+|173A |174|
+|174-255 | 175-256|
+|256-270 | 260-274|
+|271-292 | 277-298|
+|292a | 299|
+|293-362 | 300-369|
+
+
+
+
+
+Py notes
+
+The complete manuscript had 18 quires of 20 (360 folios) and one of 16 (the twelfth) for a total of 376 folios. The two outer bifolia (1.20, 2.19) and the third leaf (folios 257-259, 275-276) are missing from quire 14, as are the last seven leaves of the last quire (folios 370-376).
+
+Absent text corresponding to the missing folios is as follows: PR 92-end, L25 1-13 (folios 257-259); TM 271-334 (folios 275-276); PA 989-end (370ff).
+
+Note the eyeskup of KT 1860-61, around the page break on the word "disconfortynge" -- 1859 and 1861. Does anyone else lose these lines? if so very likely copied from here.  Note that L20 is copied TWICE: once on 110v, and again on 245v (crossed out, and then followed by L15, finishing at top of 246v with the rest of the sheet blank).  This is followed by SH -- perhaps on the premise that the first line of SH mentions a merchant? Note abbreviation of TM, omitting 148-194 on 270r and 576-623 on 284v. Fols 271v-273r of TM import some other text about counsellors! not part of TM! TM 232 resumes on 273r; similarly on 285r-286r, with TM resuming in 679.
+"173 is followed by 173a", thus giving the extra page.  
+Adam points out problems on 266v (orig numbering=270v, our numbering); 272v
+On 271v: <ab n="230">(base) And Dauid seith  Blisful is that man that hath nat folwed the conseilyng of sherewes </ab><ab n="231">(base) Thow shalt also eschue 
+<lb/> the conseilyng of yong folk for hir conseil is nat rype </ab> 
+is followed by: 
+
+Adam: 
+identifies text on 271v as: 1115-1122
+identifiers text on 272r as: 1122-1138 (riverside numbering)
+identifies text on 272v as: 1138-1150 (riverside numbering)
+identifies text at start of 273r as: 1150-1157 (riverside numbering)
+
+Correspondence:
+Trad us
+1-172 1-172
+173A 174
+174-255 175-256
+256-270 260-274
+271-292 277-298
+292a 299
+293-362 300-369
+
+
+
+
+Image numbering: starts 2r = folio 1r; thereafter, out by one, as we do not include the folioation.
+
+
+Images: 
+
+[]/1r-2v/3r  2-4
+3v-4r AV
+4v/5r-7v/8r =5-8
+8v 9r AV
+9v/10r-10v/11r=9-10
+NOTE: 11v in ms appears to be blank. Text continues on 12r (not 11v) without a break.  Wierd!
+11v 12r AV
+12v/13r-13v/14r = 11-12
+14v 15r AV
+15v 16r AV
+16v/17r-20v/21r=13-17
+21v 22r AV
+22v/23r-26v/27r=18-22
+27v 28r AV
+28v/28r - 44v/45r=23-39
+45v 46r AV
+46v/47r-52v/53r = 40-46
+53v 54r AV
+54v/55r-65v/66r=47-58
+66v 67r AV
+67v/68r-70v/71r = 59-62
+71v 72r AV
+72v/73r-76v/77r= 63-67
+77v 78r AV
+78v 79r AV
+79v/80r-129v/130r = 68-118
+130v 131r AV
+131v/132r-134v/135r =119-122
+135v 136r AV
+136v/137r-148v/149r=123-135
+149v 150r AV
+150v/151r-153v/154r=136-139
+154v-155r AV
+155v/156r-163v/164r=140-148
+164v 165r AV
+165v/166r-171v/172r=149-155
+172v 173r AV
+numbers one out hereafrwe
+173v/174r-192v/193r = 156-175
+193v 194r AV
+194v/195r-204v/205r=176-186
+205v 206r AV
+206v/207r-210v/211r=187-191
+211v 212r AV
+212v/213r-213v/214r=192-193
+214v 215r AV
+215v/216r-217v/218r=194-196
+218v 219r AV
+219v/220r-223v/224r=197-201
+224v 225r AV
+225v/226r-228v/229r=202-205
+229v 230r AV
+230v/231r-234v/235r=206-210
+235v 236r AV
+236v/237r-237v/238r =211-212
+238v/239r-239v/240r AV
+240v/241r - =213
+241v/242r  AV
+242v/243r-243v/244r= 214-215
+244v 245r
+245v/246r- = 216
+246v.jpg 247r.jpg
+247v/248r-253v/254r =217-223
+254v 255r
+255v/256r = 224
+256v 260r
+260v/261r-262v-263r = 225-227
+263v 264r AV
+264v/265r-269v/270r=228-233
+270v 271r AV
+271v/272r-274v/[] = 234-237
+[]/277r-279v/280r =237-240
+280v/281r MISSING
+281v/282r-287v/288r=241-247
+288v 289r 289v 290r
+290v/291r = 248
+291v 292r
+292v/293r-299v/300r = 249-256
+300v 301r
+301v/302r-305v/306r = 257-261
+306v 307r 307v 308r
+308v-309r = 262
+309v 310r
+310v/311r-318v/319r = 263-271
+319v 320r
+320v/321r -322v-323r = 272-274
+323v 324r
+324v/325r-327v/328r- = 275-278
+328v 329r 329v 330r
+330v/331r-331c/332r = 279-280
+332v 333r
+333v/334r -  339v/340r= 281-287
+340v 341r
+341v/342r-342v/343r = 288-289
+343v 344r
+344v/345r-353v/354r = 290-299
+354v 355r
+355v/356r-356v/357r = 300-301
+357v 358r
+358v/359r -359v/360r = 302-303
+360v 361r
+361v/362r-363v/364r = 304-306
+364v 365r
+365v/366r 307
+366v 367r
+367v/368r-368v/369r = 308-309
+369v
+
+Tale Order: GP KT L1 MI L2 RE L3 CO L7 ML L8 SQ L20 ME WBP WBT L10 FR L11 SU CL L13 L14 FK NU L33 CY L34 PH L21 PD L202 L15 SH L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA L37 PA
+
+Supplied: KT L2 RE L3 CO L7 ML L8 SQ WBT L10 FR L11 SU NU L33 CY PH L21 L202 L15 SH L24 PR L25 TT L28 TM L36 MA L37 PA
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L20 ME L13 L14 L34
+VT
+Munster/Sheffield PD FK
+BYU L29 MO L30 NP
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 PH 0 L21 0 L36 0 MA 0 SQ 0 PL 0 PA 0}
+array set pagedBase {FK 0}

@@ -1,0 +1,267 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/tei_ms.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xmlns:det="http://textualcommunities.usask.ca/">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Pl</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+			<sourceDesc>
+ 				<bibl det:document="Pl"></bibl>
+				<bibl type="summary">
+					<respStmt n="General">
+						<resp>Textual editing and encoding:</resp>
+						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+					</respStmt>
+				</bibl>
+ 				<bibl type="transcribers">
+					<respStmt n="Oxford">
+						<resp>Original capture and corrections:</resp>
+						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="Sheffield-C">
+						<resp>Corrections:</resp>
+						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+					</respStmt>
+					<respStmt n="DMU">
+						<resp>Original capture and corrections:</resp>
+						<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+					</respStmt>
+					<respStmt n="UoS">
+						<resp>Conversion for Textual Communities:</resp>
+						<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+					</respStmt>
+					<respStmt n="VT">
+						<resp>Original capture and corrections:</resp>
+						<name>Virgina Tech team, led by Daniel W. Mosser</name>
+					</respStmt>
+					<respStmt n="NYU">
+						<resp>Original capture and corrections:</resp>
+						<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+					</respStmt>
+					<respStmt n="BYU">
+						<resp>Original capture and corrections:</resp>
+						<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+					</respStmt>
+					 <respStmt n="Poznan">
+						<resp>Original capture and corrections:</resp>
+						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+					</respStmt>
+					 <respStmt n="Murcia">
+						<resp>Original capture and corrections:</resp>
+						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+					</respStmt>
+					<respStmt n="MU">
+						<resp>Original capture and corrections:</resp>
+						<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. </name>
+					</respStmt>
+				</bibl>
+				<bibl type="notcontributed">
+					<respStmt n="Sheffield">
+						<resp>Original capture and corrections:</resp>
+						<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+					</respStmt>
+				</bibl>
+				<bibl type="transcripts">
+					<respStmt n="L17 FK">
+						<resp>Original transcription and corrections:</resp>
+						<name n="DMU UoS">De Montfort team; conversion for Textual Communities: Saskatchewan team.</name>
+					</respStmt>
+				</bibl>
+				<msDesc>
+					<msIdentifier>
+						<settlement>New York</settlement>
+						<repository>Columbia University, Rare Book and Manuscript Library</repository>
+						<idno>Plimpton MS 253</idno>
+						<msName>Pl</msName>
+					</msIdentifier>
+				</msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl det:documentRefsDecl="Manuscript"  det:entityRefsDecl="Text">
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 	<text>
+		<body>
+<pb xml:id="Pl-1r" n="1r" facs="1.jpg"/>
+<div xml:id="L17-Pl" n="L17" type="G">
+<lb/><l xml:id="L17-1-Pl" n="1"><hi height="4" rend="orncp">E</hi>Y god mercy sayde our oste tho </l>
+<lb/><l xml:id="L17-2-Pl" n="2">Now suche awyff y pᵃy god kepe me fro </l>
+<lb/><l xml:id="L17-3-Pl" n="3">Lo suche shleyghthe and sbtilites </l>
+<lb/><l xml:id="L17-4-Pl" n="4">As we<ex>̄</ex><am>m</am>men ben for and as bysy as bees </l>
+<lb/><l xml:id="L17-5-Pl" n="5">Beth they vs foly men for to disceyue </l>
+<lb/><l xml:id="L17-6-Pl" n="6">And fro asoth euer woleth they weyue </l>
+<lb/><l xml:id="L17-7-Pl" n="7">By this marchauntes tale hit <am>ꝓ</am><ex>pro</ex>ueth wel </l>
+<lb/><l xml:id="L17-8-Pl" n="8">But douteles as trewe as eny steel </l>
+<lb/><l xml:id="L17-9-Pl" n="9">I haue awyf thauȝgh she pore be </l>
+<lb/><l xml:id="L17-10-Pl" n="10">But of hur tonge alabbyng shrewe is she </l>
+<lb/><l xml:id="L17-11-Pl" n="11">And she hath an hepe of vices mo </l>
+<lb/><l xml:id="L17-12-Pl" n="12">Ther of no fors let al suche thynges go </l>
+<lb/><l xml:id="L17-13-Pl" n="13">But wyte ȝe what in conseill be hit said </l>
+<lb/><l xml:id="L17-14-Pl" n="14">Me reweth sore that I am to hur tyed </l>
+<lb/><l xml:id="L17-15-Pl" n="15">For and I shulde rykene euery vies </l>
+<lb/><l xml:id="L17-16-Pl" n="16">Whyche that she hath y wys I nere noȝt wyse </l>
+<lb/><l xml:id="L17-17-Pl" n="17">And cause why for hit shulde reported be </l>
+<lb/><l xml:id="L17-18-Pl" n="18">And tolde to hur of some of this meygne </l>
+<lb/><l xml:id="L17-19-Pl" n="19">Of whom hit nedeth noȝt to declar </l>
+<lb/><l xml:id="L17-20-Pl" n="20">Sthe wymen con oute wel suche chaffar </l>
+<lb/><l xml:id="L17-21-Pl" n="21">ke my wit suffiseth noȝt therto </l>
+<lb/><l xml:id="L17-22-Pl" n="22">elle al ther fore my tale is do </l>
+<lb/><l xml:id="L17-23-Pl" n="23">S frankeleyn com nerr ȝef it ȝour wille be </l>
+<lb/><l xml:id="L17-24-Pl" n="24">And say vs atale for certes ȝe </l>
+<lb/><l xml:id="L17-25-Pl" n="25">Ȝe can ther on as meche as eny man </l>
+<lb/><l xml:id="L17-26-Pl" n="26">Nay syr <am>ꝙ</am><ex>quod</ex> he I wol say as I can </l>
+<lb/><l xml:id="L17-27-Pl" n="27">With hertly will for I wol noȝt rebell </l>
+<lb/><l xml:id="L17-28-Pl" n="28">A ȝaynes ȝour wil atale wol I tell </l>
+<lb/><l xml:id="L17-29-Pl" n="29">Haueth me excused ȝef I say amys </l>
+<lb/><l xml:id="L17-30-Pl" n="30">My will is good and lo my tale is this </l>
+
+</div>
+<div xml:id="FK-Pl" n="FK" type="G">
+<lb/><l xml:id="FK-1-Pl" n="1"><hi height="5" rend="orncp">T</hi>his olde gentil Brytons in here dayes </l>
+<lb/><l xml:id="FK-2-Pl" n="2">Of diuers auentures maden layes </l>
+<lb/><l xml:id="FK-3-Pl" n="3">Rymeyde first in hur Briton tonge </l>
+<lb/><l xml:id="FK-4-Pl" n="4">Whiche layes with her instrumentes they songe </l>
+<lb/><l xml:id="FK-5-Pl" n="5">Or elles redyng hem for her plesaunce </l>
+<lb/><l xml:id="FK-6-Pl" n="6">And oon of hem haue I in remambraunce </l>
+<pb xml:id="Pl-1v" n="1v" facs="2.jpg"/>
+<lb/><l xml:id="FK-7-Pl" n="7">Whiche I shal say with good will as I can </l>
+<lb/><l xml:id="FK-8-Pl" n="8">But sires by cause that I am a berell man </l>
+<lb/><l xml:id="FK-9-Pl" n="9">At my by gynnyng first I ȝow by seche </l>
+<lb/><l xml:id="FK-10-Pl" n="10">Haueth me excused of my rude speche </l>
+<lb/><l xml:id="FK-11-Pl" n="11">I lerned neuer retoryk certayn </l>
+<lb/><l xml:id="FK-12-Pl" n="12">Thyng that I speke hit mot be bare and pleyn </l>
+<lb/><l xml:id="FK-13-Pl" n="13">I shleppte neu<am>̉</am><ex>er/re</ex> vpon the mounte of <am>Ꝑ</am><ex>Per/Par</ex>naso </l>
+<lb/><l xml:id="FK-14-Pl" n="14">Ne I lerned neu<am>̉</am><ex>er/re</ex> Marcus tullius Cytthero </l>
+<lb/><l xml:id="FK-15-Pl" n="15">Ne colours knowe I noon with outen drede </l>
+<lb/><l xml:id="FK-16-Pl" n="16">But suche colours as growen in amede </l>
+<lb/><l xml:id="FK-17-Pl" n="17">Or elles suche as men dye or peynte </l>
+<lb/><l xml:id="FK-18-Pl" n="18">Colours of retoryk ben to queynte </l>
+<lb/><l xml:id="FK-19-Pl" n="19">My spirit feleth noȝt of suche matr </l>
+<lb/><l xml:id="FK-20-Pl" n="20">But ȝeff ȝow luste my tale shall ȝe her </l>
+<lb/><l xml:id="FK-22-Pl" n="22"><hi height="4" rend="orncp">T</hi>her was a knyȝt that loued and dede his peyne </l>
+<lb/><l xml:id="FK-21-Pl" n="21">In armorike that called was brytaynne </l>
+<lb/><l xml:id="FK-23-Pl" n="23">To serue alady in his beste wyse </l>
+<lb/><l xml:id="FK-24-Pl" n="24">And mony alabour and mony agret empryse </l>
+<lb/><l xml:id="FK-25-Pl" n="25">He for his lady wrouȝte er she wer wonne </l>
+<lb/><l xml:id="FK-26-Pl" n="26">For she was oon the faireste vnder sonne </l>
+<lb/><l xml:id="FK-27-Pl" n="27">And eken ther to comen of so heyȝ kynrede </l>
+<lb/><l xml:id="FK-28-Pl" n="28">That wel vnnethe durste this knyȝt for drede </l>
+<lb/><l xml:id="FK-29-Pl" n="29">Telle hur his wo his peyne and his distresse </l>
+<lb/><l xml:id="FK-30-Pl" n="30">But at the laste she for his worthynesse </l>
+<lb/><l xml:id="FK-31-Pl" n="31">And namely for his mekely obeysaunce </l>
+<lb/><l xml:id="FK-32-Pl" n="32">Hath suche apite cauȝt of his plesaunce </l>
+<lb/><l xml:id="FK-33-Pl" n="33">That pryuely she fel at his acord </l>
+<lb/><l xml:id="FK-34-Pl" n="34">To take hym for her housbond and her lord </l>
+<lb/><l xml:id="FK-35-Pl" n="35">For suche lorshipe as men han ouer her wyfes </l>
+<lb/><l xml:id="FK-36-Pl" n="36">And forto leden the more in blisse her lyfes </l>
+<lb/><l xml:id="FK-37-Pl" n="37">Of his freo will he swor hur as a knyȝt </l>
+<lb/><l xml:id="FK-38-Pl" n="38">That neuer he in al his lyue day ne nyȝt </l>
+<lb/><l xml:id="FK-39-Pl" n="39">Ne shulde vpon hym take no maystry </l>
+<lb/><l xml:id="FK-40-Pl" n="40">Aȝaynes hur wyll kythe hur gelousye </l>
+<lb/><l xml:id="FK-41-Pl" n="41">But hur obeye and folewe hur will in al </l>
+<lb/><l xml:id="FK-42-Pl" n="42">As eny louer to his lady shal </l>
+<lb/><l xml:id="FK-43-Pl" n="43">Saue that the name of sou<am>̉</am><ex>er/re</ex>eyngte </l>
+<lb/><l xml:id="FK-44-Pl" n="44">That wolde he haue for shame of his degre </l>
+<pb xml:id="Pl-2r" n="2r" facs="3.jpg"/>
+<lb/><l xml:id="FK-490-Pl" n="490">Than sawe he knyȝtes Iosten in aplayn </l>
+<lb/><l xml:id="FK-491-Pl" n="491">And after this he dede hym suche plesaunce </l>
+<lb/><l xml:id="FK-492-Pl" n="492">That he hym shewyd his lady in adaunce </l>
+<lb/><l xml:id="FK-493-Pl" n="493">On whiche hym selfe daunced as hym thouȝt </l>
+<lb/><l xml:id="FK-494-Pl" n="494">And when this mayster that this magyke wrouȝt </l>
+<lb/><l xml:id="FK-495-Pl" n="495">Sawe hit was tyme he clapped his hondes to </l>
+<lb/><l xml:id="FK-496-Pl" n="496">And fare wel al þe reuel is ago </l>
+<lb/><l xml:id="FK-497-Pl" n="497">And ȝet remewed neu<am>̉</am><ex>er/re</ex> out of his hous </l>
+<lb/><l xml:id="FK-498-Pl" n="498">Whiles they sawe al this syȝt merueylous </l>
+<lb/><l xml:id="FK-499-Pl" n="499">But in his studye ther as his bokes be </l>
+<lb/><l xml:id="FK-500-Pl" n="500">They satyn still and no whyȝt but they thr </l>
+<lb/><l xml:id="FK-501-Pl" n="501">To hym this maister called hys squier </l>
+<lb/><l xml:id="FK-502-Pl" n="502">And sayde hym thu is redy our soper </l>
+<lb/><l xml:id="FK-503-Pl" n="503">Almoste an hour hit is I vndurtake </l>
+<lb/><l xml:id="FK-504-Pl" n="504">Sethes I ȝow bade our so<am>ꝑ</am><ex>per/par</ex> to make </l>
+<lb/><l xml:id="FK-505-Pl" n="505">When that these worthy wenten with me </l>
+<lb/><l xml:id="FK-506-Pl" n="506">Vnto my study ther as my bokes be </l>
+<lb/><l xml:id="FK-507-Pl" n="507">Sir <am>ꝙ</am><ex>quod</ex> this squier when hit lyketh ȝow </l>
+<lb/><l xml:id="FK-508-Pl" n="508">Hit is al redy thaugh ȝe wolden hit now </l>
+<lb/><l xml:id="FK-509-Pl" n="509">Go we then soupe <am>ꝙ</am><ex>quod</ex> he and for the beste </l>
+<lb/><l xml:id="FK-510-Pl" n="510">his amerous folk som tyme wold ha reste </l>
+<lb/><l xml:id="FK-511-Pl" n="511">ut after so<am>ꝑ</am><ex>per/par</ex> ful they in trete </l>
+<lb/><l xml:id="FK-512-Pl" n="512">That some shulde this maistres gwon be </l>
+<lb/><l xml:id="FK-513-Pl" n="513">To remewe alle the rokkes of brytayne </l>
+<lb/><l xml:id="FK-514-Pl" n="514">And eke fro gero<am rend="ū">ıı̄</am><ex>un</ex> to the mouthe of sayne </l>
+<lb/><l xml:id="FK-515-Pl" n="515">He made hym strange and wor so god hym saue </l>
+<lb/><l xml:id="FK-516-Pl" n="516">Lesse than athousand pond he nolde noȝt haue </l>
+<lb/><l xml:id="FK-517-Pl" n="517">Ne gladly for that some ne Bolde he gon </l>
+<lb/><l xml:id="FK-518-Pl" n="518">Aurelius with blisful herte anoon </l>
+<lb/><l xml:id="FK-519-Pl" n="519">Onswerde thus fy on athousand pond </l>
+<lb/><l xml:id="FK-520-Pl" n="520">This wyde world whiche that men say is ronde </l>
+<lb/><l xml:id="FK-521-Pl" n="521">I wolde hit ȝeue ȝef I wer lord of hit </l>
+<lb/><l xml:id="FK-522-Pl" n="522">This bargeyn is ful dryuen for we ben knyȝt </l>
+<lb/><l xml:id="FK-523-Pl" n="523">Ȝe shullen ben I payed trewly by my trouthe </l>
+<lb/><l xml:id="FK-524-Pl" n="524">But loketh now that for no neclygence ne for shlouthe </l>
+<lb/><l xml:id="FK-525-Pl" n="525">Ȝe tary vs no leynger then to morewe </l>
+<lb/><l xml:id="FK-526-Pl" n="526">Nay <am>ꝙ</am><ex>quod</ex> this clerke hier my trouthe to borewe </l>
+<pb xml:id="Pl-2v" n="2v" facs="4.jpg"/>
+<lb/><l xml:id="FK-527-Pl" n="527">To bedde is gon Aurelyus when hym luste </l>
+<lb/><l xml:id="FK-528-Pl" n="528">And wel neygh al that nyȝt he hade his reste </l>
+<lb/><l xml:id="FK-529-Pl" n="529">What for his labour and for his hope of blysse </l>
+<lb/><l xml:id="FK-530-Pl" n="530">His woful herte of penaunce gan to lysse </l>
+<lb/><l xml:id="FK-531-Pl" n="531">Vpon the morewe when that his was day </l>
+<lb/><l xml:id="FK-532-Pl" n="532">To Brytayne took they the riȝt way </l>
+<lb/><l xml:id="FK-533-Pl" n="533">Aurelyus and this magicien by syde </l>
+<lb/><l xml:id="FK-534-Pl" n="534">And ben descendet ther they woleth abyde </l>
+<lb/><l xml:id="FK-535-Pl" n="535">And this was as this bokes me remembr </l>
+<lb/><l xml:id="FK-536-Pl" n="536">The colde forsty seson of decembr </l>
+<lb/><l xml:id="FK-537-Pl" n="537">Phebus wax old and hewed lyke lato<am rend="ū">ıı̄</am><ex>un</ex> </l>
+<lb/><l xml:id="FK-538-Pl" n="538">That in his hoot declynacon </l>
+<lb/><l xml:id="FK-539-Pl" n="539">Shoon as the Bornysshed gold with stremes bryȝt </l>
+<lb/><l xml:id="FK-540-Pl" n="540">But now in Caprycorn adon he  </l>
+<lb/><l xml:id="FK-541-Pl" n="541">Wher as he shoon ful pale I dar wel sayn </l>
+<lb/><l xml:id="FK-542-Pl" n="542">The bitter frostes with the snowe and reyn </l>
+<lb/><l xml:id="FK-543-Pl" n="543">Distruyed hath the grene in euery ȝerd </l>
+<lb/><l xml:id="FK-544-Pl" n="544">Ianus sitte by the fuyr with double berd </l>
+<lb/><l xml:id="FK-545-Pl" n="545">And drynketh of his bugle horn the wyn </l>
+<lb/><l xml:id="FK-546-Pl" n="546">By foren hym stand braiae of the teuxid swyn </l>
+<lb/><l xml:id="FK-547-Pl" n="547">And nowel cryeth euer lusty man </l>
+<lb/><l xml:id="FK-548-Pl" n="548">Aurelyus  </l>
+<lb/><l xml:id="FK-549-Pl" n="549">Doth to his r chere and reuerence </l>
+<lb/><l xml:id="FK-550-Pl" n="550">And preyeth hym to don his diligence </l>
+<lb/><l xml:id="FK-551-Pl" n="551">To bryngen hym out of his peynes smert </l>
+<lb/><l xml:id="FK-552-Pl" n="552">Or with a swerd that he wolde shlitte his hert </l>
+<lb/><l xml:id="FK-553-Pl" n="553">This subtill clerk whiche routhe hath of this man </l>
+<lb/><l xml:id="FK-554-Pl" n="554">That nyȝt and day he sped hem that he can </l>
+<lb/><l xml:id="FK-555-Pl" n="555">To wayte atyme of his conclusyo<am rend="ū">ıı̄</am><ex>un</ex> </l>
+<lb/><l xml:id="FK-556-Pl" n="556">This is to sayn to make illusyo<am rend="ū">ıı̄</am><ex>un</ex> </l>
+<lb/><l xml:id="FK-557-Pl" n="557">The whiche an apparens in iogellrye </l>
+<lb/><l xml:id="FK-558-Pl" n="558">I can no termes of astrologye </l>
+<lb/><l xml:id="FK-559-Pl" n="559">That she and euery wyȝt shulde wene and saye </l>
+<lb/><l xml:id="FK-560-Pl" n="560">That of Brytayne the rokkes wer aweye </l>
+<lb/><l xml:id="FK-561-Pl" n="561">Or elles wer sonke vnder grounde </l>
+<lb/><l xml:id="FK-562-Pl" n="562">So at the laste hath hys tyme yfounde </l>
+<lb/><l xml:id="FK-563-Pl" n="563">To make his iapes and his wrechednes </l>
+<lb/><l xml:id="FK-564-Pl" n="564">Of whiche a substicious cursednes  </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

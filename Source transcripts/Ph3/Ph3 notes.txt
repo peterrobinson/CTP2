@@ -1,0 +1,111 @@
+Ph3 notes
+
+The complete manuscript had 35 quires of 8, 280 folios in total, not including a final lost quire. There has been considerable loss of leaves: all the first four quires are lost, and the two outer bifolia (1.8, 2.7) of the fifth quire, so that the first surviving folio is 35. Quires six and seven (folios 41 through 56) are also lost, as are quires 31 through 33 (folios 241-264). The sixth leaf is missing from quire 9 (folio 70); the eighth leaf in quire 12 (folio 96) has been replaced by the eighth leaf of quire 13 (folio 104); quire 13 is also missing its first leaf, the conjugate of folio 104 (folio 97); the last leaf is missing from quire 15 (folio 120), and the seventh leaf from quire 34 (folio 271). Quire 14 (folios 105-112) is misbound to follow quire 12. The manuscript breaks off at 280v, in PA 843.  At around 25 paragraphs a leaf, the remainder of PA with RT would have occupied about seven leaves in a final quire of 8.
+
+Note the unusual large gap at the base of 184v, the end of q. 23, in the middle of L33! also, the abbreviated form of SU, and the rather wierd order of PR L29 (where the scribe seems to notice nothing odd at all about the ref to the previous tale being TM). Also: PD is followed by L25, which usually follows PR, with the first line 'miracle' changed to 'tale'
+
+
+Absent text corresponding to the missing folios is as follows: GP; KT 1-1857 (folios 1-35); KT 2176-end, L1 MI L2 RE L3 CO TG 1-43 (folios 39-56); SH 178-256 (folio 70); NP 626-end; L31?; L7 1-78 (folios 96 and 97); SQ 648-end; L20? or L17? (folio 120); FK 699-end, MA?, PA 1-440 (folios 241-264); PA 595-617 (folio 271).
+
+Note the sequence:
+Q 12 folios 89-95, [96] 104
+Q 14 folios 105-112
+Q 13 folios [97] 98-103
+Q 15 folios 113-119
+Q 16 folios 121-127
+
+
+Images: 
+
+35r- = 7 
+35v/36r -  = 8 
+36v/37r missing
+37v/38r - 38v  = 9 - 10
+39-56 missing
+57r = 11
+57v/58r -  60v/61r= 12-15
+61v/62r missing
+62v/63r - 63v = 16-17
+64r missing
+64v/65r-69v/[70r] = 18-23
+70 missing
+[70v]/71r- 95v/[96r] = 23-48
+96 missing; 104 is in its place
+[95v]/104r = 48
+104v/105r- 112v/[98r] = 49-57
+97 missing; 98 follows 112
+[97v]/98r - 103v/[104r] = 57 - 63
+[112v]/113r - 119v/[120r] = 64-71
+120 missing
+[120v]/121r - 138v/139r = 72-90
+139v/140r missing
+140v/141r - = 91
+141v/142r missing
+142v/143r - 152v/153r- = 92-102
+153v-154r missing
+154v/155r-210v/211r = 103-159
+images 159 and 160 identical
+211v/212r- = 161-
+212v/213r missing
+213v/214r- = 162
+214v/215r and 215v/216r missing
+216v/217r - = 163
+217v/218r and 218v/219r missing
+219v/220r - 222v/223r= 164-167 (167=174)
+223v/224r missing
+224v/225r - =168 (=176)
+225v/226r, 226v/227r missing
+227v/228r - 228v/229r = 169-170 (=180)
+229v/230r missing
+230v/231r- = 171 (182)
+231v-232r and 232v-233r missing (184-184)
+233v/234r - 234V/235r = 172-173 (185-186)
+235v-236r missing (187)
+236v/237r-237v/238r = 174-175 (188-189)
+238v/239r missing (190)
+239v/240r-240v/[]= 176-177 (191-192)
+fols 241-264 missing
+[]/265r-265v-266r = 178-179  (193-194)
+266v/267r missing (195)
+267v/268r - 268v/269r = 180-181 (196-197)
+269v-270r missing (198)
+270v/[271r]  = 182 (199)
+folio 271 missing
+[271v]/272r-272v/273r = 182-183 (199-200)
+273v/274r, 274v/275r missing (201-202)
+275v/276r - 278v/279r = 184-187
+279v/280r missing
+280v = 188
+
+
+
+
+Tale Order KT TG L22 SH L24 PR L29 (!) MO L30 NP ML L8 SQ L7 ML-2 SQ-2 ME WBP WBT L10 FR L11 SU CL L13 NU L33 CY L34 PH L21 PD L25 TT L28 TM L20 FK [ ] PA
+Supplied: KT TG L22 SH L24 PR SQ L7 WBT L10 FR L11 SU CL NU L33 CY PH L21 L25 TT L28 TM PA
+
+NYU 
+Oxford GP WBP
+Oxford/DMU 
+DMU ME L13 L34 L20
+Mosser 
+
+Munster PD
+Sheffield FK
+Posnan ML L8
+BYU L29 MO L30 NP
+
+Correspondence (one page out! alas!)
+trad us
+1-4  35-38
+5-17  57-69
+18-42  71-95
+43 104
+44-51  105-112
+52-57 98-103
+58-64 113-119
+65-184 121-240
+185-190 265-270
+191-199 272-280
+
+
+1888 876 6262

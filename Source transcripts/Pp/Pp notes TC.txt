@@ -1,0 +1,29 @@
+==== Manuscript name and Mosser link  ====
+
+ Cambridge, Magdalene College MS Pepys 2006. Mosser: Pp.
+
+==== Original construction  ====
+
+TM L37 PA and RT are in the second part of this manuscript, originally distinct from the first part, collated and foliated separately by Mosser, with TM-RT paginated as pp. 225-377. This section comprises two quires of 16 followed by quires of 14, 18, 6 and (probably) 12; so 82 folios (164 pages). An additional page has been pasted in after the last folio of the second quire (foliated as 32a). RT is on 76r (numbered 377). Its recto, originally numbered 378, holds what Mosser describes as "two pages stuck together" (originally parts of one page, torn), containing the first 28 lines of "Compleynt of Mars". This suggests that the verso of 76r might originally have been blank. One cannot determine what was originally on the reverse of what is now 76v (originally 378). It might be relevant that the 379/380 hold lines 57-84, 381 returns to 29-56.
+
+==== Missing folios  ====
+
+None
+
+==== Absent text corresponding to the missing folio  ====
+ 
+None
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+We follow here our practice of foliating the manuscript so as to show what we think was its original finished state. Thus:
+
+1. We commence the foliation with 1, as this was originally a distinct manuscript;
+
+2.   We use foliation, not pagination, as this correlates most directly to the quire structure.
+
+|Traditional (Mosser)	|New CT foliation |
+|225-288 |1r-32v|
+|289-290| 32ar/32av|
+|291-377 | 33r-76r |
+

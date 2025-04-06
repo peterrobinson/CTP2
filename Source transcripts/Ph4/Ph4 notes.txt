@@ -1,0 +1,21 @@
+==== Manuscript name and Mosser link  ====
+
+San Marino, Huntington Library HM 140. Mosser: Ph4.
+
+The Clerk's Tale falls in the fifth and sixth quires of this complex and varied manuscript. The four preceding quires are a 14 (q. 1) and three 16s (2-4), a total of 62 folios. CL begins on the 6th leaf of the fifth quire, folio 68. The eighth leaf is missing from the fifth quire (folio 70). CL finishes on the sixth leaf of the sixth quire, folio 84.
+
+Absent text corresponding to the missing folios is as follows: CL 189-260 (folio 70)
+
+
+Correspondence
+68-69 68-69
+70-84 71-85
+
+Images
+[67v]/68r - 69v/[70r] = 1-3
+[70v]/71r-84v/[85r] = 3-17
+
+Order: CL L13
+
+NYU: CL 
+DMU L13

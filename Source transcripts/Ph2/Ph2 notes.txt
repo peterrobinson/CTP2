@@ -1,0 +1,33 @@
+Ph2 notes
+
+The complete manuscript had 30 quires of 8 (240 folios) and two quires of six (quires 27 and 29): 252 folios in total, or 248 if the last quire was a four. The first folio is missing from the first quire (folios 1), without any loss of text; the second folio is missing from quire 30 (folio 230); and the last four folios of the last quire (presuming this was a regular quire of eight) are missing. The traditional numbering skips 229, corresponding to the missing folio 230.
+
+Note omission of PA 342-355 -- near pornographic section dealing with clothes! and 358-362 on the same page 228r; 596-600 omitted on 236v
+
+Absent text corresponding to the missing folios is as follows: PA 409-436 (folio 230); PA 988-end (250ff).
+Images: 
+
+2r = http://www.e-codices.unifr.ch/en/fmb/cb-0048/1r/
+etc
+
+Tale Order GP KT L1 MI RE L7 ML WBP WBT L10 FR L11 SU CL FK NU L33 CY L34 PH PD SH 
+L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA L37 PA
+Supplied: KT WBT L10 L7 FR L11 SU CL L14 NU L33 CY PH PD L36 MA L37 PA
+
+NYU CL
+Oxford GP WBP
+Oxford/DMU L1 MI
+DMU L15 ME L13
+
+
+Munster PD
+Sheffield FK
+Posnan ML L7
+BYU SH L24 PR L25 TT L28 TM L29 MO L30 NP TM L29 MO 
+
+Correspondence (one page out! alas!)
+trad us
+1-228  2-229
+230-247  231-248 
+
+NOTE: Before PH there is a brief prologue for which we don´t have a base text. It is in page 151r and it is 14 lines long.

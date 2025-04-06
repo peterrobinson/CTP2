@@ -1,0 +1,3 @@
+missing:
+PW 272v 273r -- should be PwMR270.jpg, but this is the next page
+PW 305v through 307r: should be PwMR302 and 303.jpg, but this is the next page

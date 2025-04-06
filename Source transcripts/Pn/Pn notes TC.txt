@@ -1,0 +1,80 @@
+==== Manuscript name and Mosser link  ====
+
+Richard Pynson [London, 1492?]
+
+==== Original construction  ====
+
+39 quires of 8 (312 folios; quires a-v, aa-kk, A-I, and two quires of 6, ll (appearing after kk and before A) and K (final in the manuscript, after I): 324 folios. 
+
+==== Missing folios  ====
+
+Folio k8 is missing: quire 8 has only seven leaves.  There is no absence of text.
+
+ ==== Added folios  ====
+ 
+ None.
+ 
+==== Notes  ====
+
+TM and PA are disordered. In TM:
+
+B2r finishes in the middle of TM 495
+B2v: TM 783-817 (instead of TM 495-526)
+B3r-B3v (two sheets): TM 536-782
+B7r: TM 495-526 (instead of TM 783-817).
+
+This can be explained by exchange of what should be B2v and B7r. These two pages would have been on the inner forme of the second sheet of quire B, and should have been composed with B2v on the left and B7r on the right. Transposing of the two pages when composing the forme, so that B7r is at the left, B2v to the right, would have given exactly this result. We represent this by numbering the page containing TM 783-817 as [B7r], that holding 495-526 as [B2v].
+
+21-12-2018 Above Checked against BL copy 11588. Sic for both pages, and c.11.c.15
+
+
+In addition, extra text from TM 618 is added to TM 650 at the base of B4v, returning on B5r to the end of TM 650 ("clepe yow not fool large .") and then carrying on with TM 650.  At the base of B5r after TM 682 another fragment of TM 651 is added ("of thyn hous ne shold not be hyd ne
+<lb/>kepte so cloos but that they myght"), and then back to TM 682 as if without a break  on B5v. Hence, parts of TM 618 and 651 are repeated at the base of B4v and B5r: these two pages would have both been on the inner forme of the fourth sheet of quire B. It could be that the compositor, as well as transposing pages B7r and B2v in this quire, also miscalculated the text required to fill the inner forme and attemtped to cover this up by repeating parts of TM 618 and 651.
+
+20-12-18. Above checked against BL copy 11588. Sic for both pages, and c.11.c.15
+
+
+There is similar disorder in PA. The text appears in the order below, from folios H5r (ending PA 448) through I1v (starting PA 589). Here is the order in which the text actually appears. The foliation given is what it should be, for the text to appear in the correct order, with the foliation as it should be marked with *:
+
+
+NOTE these are errors in the photography. The text has the pages in the right order, thus:
+H5r: -->448
+H5v: 449-467
+H6r: 467-488
+H6v: 488-505
+H7r: 505-520
+H7v: 520-536
+H8r: 536-554
+H8v: 554-570
+I1r: 571--589
+I1v: 589-605
+I2r 606-
+
+
+**** rest wrong***
+Seems to be my error. I put these pages in th4e wrong order!!!!!
+
+[H5r] --448
+[H8v*] 554-570
+I1r 571--589
+[H5v*] 449-467
+
+[H6r*] 467-488
+[H6v*] 488-505
+
+[H7r*] 505-520
+[H7v*] 520-536
+
+[H8r*] 536-554
+[I1v*] 589-605
+
+I2r 606-
+
+This is baffling. Beside the disorder, which has (for example) [H8v] appearing as the verso of [H5r] we have three instances where pages which should have been in different quires are printed on the one forme.  This could only have arisen through disorder in the transfer of marked-up text to the formes, with the wrong 
+
+pages being composed on the wrong formes.  We here assign the pages the numbers they should have if they had been composed in the right sequence.
+
+See: Mosser, Daniel W. “The Manuscript Glosses of the Canterbury Tales and the University of London’s Copy of Pynson’s [1492] Edition: Witness to a Lost Exemplar.” Chaucer Review 41 (2007): 360-92. 
+
+
+

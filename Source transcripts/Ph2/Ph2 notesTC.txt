@@ -1,0 +1,35 @@
+==== Manuscript name and Mosser link  ====
+
+Geneva (Coligny), Foundation Martin Bodmer Cod. Bodmer 48. Mosser: Ph2.
+
+==== Original construction  ====
+
+30 quires of 8 (240 folios) and two quires of six (quires 27 and 29): 252 folios in total, or 248 if the last quire was a four. 
+
+==== Missing folios  ====
+
+The first folio is missing from the first quire (folios 1), without any loss of text; the second folio is missing from quire 30 (folio 230); and the last four folios of the last quire (presuming this was a regular quire of eight) are missing. 
+
+
+ ==== Added folios  ====
+ 
+None.
+
+==== Absent text corresponding to the missing folio  ====
+ 
+PA 409-436 (folio 230); PA 988-end (250ff).
+
+==== Notes  ====
+
+The traditional numbering skips 229, corresponding to the missing folio 230.
+
+Note omission of PA 342-355 -- near pornographic section dealing with clothes! and 358-362 on the same page 228r; 596-600 omitted on 236v
+
+
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-228|2-229|
+|230-247|231-248|
+
