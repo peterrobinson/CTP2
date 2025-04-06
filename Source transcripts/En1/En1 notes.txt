@@ -1,0 +1,110 @@
+En1 notes
+The complete manuscript had  32 regular quires of 8 (256 folios) and one of six (quire 7), hence 262 folios.  A quire of eight leaves was inserted after the first leaf of quire 8 (folio 55), containing TG: these are numbered 55a1 through 55a8 in our numbering. A single folio (263) was added at the end of the last quire, containing the end of RT, and apparently replacing a tipped-in singleton with the same text.
+Note that L20 begins " [exp]et[/exp] incipit P[exp]ro[/exp]logus Cl[exp]er[/exp]ici Oxon[exp]oniensis[/exp]", but actually introduces the Franklin and his tale.
+
+Correspondence:
+Trad Us
+1-55 1-55
+56-63 55a1-55a8
+64-271 56-263
+
+Supplied:
+KT L2 RE MO TG
+
+From Sheffield: L7 ML WBT L10 FR L11 SU SQ FK PH NU L33 CY L36 MA PA RT
+from Munster L21 PD
+1r = 5b
+1v/2r -- 43v/44r  = 6a/6b -- 48a/48b
+opening for 44v and 45r is missing
+45v/46r -   = 49a/49b
+opening for 46v and 47r is missing
+47v/48r = 50a/50b
+opening for 48v and 49r is missing
+49v/50r = 51a/51b --
+opening for 50v and 51r is missing
+51v/52r = 52a/52b
+opening for 52v and 53r is missing
+53v/54r = 53a/53b
+opening for 54v and 55r is missing
+55v/[Gam: 55a1r] -- 55a1v/55a2r = 54a/54b -- 55a/55b
+opening for 55a2v-55a3r is missing
+55a3v/55a4r  = 56a/56b
+opening for 55a4v-55a5r is missing
+55a5v/55a6r  = 57a/57b
+opening for 55a6v-55a7r is missing
+55a7v/55a8r  = 58a/58b
+opening for [Gam 55a8v]-56r is missing 
+56v/57r - 59v/60r	=59a/b- 62a/62b
+image 63a=60v is missing
+61r = 63b
+61v/62r -66v/67r = 64 - 69
+67v/68r is missing
+68v/69r - 76v/77r  =70- 78
+77v/78r is missing
+78v/79r-  = 79
+79v/80r is missing
+80v/81r-82v/83r =80-82
+83v/84r- is missing
+84v-85r = 83
+85v/86r is missing
+86v/87r - 89v-90r = 84-87
+90v/91r is missing
+91v/92r- 92v - = 88-89a
+89b=93r is missing
+93v/94r - 154v = 90-151
+*** appears that image splitting from 44v is at fault: every second page only is split in some places, random in others, are missing
+151b = 155r (L21) is missing
+155v/156r - 197v/198r  = 152-194
+images 193a and 195a, 193b and 195b, are identical
+images 194a and 196a, 194b and 196b, are identical
+198v/199r - 216v-/217r= 197-215
+217v/218r is missing
+218v/219r - = 216
+219v/220r is missing
+220v/221r - = 217
+221v/222r is missing
+222v/223r - = 218
+223v/224r is missing
+224v/225r - = 219
+225v/226r is missing
+226v/227r - = 220
+227v/228r is missing
+228v/229r - = 221
+229v/230r is missing
+230v/231r - = 222
+231v/232r is missing
+232v/233r - 233v/234r = 223-224
+234v/235r is missing
+235v/236r - =225
+236v/237r is missing
+237v/238r - =226
+238v/239r is missing
+239v/240r - =227
+240v/241r is missing
+241v/242r - =228
+242v/243r is missing
+243v/244r - =229
+244v/245r is missing
+245v/246r - =230
+246v/247r is missing
+247v/248r - =231
+248v/249r is missing
+249v/250r - =232
+250v/251r is missing
+251v/252r - =233
+252v/253r is missing
+253v/254r - =234
+254v/255r is missing
+255v/256r - =235
+256v/257r is missing
+257v/258r - =236
+258v/259r is missing
+259v/260r - =237
+260v/261r is missing
+261v/262r - 262v =238-239
+
+En1 order
+Frag 1 TG L7 ML WBP etc CL L13 L14 L15 ME L17 SQ L20 FK PH L21 PD SH L24 PR L25 TT L28 TM L29 MO L30 NP L31 NU L33 CY L36 MA L37 PA RT
+
+array set exBase {KT 0 L2 0 RE 0 TG 0 MO 0 }
+array set pagedBase {L7 0 ML 0 WBT 0 L10 0 FR 0 L11 0 SU 0 SQ 0 FK 0 PH 0 NU 0 L33 0 CY 0 L36 0 MA 0 PA 0 RT 0}

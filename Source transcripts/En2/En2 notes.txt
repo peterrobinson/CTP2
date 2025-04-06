@@ -1,0 +1,112 @@
+En2 notes
+The complete manuscript originally had  37 regular quires of 8 (296 folios). 
+
+En2 has suffered significant loss at the beginning (the whole of quire 1 and the first four leaves of quire 2, folios 9-12); at the end (the last six leaves of the last quire, folios 291-296); and from almost every other quire:  the two inner sheets from quire 3 (folios 19.22, 20.21); the last leaf (folio 32) from quire 4; the second leaf (folio 42) from quire 6;  leaves 4 and 8 (folios 52 and 56) from quire 7; the first two leaves (folios 57 and 58) from quire 8; the last leaf (folio 72) from quire 9; the last two leaves (folios 79 and 80) from quire 10; leaf 7 (folio 87) from quire 11; the last leaf (folio 96) from quire 12; leaves 4 and 7 (folios 108 and 111) from quire 14; the two outer sheets (folios 113.120, 114.119) and leaf 6 (folio 118) from quire 15; the outer sheet (folios 121.128) and the second leaf (folio 122) from quire 16; leaf 5 (folio 133) from quire 17; leaf 6 (folio 142) from quire 18; the first leaf (folio 145) and the second sheet (folios 146.151) from quire 19; leaves 5, 6 and 8 (folios 157, 158 and 160) from quire 20; leaf 4 (folio 164) from quire 21; leaves 5 and 6 (folios 173 and 174) from quire 22; leaves 2 and 8 (folios 178 and and 184) from quire 23; the second sheet (folios 186.191) and leaves 5, 6 and 8 (folios 189, 190 and 192) of quire 24; leaves 1, 2, 3, and 5 (folios 193, 194, 195 and 197) for quire 25; leaves 2, 4 (wrongly, 206 DWM) and 8 (folios 202, 204 and 208) from quire 26; leaves 3 and 6 (folios 211 and 214) from quire 27; the last leaf (folio 224) from quire 28; the first three leaves (folios 233, 234 and 235) from quire 30; the third sheet (folios 243.246) from quire 31; leaves 2 and 6 (folios 250 and 254) from quire 32; leaves 3 and 8 (folios 259 and 264) from quire 33; the second leaf (folio 266) from quire 34; the second leaf (folio 282) from quire 36; the inner two sheets (folios 291.294, 292.293) and last two leaves (folios 295 and 296) from quire 37.
+
+
+Absent text corresponding to the missing folios is as follows: the whole of GP and KT 1-50 (folios 1-12); KT 507-810 (folios 19-22); KT 507-810 (folios 19-22); 1493-1568 (folio 32); L1 7-end, MI 1-5 (folio 42); L2 20-end, RE 1-30 (folio 52); RE 258-end, L3, CO 1-41 (folios 56-58); L7 73-end, ML 1-48 (folio 72); ML 488-639 (folios 79 and 80); L8 20-end, SQ 1-66 (folio 87); L20 10-end, ME 1-48 (folio 96); ME 891-966 (folio 108); ME 1120-end, WBP 1-20 (folio 111); WBP 97-248 (folios 113 and 114); WBP 478-WBT 856 (folios 118-122); WBT 1236-end, L10, FR 1-35 (folio 128); FR 343-end, L11, SU 1-6 (folio 133); CL 28-102 (folio 142); CL 255-406 (folios 145 and 146); CL 711-786 (folio 151); CL 1167-end; L13 L14 L15 L17 (?) FK 1-94 (folios 157 and 158); FK 171-246 (folio 160); FK 477-558 (folio 164); NU 261-426 (folios 173 and 174); L33 101-end, CY 1-8 (folio 178); CY 389-464 (folio 184); CY 541-616 (folio 186); L34 5-end, PH, L21 (?), PD 1-188 (folios 189-195); PD 265-342 (folio 197); SH 2-73 (folio 202); SH 149-224 (folio 204); L24 17-end, PR 1-72 (folio 208); PR 225-end, L25, TT 1-38 (folio 211); TT 199-end, L28, TM 1-10 (folio 214); TM 393-432 (folio 224); TM 846-end, L29, MO 1-16 (folios 233-235); MO 462-537 (folio 243); L30 4-end, NP 1-27 (folio 246); NP 264-339 (folio 250); NP  568-end, MA 1-15 (folio 254); L37 60-end, PA 1-25 (folio 259); PA 154-184 (folio 264); PA 218-245 (folio 266); PA 6467-670 (folio 282); PA 864-end; RT (folios 291 ff.)
+
+PT suggests that 3 folios, not 1, are missing after 253v, thus presuming that the original had links 31 and 36.  This would require that quire 32 was originally a quire of 10, which would have been the only quire of 10 in the manuscript (the missing folios in this would be 2, 6, 7, 8, all single leaves, with the existing folios 255 and 256 as leaves 9 and 10). Unless examination of the manuscript suggests evidence of a quire of 10, it is more likely that the original did not contain links 31 and 36, with NP followed directly by MA.  A single folio could contain 75 lines missing at ene of NP/start of MA.  On the other hand, the c. 120 lines of links 31 (16 lines) and 36 (104 lines), with the 75 lines missing at end NP/start MA, would be insufficient to fill three folios. 
+
+Correspondence
+Trad Us
+1-6 13-18
+7-15 23-31
+16-24  33-41
+25-33  43-51
+34-36 53-55
+37-49 59-71
+50-55 73-78
+56-61 81-86
+62-69 88-95
+70-80 97-107
+81-82 109-110
+83 112
+84-86 115-117
+87-91 123-127
+92-95      129-132
+96-103 134-141
+104-105 143-144
+106-109 147-150
+110-114 152-156
+115 159
+116-118 161-163
+119-126 165-172
+127-129 175-177
+130-134 179-183
+135 185
+136-137 187-188
+138 196
+139-142 198-201
+143 203
+144-146 205-207
+147-148 209-210
+149-150 212-213
+151-159 215-223
+160-167 225-232
+168-174 236-242
+175-176 244-245
+177-179 247-249
+180-182 251-253
+183-186 255-258
+187-190 260-263
+191 265
+192-206 267-281
+207-214 283-290
+
+images: 
+[ ] /13r -- 18v/[ ]  = 3-9
+[ ]/23r - 31v/ []   =9-18
+[]/33r - 41v/ []= 18-27
+[]/43r-51v/[] =27-36
+[]/53r-55v/[] =36-39
+[]/59r-71v/[]=39-52 (TG starts on 59r, ends 71r)
+[]/73r-78v/[] = 52-58
+[]/81r-86v/[] = 58-64
+[]/88r-95v/[] = 64-72
+[]/97r-107v/[] = 72-83
+[]/109r-110v/[]- = 83-85
+[]/112r- 112v/[] = 85-86
+[]/115r-117v/[] = 86-89
+[]/123r-127v/[] = 89-94
+[]/129r-132v/[] = 94-98
+[]/134r-141v/[] = 98-106
+[]/143r-144v/[] = 106-108
+[]/147r-150v/[] = 108-112
+[]/152r-156v/[] = 112-117
+[]/159r-159v/[] = 117-118
+[]/161r-163v/[] = 118-121
+[]/165r-172v/[] = 121-129
+[]/175r-177v = 129-132
+[]/179r-183v/[] = 132-137
+[]/185r-185v/[] = 137-138
+[]/187r-188v/[] = 138-140
+[]/196r-196v/[] = 140-141
+[]/198r-201v/[] = 141-145
+[]/203r-203v/[] = 145-146
+[]/205r-207v/[] = 146-149
+[]/209r-210v/[]- = 149-151
+[]/212r-213v/[] = 151-153
+[]/215r-223v/[] = 153-162
+[]/225r-232v/[] = 162-170
+[]/236r-242v/[] = 170-177
+[]/244r-245v/[] = 177-179
+[]/247r-249v/[] = 179-182
+[]/251r-253v/[] = 182-185
+[]/255r-258v/[] = 185-189
+[]/260r-263v/[] = 189-193
+[]/265r-265v/[] = 193-194
+[]/267r-281v/[] = 194-209
+[]/283r-290v = 209-217
+
+
+
+Supplied: KT L2 RE CO TG L7 ML L8 SQ  WBT FR SU NU L33 CY MO MA PA
+Shheffield FK
+Munster PD
+
+Order: KT L1 MI L2 RE CO TG L7 ML L8 SQ L20 ME WBP WBT FR SU CL FK NU L33 CY L34 
+PD SH L24 PR TT TM MO L30 NP MA L37 PA 
+
+array set exBase {KT 0 L2 0 RE 0 CO 0 TG 0 L7 0 ML 0 L8 0 SQ 0 WBT 0 FR 0 SU 0 NU 0 L33 0 CY 0 MO 0 MA 0 PA 0}
+array set pagedBase {PD 0}

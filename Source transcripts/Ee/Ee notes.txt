@@ -1,0 +1,19 @@
+Ee notes
+
+The second quire of this manuscript contains a fragmentary text of ML.  The whole manuscript, as it survives,  consists of eight quires, of irregular contstruction: originally, five of sixteen, one of twenty; one of ten and one (apparently) of four.  Further, it comprises two distinct parts, written by separate scribes.  The first quire, written by the first scribe, is of sixteen folios and contains a fragment of John Mirk’s Festial.  The remaining quires are all written by the same scribe, and begin with the ML fragments in the second quire.
+
+The second quire was originally a quire of twenty.  Seven folios have been lost from the quire: the outer and innermost sheets (folios 17.36 and 26.27), leaf 8 and its cognate (24.29) and leaf 9 (folio 25). Thus, ML is on folios 18-23, 28,  30-35.
+
+  Loss of text corresponding to the missing folios is as follows: ML 1-35 (folio 17; there would not be sufficient space for all of L7 as well on this leaf); ML 365-588 (folios 24-27); ML 645-700 (folio 29).  The bottom of 22 is lost, corresponding to the absence of ML 270-280 from the recto, ML 298-308 from the verso; a tear along the right of 23 has taken the last words of ML 330-336 (on the recto) and the first of ML 352-364 (on the verso); the bottom of 30 is lost, corresponding to the absence of ML 722-728 from the recto, ML 751-757 from the verso; the bottom of 34 is lost, corresponding to the absence of ML 946-952 from the recto, ML 975-980 from the verso.  The fragment finishes with ML 1036 on 35v.
+
+It appears the images we have begin with 19v, on image 022; the number 20 is visible on the recto page. The beginning, at L36, is taken from the image in Mosser; the page ending for 18v/19r is estimated.
+
+19v/20r -23v/[ ] = 022-26
+[ ] /28r -28v/[]     027-28
+[ ]/30r - 35v/[ ] = 29- 35.
+
+Correspondence -- all missing leaves replaced by modern paper leaves, so perfect equivalence.
+traditional us 
+17-36 17-36
+
+MISSING: image for 18v/19r  DONE

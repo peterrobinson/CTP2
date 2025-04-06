@@ -1,0 +1,27 @@
+==== Manuscript name and Mosser link  ====
+
+Cambridge, Cambridge University Library, MS Ee.2.15
+
+==== Original construction  ====
+
+Five quires of 16, one of 20, one of 10, one of 4 (presumed): 114 folios.
+
+==== Missing folios  ====
+
+The outer and innermost sheets, bifolia 1.20 and 10.11, bifolium 8.13, and leaf 9 of quire 2 (folios 17, 24-27, 36)36 and 26.27).
+
+==== Added folios ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+ML 1-35 (folio 17; there would not be sufficient space for all of L7 as well on this leaf); ML 365-588 (folios 24-27); ML 645-700 (folio 29).  The bottom of 22 is lost, corresponding to the absence of ML 270-280 from the recto, ML 298-308 from the verso; a tear along the right of 23 has taken the last words of ML 330-336 (on the recto) and the first of ML 352-364 (on the verso); the bottom of 30 is lost, corresponding to the absence of ML 722-728 from the recto, ML 751-757 from the verso; the bottom of 34 is lost, corresponding to the absence of ML 946-952 from the recto, ML 975-980 from the verso.  The fragment finishes with ML 1036 on 35v.
+
+====  Notes  ====
+
+The second quire of this manuscript contains a fragmentary text of ML.  The manuscript is comprised of two distinct parts, written by separate scribes.  The first quire, written by the first scribe, is of sixteen folios and contains a fragment of John Mirk’s Festial.  The remaining quires are all written by the same scribe, and begin with the ML fragments in the second quire.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+All missing leaves have been replaced by modern paper leaves, so perfect equivalence.

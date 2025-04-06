@@ -1,0 +1,876 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/TEI-transcr-TC.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xmlns:det="http://textualcommunities.usask.ca/">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ee</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 				<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+<sourceDesc>
+ 				<bibl det:document="Ee"></bibl>
+		<bibl type="summary">
+			<respStmt n="General">
+				<resp>Textual editing and encoding:</resp>
+				<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+			</respStmt>
+ 		</bibl>
+ 		<bibl type="transcribers">
+ 			<respStmt n="Oxford">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+ 					</respStmt>
+ 			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+			<respStmt n="DMU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+ 					</respStmt>
+			<respStmt n="UoS">
+ 				 <resp>Conversion for Textual Communities:</resp>
+ 				<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+ 					</respStmt>
+		<respStmt n="VT">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Virgina Tech team, led by Daniel W. Mosser</name>
+ 		</respStmt>
+		<respStmt n="NYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+ 		</respStmt>
+ 		<respStmt n="BYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+ 		</respStmt>
+ 		 <respStmt n="Poznan">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+ 					</respStmt>
+ 		 		 <respStmt n="Murcia">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+ 					</respStmt>
+			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+  		</bibl>
+  		<bibl type="notcontributed">
+  			<respStmt n="MU">
+  				<resp>Original capture and corrections:</resp>
+  				<name> Institute of Book Studies and Textual Research of the University of Münster, Germany, c. 2000-2004,led by Gabriele Müller Oberhauser; transcribed by Ulrike Grassnick. The manuscripts of the Pardoner's Tales were transcribed in partnership with the Canterbury Tales Project, using images and other resources supplied by the Project. No part of these transcripts is contained in this iteration of the Project.</name>
+  			</respStmt>
+  			<respStmt n="Sheffield">
+  				<resp>Original capture and corrections:</resp>
+  				<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+  			</respStmt>
+	</bibl>
+
+			 <msDesc>
+ 				  	<msIdentifier>
+ 				  	 <settlement>Cambridge</settlement>
+  					<repository>Cambridge University Library</repository>
+  					<idno>MS Ee.2.15</idno>
+  					<msName>Ee</msName>
+  					</msIdentifier>
+ 			 </msDesc>
+ 	
+</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl det:documentRefsDecl="Manuscript"  det:entityRefsDecl="Text">
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+	<text>
+		<body>
+<pb n="18r" facs="EE-18r.jpg"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<div  n="ML" type="G">
+<lb/><l n="36">(base) In Surrye whilom dwelte a compaignye </l>
+<lb/><l n="37">(base) Of chapmen riche and ther to sadde and trewe </l>
+<lb/><l n="38">(base) That wyde where senten hir Spicerye </l>
+<lb/><l n="39">(base) Clothes of gold and Satyns riche of hewe </l>
+<lb/><l n="40">(base) Hir cheffare was so thrifty and so newe </l>
+<lb/><l n="41">(base) That euery wight hath deyntee to cheffare </l>
+<lb/><l n="42">(base) With hem and eek to sellen hem hir ware </l>
+<lb/><l n="43">(base) Now fil it that the maistres of that sort </l>
+<lb/><l n="44">(base) Han shapen hem to Rome for to wende </l>
+<lb/><l n="45">(base) Were it for chaphod or for desport </l>
+<lb/><l n="46">(base) Noon oother message wolde they thider sende </l>
+<lb/><l n="47">(base) But coomen hem self to Rome this is the ende </l>
+<lb/><l n="48">(base) And in swich place as thoughte hem auauntage </l>
+<lb/><l n="49">(base) For hir entente they take hir herbergage </l>
+<lb/><l n="50">(base) Soiourned han thise Marchauntz in that town </l>
+<lb/><l n="51">(base) A certein tyme as fil to hir plesaunce </l>
+<lb/><l n="52">(base) But so bifel that the excellent renoun </l>
+<lb/><l n="53">(base) Of the Emperours doghter dame Custaunce </l>
+<lb/><l n="54">(base) Reported was with euery circumstaunce </l>
+<lb/><l n="55">(base) Vnto thise Surryen Marchauntz in swich wise </l>
+<lb/><l n="56">(base) Fro day to day as I shal yow deuyse </l>
+<lb/><l n="57">(base) This was the commune voys of euery man </l>
+<lb/><l n="58">(base) Oure Emperour of Rome god hym se </l>
+<lb/><l n="59">(base) A doghter hath that syn the world bigan </l>
+<lb/><l n="60">(base) To rekne as wel hir goodnesse as beautee </l>
+<lb/><l n="61">(base) Nas neuere swich another as is she </l>
+<lb/><l n="62">(base) I pray to god in honour hir sustene </l>
+<lb/><l n="63">(base) And wolde she were of al Europe the queene </l>
+<pb n="18v" facs="EE-18v.jpg"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="64">(base) In hire is heigh beautee withoute pryde </l>
+<lb/><l n="65">(base) Youthe withouten grenehede or folye </l>
+<lb/><l n="66">(base) To alle hir werkes vertu is hir gyde </l>
+<lb/><l n="67">(base) Humblesse hath slayn in hire al tirannye </l>
+<lb/><l n="68">(base) She is Mirour of al curteisye </l>
+<lb/><l n="69">(base) Hir herte is verray chambre of holynesse </l>
+<lb/><l n="70">(base) Hir hand Ministre of fredam for almesse </l>
+<lb/><l n="71">(base) And al this voys was sooth as god is trewe </l>
+<lb/><l n="72">(base) But now to purpos lat vs come agayn </l>
+<lb/><l n="73">(base) Thise Marchauntz han doon fraught hir shippes newe </l>
+<lb/><l n="74">(base) And whan they han this blisful mayden sayn </l>
+<lb/><l n="75">(base) Hom to Surrye been they went ful fayn </l>
+<lb/><l n="76">(base) And doon hir nedes as they han doon yoore </l>
+<lb/><l n="77">(base) And lyuen in wele I kan sey yow namoore </l>
+<lb/><l n="78">(base) Now fil it that thise Marchauntz stode in grace </l>
+<lb/><l n="79">(base) Of hym that was the Sowdan of Surrye </l>
+<lb/><l n="80">(base) For whan they coome from any straunge place </l>
+<lb/><l n="81">(base) He wolde of his benygne curteisye </l>
+<lb/><l n="82">(base) Maken hem good cheere and bisily espye </l>
+<lb/><l n="83">(base) Tidynges of sondry regnes for to leere </l>
+<lb/><l n="84">(base) The wondres that they myghte seen or heere </l>
+<pb n="19r" facs="EE-19r.jpg"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="85">(base) Amonges othere thynges specially </l>
+<lb/><l n="86">(base) Thise Marchauntz han hym told of dame Custaunce </l>
+<lb/><l n="87">(base) So greet noblesse in ernest ceriously </l>
+<lb/><l n="88">(base) That this Sowdan hath caught so greet plesaunce </l>
+<lb/><l n="89">(base) To han hir figure in his remembraunce </l>
+<lb/><l n="90">(base) And al his lust and al his bisy cure </l>
+<lb/><l n="91">(base) Was for to loue hire whil his lyf may dure </l>
+<lb/><l n="92">(base) Parauenture in thilke large book </l>
+<lb/><l n="93">(base) Which that men clepe the heuene ywriten was </l>
+<lb/><l n="94">(base) With sterres whan that he his birthe took </l>
+<lb/><l n="95">(base) That he for loue sholde han his deth allas </l>
+<lb/><l n="96">(base) For in the sterres clerer than is glas </l>
+<lb/><l n="97">(base) Is writen god woot who so koude it rede </l>
+<lb/><l n="98">(base) The deeth of euery man withouten drede </l>
+<lb/><l n="99">(base) In sterres many a wynter ther biforn </l>
+<lb/><l n="100">(base) Was writen the deeth of Ector Achilles </l>
+<lb/><l n="101">(base) Of Pompei Iulius er they were born </l>
+<lb/><l n="102">(base) The stryf of Thebes and of Hercules </l>
+<lb/><l n="103">(base) Of Sampson Turnus and of Socrates </l>
+<lb/><l n="104">(base) The deeth but mennes wittes been so dulle </l>
+<lb/><l n="105">(base) That no wight kan wel rede it at theat the fulle </l>
+<lb/><l n="106">(base) This Sowdan for his priuee conseil sente </l>
+<lb/><l n="107">(base) And shortly of this matere for to pace </l>
+<lb/><l n="108">(base) He hath to hem declared his entente </l>
+<lb/><l n="109">(base) And seyde hem certein but he myghte haue grace </l>
+<lb/><l n="110">(base) To han Custaunce with Inne a litel space </l>
+<lb/><l n="111">(base) He nas but deed and charged hem in hye </l>
+<lb/><l n="112">(base) To shapen for his lyf som remedye </l>
+<pb n="19v" facs="EeCU022.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="113">(base) Diuerse men diuerse thynges seyden </l>
+<lb/><l n="114">(base) They argumenten casten vp and doun </l>
+<lb/><l n="115">(base) Many a subtil reson forth they leyden </l>
+<lb/><l n="116">(base) They speken of Magyk and abusioun </l>
+<lb/><l n="117">(base) But finally as in conclusioun </l>
+<lb/><l n="118">(base) They kan nat seen in that noon auauntage </l>
+<lb/><l n="119">(base) Ne in noon oother wey saue mariage </l>
+<lb/><l n="120">(base) Thanne sawe they ther Inne swich difficultee </l>
+<lb/><l n="121">(base) By wey of reson for to speke al playn </l>
+<lb/><l n="122">(base) By cause that ther was swich diuersitee </l>
+<lb/><l n="123">(base) Bitwene hir bothe lawes that they sayn </l>
+<lb/><l n="124">(base) They trowe that no cristen Prince wolde fayn </l>
+<lb/><l n="125">(base) Wedden his child vnder oure lawes swete </l>
+<lb/><l n="126">(base) That vs was taught by Mahoun oure prophete </l>
+<lb/><l n="127">(base) And he answerde rather than I lese </l>
+<lb/><l n="128">(base) Custaunce I wol be cristned doutelees </l>
+<lb/><l n="129">(base) I moot ben hires I may noon oother chese </l>
+<lb/><l n="130">(base) I pray yow hold youre argumentz in pees </l>
+<lb/><l n="131">(base) Saueth my lyf and beth noght recchelees </l>
+<lb/><l n="132">(base) To geten hire that hath my lyf in cure </l>
+<lb/><l n="133">(base) For in this wo I may nat longe endure </l>
+<lb/><l n="134">(base) What nedeth gretter dilatacioun </l>
+<lb/><l n="135">(base) I seye by tretys and embassadrye </l>
+<lb/><l n="136">(base) And by the Popes mediacioun </l>
+<lb/><l n="137">(base) And al the chirche and al the chiualrie </l>
+<lb/><l n="138">(base) That in destruccioun of Mawmetrie </l>
+<lb/><l n="139">(base) And in encrees of Cristes lawe deere </l>
+<lb/><l n="140">(base) They been acorded so as ye shal heere </l>
+<pb n="20r" facs="EeCU022.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="141">(base) How that the Sowdan  and his Baronage </l>
+<lb/><l n="142">(base) And alle his liges sholde ycristned be </l>
+<lb/><l n="143">(base) And he shal han Custaunce in mariage </l>
+<lb/><l n="144">(base) And certeyn gold I noot what quantitee </l>
+<lb/><l n="145">(base) And heer to founden sufficient seuretee </l>
+<lb/><l n="146">(base) This same acord was sworn on either syde </l>
+<lb/><l n="147">(base) Now faire Custaunce almyghty god thee gyde </l>
+<lb/><l n="148">(base) Now wolde som men waiten as I gesse </l>
+<lb/><l n="149">(base) That I sholde tellen al the purueiaunce </l>
+<lb/><l n="150">(base) That Themperour of his grete noblesse </l>
+<lb/><l n="151">(base) Hath shapen for his doghter dame Custaunce </l>
+<lb/><l n="152">(base) Wel may men knowen that so greet ordinaunce </l>
+<lb/><l n="153">(base) May no man tellen in a litel clause </l>
+<lb/><l n="154">(base) As was arrayed for so heigh a cause </l>
+<lb/><l n="155">(base) Bisshopes been shapen with hire for to wende </l>
+<lb/><l n="156">(base) Lordes ladies knyghtes of renoun </l>
+<lb/><l n="157">(base) And oother folk ynowe this is thende </l>
+<lb/><l n="158">(base) And notified is thurgh out the town </l>
+<lb/><l n="159">(base) That euery wight with greet deuocioun </l>
+<lb/><l n="160">(base) Sholde preyen crist that he this mariage </l>
+<lb/><l n="161">(base) Receyue in gree and spede this viage </l>
+<lb/><l n="162">(base) The day is comen of hir departynge </l>
+<lb/><l n="163">(base) I seye the woful day fatal is come </l>
+<lb/><l n="164">(base) That ther may be no lenger taryynge </l>
+<lb/><l n="164-1">(base) I sey þe oful day fatel is comen </l>
+<lb/><l n="165">(base) But forthward they hem dresse alle and some </l>
+<lb/><l n="166">(base) Custaunce that was with sorwe al ouercome </l>
+<lb/><l n="167">(base) Ful pale arist and dresseth hire to wende </l>
+<lb/><l n="168">(base) For wel she seeth ther nys noon oother ende </l>
+<pb n="20v" facs="EeCU023.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="169">(base) Allas what wonder is it thogh she wepte </l>
+<lb/><l n="170">(base) That shal be sent to straunge nacioun </l>
+<lb/><l n="171">(base) Fro freendes that so tendrely hir kepte </l>
+<lb/><l n="172">(base) And to be bounden vnder subieccioun </l>
+<lb/><l n="173">(base) Of oon she knoweth noght his condicioun </l>
+<lb/><l n="174">(base) Housbondes been alle goode and han been yoore </l>
+<lb/><l n="175">(base) That knowen wyues I dar sey yow namoore </l>
+<lb/><l n="176">(base) Fader she seyde thy wrecched child Custaunce </l>
+<lb/><l n="177">(base) Thy yonge doghter fostred vp so softe </l>
+<lb/><l n="178">(base) And ye my moder my souereyn plesaunce </l>
+<lb/><l n="178a">(base) That most you loueth with obeissaunce </l>
+<lb/><l n="179">(base) Ouer alle thyng outtaken crist on lofte </l>
+<lb/><l n="180">(base) Custaunce youre child hir recomaundeth ofte </l>
+<lb/><l n="181">(base) Vnto youre grace for I shal to Surrye </l>
+<lb/><l n="182">(base) Ne shal I neuere seen yow moore with eye </l>
+<lb/><l n="183">(base) Allas vnto the Barbre nacioun </l>
+<lb/><l n="184">(base) I moste anon syn that it is youre wille </l>
+<lb/><l n="185">(base) But crist that starf for oure redempcioun </l>
+<lb/><l n="186">(base) So yeue me grace hise hestes to fulfille </l>
+<lb/><l n="187">(base) I wrecche womman no fors thogh I spille </l>
+<lb/><l n="188">(base) Wommen are born to thraldom and penaunce </l>
+<lb/><l n="189">(base) And to been vnder mannes gouernaunce </l>
+<lb/><l n="190">(base) I trowe at Troye whan Pirrus brak the wal </l>
+<lb/><l n="191">(base) Or Ylion brent hadde Thebes the Citee </l>
+<lb/><l n="192">(base) Nat Rome for the harm thurgh Hanybal </l>
+<lb/><l n="193">(base) That Romayns hath venquysshed tymes thre </l>
+<lb/><l n="194">(base) Nas herd swich tendre wepyng for pitee </l>
+<lb/><l n="195">(base) As in the chambre was for hir departynge </l>
+<lb/><l n="196">(base) But forth she moot wher so she wepe or synge </l>
+<pb n="21r" facs="EeCU023.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="197">(base) O firste moeuer cruel firmament </l>
+<lb/><l n="198">(base) With thy diurnal sweigh that crowdest ay </l>
+<lb/><l n="199">(base) And hurlest al fro Est til Occident </l>
+<lb/><l n="200">(base) That naturelly wolde holde another way </l>
+<lb/><l n="201">(base) Thy crowdyng set the heuene in swich array </l>
+<lb/><l n="202">(base) At bigynnyng of this fiers viage </l>
+<lb/><l n="203">(base) That cruel Mars hath slayn this mariage </l>
+<lb/><l n="204">(base) Infortunat Ascendent tortuous </l>
+<lb/><l n="205">(base) Of which the lord is helplees falle allas </l>
+<lb/><l n="206">(base) Out of his angle in to the derkest hous </l>
+<lb/><l n="207">(base) O Mars O Atazir as in this cas </l>
+<lb/><l n="208">(base) O fieble Moone vnhappy been thy pas </l>
+<lb/><l n="209">(base) Thow knyttest thee ther thow nart nat receyued </l>
+<lb/><l n="210">(base) Ther thow were wel fro thennes art thow weyued </l>
+<lb/><l n="211">(base) Inprudent Emperour of Rome allas </l>
+<lb/><l n="212">(base) Was ther no Philosophre in al thy town </l>
+<lb/><l n="213">(base) Is no tyme bet than oother in swich cas </l>
+<lb/><l n="214">(base) Of viage is ther noon eleccioun </l>
+<lb/><l n="215">(base) Namely to folk of heigh condicioun </l>
+<lb/><l n="216">(base) Nat whan a roote is of a burthe yknowe </l>
+<lb/><l n="217">(base) Allas we been to lewed or to slowe </l>
+<lb/><l n="218">(base) To ship is broght this woful faire mayde </l>
+<lb/><l n="219">(base) Solempnely with euery circumstaunce </l>
+<lb/><l n="220">(base) Now Ihu crist be with yow alle she seyde </l>
+<lb/><l n="221">(base) Ther nys namoore but fare wel faire Custaunce </l>
+<lb/><l n="222">(base) She peyneth hire to make good contenaunce </l>
+<lb/><l n="223">(base) And forth I lete hir Sayle in this manere </l>
+<lb/><l n="224">(base) And turne I wole agayn to my matere </l>
+<pb n="21v" facs="EeCU024.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="225">(base) The moder of the Sowdan welle of vices </l>
+<lb/><l n="226">(base) Espied hath hir sones pleyn entente </l>
+<lb/><l n="227">(base) How he wol lete his olde sacrifices </l>
+<lb/><l n="228">(base) And right anon she for hir conseil sente </l>
+<lb/><l n="229">(base) And they ben come to knowen what she mente </l>
+<lb/><l n="230">(base) And whan assembled was this folk in feere </l>
+<lb/><l n="231">(base) She sette hir down and seyde as ye shal heere </l>
+<lb/><l n="232">(base) Lordes quod she ye knowen euerychon </l>
+<lb/><l n="233">(base) How that my sone in point is for to lete </l>
+<lb/><l n="234">(base) The holy lawes of oure Alkaron </l>
+<lb/><l n="235">(base) Yeuen by goddes messagere Makomete </l>
+<lb/><l n="236">(base) But oon avow to grete god I hete </l>
+<lb/><l n="237">(base) The lyf shal rather out of my body sterte </l>
+<lb/><l n="238">(base) Than Makometes lawe out of myn herte </l>
+<lb/><l n="239">(base) What sholde vs tiden of this newe lawe </l>
+<lb/><l n="240">(base) But thraldom to oure bodies and penaunce </l>
+<lb/><l n="241">(base) And afterward in helle to be drawe </l>
+<lb/><l n="242">(base) For we reneyed Mahoun oure creaunce </l>
+<lb/><l n="243">(base) But lordes wol ye maken assuraunce </l>
+<lb/><l n="244">(base) As I shal seyn assentyng to my loore </l>
+<lb/><l n="245">(base) And I shal make vs sauf for euere moore </l>
+<lb/><l n="246">(base) They sworen and assenten euery man </l>
+<lb/><l n="247">(base) To lyue with hire and dye and by hir stonde </l>
+<lb/><l n="248">(base) And euerich in the beste wise he kan </l>
+<lb/><l n="249">(base) To strengthen hire shal alle hise freendes fonde </l>
+<lb/><l n="250">(base) And she hath this emprise ytake on honde </l>
+<lb/><l n="251">(base) Which ye shal heren that I shal deuyse </l>
+<lb/><l n="252">(base) And to hem alle she spak right in this wise </l>
+<pb n="22r" facs="EeCU024.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="253">(base) We shul first feyne vs cristendom to take </l>
+<lb/><l n="254">(base) Coold water shal nat greue vs but alite </l>
+<lb/><l n="255">(base) And I shal swich a feste and reuel make </l>
+<lb/><l n="256">(base) That as I trowe I shal the sowdan quyte </l>
+<lb/><l n="257">(base) For thogh his wyf be cristned neuer so whyte </l>
+<lb/><l n="258">(base) She shal haue nede to wasshe awey the rede </l>
+<lb/><l n="259">(base) Thogh she a font ful water with hir lede </l>
+<lb/><l n="260">(base) O Sowdanesse roote of Iniquitee </l>
+<lb/><l n="261">(base) Virago thow Semyrame the secounde </l>
+<lb/><l n="262">(base) O Serpent vnder femynynytee </l>
+<lb/><l n="263">(base) Lyk to the Serpent depe in helle ybounde </l>
+<lb/><l n="264">(base) O feyned womman al that may confounde </l>
+<lb/><l n="265">(base) Vertu and Innocence thurgh thy malice </l>
+<lb/><l n="266">(base) Is bred in thee as nest of euery vice </l>
+<lb/><l n="267">(base) O Sathan enuyous syn thilke day </l>
+<lb/><l n="268">(base) That thow were chaced from oure heritage </l>
+<lb/><l n="269">(base) Wel knowestow to wommen the olde way </l>
+<pb n="22v" facs="EeCU025.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="281">(base) Bisekyng hym to doon hire that honour </l>
+<lb/><l n="282">(base) That she moste han the cristen folk to feste </l>
+<lb/><l n="283">(base) To plesen hem I shal do my labour </l>
+<lb/><l n="284">(base) The sowdan seith I wol doon at youre heste </l>
+<lb/><l n="285">(base) And knelynge thanketh hire of that requeste </l>
+<lb/><l n="286">(base) So glad he was he nyste what to seye </l>
+<lb/><l n="287">(base) She kiste hir sone and hom she gooth hir weye </l>
+<lb/><l n="288">(base) Arryued been this cristen folk to londe </l>
+<lb/><l n="289">(base) In Surrye with a gret solempne route </l>
+<lb/><l n="290">(base) And hastily this Sowdan sente his sonde </l>
+<lb/><l n="291">(base) First to his moder and al the regne aboute </l>
+<lb/><l n="292">(base) And seyde his wyf was comen out of doute </l>
+<lb/><l n="293">(base) And preyde hire for to ryde agayn the queene </l>
+<lb/><l n="294">(base) The honour of his regne to sustene </l>
+<lb/><l n="295">(base) Greet was the prees and riche was tharray </l>
+<lb/><l n="296">(base) Of Surryens and Romayns met yfeere </l>
+<lb/><l n="297">(base) The moder of the Sowdan riche and gay </l>
+<pb n="23r" facs="EeCU025.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="309">(base) The Sowdan cometh hymself soone after this </l>
+<lb/><l n="310">(base) So roially that wonder is to telle </l>
+<lb/><l n="311">(base) He welcometh hire with alle ioye and blys </l>
+<lb/><l n="312">(base) And thus in myrthe and Ioye I lete hem dwelle </l>
+<lb/><l n="313">(base) The fruyt of this matere is that I telle </l>
+<lb/><l n="314">(base) Whan tyme cam men thoughte it for the beste </l>
+<lb/><l n="315">(base) That reuel stynte and men go to hir reste </l>
+<lb/><l n="316">(base) The tyme cam this olde Sowdanesse </l>
+<lb/><l n="317">(base) Ordeyned hath this feste of which I tolde </l>
+<lb/><l n="318">(base) And to the feste cristen folk hem dresse </l>
+<lb/><l n="319">(base) In general ye bothe yonge and olde </l>
+<lb/><l n="320">(base) Heer may men feste and roialtee biholde </l>
+<lb/><l n="321">(base) And deyntees mo than I kan yow deuyse </l>
+<lb/><l n="322">(base) But al to deere they boghte it er they ryse </l>
+<lb/><l n="323">(base) O sodeyn wo that euere art Successour </l>
+<lb/><l n="324">(base) To worldly blisse spreynd with bitternesse </l>
+<lb/><l n="325">(base) The ende of the ioye of oure worldly labour </l>
+<lb/><l n="326">(base) Wo ocupieth the fyn of oure gladnesse </l>
+<lb/><l n="327">(base) Herke this conseil for thy sikernesse </l>
+<lb/><l n="328">(base) Vpon thy glade day haue in thy mynde </l>
+<lb/><l n="329">(base) The vnwar wo or harm that comth bihynde </l>
+<lb/><l n="330">(base) For shortly for to tellen at a word </l>
+<lb/><l n="331">(base) The Sowdan and the cristen euerychone </l>
+<lb/><l n="332">(base) Been al to hewe and stiked at the bord </l>
+<lb/><l n="333">(base) But it were oonly dame Custaunce allone </l>
+<lb/><l n="334">(base) This olde sowdanesse cursed krone </l>
+<lb/><l n="335">(base) Hath with hir freendes doon this cursed dede </l>
+<lb/><l n="336">(base) For she hir self wolde al the contree lede </l>
+<pb n="23v" facs="EeCU026.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="337">(base) Ne ther nas Surryen noon that was conu<am>ꝰ</am><ex>er</ex>ted </l>
+<lb/><l n="338">(base) That of the conseil of the Sowdan woot </l>
+<lb/><l n="339">(base) That he nas al tohewe er he asterted </l>
+<lb/><l n="340">(base) And Custaunce han they take anon foot hoot </l>
+<lb/><l n="341">(base) And in a Ship al sterelees god woot </l>
+<lb/><l n="342">(base) They han hir set and bidde hir lerne sayle </l>
+<lb/><l n="343">(base) Out of Surrye agaynward to Itaille </l>
+<lb/><l n="344">(base) A certein tresor that she thider ladde </l>
+<lb/><l n="345">(base) And sooth to seyn vitaille gret plentee </l>
+<lb/><l n="346">(base) They han hir yeuen and clothes eek she hadde </l>
+<lb/><l n="347">(base) And forth she sayleth in the salte see </l>
+<lb/><l n="348">(base) O my Custaunce ful of benygnytee </l>
+<lb/><l n="349">(base) O Em<am>ꝑ</am><ex>per</ex>ours yonge doghter deere </l>
+<lb/><l n="350">(base) He that is lord of Fortune be thy steere </l>
+<lb/><l n="351">(base) She blisseth hire and with ful pitous voys </l>
+<lb/><l n="352">(base) Vnto the cros of Crist thus seyde she </l>
+<lb/><l n="353">(base) O clere o weleful Auter holy croys </l>
+<lb/><l n="354">(base) Reed of the lambes blood ful of pitee </l>
+<lb/><l n="355">(base) That wesshe the world fro the olde Iniquitee </l>
+<lb/><l n="356">(base) Me fro the feend and fro his clawes kepe </l>
+<lb/><l n="357">(base) That day that I shal drenchen in the depe </l>
+<lb/><l n="358">(base) Victorious tree <am>ꝓ</am><ex>pro</ex>teccion of trewe </l>
+<lb/><l n="359">(base) That oonly worthy were for to bere </l>
+<lb/><l n="360">(base) The kyng of heuene with his woundes newe </l>
+<lb/><l n="361">(base) The white lamb that hurt was with a spere </l>
+<lb/><l n="362">(base) Flemere of feendes out of hym and here </l>
+<lb/><l n="363">(base) On which thy lymes feithfully extenden </l>
+<lb/><l n="364">(base) Me kepe and yeue me myght my lyf tamenden </l>
+<pb n="28r" facs="EeCU027.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="589">(base) This false knyght was slayn for his vntrouthe </l>
+<lb/><l n="590">(base) By Iuggement of Alla hastily </l>
+<lb/><l n="591">(base) And yet Custaunce hadde of his deeth greet routhe </l>
+<lb/><l n="592">(base) And after this Ihus of his mercy </l>
+<lb/><l n="593">(base) Made Alla wedden ful solempnely </l>
+<lb/><l n="594">(base) This holy mayden that is so bright and shene </l>
+<lb/><l n="595">(base) And thus hath Crist maad Custance a queene </l>
+<lb/><l n="596">(base) But who was woful if I shal nat lye </l>
+<lb/><l n="597">(base) Of this weddyng but Donegild and namo </l>
+<lb/><l n="598">(base) The kynges moder ful of tirannye </l>
+<lb/><l n="599">(base) Hir thoughte hir cursed herte brast atwo </l>
+<lb/><l n="600">(base) She wolde noght hir sone had doon so </l>
+<lb/><l n="601">(base) Hir thoughte a despit that he sholde take </l>
+<lb/><l n="602">(base) So straunge a creature vnto his make </l>
+<lb/><l n="603">(base) Me list nat of the chaf or of the stree </l>
+<lb/><l n="604">(base) Maken so long a tale as of the corn </l>
+<lb/><l n="605">(base) What sholde I tellen of the realtee </l>
+<lb/><l n="606">(base) At mariages or which cours gooth biforn </l>
+<lb/><l n="607">(base) Who bloweth in trompe or in an horn </l>
+<lb/><l n="608">(base) The fruyt of euery tale is for to seye </l>
+<lb/><l n="609">(base) They ete and drynke and daunce and synge and pleye </l>
+<lb/><l n="610">(base) They goon to bedde as it was skile and right </l>
+<lb/><l n="611">(base) For though that wyues been ful holy thynges </l>
+<lb/><l n="612">(base) They moste take in pacience at nyght </l>
+<lb/><l n="613">(base) Swiche manere necessaries as been plesynges </l>
+<lb/><l n="614">(base) To folk that han ywedded hem with rynges </l>
+<lb/><l n="615">(base) And leye alite hir holynesse asyde </l>
+<lb/><l n="616">(base) As for the tyme it may noon oother bityde </l>
+<pb n="28v" facs="EeCU028.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="617">(base) On hire he gat a knaue child anon </l>
+<lb/><l n="618">(base) And to a bisshop and his Constable eke </l>
+<lb/><l n="619">(base) He took his wyf to kepe whan he is gon </l>
+<lb/><l n="620">(base) To Scotlondward his foomen for to seke </l>
+<lb/><l n="621">(base) Now faire Custaunce that is so humble and meke </l>
+<lb/><l n="622">(base) So longe is goon with childe til that stille </l>
+<lb/><l n="623">(base) She halt hir chambre abidyng cristes wille </l>
+<lb/><l n="624">(base) The tyme is come a knaue child she beer </l>
+<lb/><l n="625">(base) Mauricius at the font stoon they hym calle </l>
+<lb/><l n="626">(base) This Constable dooth forth come a Messager </l>
+<lb/><l n="627">(base) And wroot vnto his kyng that clepyd was Alle </l>
+<lb/><l n="628">(base) How that this blisful tidynge is bifalle </l>
+<lb/><l n="629">(base) And othere tidynges speedful for to seye </l>
+<lb/><l n="630">(base) He tath the lettre and forth he goth his weye </l>
+<lb/><l n="631">(base) This Messager to doon his auauntage </l>
+<lb/><l n="632">(base) Vnto the kynges moder rideth swithe </l>
+<lb/><l n="633">(base) And salueth ful faire in his langage </l>
+<lb/><l n="634">(base) Madame quod he ye may be glad and blithe </l>
+<lb/><l n="635">(base) And thanketh god an hundred thousand sithe </l>
+<lb/><l n="636">(base) My lady queene hath child withouten doute </l>
+<lb/><l n="637">(base) To ioye and blisse of al this regne aboute </l>
+<lb/><l n="638">(base) Lo here the lettres seled of this thyng </l>
+<lb/><l n="639">(base) That I moot bere withal the haste I may </l>
+<lb/><l n="640">(base) If ye wol aught vnto youre sone the kyng </l>
+<lb/><l n="641">(base) I am youre seruaunt bothe nyght and day </l>
+<lb/><l n="642">(base) Donegild answerde as now at this tyme nay </l>
+<lb/><l n="643">(base) But here al nyght I wol thow take thy reste </l>
+<lb/><l n="644">(base) To morwe wol I seye thee what me leste </l>
+<pb n="30r" facs="EeCU029.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="701">(base) But in the same Ship as he hir fond </l>
+<lb/><l n="702">(base) Hire and hir yonge sone and al hir geere </l>
+<lb/><l n="703">(base) He sholde putte and crowde hir fro the lond </l>
+<lb/><l n="704">(base) And charge hire that she neuere eft coome there </l>
+<lb/><l n="705">(base) O my Custaunce wel may thy goost haue fere </l>
+<lb/><l n="706">(base) And slepyng in thy dreem been in penaunce </l>
+<lb/><l n="707">(base) Whan Donegild caste al this ordinaunce </l>
+<lb/><l n="708">(base) This Messager on morwe whan he wook </l>
+<lb/><l n="709">(base) Vnto the Castel halt the nexte wey </l>
+<lb/><l n="710">(base) And to the Constable he the lettre took </l>
+<lb/><l n="711">(base) And whan that he this pitous lettre sey </l>
+<lb/><l n="712">(base) Ful ofte he seyde allas and weilawey </l>
+<lb/><l n="713">(base) Lord crist quod he how may this world endure </l>
+<lb/><l n="714">(base) So ful of synne is many a creature </l>
+<lb/><l n="715">(base) O myghty god if that it be thy wille </l>
+<lb/><l n="716">(base) Sith thow art rightful Iuge how may it be </l>
+<lb/><l n="717">(base) That thow wolt suffren Innocentz to spille </l>
+<lb/><l n="718">(base) And wikked folk regnen in <am>ꝓ</am><ex>pro</ex>speritee </l>
+<lb/><l n="719">(base) O goode Custaunce allas so wo is me </l>
+<lb/><l n="720">(base) That I moot be thy tormentour or deye </l>
+<lb/><l n="721">(base) On shames deeth ther nys noon oother weye </l>
+<pb n="30v" facs="EeCU030.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="729">(base) He that me kepte fro the false blame </l>
+<lb/><l n="730">(base) Whil I was on the lond amonges yow </l>
+<lb/><l n="731">(base) He kan me kepe fro harm and eek fro shame </l>
+<lb/><l n="732">(base) In salte see althogh I se noght how </l>
+<lb/><l n="733">(base) As strong as euere he was he is yet now </l>
+<lb/><l n="734">(base) In hym triste I and in his moder deere </l>
+<lb/><l n="735">(base) That is to me my Sayl and eek my steere </l>
+<lb/><l n="736">(base) Hir litel child lay wepyng in hir arm </l>
+<lb/><l n="737">(base) And knelyng pitously to hym she seyde </l>
+<lb/><l n="738">(base) Pees litel sone I wol do thee noon harm </l>
+<lb/><l n="739">(base) With that hir couerchief ouer hir hed she breyde </l>
+<lb/><l n="741r">(base) <seg type="st">And in hir arme she lullith hit ful faste</seg> </l>
+<lb/><l n="740">(base) And ouer his litel eyen she it leyde </l>
+<lb/><l n="741">(base) And in hir arm she lulleth it ful faste </l>
+<lb/><l n="742">(base) And in to heuene hir eyen vp she caste </l>
+<lb/><l n="743">(base) Moder quod she and mayden bright Marie </l>
+<lb/><l n="744">(base) Sooth is that thurgh wommans eggement </l>
+<lb/><l n="745">(base) Mankynde was lorn and dampned ay to dye </l>
+<lb/><l n="746">(base) For which thy child was on a croys yrent </l>
+<lb/><l n="747">(base) Thy blisful eyen sawe al his torment </l>
+<lb/><l n="748">(base) Thanne is ther no comparisoun bitwene </l>
+<lb/><l n="749">(base) Thy wo and any wo man may sustene </l>
+<lb/><l n="750">(base) Thow saw thy child yslayn bifor thyne eyen </l>
+<pb n="31r" facs="EeCU030.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="757">(base) O litel child allas what is thy gilt </l>
+<lb/><l n="758">(base) That neuere wroghtest synne as yet pardee </l>
+<lb/><l n="759">(base) Why wil thyn harde fader han thee spilt </l>
+<lb/><l n="760">(base) O mercy deere Constable quod she </l>
+<lb/><l n="761">(base) As lat my litel child dwelle here with thee </l>
+<lb/><l n="762">(base) And if thow darst noght sauen hym for blame </l>
+<lb/><l n="763">(base) So kys hym ones in his fader name </l>
+<lb/><l n="764">(base) Ther with she looketh bakward to the londe </l>
+<lb/><l n="765">(base) And seyde fare wel housbonde routhelees </l>
+<lb/><l n="766">(base) And vp she rist and walketh doun the Stronde </l>
+<lb/><l n="767">(base) Toward the Ship hir folweth al the prees </l>
+<lb/><l n="768">(base) And euere she prayeth hir child to holde his pees </l>
+<lb/><l n="769">(base) And taketh hir leue and with an holy entente </l>
+<lb/><l n="770">(base) She blesseth hire and in to Ship she wente </l>
+<lb/><l n="771">(base) Vitailled was the Ship it is no drede </l>
+<lb/><l n="772">(base) Habundantly for hire ful longe space </l>
+<lb/><l n="773">(base) And othere necessaries that sholde nede </l>
+<lb/><l n="774">(base) She hadde ynow heryed be goddes grace </l>
+<lb/><l n="775">(base) For wynd and weder almyghty god purchace </l>
+<lb/><l n="776">(base) And brynge hir hom I kan no bettre seye </l>
+<lb/><l n="777">(base) But in the see she dryueth forth hir weye </l>
+<lb/><l n="778">(base) Alla the kyng comth hom soone after this </l>
+<lb/><l n="MRL778">(base) <seg type="rm">Incipit iij<hi rend="sup">a</hi>. <am>ꝑ</am><ex>per</ex>s . </seg> </l>
+<lb/><l n="779">(base) Vnto his Castel of the which I tolde </l>
+<lb/><l n="780">(base) And axeth where his wyf and his child is </l>
+<lb/><l n="781">(base) The Constable gan aboute his herte colde </l>
+<lb/><l n="782">(base) And pleynly al the manere he hym tolde </l>
+<lb/><l n="783">(base) As ye han herd I kan telle it no bettre </l>
+<lb/><l n="784">(base) And sheweth the kyng his Seel and his lettre </l>
+<pb n="31v" facs="EeCU031.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="785">(base) And seyde lord as ye comaunded me </l>
+<lb/><l n="786">(base) Vp peyne of deeth so haue I do certein </l>
+<lb/><l n="787">(base) This Messager tormented was til he </l>
+<lb/><l n="788">(base) Moste biknowe and tellen plat and pleyn </l>
+<lb/><l n="789">(base) Fro nyght to nyght in what place he had leyn </l>
+<lb/><l n="790">(base) And thus by wit and subtil enquerynge </l>
+<lb/><l n="791">(base) Ymagined was by whom this harm gan sprynge </l>
+<lb/><l n="792">(base) The hond was knowe that the lettre wroot </l>
+<lb/><l n="793">(base) And al the venym of this cursed dede </l>
+<lb/><l n="794">(base) But in what wise certeynly I noot </l>
+<lb/><l n="795">(base) Theffect is this that Alla out of drede </l>
+<lb/><l n="796">(base) His moder slow that may men pleynly rede </l>
+<lb/><l n="797">(base) For that she traytour was to hir ligeaunce </l>
+<lb/><l n="798">(base) Thus endeth olde Donegild with meschaunce </l>
+<lb/><l n="799">(base) The sorwe that this Alla nyght and day </l>
+<lb/><l n="800">(base) Maketh for his wyf and for his child also </l>
+<lb/><l n="801">(base) Ther is no tonge that it telle may </l>
+<lb/><l n="802">(base) But now wol I vnto Custaunce go </l>
+<lb/><l n="803">(base) That fleteth in the See in peyne and wo </l>
+<lb/><l n="804">(base) Fyue yeer and moore as liked Cristes sonde </l>
+<lb/><l n="805">(base) Er that hir ship approched vnto londe </l>
+<lb/><l n="806">(base) Vnder an hethen Castel at the laste </l>
+<lb/><l n="807">(base) Of which the name in my text noght I fynde </l>
+<lb/><l n="808">(base) Custaunce and eek hir child the See vp caste </l>
+<lb/><l n="809">(base) Almyghty god that saueth al mankynde </l>
+<lb/><l n="810">(base) Haue on Custaunce and on hir child som mynde </l>
+<lb/><l n="811">(base) That fallen is in hethen hand eft soone </l>
+<lb/><l n="812">(base) In point to spille as I shal telle yow soone </l>
+<pb n="32r" facs="EeCU031.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="813">(base) Down fro the Castel comth ther many a wight </l>
+<lb/><l n="814">(base) To gauren on this Ship and on Custaunce </l>
+<lb/><l n="815">(base) But shortly from the Castel on a nyght </l>
+<lb/><l n="816">(base) The lordes Styward god yeue hym meschaunce </l>
+<lb/><l n="817">(base) A theef that hadde reneyed oure creaunce </l>
+<lb/><l n="818">(base) Cam in to Ship allone and seyde he sholde </l>
+<lb/><l n="819">(base) Hir lemman be wher so she wolde or nolde </l>
+<lb/><l n="820">(base) Wo was this wrecched womman tho bigon </l>
+<lb/><l n="821">(base) Hir child cryde and she cryde pitously </l>
+<lb/><l n="822">(base) But blisful Marie heelp hire right anon </l>
+<lb/><l n="823">(base) For with hir strogelyng wel and myghtily </l>
+<lb/><l n="824">(base) The theef fil ouer bord al sodeynly </l>
+<lb/><l n="825">(base) And in the See he dreynte for vengeaunce </l>
+<lb/><l n="826">(base) And thus hath Crist vnwemmed kept Custaunce </l>
+<lb/><l n="827">(base) O foule lust of luxurie lo thyn ende </l>
+<lb/><l n="828">(base) Nat oonly that thou fayntest mannes mynde </l>
+<lb/><l n="829">(base) But verraily thow wolt his body shende </l>
+<lb/><l n="830">(base) Thende of thy werk or of thy lustes blynde </l>
+<lb/><l n="831">(base) Is compleynyng how many oon may men fynde </l>
+<lb/><l n="832">(base) That noght for werk som tyme but for thentente </l>
+<lb/><l n="833">(base) To doon this synne been outher slayn or shente </l>
+<lb/><l n="834">(base) How may this wayke womman han this strengthe </l>
+<lb/><l n="835">(base) Hir to defende agayn this renegat </l>
+<lb/><l n="836">(base) O Golias vnmesurable of lengthe </l>
+<lb/><l n="837">(base) How myghte Dauid make thee so maat </l>
+<lb/><l n="838">(base) So yong and of armure so desolat </l>
+<lb/><l n="839">(base) How dorste he looke vpon thy dredful face </l>
+<lb/><l n="840">(base) Wel may men seen it was but goddes grace </l>
+<pb n="32v" facs="EeCU032.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="841">(base) Who yaf Iudith corage or hardynesse </l>
+<lb/><l n="842">(base) To sleen hym Olofernus in his tente </l>
+<lb/><l n="843">(base) And to deliueren out of wrecchednesse </l>
+<lb/><l n="844">(base) The peple of god I sey for this entente </l>
+<lb/><l n="845">(base) That right as god Spirit of vigour sente </l>
+<lb/><l n="846">(base) To hem and saued hem out of meschaunce </l>
+<lb/><l n="847">(base) So sente he myght and vigour to Custaunce </l>
+<lb/><l n="848">(base) Forth gooth hir Ship thurgh out the narwe mouth </l>
+<lb/><l n="849">(base) Of Iubaltare and Septe dryuyng ay </l>
+<lb/><l n="850">(base) Som tyme West and som tyme North and South </l>
+<lb/><l n="851">(base) And som tyme Est ful many a wery day </l>
+<lb/><l n="852">(base) Til Cristes moder blissed be she ay </l>
+<lb/><l n="853">(base) Hath shapen thurgh hir endelees goodnesse </l>
+<lb/><l n="854">(base) To make an ende of al hir heuynesse </l>
+<lb/><l n="855">(base) Now lat vs stynte of Custaunce but a throwe </l>
+<lb/><l n="856">(base) And speke we of the Romayn Emperour </l>
+<lb/><l n="857">(base) That out of Surrye hath by lettres knowe </l>
+<lb/><l n="858">(base) The slaughtre of cristen folk and dishonour </l>
+<lb/><l n="859">(base) Doon to his doghter by a fals traytour </l>
+<lb/><l n="860">(base) I mene the cursed wikked Sowdanesse </l>
+<lb/><l n="861">(base) That at the feeste leet sleen bothe moore and lesse </l>
+<lb/><l n="862">(base) For which this Emperour hath sent anon </l>
+<lb/><l n="863">(base) His Senatour   with Roial ordinaunce </l>
+<lb/><l n="864">(base) And othere lordes god woot many oon </l>
+<lb/><l n="865">(base) On Surryens to taken heigh vengeaunce </l>
+<lb/><l n="866">(base) They brennen sleen and brynge hem to meschaunce </l>
+<lb/><l n="867">(base) Ful many a day but shortly this is thende </l>
+<lb/><l n="868">(base) Homward to Rome they shapen hem to wende </l>
+<pb n="33r" facs="EeCU032.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="869">(base) This Senatour repaireth with victorie </l>
+<lb/><l n="870">(base) To Romeward saylynge ful Roially </l>
+<lb/><l n="871">(base) And mette the Ship dryuynge as seith the Storie </l>
+<lb/><l n="872">(base) In which Custaunce sit ful pitously </l>
+<lb/><l n="873">(base) No thyng ne knew he what she was ne why </l>
+<lb/><l n="874">(base) She was in swich array ne she nyl seye </l>
+<lb/><l n="875">(base) Of hir estaat thogh she sholde deye </l>
+<lb/><l n="876">(base) He bryngeth hire to Rome and to his wyf </l>
+<lb/><l n="877">(base) He yaf hire and hir yonge sone also </l>
+<lb/><l n="878">(base) And with the Senatour she ladde hir lyf </l>
+<lb/><l n="879">(base) Thus kan oure lady bryngen out of wo </l>
+<lb/><l n="880">(base) Woful Custaunce and many another mo </l>
+<lb/><l n="881">(base) And longe tyme dwelled she in that place </l>
+<lb/><l n="882">(base) In holy werkes euere as was hir grace </l>
+<lb/><l n="883">(base) The Senatours wyf hir Aunte was </l>
+<lb/><l n="884">(base) But for al that she knew hir neuer the moore </l>
+<lb/><l n="885">(base) I wol no lenger taryen in this cas </l>
+<lb/><l n="886">(base) But to kyng Alla which I spak of yoore </l>
+<lb/><l n="887">(base) That for his wyf wepeth and siketh soore </l>
+<lb/><l n="887a">(base) That had suche sorowe as I said before </l>
+<lb/><l n="888">(base) I wol retourne and lete I wole Custaunce </l>
+<lb/><l n="889">(base) Vnder the Senatours gouernaunce </l>
+<lb/><l n="883r">(base) This senatourys wif hyre au<am>̄</am><ex>n</ex>te was </l>
+<lb/><l n="884r">(base) But for al þ<am rend="sup">t</am><ex>at</ex> sche knew hyre neuere þe more </l>
+<lb/><l n="885r">(base) I wele no lengere taryen in þis cas </l>
+<lb/><l n="886r">(base) But to kyng alla which I spak of ȝore </l>
+<lb/><l n="887r">(base) That for his wyf wepith ⁊ sykyth sore </l>
+<lb/><l n="888r">(base) I wele returne ⁊ lete I wele custaunce </l>
+<lb/><l n="889r">(base) Vndyr þe senatourys gouernau<am>̄</am><ex>n</ex>ce </l>
+<lb/><l n="890">(base) Kyng Alla which that hadde his moder slayn </l>
+<lb/><l n="891">(base) Vpon a day fil in swich repentaunce </l>
+<lb/><l n="892">(base) That  if I shortly tellen shal and playn </l>
+<lb/><l n="893">(base) To Rome he cometh to receyuen his penaunce </l>
+<lb/><l n="894">(base) And putte hym in the Popes ordinaunce </l>
+<lb/><l n="895">(base) In heigh and logh and Ihu Crist bisoghte </l>
+<lb/><l n="896">(base) Foryeue his wikked werkes that he wroghte </l>
+<pb n="33v" facs="EeCU033.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="897">(base) The fame anon thurgh Rome town is born </l>
+<lb/><l n="898">(base) How Alla kyng shal comen in pilgrymage </l>
+<lb/><l n="899">(base) By herbergeours that wenten hym biforn </l>
+<lb/><l n="900">(base) For which the Senatour as was vsage </l>
+<lb/><l n="901">(base) Rood hym agayns and many of his lynage </l>
+<lb/><l n="902">(base) As wel to shewen his heighe magnyficence </l>
+<lb/><l n="903">(base) As to doon any kyng a reuerence </l>
+<lb/><l n="904">(base) Greet cheere dooth this noble Senatour </l>
+<lb/><l n="905">(base) To kyng Alla and he to hym also </l>
+<lb/><l n="906">(base) Euerich of hem dooth oother greet Honour </l>
+<lb/><l n="907">(base) And so bifel that in a day or two </l>
+<lb/><l n="908">(base) This Senatour is to kyng Alla go </l>
+<lb/><l n="909">(base) To feste and shortly if I shal nat lye </l>
+<lb/><l n="910">(base) Custaunces sone wente in his compaignye </l>
+<lb/><l n="911">(base) Som men wolde seyn at requeste of Custaunce </l>
+<lb/><l n="912">(base) This Senatour hath lad this child to feste </l>
+<lb/><l n="913">(base) I may nat tellen euerich circumstaunce </l>
+<lb/><l n="914">(base) Be as be may ther was he at the leste </l>
+<lb/><l n="915">(base) But sooth is this that at his modres heste </l>
+<lb/><l n="916">(base) Biforn Alla duryng the metes space </l>
+<lb/><l n="917">(base) The child stood lookynge in the kynges face </l>
+<lb/><l n="918">(base) This Alla kyng hath of this child greet wonder </l>
+<lb/><l n="919">(base) And to the Senatour he seyde anon </l>
+<lb/><l n="920">(base) Whos is that faire child that stondeth yonder </l>
+<lb/><l n="921">(base) I noot quod he by god and by Seint Iohn </l>
+<lb/><l n="922">(base) A moder he hath but fader hath he non </l>
+<lb/><l n="923">(base) That I of woot and shortly in a stounde </l>
+<lb/><l n="924">(base) He tolde Alla how that this child was founde </l>
+<pb n="34r" facs="EeCU033.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="925">(base) But god woot quod this Senatour also </l>
+<lb/><l n="926">(base) So vertuous a lyuere in my lyf </l>
+<lb/><l n="927">(base) Ne saw I neuere as she ne herde of mo </l>
+<lb/><l n="928">(base) Of worldly wommen mayde ne of wyf </l>
+<lb/><l n="929">(base) I dar wel seyn hir hadde leuere a knyf </l>
+<lb/><l n="930">(base) Thurgh out hir brest than been a womman wikke </l>
+<lb/><l n="931">(base) Ther is no man koude brynge hire to that prikke </l>
+<lb/><l n="932">(base) Now was this child as lyk vnto Custaunce </l>
+<lb/><l n="933">(base) As possible is a creature to be </l>
+<lb/><l n="934">(base) This Alla hath the face in remembraunce </l>
+<lb/><l n="935">(base) Of dame Custaunce and ther on mused he </l>
+<lb/><l n="936">(base) If that the childes moder were aught she </l>
+<lb/><l n="937">(base) That is his wyf and pryuely he sighte </l>
+<lb/><l n="938">(base) And spedde hym fro the table that he myghte </l>
+<lb/><l n="939">(base) <am>Ꝑ</am><ex>Per</ex>fay thoughte he fantome is in myn heed </l>
+<lb/><l n="940">(base) I oghte deme of skilful Iugement </l>
+<lb/><l n="941">(base) That in the salte see my wif is deed </l>
+<lb/><l n="942">(base) And afterward he made his argument </l>
+<lb/><l n="943">(base) What woot I if that Crist hath hider sent </l>
+<lb/><l n="944">(base) My wif by See as wel as he hir sente </l>
+<lb/><l n="945">(base) To my contree from thennes that she wente </l>
+<pb n="34v" facs="EeCU034.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="953">(base) Whan Alla saugh his wyf faire he hir grette </l>
+<lb/><l n="954">(base) And weep that it was routhe for to se </l>
+<lb/><l n="955">(base) For at the firste look he on hir sette </l>
+<lb/><l n="956">(base) He knew wel verraily that it was she </l>
+<lb/><l n="957">(base) And she for sorwe as domb stant as a tree </l>
+<lb/><l n="958">(base) So was hir herte shet in hir distresse </l>
+<lb/><l n="959">(base) Whan she remembred his vnkyndenesse </l>
+<lb/><l n="960">(base) Twies she swowneth in his owene sighte </l>
+<lb/><l n="961">(base) He weep and hym excuseth pitously </l>
+<lb/><l n="962">(base) Now god quod he and his halwes brighte </l>
+<lb/><l n="963">(base) So wisly on my soule as haue mercy </l>
+<lb/><l n="964">(base) That of youre harm as giltlees am I </l>
+<lb/><l n="965">(base) As is Maurice my sone so lyk youre face </l>
+<lb/><l n="966">(base) Ellis the feend me fecche out of this place </l>
+<lb/><l n="967">(base) Long was the sobbyng and the bitter peyne </l>
+<lb/><l n="968">(base) Er that hir woful hertes myghte cesse </l>
+<lb/><l n="969">(base) Greet was the pitee for to heere hem pleyne </l>
+<lb/><l n="970">(base) Thurgh whiche pleintes gan hir wo encresse </l>
+<lb/><l n="971">(base) I pray yow al my labour to relesse </l>
+<lb/><l n="972">(base) I may nat telle hir wo vn til to morwe </l>
+<lb/><l n="973">(base) I am so wery for to speke of sorwe </l>
+<lb/><l n="974">(base) But finally whan that the sooth is wist </l>
+<lb/><l n="975">(base) That </l>
+<pb n="35r" facs="EeCU034.Jpg" rend="50,0,100,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="981">(base) Tho preyde she hir housbond mekely </l>
+<lb/><l n="982">(base) In relief of hir longe pitous pyne </l>
+<lb/><l n="983">(base) That he wolde praye hir fader specially </l>
+<lb/><l n="984">(base) That of his magestee he wolde enclyne </l>
+<lb/><l n="985">(base) To vouche sauf som day with hym to dyne </l>
+<lb/><l n="986">(base) She preyde hym eek he sholde by no weye </l>
+<lb/><l n="987">(base) Vnto hir fader no word of hir seye </l>
+<lb/><l n="988">(base) Som men wolde seyn how that the child Mauryce </l>
+<lb/><l n="989">(base) Dooth this message vnto this Emperour </l>
+<lb/><l n="990">(base) But as I gesse Alla was noght so nyce </l>
+<lb/><l n="991">(base) To hym that was of so souereyn honour </l>
+<lb/><l n="992">(base) As he that is of cristen folk the flour </l>
+<lb/><l n="993">(base) Sente any child but it is bet to deme </l>
+<lb/><l n="994">(base) He wente hymself and so it may wel seme </l>
+<lb/><l n="995">(base) This Emperour hath graunted gentilly </l>
+<lb/><l n="996">(base) To come to dyner as he hym bisoghte </l>
+<lb/><l n="997">(base) And wel rede I he looked bisily </l>
+<lb/><l n="998">(base) Vpon this child and on his doghter thoghte </l>
+<lb/><l n="999">(base) Alla gooth to his In and as hym oghte </l>
+<lb/><l n="1000">(base) Arrayed for this feste in euery wise </l>
+<lb/><l n="1001">(base) As ferforth as his konnyng may suffise </l>
+<lb/><l n="1002">(base) The morwe cam and Alla gan hym dresse </l>
+<lb/><l n="1003">(base) And eek his wyf this Emperour to meete </l>
+<lb/><l n="1004">(base) And forth they ryde in Ioye and in gladnesse </l>
+<lb/><l n="1005">(base) And whan she say hir fader in the Streete </l>
+<lb/><l n="1006">(base) She lighte doun and falleth hym to feete </l>
+<lb/><l n="1007">(base) Fader quod she youre yonge child Custaunce </l>
+<lb/><l n="1008">(base) Is now ful clene out of youre remembraunce </l>
+<pb n="35v" facs="EeCU035.Jpg" rend="0,0,50,100"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="1009">(base) I am youre doghter Custance quod she </l>
+<lb/><l n="1010">(base) That whilom ye han sent vnto Surrye </l>
+<lb/><l n="1011">(base) It am I  fader that in the salte See </l>
+<lb/><l n="1012">(base) Was put allone and dampned for to dye </l>
+<lb/><l n="1013">(base) Now goode fader mercy I yow crye </l>
+<lb/><l n="1014">(base) Seend me namoore vnto noon hethenesse </l>
+<lb/><l n="1015">(base) But thonke my lord heere of his kyndenesse </l>
+<lb/><l n="1016">(base) Who kan the pitous Ioye tellen al </l>
+<lb/><l n="1016-1">(base) Her endeth The man of lawes tale </l>
+<lb/><l n="1017">(base) Bitwix hem thre syn they be thus ymette </l>
+<lb/><l n="1018">(base) But of my tale make an ende I shal </l>
+<lb/><l n="1019">(base) The day goth faste I wol no lenger lette </l>
+<lb/><l n="1020">(base) This glade folk to dyner they hem sette </l>
+<lb/><l n="1021">(base) In ioye and blisse at mete I lete hem dwelle </l>
+<lb/><l n="1022">(base) A thousand fold wel moore than I kan telle </l>
+<lb/><l n="1023">(base) This child Maurice was sithen Emperour </l>
+<lb/><l n="1024">(base) Maad by the Pope and lyued cristenly </l>
+<lb/><l n="1025">(base) To cristes chirche he dide greet honour </l>
+<lb/><l n="1026">(base) But I lete al this storie passen by </l>
+<lb/><l n="1027">(base) Of Custaunce is my tale specially </l>
+<lb/><l n="1028">(base) In the olde Romayn gestes may men fynde </l>
+<lb/><l n="1029">(base) Maurices lyf I bere it noght in mynde </l>
+<lb/><l n="1030">(base) This kyng Alla whan he his tyme say </l>
+<lb/><l n="1031">(base) With his Custaunce his holy wif so swete </l>
+<lb/><l n="1032">(base) To Engelond been they come the righte way </l>
+<lb/><l n="1033">(base) Wher as they lyue in ioye and in quiete </l>
+<lb/><l n="1034">(base) But litel while it lasteth I yow heete </l>
+<lb/><l n="1035">(base) Ioye of this world for tyme wol nat abyde </l>
+<lb/><l n="1036">(base) Fro day to nyght it chaungeth as the tyde </l>
+
+</div>
+</body>
+</text>
+</TEI>
+

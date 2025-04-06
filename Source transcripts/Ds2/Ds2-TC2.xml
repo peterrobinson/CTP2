@@ -1,0 +1,264 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/TEI-transcr-TC.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>Ds2</title>
+					<respStmt n="General">
+ 						<resp>Textual editing and encoding:</resp>
+ 						<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2013), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+ 					</respStmt>
+ 			</titleStmt>
+ 				<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+<sourceDesc>
+		<bibl type="summary">
+			<respStmt n="General">
+				<resp>Textual editing and encoding:</resp>
+				<name>Transcription: Peter Robinson, Barbara Bordalejo and members of the Canterbury Tales Project at Oxford and Sheffield (1992-1998), De Montfort University, Leicester (1998-2005), Birmingham (2005-2010), Saskatoon (2010-2014), Virginia Tech, New York University, University of Murcia, Adam Mickiewicz University (Poznan) and Brigham Young University. </name>
+			</respStmt>
+ 		</bibl>
+ 		<bibl type="transcribers">
+ 			<respStmt n="Oxford">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Oxford transcription team, 1992-1998: Peter Robinson, Elizabeth Solopova, Lorna Stevenson, with contributions from James McCabe, Hubert Stadler, Cathy Swires, Paul and Maureen Watry, Laura Wright,  Diana Wyatt and Simon Horobin</name>
+ 					</respStmt>
+ 			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1992-1998, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+			<respStmt n="DMU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>De Montfort transcription team, 1998-2005: Peter Robinson, Barbara Bordalejo, Orietta Da Rold, Gavin Cole, Pip Willcox, Jennifer Marshall, Takako Kato, Jacob Thaisen, Nicole Green</name>
+ 					</respStmt>
+			<respStmt n="UoS">
+ 				 <resp>Conversion for Textual Communities:</resp>
+ 				<name>University of Saskatchewan  team, 2010-2013: Peter Robinson and Barbara Bordalejo</name>
+ 					</respStmt>
+		<respStmt n="VT">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Virgina Tech team, led by Daniel W. Mosser</name>
+ 		</respStmt>
+		<respStmt n="NYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>New York University team, led by David Hoover and Martha Rust, 2003-2006.</name>
+ 		</respStmt>
+ 		<respStmt n="BYU">
+ 				 <resp>Original capture and corrections:</resp>
+ 				<name>Brigham Young University transcription team, 1995-2006, led by Paul Thomas: Sara Black, Jessica Cox, Barbara Christiansen, Kerry Clift Spencer*, Heidi Elldredge, Leona Fisher Sankhla, Kela Flint*, Melissa Gallup, Shannon Harris, Rebecca Johnson, Mary Jorgensen, Darin Merrill*, Wesley Pack*, Jared Perkins, Jon Penny, Randall Rogers, Ryan Rowberry*, Sara Slack, Carie Soderquist Jackson*, Kat Southerland, Matt Tenney, Briton Wright, John Young. Asterisks after names denote those who supervised other transcribers.</name>
+ 		</respStmt>
+ 		 <respStmt n="Poznan">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Adam Mickiewicz University, Poznan, transcription team, 2007-2010: (names to be supplied), with support from Adam Mickiewicz University and the The Polish Ministry for Science and Higher Education, grant N104 045 32/4256.</name>
+ 					</respStmt>
+ 		 		 <respStmt n="Murcia">
+ 				<resp>Original capture and corrections:</resp>
+ 						<name>Nila Vazquez Gonzalez, University of Murcia. </name>
+ 					</respStmt>
+			<respStmt n="Sheffield-C">
+  				<resp >Corrections:</resp>
+ 						<name>Sheffield transcription team, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson and Simon Horobin</name>
+ 					</respStmt>
+  		</bibl>
+  		<bibl type="notcontributed">
+  			<respStmt n="Sheffield">
+  				<resp>Original capture and corrections:</resp>
+  				<name>University of Sheffield, 1994-1999, led by Norman Blake: Michael Pidd and Estelle Stubbs, with Linda Cross, Claire Thomson, Orietta Da Rold and Simon Horobin. In partnership with the Canterbury Tales Project, at that time led by Norman Blake in partnership with Peter Robinson and Elizabeth Solopova (up to 1998), and using images and other resources supplied by the Project, the Sheffield team transcribed eight manuscripts in full (Ad3, Corpus, Dd, Gg, Ellesmere, Ha4, Hengwrt, Lansdowne), sections of some seven other manuscripts, and all manuscripts of the Franklin's Tale.  No part of these transcripts is contained in this iteration of the Project.</name>
+  			</respStmt>
+	</bibl>
+
+			 <msDesc>
+ 				  	<msIdentifier>
+ 				  	 <settlement>Derbyshire</settlement>
+  					<repository>Chatsworth House</repository>
+  					<idno>Devonshire Fragment</idno>
+  					<msName>Ds2</msName>
+  					</msIdentifier>
+ 			 </msDesc>
+ 	
+</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Optimized for Textual Communities input.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+	<text>
+		<body>
+<pb n="1r" facs="DS2MR001.JPG"/>
+<div  n="ML" type="G">
+<lb/><l n="752">(base) Now lady bright to whom alle woful cryen </l>
+<lb/><l n="753">(base) Thow glorie of wommanhod thow faire may </l>
+<lb/><l n="754">(base) Thow hauen of refut brighte sterre of day </l>
+<lb/><l n="755">(base) Rewe on my child that of thy gentillesse </l>
+<lb/><l n="756">(base) Rewest on euery rewful in distresse </l>
+<lb/><l n="757">(base) O litel child allas what is thy gilt </l>
+<lb/><l n="758">(base) That neuere wroghtest synne as yet pardee </l>
+<lb/><l n="759">(base) Why wil thyn harde fader han thee spilt </l>
+<lb/><l n="760">(base) O mercy deere Constable quod she </l>
+<lb/><l n="761">(base) As lat my litel child dwelle here with thee </l>
+<lb/><l n="762">(base) And if thow darst noght sauen hym for blame </l>
+<lb/><l n="763">(base) So kys hym ones in his fader name </l>
+<lb/><l n="764">(base) Ther with she looketh bakward to the londe </l>
+<lb/><l n="765">(base) And seyde fare wel housbonde routhelees </l>
+<lb/><l n="766">(base) And vp she rist and walketh doun the Stronde </l>
+<lb/><l n="767">(base) Toward the Ship hir folweth al the prees </l>
+<lb/><l n="768">(base) And euere she prayeth hir child to holde his pees </l>
+<lb/><l n="769">(base) And taketh hir leue and with an holy entente </l>
+<lb/><l n="770">(base) She blesseth hire and in to Ship she wente </l>
+<lb/><l n="771">(base) Vitailled was the Ship it is no drede </l>
+<lb/><l n="772">(base) Habundantly for hire ful longe space </l>
+<lb/><l n="773">(base) And othere necessaries that sholde nede </l>
+<lb/><l n="774">(base) She hadde ynow heryed be goddes grace </l>
+<lb/><l n="775">(base) For wynd and weder almyghty god purchace </l>
+<lb/><l n="776">(base) And brynge hir hom I kan no bettre seye </l>
+<lb/><l n="777">(base) But in the see she dryueth forth hir weye </l>
+<lb/><l n="778">(base) Alla the kyng comth hom soone after this </l>
+<lb/><l n="MRL778">(base) <seg type="rm">Incipit iij<hi rend="sup">a</hi>. <am>ꝑ</am><ex>per</ex>s . </seg> </l>
+<lb/><l n="779">(base) Vnto his Castel of the which I tolde </l>
+<lb/><l n="780">(base) And axeth where his wyf and his child is </l>
+<lb/><l n="781">(base) The Constable gan aboute his herte colde </l>
+<lb/><l n="782">(base) And pleynly al the manere he hym tolde </l>
+<lb/><l n="783">(base) As ye han herd I kan telle it no bettre </l>
+<lb/><l n="784">(base) And sheweth the kyng his Seel and his lettre </l>
+<lb/><l n="785">(base) And seyde lord as ye comaunded me </l>
+<lb/><l n="786">(base) Vp peyne of deeth so haue I do certein </l>
+<lb/><l n="787">(base) This Messager tormented was til he </l>
+<lb/><l n="788">(base) Moste biknowe and tellen plat and pleyn </l>
+<lb/><l n="789">(base) Fro nyght to nyght in what place he had leyn </l>
+<pb n="1v" facs="DS2MR002.JPG"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="790">(base) And thus by wit and subtil enquerynge </l>
+<lb/><l n="791">(base) Ymagined was by whom this harm gan sprynge </l>
+<lb/><l n="792">(base) The hond was knowe that the lettre wroot </l>
+<lb/><l n="793">(base) And al the venym of this cursed dede </l>
+<lb/><l n="794">(base) But in what wise certeynly I noot </l>
+<lb/><l n="795">(base) Theffect is this that Alla out of drede </l>
+<lb/><l n="796">(base) His moder slow that may men pleynly rede </l>
+<lb/><l n="797">(base) For that she traytour was to hir ligeaunce </l>
+<lb/><l n="798">(base) Thus endeth olde Donegild with meschaunce </l>
+<lb/><l n="799">(base) The sorwe that this Alla nyght and day </l>
+<lb/><l n="800">(base) Maketh for his wyf and for his child also </l>
+<lb/><l n="801">(base) Ther is no tonge that it telle may </l>
+<lb/><l n="802">(base) But now wol I vnto Custaunce go </l>
+<lb/><l n="803">(base) That fleteth in the See in peyne and wo </l>
+<lb/><l n="804">(base) Fyue yeer and moore as liked Cristes sonde </l>
+<lb/><l n="805">(base) Er that hir ship approched vnto londe </l>
+<lb/><l n="806">(base) Vnder an hethen Castel at the laste </l>
+<lb/><l n="807">(base) Of which the name in my text noght I fynde </l>
+<lb/><l n="808">(base) Custaunce and eek hir child the See vp caste </l>
+<lb/><l n="809">(base) Almyghty god that saueth al mankynde </l>
+<lb/><l n="810">(base) Haue on Custaunce and on hir child som mynde </l>
+<lb/><l n="811">(base) That fallen is in hethen hand eft soone </l>
+<lb/><l n="812">(base) In point to spille as I shal telle yow soone </l>
+<lb/><l n="813">(base) Down fro the Castel comth ther many a wight </l>
+<lb/><l n="814">(base) To gauren on this Ship and on Custaunce </l>
+<lb/><l n="815">(base) But shortly from the Castel on a nyght </l>
+<lb/><l n="816">(base) The lordes Styward god yeue hym meschaunce </l>
+<lb/><l n="817">(base) A theef that hadde reneyed oure creaunce </l>
+<lb/><l n="818">(base) Cam in to Ship allone and seyde he sholde </l>
+<lb/><l n="819">(base) Hir lemman be wher so she wolde or nolde </l>
+<lb/><l n="820">(base) Wo was this wrecched womman tho bigon </l>
+<lb/><l n="821">(base) Hir child cryde and she cryde pitously </l>
+<lb/><l n="822">(base) But blisful Marie heelp hire right anon </l>
+<lb/><l n="823">(base) For with hir strogelyng wel and myghtily </l>
+<lb/><l n="824">(base) The theef fil ouer bord al sodeynly </l>
+<lb/><l n="825">(base) And in the See he dreynte for vengeaunce </l>
+<lb/><l n="826">(base) And thus hath Crist vnwemmed kept Custaunce </l>
+<pb n="2r" facs="DS2MR003.JPG"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="978">(base) That saue the ioye that lasteth eueremo </l>
+<lb/><l n="979">(base) Ther is noon lyk that any creature </l>
+<lb/><l n="980">(base) Hath seyn or shal whil that the world may dure </l>
+<lb/><l n="981">(base) Tho preyde she hir housbond mekely </l>
+<lb/><l n="982">(base) In relief of hir longe pitous pyne </l>
+<lb/><l n="983">(base) That he wolde praye hir fader specially </l>
+<lb/><l n="984">(base) That of his magestee he wolde enclyne </l>
+<lb/><l n="985">(base) To vouche sauf som day with hym to dyne </l>
+<lb/><l n="986">(base) She preyde hym eek he sholde by no weye </l>
+<lb/><l n="987">(base) Vnto hir fader no word of hir seye </l>
+<lb/><l n="988">(base) Som men wolde seyn how that the child Mauryce </l>
+<lb/><l n="989">(base) Dooth this message vnto this Emperour </l>
+<lb/><l n="990">(base) But as I gesse Alla was noght so nyce </l>
+<lb/><l n="991">(base) To hym that was of so souereyn honour </l>
+<lb/><l n="992">(base) As he that is of cristen folk the flour </l>
+<lb/><l n="993">(base) Sente any child but it is bet to deme </l>
+<lb/><l n="994">(base) He wente hymself and so it may wel seme </l>
+<lb/><l n="995">(base) This Emperour hath graunted gentilly </l>
+<lb/><l n="996">(base) To come to dyner as he hym bisoghte </l>
+<lb/><l n="997">(base) And wel rede I he looked bisily </l>
+<lb/><l n="998">(base) Vpon this child and on his doghter thoghte </l>
+<lb/><l n="999">(base) Alla gooth to his In and as hym oghte </l>
+<lb/><l n="1000">(base) Arrayed for this feste in euery wise </l>
+<lb/><l n="1001">(base) As ferforth as his konnyng may suffise </l>
+<lb/><l n="1002">(base) The morwe cam and Alla gan hym dresse </l>
+<lb/><l n="1003">(base) And eek his wyf this Emperour to meete </l>
+<lb/><l n="1004">(base) And forth they ryde in Ioye and in gladnesse </l>
+<lb/><l n="1005">(base) And whan she say hir fader in the Streete </l>
+<lb/><l n="1006">(base) She lighte doun and falleth hym to feete </l>
+<lb/><l n="1007">(base) Fader quod she youre yonge child Custaunce </l>
+<lb/><l n="1008">(base) Is now ful clene out of youre remembraunce </l>
+<lb/><l n="1009">(base) I am youre doghter Custance quod she </l>
+<lb/><l n="1010">(base) That whilom ye han sent vnto Surrye </l>
+<lb/><l n="1011">(base) It am I  fader that in the salte See </l>
+<lb/><l n="1012">(base) Was put allone and dampned for to dye </l>
+<lb/><l n="1013">(base) Now goode fader mercy I yow crye </l>
+<lb/><l n="1014">(base) Seend me namoore vnto noon hethenesse </l>
+<lb/><l n="1015">(base) But thonke my lord heere of his kyndenesse </l>
+<pb n="2v" facs="DS2MR004.JPG"/>
+
+<note type="ed" resp="PMR">Text on this page supplied initially from the base text. Delete this note when revised against the manuscript image.</note>
+<lb/><l n="1016">(base) Who kan the pitous Ioye tellen al </l>
+<lb/><l n="1016-1">(base) Her endeth The man of lawes tale </l>
+<lb/><l n="1017">(base) Bitwix hem thre syn they be thus ymette </l>
+<lb/><l n="1018">(base) But of my tale make an ende I shal </l>
+<lb/><l n="1019">(base) The day goth faste I wol no lenger lette </l>
+<lb/><l n="1020">(base) This glade folk to dyner they hem sette </l>
+<lb/><l n="1021">(base) In ioye and blisse at mete I lete hem dwelle </l>
+<lb/><l n="1022">(base) A thousand fold wel moore than I kan telle </l>
+<lb/><l n="1023">(base) This child Maurice was sithen Emperour </l>
+<lb/><l n="1024">(base) Maad by the Pope and lyued cristenly </l>
+<lb/><l n="1025">(base) To cristes chirche he dide greet honour </l>
+<lb/><l n="1026">(base) But I lete al this storie passen by </l>
+<lb/><l n="1027">(base) Of Custaunce is my tale specially </l>
+<lb/><l n="1028">(base) In the olde Romayn gestes may men fynde </l>
+<lb/><l n="1029">(base) Maurices lyf I bere it noght in mynde </l>
+<lb/><l n="1030">(base) This kyng Alla whan he his tyme say </l>
+<lb/><l n="1031">(base) With his Custaunce his holy wif so swete </l>
+<lb/><l n="1032">(base) To Engelond been they come the righte way </l>
+<lb/><l n="1033">(base) Wher as they lyue in ioye and in quiete </l>
+<lb/><l n="1034">(base) But litel while it lasteth I yow heete </l>
+<lb/><l n="1035">(base) Ioye of this world for tyme wol nat abyde </l>
+<lb/><l n="1036">(base) Fro day to nyght it chaungeth as the tyde </l>
+<lb/><l n="1037">(base) Who lyued euere in swich delit a day </l>
+<lb/><l n="1038">(base) That hym ne moeued outher Conscience </l>
+<lb/><l n="1039">(base) Or Ire or talent or som kyn affray </l>
+<lb/><l n="1040">(base) Enuye or pryde or passion or offence </l>
+<lb/><l n="1041">(base) I ne seye but for this ende this sentence </l>
+<lb/><l n="1042">(base) That litel while in ioye or in plesaunce </l>
+<lb/><l n="1043">(base) Lasteth the blisse of Alla with Custaunce </l>
+<lb/><l n="1044">(base) For deeth that taketh of heigh and logh his rente </l>
+<lb/><l n="1045">(base) Whan passed was a yeer euene as I gesse </l>
+<lb/><l n="1046">(base) Out of this world this kyng Alla he hente </l>
+
+</div>
+<pb n="flyleaf" facs="DS2MR005.JPG"/>
+
+</body>
+</text>
+</TEI>
+

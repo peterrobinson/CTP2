@@ -1,0 +1,23 @@
+==== Manuscript name and Mosser link  ====
+
+Cambridge University Library, MS Dd.4.24. Mosser: Dd.
+
+==== Original construction  ====
+
+9 quires of 24: 216 folios.
+
+==== Missing folios  ====
+
+The outer four bifolia, 1.24, 2.23, 3.22, 4.21, three bifolia 9.16, 10.15, 11.14 and the fifth leaf of quire 1 (folios 1-5, 9-11, 14-16, 21-24; the first leaf and leaf 13 of quire 2 (folios 25 and 37); the innermost bifolium 12.13 of quire 3 (folios 60-61); bifolium 8.17 of quire 6 (folios 128 and 137); bifolium 11.14 and leaf 19 of quire 7 (folios 155, 158 and 163); leaf 20 of quire 8 (folio 188); the last eleven leaves of the last quire, quire 9 (folios 206-216).
+
+==== Added folios ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+ GP 1-254 (folios 1-5); GP 507-758 (folios 9-11); KT 62-312 (folios 14-16); KT 644-1073 (folios 21-25); KT 2063-2152 (folio 37); ML 432-612 (folios 60-61); FK 1-45, and its headlink (folio 128); FK 762-848 (folio 137); SH 393-end, 1-21 PR and headlink (folio 155); PR 194-end, 1-33 TT and headlink (folio 158); TM 91-130 (folio 163); NP headlink 24-end, NP 1-69 (folio 188).   The manuscript finishes on 205v, at CY 136. The eleven folios missing from this quire would not be sufficient to hold MA, PA, RT and the associated links (which would require 626 lines CY, 104 L36, 258 MA, 74 L37 = 1062 = 13 folios; plus PA: approx 26 folios).
+
+====  Notes  ====
+
+Folios 127r (end SQ, preceding missing folio with FK) and 150r (end PD, preceding SH) are blank.

@@ -1,0 +1,40 @@
+Dl notes
+The complete manuscript had 26 quires of eight: 208 folios.  The first six leaves are missing from quire 1 (folios 1 to 6); the last leaf from quire two (folio 16, cancelled); the first and fifth folios from quire 4 (folios 25 and 29); all but the first leaf of quire 11 (folios 82 to 88); the first four leaves of quire 12 (folios 89 to 92); the seventh leaf from quire 13 (folio 103); the second leaf from quire 14 (folio 106); the last leaf from quire 16 (folio 128, cancelled); the fourth leaf from quire 21 (folio 164); the last four leaves from quire 24 (folios 188 to 192); the first leaf from quire 25 (folio 193, ruled but blank); the third to fifth, seventh and eighth leaves from quire 26 (folios 203 to 205, 207 and 208).  Thus, 34 folios are missing, leaving 174 folios.  Mosser appears to miscount the folios in the last quire: on his account, this is missing five folios, with three remaining, but he enumerates it as 'fols. 174-5', not '174-176'.
+The Tales occupies folios 26r to 179v (20r-157v in Mosser's numbering).  The manuscript is written in two columns, with around 44 lines in each column, 88 on a page, and 176 on a folio. Absent text corresponding to the missing folios is as follows: GP 1-176 (folio 25); GP 705-end, KT 1-18 (folio 29); WBP 727-end, WBT, L10, FR, L11, SU, CL 1-180 = around 1720 lines (folios 82 to 92; at 156 lines a folio, 11 folios would carry 1716 lines); FK 526-682 (folio 103); NU 86-240 (folio 106); PA 377-419 (folio 164).  No text is lost from the cancelled folio 128 (space is left at the end of 127v, L28; the cancellation allows TM to start a new quire on 129r following directly from L28 on 127v). A space of 12 lines is left at the end of NP on folio 153r, and of 19 lines before MA starts on 153v, apparently to take L36; however, the 100 plus lines of L36 would not have fitted into this space.
+
+
+26r/26v - 28r/28v =22b/23a-24b/25a
+30r/30v - 81r/81v=25b/26a-76b/77a
+93r/93v-102r/102v   77b/78a-86b/87a
+104r/104v - 105r/105v  =87b/88a-88b/89a
+107r/107v - 127r/127v= 89b/90a-109b/110a
+129r/129v -163r/163v  = 110b/111a-144b/145a
+165r/165v-179r/179v   =145b/146a-159b/160a
+180r/180v--186r/186v = 160b/161a -  166b/167a
+
+Supplied: KT L2 RE L8 SQ L7 ML NU L33 CY PH L21 L23 MA PA RT
+Munster: PD
+Sheffield: FK
+
+Order is:
+GP KT L1 MI L2 RE L3 CO TG L8 SQ L20 ME L7 ML WBP CL 
+L13 L17 FK NU L33 CY L34 PH L21 PD L23 SH L24 PR L25 TT L28
+TM L29 MO L30 NP MA L37 PA RT
+
+Trad Us (CT only)
+20-22  26-28
+29 missing
+23-74  30-81
+82-92 missing
+75-84  93-102
+103 missing
+85-86 104-105
+106 missing
+87-107 107-127
+128 missing
+108-142 129-163
+164 missing
+143-157 165-179
+
+array set exBase {KT 0 L2 0 RE 0 L8 0 SQ 0 L7 0 ML 0 NU 0 L33 0 CY 0 PH 0 L21 0 L23 0 MA 0 PA 0 RT 0}
+array set pagedBase {FK 0}

@@ -1,0 +1,43 @@
+==== Manuscript name and Mosser link  ====
+
+Tokyo, Takamiya Collection, MS 32. Mosser: Dl.
+
+==== Original construction  ====
+
+26 quires of eight: 208 folios. 
+
+==== Missing folios  ====
+
+The first six leaves of quire 1 (folios 1 to 6); the last leaf of quire 2 (folio 16, cancelled); leaves 1 and 5 of quire 4 (folios 25 and 29); all but the first leaf of quire 11 (folios 82 to 88); the first four leaves of quire 12 (folios 89 to 92); leaf 7 of quire 13 (folio 103); the leaf 2 of quire 14 (folio 106); the last leaf of quire 16 (folio 128, cancelled); leaf 4 of quire 21 (folio 164); the last four leaves of quire 24 (folios 188 to 192); leaves 3-5, 7-8 leaves of quire 26 (folios 203 to 205, 207 and 208). 
+
+==== Added folios ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 1-176 (folio 25); GP 705-end, KT 1-18 (folio 29); WBP 727-end, WBT, L10, FR, L11, SU, CL 1-180 = around 1720 lines (folios 82 to 92; at 156 lines a folio, 11 folios would carry 1716 lines); FK 526-682 (folio 103); NU 86-240 (folio 106); PA 377-419 (folio 164). 
+
+====  Notes  ====
+
+ Mosser appears to miscount the folios in the last quire: on his account, this is missing five folios, with three remaining, but he enumerates it as 'fols. 174-5', not '174-176'. He also states that the first leaf of quire 25 is missing, although it appears to be present ("ruled but blank") and is indeed included in his numbering. It is counted as present in this foliation. Also, his numbering begins at "3", not "1"
+ 
+The Tales occupies folios 26r to 179v (20r-157v in Mosser's numbering).  No text is lost from the cancelled folio 128 (space is left at the end of 127v, L28; the cancellation allows TM to start a new quire on 129r following directly from L28 on 127v). A space of 12 lines is left at the end of NP on folio 153r, and of 19 lines before MA starts on 153v, apparently to take L36; however, the 100 plus lines of L36 would not have fitted into this space.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|3-4|7-8|
+|5-11|9-15|
+|12-19|17-24|
+|20-22 | 26-28|
+|23-74 | 30-81 |
+|75-84 | 93-102|
+|85-86 |104-105|
+|87-107 |107-127|
+|108-142 |129-163|
+|143-165 |165-187|
+|166-175 |193-202|
+|176| 206|
+
+

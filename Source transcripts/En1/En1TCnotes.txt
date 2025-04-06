@@ -1,0 +1,27 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library, Egerton MS 2726. Mosser: En1.
+
+==== Original construction  ====
+
+32 regular quires of 8 (256 folios) and one of six (quire 7): 262 folios.  
+
+==== Missing folios  ====
+
+None.
+
+==== Added folios ====
+
+A quire of eight leaves was inserted after the first leaf of quire 8 (folio 55), containing TG: these are numbered 55a1 through 55a8 in our numbering. A single folio (262a) was added at the end of the last quire, containing the end of RT, and apparently replacing a tipped-in singleton with the same text.
+
+====  Notes  ====
+
+Note that L20 begins " [exp]et[/exp] incipit P[exp]ro[/exp]logus Cl[exp]er[/exp]ici Oxon[exp]oniensis[/exp]", but actually introduces the Franklin and his tale.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)|New CT foliation|
+|1-55 |1-55|
+|56-63| 55a1-55a8|
+|64-270| 56-262|
+|271|262a|

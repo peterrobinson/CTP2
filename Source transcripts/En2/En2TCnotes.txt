@@ -1,0 +1,72 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library, Egerton MS 2863. En2.
+
+==== Original construction  ====
+
+37 regular quires of 8: 296 folios.
+
+==== Missing folios  ====
+
+The whole of quire 1 (folios 1-8);  the first four leaves of quire 2 (folios 9-12); the two inner bifolia 3.6, 4.5 of quire 3 (folios 19-22); the last leaf of quire 4 (folio 32); the second leaf of quire 6 (folio 42);  leaves 4 and 8  of quire 7 (folios 52 and 56); the first two leaves of quire 8 (folios 57 and 58); the last leaf of quire 9 (folio 72); the last two leaves of quire 10 (folios 79 and 80) ; leaf 7  of quire 11 (folio 87); the last leaf of quire 12 (folio 96); leaves 4 and 7 of quire 14 (folios 108 and 111); the two outer bifolia 1.8, 2.7 and leaf 6  of quire 15 (folios 113-114, 118-120); the outer bifolium 1.8 and the second leaf of quire 16 (folios 121-122 and 128); leaf 5 of quire 17 (folio 133); leaf 6 of quire 18 (folio 142); the first leaf (folio 145) and the second bifolium 2.7 of quire 19 (folios 145-146 and 151); leaves 5, 6 and 8 of quire 20 (folios 157, 158 and 160); leaf 4 of quire 21 (folio 164); leaves 5 and 6 of quire 22 (folios 173 and 174); leaves 2 and 8 of quire 23 (folios 178 and and 184); the second bifolium 2.7 and leaves 5, 6 and 8 of quire 24 (folios 186 and 189-192); leaves 1, 2, 3, and 5 of quire 25 (folios 193, 194, 195 and 197); leaves 2, 4 (wrongly, 206 DWM) and 8  of quire 26 (folios 202, 204 and 208); leaves 3 and 6 of quire 27 (folios 211 and 214); the last leaf of quire 28 (folio 224); the first three leaves of quire 30 (folios 233, 234 and 235); the third bifolium 3.6 of quire 31 (folios 243.246); leaves 2 and 6 of quire 32 (folios 250 and 254); leaves 3 and 8 of quire 33 (folios 259 and 264); the second leaf of quire 34 (folio 266); the second leaf of quire 36 (folio 282); the inner two bifolia 3.6, 4.5 and last two leaves of quire 37 (folios 291-296).
+
+==== Added folios ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP and KT 1-50 (folios 1-12); KT 507-810 (folios 19-22); KT 507-810 (folios 19-22); 1493-1568 (folio 32); L1 7-end, MI 1-5 (folio 42); L2 20-end, RE 1-30 (folio 52); RE 258-end, L3, CO 1-41 (folios 56-58); L7 73-end, ML 1-48 (folio 72); ML 488-639 (folios 79 and 80); L8 20-end, SQ 1-66 (folio 87); L20 10-end, ME 1-48 (folio 96); ME 891-966 (folio 108); ME 1120-end, WBP 1-20 (folio 111); WBP 97-248 (folios 113 and 114); WBP 478-WBT 856 (folios 118-122); WBT 1236-end, L10, FR 1-35 (folio 128); FR 343-end, L11, SU 1-6 (folio 133); CL 28-102 (folio 142); CL 255-406 (folios 145 and 146); CL 711-786 (folio 151); CL 1167-end; L13 L14 L15 L17 (?) FK 1-94 (folios 157 and 158); FK 171-246 (folio 160); FK 477-558 (folio 164); NU 261-426 (folios 173 and 174); L33 101-end, CY 1-8 (folio 178); CY 389-464 (folio 184); CY 541-616 (folio 186); L34 5-end, PH, L21 (?), PD 1-188 (folios 189-195); PD 265-342 (folio 197); SH 2-73 (folio 202); SH 149-224 (folio 204); L24 17-end, PR 1-72 (folio 208); PR 225-end, L25, TT 1-38 (folio 211); TT 199-end, L28, TM 1-10 (folio 214); TM 393-432 (folio 224); TM 846-end, L29, MO 1-16 (folios 233-235); MO 462-537 (folio 243); L30 4-end, NP 1-27 (folio 246); NP 264-339 (folio 250); NP  568-end, MA 1-15 (folio 254); L37 60-end, PA 1-25 (folio 259); PA 154-184 (folio 264); PA 218-245 (folio 266); PA 6467-670 (folio 282); PA 864-end; RT (folios 291 ff.)
+
+====  Notes  ====
+
+Paul Thomas (private note) suggests that 3 folios, not 1, are missing after 253v, thus presuming that the original had links 31 and 36.  This would require that quire 32 was originally a quire of 10, which would have been the only quire of 10 in the manuscript (the missing folios in this would be 2, 6, 7, 8, all single leaves, with the existing folios 255 and 256 as leaves 9 and 10). Unless examination of the manuscript suggests evidence of a quire of 10, it is more likely that the original did not contain links 31 and 36, with NP followed directly by MA.  A single folio could contain 75 lines missing at ene of NP/start of MA.  On the other hand, the c. 120 lines of links 31 (16 lines) and 36 (104 lines), with the 75 lines missing at end NP/start MA, would be insufficient to fill three folios. 
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)|New CT foliation|
+|1-6 |13-18|
+|7-15 |23-31|
+|16-24|  33-41|
+|25-33|  43-51|
+|34-36| 53-55|
+|37-49| 59-71|
+|50-55 |73-78|
+|56-61| 81-86|
+|62-69| 88-95|
+|70-80| 97-107|
+|81-82 |109-110|
+|83 |112|
+|84-86| 115-117|
+|87-91 |123-127|
+|92-95  |    129-132|
+|96-103 |134-141|
+|104-105 |143-144|
+|106-109 |147-150|
+|110-114| 152-156|
+|115 |159|
+|116-118| 161-163|
+|119-126| 165-172|
+|127-129 |175-177|
+|130-134| 179-183|
+|135| 185|
+|136-137| 187-188|
+|138 |196|
+|139-142| 198-201|
+|143 |203|
+|144-146| 205-207|
+|147-148 |209-210|
+|149-150 |212-213|
+|151-159| 215-223|
+|160-167 |225-232|
+|168-174| 236-242|
+|175-176 |244-245|
+|177-179| 247-249|
+|180-182 |251-253|
+|183-186 |255-258|
+|187-190 |260-263|
+|191 |265|
+|192-206 |267-281|
+|207-214 |283-290|
+
+

@@ -1,0 +1,21 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library, Egerton MS 2864. Mosser: En3.
+
+==== Original construction  ====
+
+Irregular. 26 quires containing mostly half-sheet singletons sewn together into quires containing from 2 to 18 folios: 341 folios in total.  
+
+==== Missing folios  ====
+
+None.
+
+==== Added folios ====
+
+None.
+
+====  Notes  ====
+
+DWM suggests the last folio, currently holding two leaves, was originally a quire of 4; he numbers the second last folio as '240', correctly '340'.
+Folios 98 and 99 are bound in reverse order.
+
