@@ -1,0 +1,32 @@
+==== Manuscript name and Mosser link  ====
+
+London,  British Library Harley MS 7333. Mosser: Ha3.
+
+==== Original construction  ====
+
+32 quires of 8: 256 folios.
+
+==== Missing folios  ====
+
+Quire 14, folios 105-112.
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+ME 875-end (c. 300 lines; ? WBP, WBT, c. 1230 lines; L10 c. 36 lines: 
+FR 1-76, a total of c. 1630 lines -- the eight folios would carry around 1632 lines, at 51 lines a column, 102 a page, 204 a folio). The last leaf containing text of the Tales, folio 158r, ends with PA 179, the verso is blank, and is followed by a stub (folio 159), and then a blank folio (160) before the Confessio Amantis beginning the 21st quire.
+
+==== Notes  ====
+
+The manuscript is composed, according to Mosser, of six booklets, with the Tales occupying most of the third booklet, starting on the fifth leaf of the ninth quire, and hence on folio 69 in our reconstructed foliation. The Tales continues to the sixth leaf of the twentieth quire, thus folio 158 in our foliation (Mosser: folios 37 to 118).
+
+On MO 150r: lines 681-768 are inserted between lines 376 and 377, and then repeated at the end of the text.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|37-72 |69-104|
+|73-118  |113-158|

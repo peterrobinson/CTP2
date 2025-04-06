@@ -1,0 +1,28 @@
+==== Manuscript name and Mosser link  ====
+
+Cambridge, Cambridge University Library, MS Gg.4.27. Mosser: Gg.
+
+==== Original construction  ====
+
+Reconstruction of the original state of this manuscript is complicated  by irregularities in its original state and by considerable loss of leaves, many apparently deliberately removed for the pilgrim illustrations they held.  According to the collations of Bradshaw and Parkes and Beadle, followed by Mosser, the manuscript originally had 37 quires of 12 (444 folios), with one quire of 16, three quires of 14, and two quires of 8 (74 folios), with one folio cancelled: 517 folios. 
+
+==== Missing folios  ====
+
+There has been loss of folios as follows: the outermost sheet (folios 1.12) and leaves 2 to 4 from quire 1; the first leaf from quire 2 (folio 13); leaves 4 and 5 from quire 3 (folios 28 and 29); leaf 6 from quire 5 (folio 54); leaves 8 and 9 from quire 7 (folios 80 and 81), the last leaf from quire 9 (folio 102); leaves 7, 8 and 9 (folios 127-129) and the two additional folios added after 129 in quire 11; leaves 8, 9 and 10 from quire 12 (folios 142-144); leaves 3 and 11 from quire 16 (folios 185 and 193); the first leaf from quire 17 (folio 195); leaf 5 from quire 18 (folio 211); leaf 10 from quire 19 (folio 228); leaves 3, 4 and 12 from quire 20 (folios 233, 234 and 242); the first leaf from quire 21 (folio 243); leaf 6 from quire 22 (folio 260); leaf 10 from quire 23 (folio 276); leaves 7 and 8 from quire 24 (folios 285 and 286); leaves 8-11, 13 and 14 from quire 25 (folios 298-301, 303 and 304); leaves 7 and 12 from quire 26 (folios 313 and 318); the first two leaves and leaves 7 and 8 from quire 27 (folios 319, 320, 325 and 326); leaf 8 from quire 29 (folio 350); leaves 9 and 10 from quire 30 (folios 363 and 364); leaves 4 and 6 from quire 31 (folios 372 and 374); the first leaf from quire 32 (folio 383); leaves 5, 6 and 11 from quire 33 (folios 399, 400 and 405); leaves 4 and 10 from quire 34 (folios 412 and 418); leaves 5, 8 and 9 from quire 35 (folios 425, 428, 429; two blanks after 430 are not included in the collation); the second leaf from quire 37 (folio 444); leaf 7 from quire 39 (folio 469); the last leaf from quire 41 (folio 494, cancelled); and leaves 8 and 12 from quire 43 (folios 513 and 517).
+
+==== Added folios  ====
+
+Two folios were added to quire 11, after folio 129. These have now been lost. They are counted in our foliation, as folios 130 and 131, to maintain agreement with the foliation of Mosser, Parkes and Beadle.
+
+==== Absent text corresponding to the missing folios  ====
+
+Within the Tales (folios 132r-443v) loss of text corresponding to the missing folios is as follows: GP 1-36 on a presumed 131v; GP 757-end, KT 1-106 (folios 142-144); MI 641-end, L2 1-36 (folio 185); CO (folio 193); L7 82-end; ML 1-35 (folio 195); WBP 1-76 (folio 211); L10 (presumed) and FR 1-22 (folio 228); FR 331-end, L11 (presumed), SU 1-38 (folios 233 and 234); SU 576-end, CL 1-112 (folios 242 and 243); L14 8-end, L15 (presumed) and ME 1-20 (folio 260); ME 1161-end, L17 (presumed), SQ 1-16 (folio 276); SQ 607-end, L20 (presumed), FK 1-20 (folios 285 and 286); FK 859-end, PH 1-166 (folios 298-301); PH 243-end, L21 (presumed), PD 1-58 (folios 303 and 304); SH 1-62 (folio 313); SH 373-end., L24 (presumed), PR 1-105 (folios 318 -320); TT 194-end, L28 (presumed), TM 1-16 (folios 325 and 326); TM 890-end, L29 1-30 (folio 350); MO 731-end, L30 (presumed), NP 1-38 (folios 363 and 364); NP 571-end, NU 1-14 (folio 372); NU 85-140 (folio 374); L33 153-end, CY 1-38 (folio 383); L37 25 -end, PA 1-30 (folios 399 and 400); PA 153-177 (folio 405); PA 311-330 (folio 412); PA 447-464 (folio 418); PA 603-614 (folio 425); PA 663-700 (folios 428 and 429).
+
+==== Notes  ====
+
+In this collation, the Tales begins in the irregular quire 11, with GP 37 at the top of 132r.  According to Bradshaw's reconstruction, followed by Parkes and Beadle and Mosser, the Tales originally began on the verso of a second inserted singleton, folio 131, with the recto of this folio and the verso of the preceding inserted singleton (130) occupied by images: both added singleton pages are now lost.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+Our numbering agrees with that of DWM.
+

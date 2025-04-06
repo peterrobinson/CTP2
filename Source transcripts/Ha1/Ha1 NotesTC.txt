@@ -1,0 +1,32 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library Harley MS 1239. Mosser: Ha1.
+
+==== Original construction  ====
+
+Fourteen regular quires of eight: 112 folios.  
+
+==== Missing folios  ====
+
+Folios 4 and 5 are missing from quire 1; folio 88 from quire 11; the bifolium 107.110 from quire 14.  
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+ML 677-800 (folio 88; a blank folio is bound in its place); FK 415-533 (folio 107); FK 745-846 (folio 110).
+
+==== Notes  ====
+
+The manuscript begins with a full text of Troilus and Criseyde, folios 1r-64v.  The Knight's Tale begins a new quire on 65r (commencing at KT 35), and is followed with another four of the Canterbury Tales.  ML starts on 82v (=80v; not 88r as DWM asserts); WBT on 91r (DWM 88r); CL (with L13 following) on 94r; FK on 104r at line 81.  A six-line passage is inserted between the end of CL and line 81 of FK, by way of introducing FK.
+
+Note the absence of some linking text:  KT begins at 35; L7 is missing; WBT and not WBP; CL begins at 57.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|63-85|65-87|
+|86-103|89-106|
+|104|108|

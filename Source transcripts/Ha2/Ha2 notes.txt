@@ -1,0 +1,135 @@
+Ha2 originally had 29 quires of eight (232 folios) and a quire of fourteen (quire 24), hence 246 folios.  The second leaf (folio 10) is missing from quire 2; the third leaf (folio 35) from quire 5; the last folio (folio 48) from quire 6; the last two leaves (folios 79 and 80) from quire 10; the inner three bifolia (154.159, 155.158 and 156.157) from quire 20; the innermost bifolium (172.173) from quire 22; the fifth leaf (folio 181) from quire 23; the twelfth leaf (folio 196) from quire 24; and the last two leaves (folios 245 and 246) from quire 30.  Additional leaves are inserted after the fifth leaf of quire 15, numbered as folio 117a, and after the seventh leaf of quire 26, numbered as folio 213a.  
+
+ Text is absent corresponding to the missing folios for GP 845-end, KT 1-?? (folio 10 -- check); L1 48-76, MI 1-64 (folio 35, missing image); L3 22-end, CO, start TG? (folio 48 -- check); SQ ? end approx 30 lines? (folios 79-80; does not appear to be sufficient text missing to fill two folios); CY 468?-end (c. 400 lines), PH 1-225? (c. 420 lines; top much for 6 sides?); L28(?) TM 1-25 (folio 181; insufficient text for a whole folio? with L28, 48 lines, perfect)
+ The leaf added after 117 (117a in our numbering; traditional 113) is a puzzle.  117v finishes with SU 526, leaving around 60 lines of SU: somewhat more than would fit on a single sheet.  118r starts with the beginning of CL.  It appears the scribe skipped from SU 526 straight to CL 1 (as if SU finished at 526); realized his mistake, and repaired it by adding a single leaf (117a) holding the end of SU after 117v. Mosser appears to contradict himself on this: at one point declaring that the text on the added leaf, the last sixty lines of SU from 527, has been added in a "later fifteenth-century hand" ("Progress of copying", following MR I 200); elsewhere he asserts, against Manly and Rickert, that this is the hand of the main scribe ("Hands"). Linne Mooney also argues for the identity of the hand of this leaf with that of the main scribe (Mooney, Linne R. “A New Scribe of Chaucer and Gower.” The Journal of the Early Book Society 7 (2004): 131-40). Following Manly and Rickert, Mosser also associates the addition of this leaf with the absence of the end of SU from "D" manuscripts of the Tales (thus Fi Hk Ph3 Pw Ra2 Ry2 Sl1). However, those mss omit from line 451, not line 527. MR seem to suggest a change of hand at 452, on folio 117r; there is clearly no change of hand between 451 and 452 (though they may be right, that the exemplar for SU 452-end might be different from SU to 451, I 202).
+ 	Perhaps the simplest explanation of the additional leaf is that the start of CL might have been written before SU, starting on the sixth leaf of quire 15, with insufficient space left in the first leaves of the quire for SU, necessitating the insertion of an extra leaf. The leaf added after 213 (213a in our numbering; traditional 200) may have a similar explanation. In this case, the scribe might have begun MA on 214v (the last verso of the quire), leaving space for L36 (and, perhaps, the end of NP) before it: then realized there was not enough space for the lengthy L36 and so added the extra leaf (thus, Mosser).
+   There is a further puzzle in quire 22. Both Mosser and Manly and Rickert assert that the innermost bifolium, leaves 4.5 following 171, is absent.  But there is no loss of text (the last line of 171v is SH 328; the first line of the next folio is SH 329).  Why could this not be a quire of 6, and not a quire of 8 missing its innermost bifolium? This foliation follows Mosser, thus skipping from 171 to 174.
+   Quire 24, folios 185-198, is a composite quire, originally a quire of four surrounding consecutive quires of four and six.  The outer quire of four is composed of two bifolia (185.198, 186.197). This outer quire is gathered around an inner quire of four (two bifolia 187.190, 188.189) followed by a second inner quire of six (three bifolia 191.[196], 192.195, 193.194). The conjoint of the first leaf in this second inner quire of six (which would have been folio 196, the last leaf in this second inner quire and the twelfth leaf in the composite quire) is missing. It appears this folio was blank: the preceding leaf (195) holds the end of Melibee on its recto, with the bottom two-thirds of the leaf cut away and the verso blank. L29 begins on the next leaf, folio 197 in this numbering.
+ 
+Images:
+ALL IMAGES MISSING FROM ORIGINAL CD -- need rescanning
+1r, should be 3b, missing (or: 3b shows as blank, apparently duplicating 3a)
+1v/2r  -- = 4a/4b -- 
+2v/3r missing
+3v/4r -- 4v/5r = 5a/5b -- 6a/6b
+5v-6r missing
+6v/7r = 7a/7b
+7v/8r missing
+8v/9r = 8a/ab [catchword present]
+9v/11r missing (fol 10 lost from ms)
+11v/12r:  9a/9b
+12v/13r =  missing
+13v/14r = 10a/b
+14v/15r missing
+15v/16r = 11a/b 
+16v/17r = missing
+17v/18r = 12a/b
+18v/19r missing
+19v/20r = 13a/b
+20v/21r missing
+21v/22r  = 14ab
+22v/23r missing
+23v/24r = 15av
+24v/25r missing
+25v/26r = 16ab
+26v/27r missing
+27v/28r = 17ab
+28v/29r missing
+29v/30r = 18ab
+30v/31r missing
+31v/32r = 19ab
+32v/33r missing
+33v/34r = 20ab
+34v/36r missing (fol 35 lost from ms)
+36v/37r = 21ab
+37v/38r missing 
+38v/39r = 22ab
+39v/40r missing 
+40v/41r = 23ab (catchword present)
+41v/42r missing 
+42v/43r = 24ab 
+43v/44r missing 
+44v/45r = 25ab 
+45v/46r missing 
+46v/47r = 26ab 
+47v/49r missing (fol 48 lost from ms)
+49v/50r = 27ab 
+50v/51r missing 
+51v/52r = 28ab 
+52v/53r missing 
+53v/54r = 29ab 
+54v/55r missing 
+55v/56r = 30ab 
+56v/57r missing 
+57v/58r -- 59v/60r = 31ab -- 33ab
+60v/61r missing
+61v/62r - 65v/66r = 34ab -- 38ab 
+66v/67r missing
+67v/68r--76v/77r  = 39a-48ab
+77v-78r missing
+78v-[] missing (49a blank) (fols 79 and 80 lost from ms)
+[]/81r = 49b
+81v-82r missing
+82v/83r = 50ab
+83v/84r missing
+84v/85r -- 86v/87r = 51ab - 53ab
+87v-88r missing
+88v/89r -- 89v/90r = 54ab -- 55ab
+90v/91r missing
+91v/92r = 56ab
+92v/93r missing
+93v/94r = 57ab
+94v/95r missing
+95v/96r = 58ab
+96v/97r missing
+97v/98r = 59ab
+98v/99r missing
+99v/100r = 60ab
+100v/101r missing
+101v/102r -102v/103r = 61ab-62ab
+103v-104r missing
+104v/105r- 110v/111r = 63ab-69ab
+111v-112r missing
+112v/113r -- 117v/117ar = 70ab - 75ab
+117av/118r -- 124v/125r = 76ab - 83ab
+125v-126r missing
+126v/127r -- 152v/153r = 84ab -- 110ab
+153v/160r missing
+160V/161r-165v/166r - =111ab-116ab
+166v/167r missing
+167v/168r - 170v/171r = 117ab - 120ab
+171v/174r = 121ab
+174v/175r - 179v/180r = 122ab -127ab
+180v/182r missing (folio 181 absent from ms)
+182v/183r - 187v/188r = 128ab-133ab
+134ab duplicates 133ab
+188v/189r - 194v/195r = 135ab-141ab
+195v/197r -  = 142ab
+197v/198r-213v/213ar = 143ab-159ab
+213av/214r = 160ab
+214v/215r - 244v/245r = 161ab-191ab 
+
+Correspondence
+them us
+1-9 1-9
+10-33  11-34
+34-45 36-47
+46-75 49-78
+76-112 81-117
+113 117ab
+114-149 118-153
+150-161 160-171
+162-168  174-180
+169-182 182-195
+183-199 197-213
+200 213a
+201-232 214-245
+
+Tale order
+GP KT L1 MI L2 RE L3 TG L7 ML L8 SQ L20 ME WBP WBT L10 FR L11 SU CL L13 L14 L17 FK NU L33 CY PH L21 PD L23 SH L24 PR L25 TT TM L29 MO L30 NP L36 MA L37 PA
+Supplied: KT L2 RE TG L7 ML L8 SQ WBT L10 FR L11 SU CL (from 469) NU L33 CY PH L21 L23 L29 L36 MA L37 PA RT
+Sheffield: L13 L14 L17 FK
+Munster PD
+
+array set exBase {KT 0 L2 0 RE 0 TG 0 L7 0 ML 0 L8 0 SQ 0 WBT 0 L10 0 FR 0 L11 0 SU 0 CL 0 NU 0 L33 0 CY 0 PH 0 L21 0 L23 0 L29 0 L36 0 MA 0 L37 0 PA 0 RT 0}
+array set pagedBase {FK 0}

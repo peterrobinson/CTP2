@@ -1,0 +1,73 @@
+<?xml version="1.0" ?> 
+<!DOCTYPE TEI SYSTEM "../common/TEI-transcr-TC.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ 	<teiHeader>
+ 		<fileDesc>
+ 			<titleStmt>
+ 				<title>The Gg Manuscript of the Canterbury Tales</title>
+				<respStmt>
+					<name>Peter Robinson and Barbara Bordalejo</name>
+					<resp>Textual editing and encoding</resp>
+				</respStmt>
+ 			</titleStmt>
+ 			<publicationStmt>
+ 				<publisher>Textual Communities and the Canterbury Tales Project, University of Saskatchewan</publisher>
+ 				<pubPlace>Saskatoon</pubPlace>
+ 				<date>2014</date>
+ 				<availability>
+ 					<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+ 					<p>Creative Commons Attribution Share-Alike Unported.</p>
+ 					<p>All republication of all or any part of this transcript must credit its creators and all who have contributed to it, as listed in the sourceDesc element, and make available free-to-all any work derived from this resource under the same license.</p>
+ 					<p>Commercial republication is permitted, in accordance with these terms.</p>
+ 					</licence>
+ 				</availability>
+ 			</publicationStmt>
+ 			<sourceDesc>
+ 				<bibl type="summary">
+ 					<respStmt>
+ 						<name>F.J. Furnivall and the Chaucer Society</name>
+ 						<resp>1868, original transcription</resp>
+ 					</respStmt>
+ 					<respStmt>
+ 						<name>University of Michigan</name>
+ 						<resp>2000, capture as electronic text and SGML encoding</resp>
+ 					</respStmt>
+ 					<respStmt>
+ 						<name>Peter Robinson and Barbara Bordalejo, University of Saskatchewan</name>
+ 						<resp>2011-2013, conversion to XML and corrections</resp>
+ 					</respStmt>
+ 				</bibl>
+ 				<bibl>
+						<editor>F. J. Furnivall</editor>
+						<title>The Cambridge Manuscript (Cambridge Univ. Library, Gg.4.27) of Chaucer's Canterbury Tales</title>
+						<sponsor>The Chaucer Society</sponsor>
+						<publisher>N. Trübner &amp; Co.</publisher>
+						<pubPlace>60, Paternoster Row, London</pubPlace>
+						<date>1868</date>
+						<note>This text was originally captured in SGML by the University of Michigan (dated, 7 November 2000).  We are grateful to Paul Schaffner for making these transcripts available to us, and for his assistance.</note>
+ 				  </bibl>
+ 				   <msDesc>
+ 				  	<msIdentifier>
+ 				  	 <settlement>Cambridge</settlement>
+  					<repository>Cambridge University Library</repository>
+  					<idno> MS Gg.4.27</idno>
+  					<msName>The Gg Manuscript</msName>
+  					</msIdentifier>
+ 				  </msDesc>
+ 			</sourceDesc>
+ 		</fileDesc>
+ 		<encodingDesc>
+   			<refsDecl>
+   				<p>Encoded in 'P5' Text Encoding Initiative XML, optimized for input into the Textual Communities Project.</p>
+ 	 		</refsDecl>
+ 		</encodingDesc>
+ 	</teiHeader>
+ 		<text>
+		<body>
+<pb n="132r" facs="Gg-132r.jpg"/>
+<lb/><div n="GP" type="G">
+<lb/><l n="72">He was a weray perfit gentil knyȝt</l>
+<pb n="132v" facs="Gg-132v.jpg"/>
+<lb/><l n="111">Vp on his arm he bar a gay braser</l>
+<pb n="133r" facs="Gg-132v.jpg"/>
+</div></body></text></TEI>

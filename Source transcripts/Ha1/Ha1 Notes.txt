@@ -1,0 +1,25 @@
+Ha1 Notes
+Ha1 was originally fourteen regular quires of eight, thus 112 folios.  Folios 4 and 5 are missing from quire 1; folio 88 from quire 11; the bifolium 107.110 from quire 14.  The manuscript begins with a full text of Troilus and Criseyde, folios 1r-64v.  The Knight's Tale begins a new quire on 65r (commencing at KT 35), and is followed with another four of the Canterbury Tales.  ML starts on 82v (=80v; not 88r as DWM asserts); WBT on 91r (DWM 88r); CL (with L13 following) on 94r; FK on 104r at line 81.  A six-line passage is inserted between the end of CL and line 81 of FK, by way of introducing FK.
+
+Corresponding loss of text is as follows: ML 677-800 (folio 88; a blank folio is bound in its place); FK 415-533 (folio 107); FK 745-846 (folio 110)
+
+Note: links NOT included in ms: thus KT begins at 35; L7 is missing; WBT and not WBP; CL begins at 57.
+
+Supplied: KT ML WBT CL
+Sheffield: L13 FK
+
+Images:
+65r = 566r
+65v/66r -- 87v/[] =567 -- 589
+[]/89r -- 90v-91r = 590 -- 592
+593 duplicates 592
+91v/92r -- 106v/[] = 594 -- 609
+[]/108r -- 109v/[] = 610 -- 611
+[]/111r -- 111v/[] = 612 -- 613
+
+
+
+Correspondences:
+DWM 63-- 85  = 65--87
+DWM 86--103 = 89--106
+DWM 104-- = 108 -- 

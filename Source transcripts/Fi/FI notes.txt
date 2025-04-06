@@ -1,0 +1,48 @@
+Fi notes
+The complete manuscript had  34 quires of 8 (272 folios) and five quires of 6 (30 folios). Additional folios are pasted in to three of the quires of six: before the first folio of  quire 17 (after 128, the last of quire 16), after the 5th folio of quire 27 (folio 211), and the fifth folio of quire 31 (folio 239).  These are labelled 128a, 211a and 239a  in this foliation.  
+
+Note that these additional leaves were added in the initial writing of the manuscript. Thus the additional leaf pasted at the beginning of quire 17 (folio 128a) is glued to the verso of the last folio of the quire: that is, to the verso of the congugate of the following leaf, and then folded around the spine in order to appear before the following leaf. Both of the other additional leaves, 211a and 239a, appear after the fifth leaf in each quire of six, but are similarly glued to the recto of the first bifolium of the preceding sheet (that is, to the recto of the second folio in the quire), and then folded around the spine in order to appear after the conjugate of the second folio (that is, after the fifth folio of the quire).  This can only have occurred while the manuscript was still in loose sheets, before it was bound.  In all three folios too, the text is written continuously across the added folios, as part of the same initial copying. It appears the scribe realized that in each of these quires there was less text than was needed for a quire of eight, but too much for a quire of six, and so in each case he created a quire of seven.  This suggests that exemplars may have arrived piece-meal during the copying. This explains quire 27 well, where SH (with L23) fits neatly into the expanded quire, with the PR headlink beginning in the last lines of the last verso of the quire.  But it does not explain either quires 17 or 31, in each of which the additional folio is actually blank on the verso, with the blank page coinciding with a tale break, occurring between FK and WBP in quire 17, and between TM and L29 in 31.  In these cases, one would have thought that the scribe could have avoided the need for an extra folio simply by abridging the text, a practice he employs (almost, to extreme) throughout the verse of the manuscript -- for example, omitting the last twenty lines of L29 to fit the link into a single folio (240), or contracting the 100 plus lines of L36 to just 8 lines, to fit at the base of folio 260r.  However, the hypothesis of discontinuous arrival of copy is supported by other evidence: notably the whole blank folio following SU (158), and the blank verso (within a quire) following SQ (102v).
+
+
+The first folio of the manuscript has been cancelled, without loss of text. GP begins on 2r.
+
+Correspondence:
+Traditional Us
+1-128
+129 128a
+130-212 129-211
+213 211a
+214-241 212-239
+242 239a
+243-305 240-302
+
+Images for PA: NOT available (270 on)DONE 
+redo 276r? 279v
+
+Supplied:
+KT L2 RE L7 ML L8 SQ WBT L10 FR L11 SU NU L33 CY PH L21 PA RT
+Sheffield: FK
+Munster: PD
+TG: omitted for now 
+Images:
+2r/2v - 49v/50r=2b/3a- 50a/50b
+51a and 51b duplicate 50a and 50b
+50v/51r - 128v/128ar  = 52a/52b - 130a/130b
+128av/129r = 131a/131b 
+our 134a = DWM 135
+from 129r: our 129 = DWM 130
+129v/130r - 211v/211ar = 132a/132b - 214a/214b
+211av/212r = 215a/215b
+from 212r: our 212 = DWM 214
+212v/213r -   = 216a/216b
+213v/214r - 239v/239av = 217a/217b - 243a/243b
+239ar/240r = 244a/244b
+240v/241r- = 245a/245b
+from 240r: our 240 = DWM 243
+image 103a (101v) is missing
+102v is blank (after SQ), as is 129v (after FK), and 158r/158v (after SU), and 239av (after TM)
+Order:
+GP KT L1 MI L2 RE L3 CO TG L7 ML L8 SQ L20 ME L17 FK WBP WBT L10 FR L11 SU CL L13 NU L33 CY L34 PH L21 PD L23 SH L24 PR L25 TT L28 TM L29 MO L30 NP L36 MA L37 PA RT
+
+array set exBase {KT 0 L2 0 RE 0 L7 0 ML 0 L8 0 SQ 0  WBT 0 L10 0 FR 0 L11 0 SU 0 NU 0 L33 0 CY 0 L34 0 PH 0 L21 0 L23 0 L36 0 MA 0 PA 0 RT 0}
+array set pagedBase {FK 0}

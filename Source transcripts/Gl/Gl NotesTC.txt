@@ -1,0 +1,113 @@
+==== Manuscript name and Mosser link  ====
+
+Glasgow, University of Glasgow, Hunterian Museum MS 197. Mosser: Gl.
+
+==== Original construction  ====
+
+15 quires of 8 (120 folios), followed by a quire of 6, then quires of 2 and 3; 131 folios.
+
+==== Missing folios  ====
+
+The first folio and the second sheet (folios 2.7) are missing from the first quire; the innermost two sheets (folios 27.30, 28.29) from quire 4 (thus MR I 183; DWM does not note these missing folios, giving this as a quire of 4); leaves 2 and 3 (folios 42 and 43) from quire 6; the original last leaf (folio 112) from quire 14; the original last leaf (folio 126) from quire 16. 
+
+==== Added folios  ====
+
+None.
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 1-354 (folios 1-2); KT 195-372 (folio 7); TG 145-862 (folios 27-30); ML 257-670 (folios 42 and 43; note that this text, amounting to 413 lines, is more than would normally be accommodated in two folios of Gl: usually, 43 lines a col, 4 cols a folio, 2 folios = 344 lines; however later folios of ML have c. 50 lines a column). There appears to have been no text on the missing folio 112, which would have been the last folio of quire 14: PA (with RT) finishes on 111v, and 113r commences with CL.  Similarly, the missing 126 (the last folio of a regular quire of 6) may be presumed blank, with CY finishing on 125r and the verso blank.
+
+==== Notes  ====
+
+Gl is remarkable for the evidence it provides of a partnership of two scribes (Geoffrey Spirling and his son Thomas, of Norwich, in 1476) creating a single copy of the Tales from two distinct exemplars, as they were available to them.  The irregularities in the copying of the manuscript reflect their attempts to combine disparate materials, available at different times, into a single copy.
+
+The first leaf of quire 15 (folio 113) is now bound with quire 14, in place of the missing folio 112 from that quire, and its conjugate folio 120, the original last leaf of the quire, is now bound at the beginning of quire 16. The first folio of quire 17 (folio 127) is now bound with quire 16, in place of the missing folio 126 from that quire, with the one remaining folio of quire 17 (folio 128) now bound with the three folios of original quire 18 (folios 129-131, carrying St Patrick's Purgatory) into a single quire. Folio 46 was at one point bound before quire 3, and carries the number '14' from a foliation then carried out.
+
+Mosser gives quire 15 as a quire of 6: Quire [15]6.  More correctly, it is a quire of 8 which has lost its first and last leaves, thus [15]8 (-1, -8): the first leaf (folio 113, Mosser 103) being appended to quire 14, and its conjugate folio 120 (Mosser 110) being prefixed to quire 16. Thus, the description with Mosser's foliation and our foliation should read:
+
+[15]8 (-1, -8) fols. 104-109  (folios 114-119 in our foliation)
+
+The changes noted in the last paragraphs are part of a complex rearrangeement of the last five quires of the manuscript (quires 14-18). The original first folio of Q 15, 113 in our numbering/103 in Mosser, is actually bound after the last folio of Q 14 (apparently in place of the missing, and presumably blank, folio 112), and removed from quire 15.  The removal of this folio left its conjugate, 110 in Mosser, 120 in our numbering, as a singleton at the end of Q 15.  This folio was then prefixed to Q16.  The first folio of Q17, folio 127 in our numbering, was then added at the end of Quire 16, again apparently in place of a missing and presumably blank folio, 126.  Hence: quire 15 has lost a folio at its beginning (113, moved to the end of quire 14), and another folio at its end (120, moved to the start of quire 16), while quire 16  now has an extra folio at the beginning (our folio 120), and one at the end, folio 127. Thus, there is no catchword on what is now the last folio of quire 14 (folio 113, originally the first folio of quire 15), no catchword on what is now the last folio of quire 15 (folio 119, originally the second last folio of the quire), a catchword on the first folio of quire 16 (folio 120, originally the last folio of quire 15), and no catchword on what is now the last folio of quire 16 (folio 127, originally the first folio of quire 17).   
+
+One may express the altered quiring as follows.  Asterisks* mark the presence of a catchword, [] folios now missing:
+
+Putative original, before adjustment and loss of leaves:
+Quire 14: 105-[112] (DWM: 96-[102+])
+Quire 15: 113-120*  (DWM: 103-110*)
+Quire 16: 121-[126] (DWM: 111-[115+])
+Quire 17: 127-128 (verso blank; no catchword) (DWM: 116-117)
+Quire 18: 129-131 (DWM 118-120)
+
+After adjustment:
+Quire 14: 105-113 (112 lost) (DWM 96-103)
+Quire 15: 114-119 (DWM 104-109)
+Quire 16: 120*-127 (126 lost) (DWM 110-116)
+[Quire 17: distributed between quires 16 and 18]
+Quire 18: 128-131 (DWM 117-120)
+
+One may reconstruct the events as follows: PA (with RT) concluded on the verso of the second last leaf of quire 14 (folio 111), followed by a blank folio 112.  At this point, it appears that the Spirlings also had a copy of CL, L13, L33 and CY, written on a quire of 8 and a quire of 6: what are now quires 15 and 16,  folios 113-125, with a blank folio, 126, finishing quire 16. They also had a copy of St Patrick's Purgatory, apparently written on a quire of two (now folios 127-128) with three singletons (now folios 129-131). To avoid breaking the flow of text through the appearance of the blank leaves 112 and 126, they:
+
+1. Removed the blank leaf 112 at the end of quire 14,
+2. Moved the first leaf of quire 15 (folio 113), to the end of quire 14, so CL continues the Tales after RT, following a blank half-column at the end of 111v.
+3.  This left the last leaf of quire 15, folio 120, as a singleton. They prefixed this leaf to the beginning of quire 16.
+4. They removed the last, blank, leaf of quire 16 (folio 126), and replaced it by the first leaf of quire 17 (folio 127). Thus St Patrick's Purgatory follows CT in the MS after a blank verso, 125v.
+5.   They attached the remaining leaf of quire 17, folio 128, to the three singletons 129-131 to form a final quire of four.
+
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-4 |3-6|
+|5-13 |8-16|
+|15-24 |17-26|
+|25-35 |31-41|
+|36-37 |44-45|
+|14 |46|  
+|38-102 |47-111|
+|103-115|113-125|
+|116-120|127-131|
+
+
+Supplied... KT L2 RE L3 CO L22 SH(GL2) L24(GL2) PR(GL2) L7 ML L8 SQ WBT L10 FR L11 SU NU L36 MA PH PA RT CL L13 (altered order!) L33 CY
+Munster PD
+Sheffield FK
+
+
+
+Folios:
+DWM 1 - 4 = CTP 3-6
+DWM 5-13 = CTP 8-16
+[DWM 14: actually appears as sixth folio of quire 6, our folio 46] 
+DWM 15-24 17-26
+[27-30 missing]
+25-35 = CTP 31-41
+[42, 43 missing]
+DWM 36-37 = CTP 44-45
+DWM 14 = CTP 46
+DWM 38- 102 = CTP 47- 111
+[112 missing]
+DWM 103 -- 115 = CTP 113 -- 125
+[126 missing]
+DWM 116-120  = CTP 127 -- 131.
+
+Images
+3r/3v -- 6r/6v =GLGA010b-11a -- 13b/14a
+(folio 7 missing)
+8r/8v -- 18r/[18v] = 14b/15a -- 24b/[25a]
+****18v-19r (KT 2219-) missing NOT ON THE GLASGOW MF -- check MR
+9v = 25a
+20r/20v -- 26r/26v = 25b/26a -- 31b/32a
+ (folios 27-30 missing)
+31r/31v - 41r/41v  = 32b/33a- 42b/43a
+(folios 42 and 43 missing)
+44r/44v -- 111r/111v = 43b/44a - 110b/111a
+(112 missing)
+113r/113v -- 131r/131v = 111b/112a -- 129b/130a
+
+
+Tale order:
+GP KT L1 MI L2 RE L3 CO TG (abbreviated!) L22 SH(Gl2) L24(GL2) PR(GL2) L29 MO L7 ML L8 SQ L20 ME WBP WBT L10 FR L11 SU NU PD L36 MA TT L28 TM L29(GL2) NP PH SH-2 L24-2 PR-2 FK L37 PA CL L13 L33 CY
+
+
+GL images:
+Images numbered 13v and 14r afe for the end of ML and beginning of the squire: ie properly 46 ??? or 42??? (now number 14 and wrongly placed in ms in the middle of the KT)

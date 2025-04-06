@@ -1,0 +1,52 @@
+==== Manuscript name and Mosser link  ====
+
+London, British Library Harley MS 1758. Mosser: Ha2.
+
+==== Original construction  ====
+
+29 quires of eight (232 folios) and a quire of fourteen (quire 24): 246 folios.  
+
+==== Missing folios  ====
+
+The second leaf (folio 10) is missing from quire 2; the third leaf (folio 35) from quire 5; the last folio (folio 48) from quire 6; the last two leaves (folios 79 and 80) from quire 10; the inner three bifolia (154.159, 155.158 and 156.157) from quire 20; the innermost bifolium (172.173) from quire 22; the fifth leaf (folio 181) from quire 23; the twelfth leaf (folio 196) from quire 24; and the last two leaves (folios 245 and 246) from quire 30.  
+
+==== Added folios  ====
+
+After the fifth leaf of quire 15, numbered as folio 117a, and after the seventh leaf of quire 26, numbered as folio 213a.  
+
+==== Absent text corresponding to the missing folios  ====
+
+GP 845-end, KT 1-?? (folio 10 -- check); L1 48-76, MI 1-64 (folio 35, missing image); L3 22-end, CO, start TG? (folio 48 -- check); SQ ? end approx 30 lines? (folios 79-80; does not appear to be sufficient text missing to fill two folios); CY 468?-end (c. 400 lines), PH 1-225? (c. 420 lines; top much for 6 sides?); L28(?) TM 1-25 (folio 181; insufficient text for a whole folio? with L28, 48 lines, perfect).
+
+==== Notes  ====
+
+ The leaf added after 117 (117a in our numbering; traditional 113) is a puzzle.  117v finishes with SU 526, leaving around 60 lines of SU: somewhat more than would fit on a single sheet.  118r starts with the beginning of CL.  It appears the scribe skipped from SU 526 straight to CL 1 (as if SU finished at 526); realized his mistake, and repaired it by adding a single leaf (117a) holding the end of SU after 117v. Mosser appears to contradict himself on this: at one point declaring that the text on the added leaf, the last sixty lines of SU from 527, has been added in a "later fifteenth-century hand" ("Progress of copying", following MR I 200); elsewhere he asserts, against Manly and Rickert, that this is the hand of the main scribe ("Hands"). Linne Mooney also argues for the identity of the hand of this leaf with that of the main scribe (Mooney, Linne R. “A New Scribe of Chaucer and Gower.” The Journal of the Early Book Society 7 (2004): 131-40). Following Manly and Rickert, Mosser also associates the addition of this leaf with the absence of the end of SU from "D" manuscripts of the Tales (thus Fi Hk Ph3 Pw Ra2 Ry2 Sl1). However, those mss omit from line 451, not line 527. MR seem to suggest a change of hand at 452, on folio 117r; there is clearly no change of hand between 451 and 452 (though they may be right, that the exemplar for SU 452-end might be different from SU to 451, I 202).
+ 
+Perhaps the simplest explanation of the additional leaf is that the start of CL might have been written before SU, starting on the sixth leaf of quire 15, with insufficient space left in the first leaves of the quire for SU, necessitating the insertion of an extra leaf. The leaf added after 213 (213a in our numbering; traditional 200) may have a similar explanation. In this case, the scribe might have begun MA on 214v (the last verso of the quire), leaving space for L36 (and, perhaps, the end of NP) before it: then realized there was not enough space for the lengthy L36 and so added the extra leaf (thus, Mosser).
+
+There is a further puzzle in quire 22. Both Mosser and Manly and Rickert assert that the innermost bifolium, leaves 4.5 following 171, is absent.  But there is no loss of text (the last line of 171v is SH 328; the first line of the next folio is SH 329).  Why could this not be a quire of 6, and not a quire of 8 missing its innermost bifolium? This foliation follows Mosser, thus skipping from 171 to 174.
+
+Quire 24, folios 185-198, is a composite quire, originally a quire of four surrounding consecutive quires of four and six.  The outer quire of four is composed of two bifolia (185.198, 186.197). This outer quire is gathered around an inner quire of four (two bifolia 187.190, 188.189) followed by a second inner quire of six (three bifolia 191.[196], 192.195, 193.194). The conjoint of the first leaf in this second inner quire of six (which would have been folio 196, the last leaf in this second inner quire and the twelfth leaf in the composite quire) is missing. It appears this folio was blank: the preceding leaf (195) holds the end of Melibee on its recto, with the bottom two-thirds of the leaf cut away and the verso blank. L29 begins on the next leaf, folio 197 in this numbering.
+ 
+==== Concordance of the traditional foliation (as reported by Mosser) and the new foliation  ====
+
+|Traditional (Mosser)	|New CT foliation |
+|1-9 |1-9|
+|10-33 |11-34|
+|34-45 |36-47|
+|46-75 |49-78|
+|76-112 |81-117|
+|113 |117ab|
+|114-149 |118-153|
+|150-161 |160-171|
+|162-168  |174-180|
+|169-182 |182-195|
+|183-199 |197-213|
+|200 |213a|
+|201-232 |214-245|
+
+
+Munster PD
+
+array set exBase {KT 0 L2 0 RE 0 TG 0 L7 0 ML 0 L8 0 SQ 0 WBT 0 L10 0 FR 0 L11 0 SU 0 CL 0 NU 0 L33 0 CY 0 PH 0 L21 0 L23 0 L29 0 L36 0 MA 0 L37 0 PA 0 RT 0}
+array set pagedBase {FK 0}
